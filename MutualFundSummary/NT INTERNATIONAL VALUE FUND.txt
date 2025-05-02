@@ -1,0 +1,145 @@
+NT INTERNATIONAL VALUE FUND
+<head_breaker>
+
+Fund Summary
+Investment Objective
+The fund seeks long-term capital growth.
+Fees and Expenses
+The following table describes the fees and expenses you may pay if you buy and hold shares of the fund.
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+ 
+Investor
+G1
+Management Fee
+1.28%
+0.93%²
+Distribution and Service (12b-1) Fees
+None
+None
+Other Expenses
+0.01%
+0.01%
+Total Annual Fund Operating Expenses
+1.29%
+0.94%
+Fee Waiver
+None
+0.93%³
+Total Annual Fund Operating Expenses After Fee Waiver
+1.29%
+0.01%
+1 
+Prior to July 31, 2017, this class was referred to as the Institutional Class.
+2 
+The management fee has been restated to reflect the decrease in the management fee schedule effective July 31, 2017.
+3 
+The advisor has agreed to waive the G Class’s management fee in its entirety. The advisor expects this waiver to remain in effect permanently and cannot terminate it without the approval of the Board of Directors.
+Example
+The example below is intended to help you compare the costs of investing in the fund with the costs of investing in other mutual funds. The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods and that you earn a 5% return each year. The example also assumes that the fund’s operating expenses remain the same, except that it reflects the rate and duration of any fee waivers noted in the table above. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+ 
+1 year
+3 years
+5 years
+10 years
+Investor Class
+$132
+$410
+$708
+$1,556
+G Class
+$1
+$3
+$6
+$13
+Portfolio Turnover
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s performance. During the most recent fiscal year, the fund’s portfolio turnover rate was 79% of the average value of its portfolio.
+Principal Investment Strategies
+In selecting stocks for the fund, the portfolio managers will normally invest at least 80% of the value of the fund’s net assets in equity securities and at least 65% of net assets in securities of issuers from a minimum of three countries outside the United States that have characteristics similar to those of the companies that comprise the MSCI EAFE® Value Index. Characteristics the portfolio managers may consider include industry sector and geographic location, among others.
+ 
+The MSCI EAFE Value Index is a market capitalization-weighted index that monitors the performance of value stocks from Europe, Australasia, and the Far East.
+ 
+The managers use quantitative models in a two-step process to construct the portfolio of stocks for the fund. First, the managers rank stocks from most attractive to least attractive based on each stock’s score from a proprietary expected returns model. In the second step, the expected returns model is imported into an optimization process that balances active return and risk versus the MSCI EAFE Value Index. This index is based on rules that identify companies that are undervalued by the market. Generally, companies may be undervalued due to market declines, poor economic conditions, actual or anticipated bad news regarding the issuer or its industry, or because it has been overlooked by the market. The fund’s investment selection process may result in market sectors or industries being over- or underweighted.
+
+#2#
+
+
+The portfolio managers also intend to spread the fund’s holdings across different countries and geographic regions in an effort to manage the risks of an international portfolio. The fund may invest in companies of all market capitalizations, including small-cap companies.
+The portfolio managers generally sell a stock when they believe it has become less attractive relative to other opportunities, its risk characteristics outweigh its return opportunity or specific events alter its prospects.
+The fund is not permitted to invest in securities issued by companies assigned the Global Industry Classification Standard (GICS) or the Bloomberg Industry Classification Standard (BICS) for the tobacco industry. If the issuer of a security purchased by the fund is subsequently found to be classified in the tobacco industry (due to acquisition, merger or otherwise), the fund will sell the security as soon as reasonably possible.
+Principal Risks
+•
+Foreign Risk – Foreign securities are generally riskier than U.S. securities. Political events (such as civil unrest, national elections and imposition of exchange controls), social and economic events (such as labor strikes and rising inflation), and natural disasters occurring in a country where the fund invests could cause the fund’s investments in that country to experience gains or losses. Securities of foreign issuers may be less liquid, more volatile and harder to value than U.S. securities.
+•
+Currency Risk – The fund could experience gains or losses solely on changes in the exchange rate between foreign currencies and the U.S. dollar.
+•
+Benchmark Correlation – The fund’s performance will be similar to the performance of its benchmark, the MSCI EAFE Value Index. If the fund’s benchmark goes down, it is likely that the fund’s performance will go down.
+•
+Market Risk – The value of the fund’s shares will go up and down based on the performance of the companies whose securities it owns and other factors generally affecting the securities market.
+•
+Price Volatility – The value of the fund’s shares may fluctuate significantly in the short term.
+•
+Style Risk – If the market does not consider the individual stocks purchased by the fund to be undervalued, the value of the fund’s shares may not rise as high as other funds and may in fact decline, even if stock prices generally are increasing.
+•
+Redemption Risk – The fund may need to sell securities at times it would not otherwise do so in order to meet shareholder redemption requests. Selling securities to meet such redemptions may cause the fund to experience a loss, increase the fund’s transaction costs or have tax consequences. To the extent that a large shareholder (including a fund of funds) invests in the fund, the fund may experience relatively large redemptions as such shareholder reallocates its assets.
+•
+Tobacco Exclusion – The fund’s prohibition on tobacco-related investments may cause it to forego profitable investment opportunities.
+•
+Small-Cap Stock Risk – Smaller companies may have limited financial resources, product lines, markets and have less publicly available information. These securities may trade less frequently and in more limited volumes than larger companies’ securities, leading to higher transaction costs. Smaller companies also may be more sensitive to changing economic conditions, and investments in smaller foreign companies may experience more price volatility.
+•
+Financial Sector Risk — The fund may invest a significant portion of its assets in the financial sector and, therefore, the performance of the fund could be negatively impacted by events affecting this sector. This sector can be significantly affected by changes in interest rates, government regulation, the rate of defaults on corporate, consumer and government debt and the availability and cost of capital.
+•
+Quantitative Risk – Stocks selected by the portfolio managers using quantitative models may perform differently than expected due to the portfolio managers’ judgments regarding the factors used in the models, the weight placed on each factor, changes from the factors’ historical trends, and technical issues with the construction and implementation of the models (including, for example, data problems and/or software or other implementation issues). There is no guarantee that the use of the quantitative model will result in effective investment decisions for the fund. Additionally, the commonality of portfolio holdings across quantitative investment managers may amplify losses.
+•
+Principal Loss – At any given time your shares may be worth less than the price you paid for them. In other words, it is possible to lose money by investing in the fund.
+An investment in the fund is not a bank deposit, and it is not insured or guaranteed by the Federal Deposit Insurance Corporation (FDIC) or any other government agency.
+
+#3#
+
+
+Fund Performance
+The following bar chart and table provide some indication of the risks of investing in the fund. The bar chart shows changes in the fund’s performance from year to year for Investor Class shares. The table shows how the fund’s average annual returns for the periods shown compared with those of a broad measure of market performance. The fund’s past performance (before and after taxes) is not necessarily an indication of how the fund will perform in the future.
+Calendar Year Total Returns
+acwmf201748_chart-30669a01.jpg
+Highest Performance Quarter (1Q 2017 ): 7.21%         Lowest Performance Quarter (1Q 2016): -4.29%
+Average Annual Total Returns 
+For the calendar year ended December 31, 2017
+1 year
+Since Inception
+Inception Date
+Investor Class Return Before Taxes
+21.52%
+4.11%
+03/19/2015
+Return After Taxes on Distributions
+20.96%
+3.64%
+03/19/2015
+Return After Taxes on Distributions and Sale of Fund Shares
+13.16%
+3.33%
+03/19/2015
+G Class Return Before Taxes
+22.34%
+4.49%
+03/19/2015
+MSCI EAFE Value Index
+   (reflects no deduction for fees, expenses or taxes,
+    other than foreign withholding tax)
+21.44%
+5.52%
+03/19/2015
+The after-tax returns are shown only for Investor Class shares. After-tax returns for other share classes will vary. The after-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. Actual after-tax returns depend on an investor’s tax situation and may differ from those shown. After-tax returns are not relevant to investors who hold their fund shares through tax-deferred arrangements, such as 401(k) plans or IRAs.
+Portfolio Management
+Investment Advisor
+American Century Investment Management, Inc.
+Portfolio Managers
+Vinod Chandrashekaran, Chief Investment Officer, Disciplined Equity , Senior Vice President and Director of Quantitative Research & Portfolio Management, has been a member of the team that manages the fund since the fund’s inception in 2015.
+Elizabeth Xie, CFA, Vice President , Portfolio Manager and Senior Quantitative Analyst, has been a member of the team that manages the fund since the fund’s inception in 2015.
+
+#4#
+
+
+Purchase and Sale of Fund Shares
+The fund is available for purchase only by funds advised by American Century Investments and other American Century advisory clients that are subject to a contractual fee for investment management services. The fund does not have a minimum purchase amount.
+Tax Information
+Fund distributions are generally taxable as ordinary income or capital gains, unless you are investing through a tax-deferred account such as a 401(k) or individual retirement account (in which case you may be taxed upon withdrawal of your investment from such account).

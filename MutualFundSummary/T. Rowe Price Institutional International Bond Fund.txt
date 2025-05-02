@@ -1,0 +1,460 @@
+T. Rowe Price Institutional International Bond Fund
+<head_breaker>
+
+SUMMARY
+
+Investment Objective
+
+The fund seeks to provide current income and capital appreciation.
+
+Fees and Expenses
+
+This table describes the fees and expenses that you may pay if you buy and hold shares of the fund. You may also incur brokerage commissions and other charges when buying or selling shares of the fund, which are not reflected in the table.
+
+Fees and Expenses of the Fund
+
+ 	 	 
+Shareholder fees (fees paid directly from your investment)
+
+Redemption fee (as a percentage of amount redeemed on shares held for 90 days or less)
+
+2.00
+
+%
+
+ 	 
+Annual fund operating expenses
+(expenses that you pay each year as a
+percentage of the value of your investment)
+
+Management fees
+
+0.55
+
+%
+
+ 	 
+Other expenses
+
+—
+
+ 
+ 	 
+Total annual fund operating expenses
+
+0.55
+
+ 
+Example This example is intended to help you compare the cost of investing in the fund with the cost of investing in other mutual funds. The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods, that your investment has a 5% return each year, and that the fund’s operating expenses remain the same. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 	 	 	 
+1 year
+
+3 years
+
+5 years
+
+10 years
+
+$56
+
+$176
+
+$307
+
+$689
+
+Portfolio Turnover The fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when the fund’s shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s performance. During the most recent fiscal year, the fund’s portfolio turnover rate was 47.1% of the average value of its portfolio.
+
+Investments, Risks, and Performance
+
+Principal Investment Strategies Normally, the fund will invest at least 80% of its net assets (including any borrowings for investment purposes) in foreign bonds and 65% of its net assets in non-U.S. dollar-denominated foreign bonds that are rated investment-grade (i.e., BBB- or equivalent, or better), as determined by at least one major credit rating agency or, if unrated, deemed to be of comparable quality by T. Rowe Price. If a bond is split-rated (i.e., assigned different ratings by different
+
+ 	 
+T. Rowe Price
+
+2
+
+credit rating agencies), the higher rating will be used. The fund may invest up to 25% of its total assets in “junk” bonds that have received a below investment-grade rating (i.e., BB or equivalent, or lower) from each of the rating agencies that has assigned a rating to the bond (or, if unrated, deemed to be below investment-grade quality by T. Rowe Price), including those in default or with the lowest rating. There is no limit on the fund’s investments in investment-grade bonds of emerging markets.
+
+Although the fund expects to generally maintain an intermediate- to long-term weighted average maturity, there are no maturity restrictions on the overall portfolio or on individual securities purchased by the fund. Through the use of futures contracts and interest rate swaps, the fund may either extend or shorten the overall maturity of the fund and take long or short positions in particular countries or bond markets. A short position in a bond market means that the fund, for example, could sell interest rate futures with respect to bonds of a particular market and the value of the futures contract would exceed the value of the bonds held by the fund (or the fund could sell futures with respect to a particular bond market without owning any bonds in that market).
+
+The fund normally purchases bonds issued in foreign currencies which may include bonds issued in emerging markets currencies. The fund’s currency positions will vary with its outlook on the strength or weakness of the U.S. dollar compared to foreign currencies and the relative value of various foreign currencies to one another. Through the use of forward currency exchange contracts and other currency derivatives, such as swaps, options and futures, the fund has wide flexibility to purchase and sell currencies independently of whether the fund owns bonds in those currencies and to engage in currency hedging transactions. Currency hedging is permitted and the fund is likely to be heavily exposed to foreign currencies. The fund may take a short position in a currency, which means that the fund could sell a currency in excess of its assets denominated in that currency (or the fund might sell a currency even if it doesn’t own any assets denominated in the currency).
+
+The fund may use credit default swaps to buy or sell credit protection on individual bond issuers or sectors of the bond markets. Credit default swaps may be used to replicate the exposure of a bond or portfolio of bonds and as a hedge against a default or other credit event involving one of the fund’s holdings. However, they may also be used to enhance returns by selling protection in situations where the adviser has a positive view on an issuer’s credit quality or by buying protection in situations where the adviser has a negative view on an issuer’s credit quality. If the fund buys protection, it effectively takes a short position, and if the fund sells protection, it effectively takes a long position, with respect to the creditworthiness of the issuer or sector.
+
+The fund is “nondiversified,” meaning it may invest a greater portion of its assets in fewer issuers than is permissible for a “diversified” fund.
+
+ 	 
+Summary
+
+3
+
+Investment decisions are based on fundamental market factors, such as yield and credit quality differences among bonds as well as supply and demand trends and currency values. The fund generally invests in securities where the combination of fixed-income returns and currency exchange rates appears attractive or, if the currency trend is unfavorable, where we believe the currency risk can be minimized through hedging. The fund sells holdings for a variety of reasons, such as to adjust the portfolio’s average maturity or credit quality, to shift assets into and out of higher-yielding securities, or to alter geographic or currency exposure.
+
+Principal Risks As with any mutual fund, there is no guarantee that the fund will achieve its objective. The fund’s share price fluctuates, which means you could lose money by investing in the fund. The principal risks of investing in this fund are summarized as follows:
+
+Active management risks The investment adviser’s judgments about the attractiveness, value, or potential appreciation of the fund’s investments may prove to be incorrect. The fund could underperform in comparison to other funds with a similar benchmark or similar objectives and investment strategies if the fund’s overall investment selections or strategies fail to produce the intended results.
+
+Fixed income markets risks Economic and other market developments can adversely affect fixed income securities markets. At times, participants in these markets may develop concerns about the ability of certain issuers of debt instruments to make timely principal and interest payments, or they may develop concerns about the ability of financial institutions that make markets in certain debt instruments to facilitate an orderly market. Those concerns could cause increased volatility and reduced liquidity in particular securities or in the overall fixed income markets and the related derivatives markets. A lack of liquidity or other adverse credit market conditions may hamper the fund’s ability to sell the debt instruments in which it invests or to find and purchase suitable debt instruments.
+
+International investing risks Investing in the securities of non-U.S. issuers involves special risks not typically associated with investing in U.S. issuers. International securities tend to be more volatile and less liquid than investments in U.S. securities and may lose value because of adverse local, political, social, or economic developments overseas, or due to changes in the exchange rates between foreign currencies and the U.S. dollar. In addition, international investments are subject to settlement practices and regulatory and financial reporting standards that differ from those of the U.S.
+
+Emerging markets risks The risks of international investing are heightened for securities of issuers in emerging market countries. Emerging market countries tend to have economic structures that are less diverse and mature, and political systems that are less stable, than those of developed countries. In addition to all of the risks of investing in international developed markets, emerging markets are more susceptible to governmental interference, local taxes being imposed on international investments,
+
+ 	 
+T. Rowe Price
+
+4
+
+restrictions on gaining access to sales proceeds, and less liquid and less efficient trading markets.
+
+Currency risks Because the fund generally invests in securities issued in foreign currencies, the fund is subject to the risk that it could experience losses based solely on the weakness of foreign currencies versus the U.S. dollar and changes in the exchange rates between such currencies and the U.S. dollar.
+
+Hedging risks The fund’s attempts at hedging and taking long and short positions in currencies may not be successful and could cause the fund to lose money or fail to get the benefit of a gain on a hedged position. If expected changes to securities prices, interest rates, currency values and exchange rates, or the creditworthiness of an issuer are not accurately predicted, the fund could be in a worse position than if it had not entered into such transactions.
+
+Credit risks An issuer of a debt instrument could suffer an adverse change in financial condition that results in a payment default (a failure to make scheduled interest or principal payments), rating downgrade, or inability to meet a financial obligation.
+
+Junk investing risks The risks of default are much greater for emerging market bonds and securities rated below investment grade (“junk” bonds). The fund is exposed to greater credit risk than other bond funds because companies in emerging markets are usually not as strong financially and are more susceptible to economic downturns. Junk bonds should be considered speculative as they carry greater risks of default and erratic price swings due to real or perceived changes in the credit quality of the issuer.
+
+Interest rate risks The prices of, and the income generated by, debt instruments held by the fund may be affected by changes in interest rates. A rise in interest rates typically causes the price of a fixed rate debt instrument to fall and its yield to rise. Conversely, a decline in interest rates typically causes the price of a fixed rate debt instrument to rise and the yield to fall. Generally, securities with longer maturities or durations, and funds with longer weighted average maturities or durations, carry greater interest rate risk. The fund may face a heightened level of interest rate risk due to historically low interest rates and the potential effect of any government fiscal policy initiatives; for example, the U.S. Federal Reserve System has ended its quantitative easing program and may continue to raise interest rates.
+
+Liquidity risks The fund may not be able to sell a holding in a timely manner at a desired price. Reduced liquidity in the bond markets can result from a number of events, such as limited trading activity, reductions in bond inventory, and rapid or unexpected changes in interest rates. Less liquid markets could lead to greater price volatility and limit the fund’s ability to sell a holding at a suitable price.
+
+Nondiversification risks As a nondiversified fund, the fund has the ability to invest a larger percentage of its assets in the securities of a smaller number of issuers than a
+
+ 	 
+Summary
+
+5
+
+diversified fund. As a result, poor performance by a single issuer could adversely affect fund performance more than if the fund were invested in a larger number of issuers. The fund’s share price can be expected to fluctuate more than that of a comparable diversified fund.
+
+Derivatives risks The fund uses forward currency exchange contracts, swaps, options, or futures, and is therefore exposed to additional volatility in comparison to investing directly in bonds and other debt instruments. These instruments can be illiquid and difficult to value, may involve leverage so that small changes produce disproportionate losses for the fund and, if not traded on an exchange, are subject to the risk that a counterparty to the transaction will fail to meet its obligations under the derivatives contract. The fund’s principal use of derivatives involves the risk that anticipated changes in currency values, currency exchange rates, interest rates, or the creditworthiness of an issuer will not be accurately predicted, which could significantly harm the fund’s performance, and the risk that regulatory developments could negatively affect the fund’s investments in such instruments.
+
+Performance The following performance information provides some indication of the risks of investing in the fund. The fund’s performance information represents only past performance (before and after taxes) and is not necessarily an indication of future results.
+
+The following bar chart illustrates how much returns can differ from year to year by showing calendar year returns and the best and worst calendar quarter returns during those years for the fund.
+
+
+
+The following table shows the average annual total returns for the fund, and also compares the returns with the returns of a relevant broad-based market index, as well
+
+ 	 
+T. Rowe Price
+
+6
+
+as with the returns of one or more comparative indexes that have investment characteristics similar to those of the fund.
+
+In addition, the table shows hypothetical after-tax returns to demonstrate how taxes paid by a shareholder may influence returns. After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. Actual after-tax returns depend on an investor’s tax situation and may differ from those shown. After-tax returns shown are not relevant to investors who hold their fund shares through tax-deferred arrangements, such as a 401(k) account or an IRA.
+
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Average Annual Total Returns
+
+ 	 	 	 
+ 
+
+ 
+
+ 
+
+Periods ended
+
+ 
+
+ 
+
+ 	 	
+December 31, 2017
+
+ 
+
+ 
+
+ 	 	 	 	 	 	 	 	 	 	 	
+ 
+
+ 
+
+ 	 	 	 	 	 	 	 	 	 	
+Inception
+
+ 
+
+ 
+
+ 	 	
+1 Year 
+
+ 	 	
+5 Years 
+
+ 	 	
+10 Years 
+
+ 	
+date
+
+ 
+
+ 
+
+Institutional International Bond Fund
+
+ 	 	 	 	 	 	 	 	
+05/31/2007
+
+ 	
+ 
+
+ 
+
+ 	
+Returns before taxes
+
+11.40 
+
+%
+
+ 
+
+0.13 
+
+%
+
+ 
+
+2.48 
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 	
+Returns after taxes on distributions
+
+11.05 
+
+ 
+
+ 
+
+-0.03 
+
+ 
+
+ 
+
+1.35 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 	
+Returns after taxes on distributions
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 	
+and sale of fund shares
+
+6.53 
+
+ 
+
+ 
+
+0.06 
+
+ 
+
+ 
+
+1.50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bloomberg Barclays Global Aggregate ex USD Bond Index (reflects no deduction for fees, expenses, or taxes)
+
+ 	 	
+ 
+
+ 
+
+ 	
+10.51 
+
+ 
+
+ 
+
+-0.20 
+
+ 
+
+ 
+
+2.40 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lipper International Income Funds Average
+
+ 	 	
+ 
+
+ 
+
+ 	
+7.86 
+
+ 
+
+ 
+
+0.82 
+
+ 
+
+ 
+
+3.83 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Updated performance information is available through troweprice.com.
+
+Management
+
+Investment Adviser T. Rowe Price Associates, Inc. (T. Rowe Price)
+
+Investment Subadviser T. Rowe Price International Ltd (T. Rowe Price International)
+
+ 	 	 	 
+Portfolio Manager
+
+Title
+
+Managed Fund Since
+
+Joined Investment
+Adviser
+
+Arif Husain
+
+Cochairman of
+Investment Advisory Committee
+
+2014
+
+2013
+
+Kenneth A. Orchard
+
+Cochairman of
+Investment Advisory Committee
+
+2015
+
+2010
+
+Purchase and Sale of Fund Shares
+
+The fund generally requires a $1,000,000 minimum initial investment and there is no minimum for additional purchases, although the initial investment minimum may be waived for certain types of accounts held through a retirement plan, financial advisor, or other financial intermediary.
+
+ 	 
+Summary
+
+7
+
+For investors holding shares of the fund directly with T. Rowe Price, you may purchase, redeem, or exchange fund shares by mail or by telephone
+(1-800-638-8790).
+
+If you hold shares through a financial intermediary or retirement plan, you must purchase, redeem, and exchange shares of the fund through your intermediary or retirement plan. You should check with your intermediary or retirement plan to determine the investment minimums that apply to your account.
+
+Tax Information
+
+The fund declares dividends daily and pays them on the first business day of each month. Any capital gains are declared and paid annually, usually in December. Redemptions or exchanges of fund shares and distributions by the fund, whether or not you reinvest these amounts in additional fund shares, may be taxed as ordinary income or capital gains unless you invest through a tax-deferred account (in which case you will be taxed upon withdrawal from such account).

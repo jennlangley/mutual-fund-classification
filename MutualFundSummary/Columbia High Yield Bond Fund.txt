@@ -1,0 +1,210 @@
+Columbia High Yield Bond Fund
+<head_breaker>
+
+SUMMARY OF THE FUND
+Investment Objective
+Columbia High Yield Bond Fund (the Fund) seeks to provide shareholders with high current income as its primary objective and, as its secondary objective, capital growth.
+Fees and Expenses of the Fund
+This table describes the fees and expenses that you may pay if you buy and hold shares of the Fund. The front-end sales charge applicable to Class T shares is a per-transaction charge, meaning that separate orders will not be aggregated for purposes of calculating the rate of the sales charge payable. An investor transacting in a class of Fund shares without any front-end sales charge, contingent deferred sales charge, or other asset-based fee for sales or distribution may be required to pay a commission to the financial intermediary for effecting such transactions. Such commission rates are set by the financial intermediary and are not reflected in the tables or the example below. You may qualify for sales charge discounts if you and members of your immediate family invest, or agree to invest in the future, at least $50,000 in certain classes of shares of eligible funds distributed by Columbia Management Investment Distributors, Inc. (the Distributor). More information is available about these and other sales charge discounts and waivers from your financial intermediary, and can be found in the Choosing a Share Class section beginning on page 27 of the Fund’s prospectus, in Appendix A to the prospectus beginning on page A-1 and in Appendix S to the Statement of Additional Information (SAI) under Sales Charge Waivers beginning on page S-1.
+    
+Shareholder Fees (fees paid directly from your investment)
+ 	Class A	Class C	Class T	Classes
+Adv, Inst, Inst2,
+Inst3 and R
+Maximum sales charge (load) imposed on purchases (as a % of offering price)	4.75%	None	2.50%	None
+Maximum deferred sales charge (load) imposed on redemptions (as a % of the lower of the original purchase price or current net asset value)	1.00% (a)	1.00% (b)	None	None
+    
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+ 	Class A	Class Adv	Class C	Class Inst	Class Inst2	Class Inst3	Class R	Class T
+Management fees	0.63%	0.63%	0.63%	0.63%	0.63%	0.63%	0.63%	0.63%
+Distribution and/or service (12b-1) fees	0.25%	0.00%	1.00%	0.00%	0.00%	0.00%	0.50%	0.25%
+Other expenses(c)	0.14%	0.14%	0.14%	0.14%	0.08%	0.03%	0.14%	0.14%
+Total annual Fund operating expenses	1.02%	0.77%	1.77%	0.77%	0.71%	0.66%	1.27%	1.02%
+(a)	This charge is imposed on certain investments of between $1 million and $50 million redeemed within 18 months after purchase, as follows: 1.00% if redeemed within 12 months after purchase, and 0.50% if redeemed more than 12, but less than 18, months after purchase, with certain limited exceptions.
+(b)	This charge applies to redemptions within 12 months after purchase, with certain limited exceptions.
+(c)	Other expenses have been restated to reflect current transfer agency fees paid by the Fund.
+PROSPECTUS 2018	3
+ 
+
+Table of Contents
+COLUMBIA HIGH YIELD BOND FUND
+SUMMARY OF THE FUND (continued)
+Example
+The following example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. The example illustrates the hypothetical expenses that you would incur over the time periods indicated, and assumes that:
+■	you invest $10,000 in the applicable class of Fund shares for the periods indicated,
+■	your investment has a 5% return each year, and
+■	the Fund’s total annual operating expenses remain the same as shown in the Annual Fund Operating Expenses table above.
+Although your actual costs may be higher or lower, based on the assumptions listed above, your costs would be:
+    
+ 	1 year	3 years	5 years	10 years
+Class A (whether or not shares are redeemed)	$574	$784	$1,011	$1,664
+Class Adv (whether or not shares are redeemed)	$ 79	$246	$ 428	$ 954
+Class C (assuming redemption of all shares at the end of the period)	$280	$557	$ 959	$2,084
+Class C (assuming no redemption of shares)	$180	$557	$ 959	$2,084
+Class Inst (whether or not shares are redeemed)	$ 79	$246	$ 428	$ 954
+Class Inst2 (whether or not shares are redeemed)	$ 73	$227	$ 395	$ 883
+Class Inst3 (whether or not shares are redeemed)	$ 67	$211	$ 368	$ 822
+Class R (whether or not shares are redeemed)	$129	$403	$ 697	$1,534
+Class T (whether or not shares are redeemed)	$351	$567	$ 799	$1,467
+Portfolio Turnover
+The Fund may pay transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the Fund’s performance. During the most recent fiscal year, the Fund’s portfolio turnover rate was 49% of the average value of its portfolio.
+Principal Investment Strategies
+Under normal market conditions, the Fund invests at least 80% of its net assets (including the amount of any borrowings for investment purposes) in high-yield debt instruments (commonly referred to as “junk” bonds or securities). These high yield debt instruments include corporate debt securities as well as floating rate loans rated below investment grade by nationally recognized statistical rating organizations, or if unrated, determined to be of comparable quality.
+The Fund may invest up to 25% of its net assets in debt instruments of foreign issuers.
+Corporate debt instruments in which the Fund invests are typically unsecured, with a fixed-rate of interest, and are usually issued by companies or similar entities to provide financing for their operations, or other activities.
+The Fund may invest in debt instruments of any maturity and does not seek to maintain a particular dollar-weighted average maturity. Because the Fund emphasizes high-yield investments, more emphasis is put on credit risk by the portfolio managers in selecting investments than either maturity or duration.
+The Fund may invest in privately placed and other securities or instruments that are purchased and sold pursuant to Rule 144A or other exemptions under the Securities Act of 1933, as amended, subject to liquidity determinations and certain regulatory restrictions.
+4	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA HIGH YIELD BOND FUND
+SUMMARY OF THE FUND (continued)
+Principal Risks
+An investment in the Fund involves risks, including those described below. There is no assurance that the Fund will achieve its investment objective and you may lose money. The value of the Fund’s holdings may decline, and the Fund’s net asset value (NAV) and share price may go down. An investment in the Fund is not a bank deposit and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+Active Management Risk. Due to its active management, the Fund could underperform its benchmark index and/or other funds with similar investment objectives and/or strategies.
+Changing Distribution Level Risk. The Fund will normally receive income which may include interest, dividends and/or capital gains, depending upon its investments. The amount of the distributions the Fund pays will vary and generally depends on the amount of income the Fund earns (less expenses) on its portfolio holdings, and capital gains or losses it recognizes. A decline in the Fund’s income or net capital gains from its investments may reduce its distribution level.
+Confidential Information Access Risk. Portfolio managers may avoid the receipt of material, non-public information (Confidential Information) about the issuers of floating rate loans (including from the issuer itself) being considered for acquisition by the Fund, or held in the Fund. A decision not to receive Confidential Information may disadvantage the Fund and could adversely affect the Fund’s performance.
+Counterparty Risk. Counterparty risk is the risk that a counterparty to a transaction in a financial instrument held by the Fund or by a special purpose or structured vehicle invested in by the Fund may become insolvent or otherwise fail to perform its obligations. As a result, the Fund may obtain no or limited recovery of its investment, and any recovery may be significantly delayed.
+Credit Risk. Credit risk is the risk that the value of loans or other debt instruments may decline if the borrower or the issuer thereof defaults or otherwise becomes unable or unwilling, or is perceived to be unable or unwilling, to honor its financial obligations, such as making payments to the Fund when due. Rating agencies assign credit ratings to certain loans and debt instruments to indicate their credit risk. Unless otherwise provided in the Fund’s Principal Investment Strategies, investment grade debt instruments are those rated at or above BBB- by S&P Global Ratings, or equivalently rated by Moody’s Investors Service, Inc. or Fitch, Inc., or, if unrated, determined by the management team to be of comparable quality. Conversely, below investment grade (commonly called “high-yield” or “junk”) debt instruments are those rated below BBB- by S&P Global Ratings, or equivalently rated by Moody’s Investors Service, Inc. or Fitch, Inc., or, if unrated, determined by the management team to be of comparable quality. A rating downgrade by such agencies can negatively impact the value of such instruments. Lower quality or unrated loans or instruments held by the Fund may present increased credit risk as compared to higher-rated loans or instruments. Non-investment grade loans or debt instruments may be subject to greater price fluctuations and are more likely to experience a default than investment grade loans or debt instruments and therefore may expose the Fund to increased credit risk. If the Fund purchases unrated loans or instruments, or if the ratings of loans or instruments held by the Fund are lowered after purchase, the Fund will depend on analysis of credit risk more heavily than usual. If the issuer of a loan declares bankruptcy or is declared bankrupt, there may be a delay before the Fund can act on the collateral securing the loan, which may adversely affect the Fund. Further, there is a risk that a court could take action with respect to a loan that is adverse to the holders of the loan. Such actions may include invalidating the loan, the lien on the collateral, the priority status of the loan, or ordering the refund of interest previously paid by the borrower. Any such actions by a court could adversely affect the Fund’s performance. A default or expected default of a loan could also make it difficult for the Fund to sell the loan at a price approximating the value previously placed on it. In order to enforce its rights in the event of a default, bankruptcy or similar situation, the Fund may be required to retain legal or similar counsel. This may increase the Fund’s operating expenses and adversely affect its NAV. Loans that have a lower priority for repayment in an issuer’s capital structure may involve a higher degree of overall risk than more senior loans of the same borrower.
+Foreign Securities Risk. Investments in or exposure to foreign securities involve certain risks not associated with investments in or exposure to securities of U.S. companies. Foreign securities subject the Fund to the risks associated with investing in the particular country of an issuer, including political, regulatory, economic, social, diplomatic and other conditions or events (including, for example, military confrontations, war and terrorism),
+PROSPECTUS 2018	5
+ 
+
+Table of Contents
+COLUMBIA HIGH YIELD BOND FUND
+SUMMARY OF THE FUND (continued)
+occurring in the country or region, as well as risks associated with less developed custody and settlement practices. Foreign securities may be more volatile and less liquid than securities of U.S. companies, and are subject to the risks associated with potential imposition of economic and other sanctions against a particular foreign country, its nationals or industries or businesses within the country. In addition, foreign governments may impose withholding or other taxes on the Fund’s income, capital gains or proceeds from the disposition of foreign securities, which could reduce the Fund’s return on such securities. The performance of the Fund may also be negatively affected by fluctuations in a foreign currency's strength or weakness relative to the U.S. dollar, particularly to the extent the Fund invests a significant percentage of its assets in foreign securities or other assets denominated in currencies other than the U.S. dollar.
+High-Yield Investments Risk. Securities and other debt instruments held by the Fund that are rated below investment grade (commonly called “high-yield” or “junk” bonds) and unrated debt instruments of comparable quality expose the Fund to a greater risk of loss of principal and income than a fund that invests solely or primarily in investment grade debt instruments. In addition, these investments have greater price fluctuations, are less liquid and are more likely to experience a default than higher-rated debt instruments. High-yield debt instruments are considered to be predominantly speculative with respect to the issuer’s capacity to pay interest and repay principal.
+Highly Leveraged Transactions Risk. The loans or other debt instruments in which the Fund invests may include highly leveraged transactions whereby the borrower assumes large amounts of debt in order to have the financial resources to attempt to achieve its business objectives. Loans or other debt instruments that are part of highly leveraged transactions involve a greater risk (including default and bankruptcy) than other investments.
+Impairment of Collateral Risk. The value of collateral, if any, securing a loan can decline, and may be insufficient to meet the borrower’s obligations or difficult or costly to liquidate. In addition, the Fund’s access to collateral may be limited by bankruptcy or other insolvency laws. Further, certain floating rate and other loans may not be fully collateralized and may decline in value.
+Interest Rate Risk. Interest rate risk is the risk of losses attributable to changes in interest rates. In general, if prevailing interest rates rise, the values of loans and other debt instruments tend to fall, and if interest rates fall, the values of loans and other debt instruments tend to rise. Changes in the value of a debt instrument usually will not affect the amount of income the Fund receives from it but will generally affect the value of your investment in the Fund. Changes in interest rates may also affect the liquidity of the Fund’s investments in debt instruments. In general, the longer the maturity or duration of a debt instrument, the greater its sensitivity to changes in interest rates. Interest rate declines also may increase prepayments of debt obligations, which, in turn, would increase prepayment risk. Similarly, a period of rising interest rates may negatively impact the Fund’s performance. Actions by governments and central banking authorities can result in increases in interest rates. Such actions may negatively affect the value of debt instruments held by the Fund, resulting in a negative impact on the Fund's performance and NAV. Debt instruments with floating coupon rates are typically less sensitive to interest rate changes, but these debt instruments may decline in value if their coupon rates do not rise as much as, or keep pace with, yields on such types of debt instruments. Because rates on certain floating rate loans and other debt instruments reset only periodically, changes in prevailing interest rates (and particularly sudden and significant changes) can be expected to cause fluctuations in the Fund’s NAV. Any interest rate increases could cause the value of the Fund’s investments in debt instruments to decrease. Rising interest rates may prompt redemptions from the Fund, which may force the Fund to sell investments at a time when it is not advantageous to do so, which could result in losses.
+Issuer Risk. An issuer in which the Fund invests or to which it has exposure may perform poorly, and the value of its loans or securities may therefore decline, which would negatively affect the Fund’s performance. Poor performance may be caused by poor management decisions, competitive pressures, breakthroughs in technology, reliance on suppliers, labor problems or shortages, corporate restructurings, fraudulent disclosures, natural disasters or other events, conditions or factors.
+Liquidity Risk. Liquidity risk is the risk associated with any event, circumstance, or characteristic of an investment or market that negatively impacts the Fund’s ability to sell, or realize the proceeds from the sale of, an investment at a desirable time or price. Liquidity risk may arise because of, for example, a lack of marketability of the investment, which means that when seeking to sell its portfolio investments, the Fund could find that selling is more difficult than
+6	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA HIGH YIELD BOND FUND
+SUMMARY OF THE FUND (continued)
+anticipated, especially during times of high market volatility. Decreases in the number of financial institutions, including banks and broker-dealers, willing to make markets (match up sellers and buyers) in the Fund’s investments or decreases in their capacity or willingness to trade such investments may increase the Fund’s exposure to this risk. The debt market has experienced considerable growth, and financial institutions making markets in instruments purchased and sold by the Fund (e.g., bond dealers) have been subject to increased regulation. The impact of that growth and regulation on the ability and willingness of financial institutions to engage in trading or “making a market” in such instruments remains unsettled. Certain types of investments, such as lower-rated securities or those that are purchased and sold in over-the-counter markets, may be especially subject to liquidity risk. Securities or other assets in which the Fund invests may be traded in the over-the-counter market rather than on an exchange and therefore may be more difficult to purchase or sell at a fair price, which may have a negative impact on the Fund’s performance. Market participants attempting to sell the same or a similar instrument at the same time as the Fund could exacerbate the Fund’s exposure to liquidity risk. The Fund may have to accept a lower selling price for the holding, sell other liquid or more liquid investments that it might otherwise prefer to hold (thereby increasing the proportion of the Fund’s investments in less liquid or illiquid securities), or forego another more appealing investment opportunity. Certain investments that were liquid when purchased by the Fund may later become illiquid, particularly in times of overall economic distress. Changing regulatory, market or other conditions or environments (for example, the interest rate or credit environments) may also adversely affect the liquidity and the price of the Fund's investments. Judgment plays a larger role in valuing illiquid or less liquid investments as compared to valuing liquid or more liquid investments. Price volatility may be higher for illiquid or less liquid investments as a result of, for example, the relatively less frequent pricing of such securities (as compared to liquid or more liquid investments). Generally, the less liquid the market at the time the Fund sells a portfolio investment, the greater the risk of loss or decline of value to the Fund. Overall market liquidity and other factors can lead to an increase in redemptions, which may negatively impact Fund performance and NAV, including, for example, if the Fund is forced to sell investments in a down market. Floating rate loans generally are subject to legal or contractual restrictions on resale, may trade infrequently, their value may be impaired when the Fund needs to liquidate such loans, and are typically subject to extended settlement periods, each of which gives rise to liquidity risk.
+Loan Interests Risk. Loan interests may not be considered “securities,” and purchasers, such as the Fund, therefore may not be entitled to rely on the anti-fraud protections of the federal securities laws. Loan interests generally are subject to restrictions on transfer, and the Fund may be unable to sell its loan interests at a time when it may otherwise be desirable to do so or may be able to sell them only at prices that are less than what the Fund regards as their fair market value. Accordingly, loan interests may at times be illiquid. Loan interests may be difficult to value and typically have extended settlement periods (generally greater than 7 days). Extended settlement periods during significant Fund redemption activity could potentially cause short-term liquidity demands within the Fund. In seeking to meet liquidity demands, the Fund could be forced to sell investments at unfavorable prices, or borrow money or effect short settlements when possible (at a cost to the Fund), in an effort to generate sufficient cash to pay redeeming shareholders. The Fund’s actions in this regard may not be successful. Interests in loans made to finance highly leveraged companies or transactions, such as corporate acquisitions, may be especially vulnerable to adverse changes in economic or market conditions. Interests in secured loans have the benefit of collateral and, typically, of restrictive covenants limiting the ability of the borrower to further encumber its assets. There is a risk that the value of any collateral securing a loan in which the Fund has an interest may decline and that the collateral may not be sufficient to cover the amount owed on the loan. In the event the borrower defaults, the Fund’s access to the collateral may be limited or delayed by bankruptcy or other insolvency laws. Further, there is a risk that a court could take action with respect to a loan that is adverse to the holders of the loan, and the Fund, to enforce its rights in the event of a default, bankruptcy or similar situation, may need to retain legal or similar counsel. This may increase the Fund’s operating expenses and adversely affect its NAV. Loans that have a lower priority for repayment in an issuer’s capital structure may involve a higher degree of overall risk than more senior loans of the same borrower. In the event of a default, second lien secured loans will generally be paid only if the value of the collateral exceeds the amount of the borrower’s obligations to the first lien secured lenders, and the remaining collateral may not be sufficient to cover the full amount owed on the loan in which the Fund has an interest. The Fund may acquire a
+PROSPECTUS 2018	7
+ 
+
+Table of Contents
+COLUMBIA HIGH YIELD BOND FUND
+SUMMARY OF THE FUND (continued)
+participation interest in a loan that is held by another party. When the Fund’s loan interest is a participation, the Fund may have less control over the exercise of remedies than the party selling the participation interest, and it normally would not have any direct rights against the borrower.
+Market Risk. Market risk refers to the possibility that the market values of securities or other investments that the Fund holds will fall, sometimes rapidly or unpredictably, or fail to rise. An investment in the Fund could lose money over short or long periods.
+Prepayment and Extension Risk. Prepayment and extension risk is the risk that a loan, bond or other security or investment might, in the case of prepayment risk, be called or otherwise converted, prepaid or redeemed before maturity and, in the case of extension risk, that the investment might not be called as expected. In the case of prepayment risk, if the investment is converted, prepaid or redeemed before maturity, the portfolio managers may not be able to invest the proceeds in other investments providing as high a level of income, resulting in a reduced yield to the Fund. In the case of mortgage- or other asset-backed securities, as interest rates decrease or spreads narrow, the likelihood of prepayment increases. Conversely, extension risk is the risk that an unexpected rise in interest rates will extend the life of a mortgage- or asset-backed security beyond the prepayment time. If the Fund’s investments are locked in at a lower interest rate for a longer period of time, the portfolio managers may be unable to capitalize on securities with higher interest rates or wider spreads.
+Reinvestment Risk. Reinvestment risk is the risk that the Fund will not be able to reinvest income or principal at the same return it is currently earning.
+Rule 144A and Other Exempted Securities Risk. The Fund may invest in privately placed and other securities or instruments exempt from SEC registration (collectively “private placements”), subject to liquidity and other regulatory restrictions. In the U.S. market, private placements are typically sold only to qualified institutional buyers, or qualified purchasers, as applicable. An insufficient number of buyers interested in purchasing private placements at a particular time could adversely affect the marketability of such investments and the Fund might be unable to dispose of them promptly or at reasonable prices, subjecting the Fund to liquidity risk. The Fund may invest in private placements determined to be liquid as well as those determined to be illiquid. Even if determined to be liquid, the Fund’s holdings of private placements may increase the level of Fund illiquidity if eligible buyers are unable or unwilling to purchase them at a particular time. Issuers of Rule 144A eligible securities are required to furnish information to potential investors upon request. However, the required disclosure is much less extensive than that required of public companies and is not publicly available since the offering is not filed with the SEC. Further, issuers of Rule 144A eligible securities can require recipients of the offering information (such as the Fund) to agree contractually to keep the information confidential, which could also adversely affect the Fund’s ability to dispose of the security.
+8	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA HIGH YIELD BOND FUND
+SUMMARY OF THE FUND (continued)
+Performance Information
+The following bar chart and table show you how the Fund has performed in the past, and can help you understand the risks of investing in the Fund. The bar chart shows how the Fund’s Class A share performance (without sales charges) has varied for each full calendar year shown. If the sales charges were reflected, returns shown would be lower. The table below the bar chart compares the Fund’s returns (after applicable sales charges shown in the Shareholder Fees table in this prospectus) for the periods shown with a broad measure of market performance.
+The performance of one or more share classes shown in the table below begins before the indicated inception date for such share class. The returns shown for each such share class include the returns of the Fund’s Class A shares (without applicable sales charges and adjusted to reflect the higher class-related operating expenses of such share classes, where applicable) for periods prior to its inception date. Share classes with expenses that are higher than Class A shares will have performance that is lower than Class A shares (without sales charges). Except for differences in annual returns resulting from differences in expenses and sales charges (where applicable), the share classes of the Fund would have substantially similar annual returns because all share classes of the Fund invest in the same portfolio of securities.
+The after-tax returns shown in the Average Annual Total Returns table below are calculated using the highest historical individual U.S. federal marginal income tax rates in effect during the period indicated in the table and do not reflect the impact of state, local or foreign taxes. Your actual after-tax returns will depend on your personal tax situation and may differ from those shown in the table. In addition, the after-tax returns shown in the table do not apply to shares held in tax-advantaged accounts such as 401(k) plans or Individual Retirement Accounts (IRAs). The after-tax returns are shown only for Class A shares and will vary for other share classes.
+The Fund’s past performance (before and after taxes) is no guarantee of how the Fund will perform in the future. Updated performance information can be obtained by calling toll-free 800.345.6611 or visiting columbiathreadneedleus.com.
+    
+Year by Year Total Return (%)
+as of December 31 Each Year*	Best and Worst Quarterly Returns
+During the Period Shown in the Bar Chart
+
+Best	2nd Quarter 2009	24.08%
+Worst
+4th Quarter 2008	-18.37%
+*	Year to Date return as of June 30, 2018: -1.95%
+PROSPECTUS 2018	9
+ 
+
+Table of Contents
+COLUMBIA HIGH YIELD BOND FUND
+SUMMARY OF THE FUND (continued)
+Average Annual Total Returns After Applicable Sales Charges (for periods ended December 31, 2017)
+ 	Share Class
+Inception Date	1 Year	5 Years	10 Years
+Class A	12/08/1983	 	 	 
+returns before taxes	 	1.04%	3.97%	6.59%
+returns after taxes on distributions	 	-0.99%	1.77%	4.06%
+returns after taxes on distributions and sale of Fund shares	 	0.57%	1.99%	3.99%
+Class Adv returns before taxes	12/11/2006	6.48%	5.26%	7.22%
+Class C returns before taxes	06/26/2000	4.45%	4.26%	6.34%
+Class Inst returns before taxes	09/27/2010	6.14%	5.19%	7.27%
+Class Inst2 returns before taxes	12/11/2006	6.57%	5.30%	7.45%
+Class Inst3 returns before taxes	11/08/2012	6.63%	5.42%	7.33%
+Class R returns before taxes	12/11/2006	5.96%	4.74%	6.81%
+Class T returns before taxes	12/01/2006	3.73%	4.40%	6.81%
+ICE BofAML U.S. Cash Pay High Yield Constrained Index (reflects no deductions for fees, expenses or taxes)	 	7.48%	5.78%	7.88%
+  
+Fund Management
+Investment Manager: Columbia Management Investment Advisers, LLC
+    
+Portfolio Manager	 	Title	 	Role with Fund	 	Managed Fund Since
+Jennifer Ponce de Leon*	 	Senior Portfolio Manager and Head of US High Yield and Co-Head of Global High Yield	 	Co-Portfolio Manager	 	2010
+Brian Lavin, CFA	 	Senior Portfolio Manager	 	Co-Portfolio Manager	 	2010
+* Ms. Ponce de Leon is on a medical leave of absence and, while she is expected to return, a timetable for her return is not set. Until such time, Brian Lavin will serve as lead portfolio manager of the Fund with continued support from the Investment Manager’s High Yield research analyst team.
+Purchase and Sale of Fund Shares
+You may purchase or redeem shares of the Fund on any business day by contacting the Fund in the ways described below:
+NOTE: The Fund’s mailing addresses are changing as follows*:
+    
+Online	 	Regular Mail	 	Express Mail	 	By Telephone
+ 	 	Through October 31, 2018	 	Through October 31, 2018	 	 
+columbiathreadneedleus.com/investor/	 	Columbia Management
+Investment Services Corp.
+P.O. Box 8081
+Boston, MA 02266-8081	 	Columbia Management
+Investment Services Corp.
+c/o DST Asset Manager
+Solutions, Inc.
+30 Dan Road, Suite 8081
+Canton, MA 02021-2809	 	800.422.3737
+ 	 	Regular Mail	 	Express Mail	 	 
+ 	 	Effective November 1, 2018	 	Effective November 1, 2018	 	 
+ 	 	Columbia Management
+Investment Services Corp.
+P.O. Box 219104
+Kansas City, MO 64121-9104	 	Columbia Management
+Investment Services Corp.
+c/o DST Asset Manager
+Solutions, Inc.
+430 W 7th Street, Suite 219104
+Kansas City, MO 64105-1407	 	 
+10	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA HIGH YIELD BOND FUND
+SUMMARY OF THE FUND (continued)
+*	Based on the dates noted above, mail received at an incorrect address will be forwarded to the correct address, and will not be processed until received, in “good form,” at the correct address. This may affect the trade date you receive for transaction requests, which may negatively impact the value of your purchase or sale.
+You may purchase shares and receive redemption proceeds by electronic funds transfer, by check or by wire. If you maintain your account with a broker-dealer or other financial intermediary, you must contact that financial intermediary to buy, sell or exchange shares of the Fund through your account with the intermediary.
+The minimum initial investment amounts for the share classes offered by the Fund are shown below:
+Minimum Initial Investment
+    
+Class	Category of eligible account	For accounts other than
+systematic investment
+plan accounts	For systematic investment
+plan accounts
+Classes A, C & T(a)	All accounts other than IRAs	$2,000	$100
+IRAs	$1,000	$100
+Classes Adv & Inst	All eligible accounts	$0, $1,000 or $2,000
+depending upon the category
+of eligible investor	$100
+Classes Inst2 & R	All eligible accounts	None	N/A
+Class Inst3	All eligible accounts	$0, $1,000, $2,000
+or $1 million depending
+upon the category
+of eligible investor	$100 (for certain
+eligible investors)
+  
+(a)	Class T shares must be purchased through financial intermediaries that, by written agreement with Columbia Management Investment Distributors, Inc., are specifically authorized to sell Class T shares.
+More information about these minimums can be found in the Buying, Selling and Exchanging Shares - Buying Shares section of the prospectus. There is no minimum additional investment for any share class.
+Tax Information
+The Fund normally distributes net investment income and net realized capital gains, if any, to shareholders. These distributions are generally taxable to you as ordinary income or capital gains, unless you are investing through a tax-advantaged account, such as a 401(k) plan or an IRA. If you are investing through a tax-advantaged account, you may be taxed upon withdrawals from that account.
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you purchase the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies — including Columbia Management Investment Advisers, LLC (the Investment Manager), Columbia Management Investment Distributors, Inc. (the Distributor) and Columbia Management Investment Services Corp. (the Transfer Agent) — may pay the intermediary for the sale of Fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your financial advisor to recommend the Fund over another investment. Ask your financial advisor or visit your financial intermediary’s website for more information.

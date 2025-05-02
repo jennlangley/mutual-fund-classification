@@ -1,0 +1,126 @@
+Government Securities Fund
+<head_breaker>
+
+INVESTMENT OBJECTIVE
+The USAA Government Securities Fund (the Fund) provides investors a high level of current income consistent with preservation of principal.
+FEES AND EXPENSES
+The tables below describe the fees and expenses that you may pay, directly and indirectly, to invest in the Fund. The annual fund operating expenses for the Fund Shares, Institutional Shares, Adviser Shares, and R6 Shares are based on expenses incurred during the Fund’s most recently completed fiscal year.
+Shareholder Fees
+(fees paid directly from your investment)
+ 	Fund Shares	Inst. Shares	Adviser Shares	R6
+Shares
+ 	None	None	None	None
+Annual Fund Operating Expenses
+(expenses that you pay each year as a percentage of the value of your investment)
+ 	Fund Shares	Inst. Shares	Adviser Shares	R6 Shares
+Management Fee (fluctuates based on the Fund's performance relative to a securities market index)	0.13%	0.13%	0.09%	0.13%
+Distribution and/or Service (12b-1) Fees	None	None	0.25%	None
+Other Expenses	0.35%	0.26%	0.53%	0.51%
+Total Annual Fund Operating Expenses	0.48%	0.39%	0.87%	0.64%
+Reimbursement from Adviser	N/A	N/A	(0.12%)(a)	(0.29%)(a)
+Total Annual Fund Operating Expenses after Reimbursement	0.48%	0.39%	0.75%	0.35%
+(a)	The Investment Adviser has agreed, through September 30, 2019, to make payments or waive management, administration, and other fees to limit the expenses of the Adviser Shares and R6 Shares of the Fund so that the total annual operating expenses (exclusive of expense offset arrangements, acquired fund fees and expenses, and extraordinary expenses) do not exceed an annual rate of 0.75% of the Adviser Shares’ average daily net assets and 0.35% of the R6 Shares’ average daily net assets. This reimbursement arrangement may not be changed or terminated during this time period without approval of the Fund’s Board of Trustees and may be changed or terminated by the Investment Adviser at any time after September 30, 2019.
+Prospectus  |  1
+ 
+
+Table of Contents
+Example
+This example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. Although your actual costs may be higher or lower, you would pay the following expenses on a $10,000 investment, assuming (1) a 5% annual return, (2) the Fund’s operating expenses remain the same, (3) you redeem all of your shares at the end of the periods shown, and (4) the expense reimbursement arrangements for the Adviser Shares and R6 Shares are not continued beyond one year.
+ 	1 Year	3 Years	5 Years	10 Years
+Fund Shares	$49	$154	$269	$604
+Inst. Shares	$40	$125	$219	$493
+Adviser Shares	$77	$266	$470	$1,061
+R6 Shares	$36	$176	$328	$771
+Portfolio Turnover
+The Fund pays transaction costs, including commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when shares of the Fund are held in a taxable account. These costs, which are not reflected in the Annual Fund Operating Expenses or in the Example, affect the Fund’s performance.
+For the most recent fiscal year, the Fund’s portfolio turnover rate was 15% of the average value of its whole portfolio.
+PRINCIPAL INVESTMENT STRATEGY
+The Fund normally invests at least 80% of its assets in government securities, U.S. Treasury bills, notes, and bonds; Treasury Inflation Protected Securities (TIPS); mortgage-backed securities (MBS) backed by the Government National Mortgage Association (Ginnie Mae), the Federal National Mortgage Association (Fannie Mae), and the Federal Home Loan Mortgage Corporation (Freddie Mac); U.S. government agency collateralized mortgage obligations; securities issued by U.S. government agencies and instrumentalities; and repurchase agreements collateralized by such investments. The securities issued by U.S. government agencies and instrumentalities are supported by the credit of the issuing agency, instrumentality or corporation (which are neither issued nor guaranteed by the U.S. Treasury), including but not limited to, Fannie Mae, Freddie Mac, the Federal Agricultural Mortgage Corporation (Farmer Mac), Federal Farm Credit Bank, Federal Home Loan Bank, Private Export Funding Corp (Pefco), and the Small Business Administration. The
+2  |  USAA Government Securities Fund
+ 
+
+Table of Contents
+Fund has a target average maturity of 5-10 years. This 80% policy may be changed upon at least 60 days’ written notice to shareholders.
+PRINCIPAL RISKS
+Any investment involves risk, and there is no assurance that the Fund’s objective will be achieved. The Fund is actively managed and the investment techniques and risk analyses used by the Fund’s manager(s) may not produce the desired results. As you consider an investment in the Fund, you also should take into account your tolerance for the daily fluctuations of the financial markets and whether you can afford to leave your money in the Fund for long periods of time to ride out down periods. As with other mutual funds, losing money is a risk of investing in the Fund.
+Credit risk should be low for the Fund because it invests primarily in securities that are considered to be of high quality. However, there is the possibility that an issuer will fail to make timely interest and principal payments on its securities or that negative market perceptions of the issuer’s ability to make such payments will cause the price of that security to decline.
+The Fund is subject to the risk that the value of its investments will fluctuate because of changes in interest rates, changes in supply of and demand for fixed-income securities, or other market factors. If interest rates increase, the yield of the Fund may increase and the market value of the Fund’s securities may decline, adversely affecting the Fund’s net asset value (NAV) and total return. If interest rates decrease, the yield of the Fund may decrease. In addition, the market value of the Fund’s securities may increase, which may increase the Fund’s NAV and total return. Because the Federal Reserve has begun to raise interest rates, the Fund may face a heightened level of interest rate risk.
+In addition, market developments and other factors, including a general rise in interest rates, have the potential to cause investors to move out of fixed-income securities on a large scale, which may increase redemptions from mutual funds that hold large amounts of fixed-income securities. Such a move, coupled with a reduction in the ability or willingness of dealers and other institutional investors to buy or hold fixed-income securities, may result in decreased liquidity and increased volatility in the fixed-income markets. Heavy redemptions of fixed-income mutual funds and decreased liquidity of fixed-income securities could hurt the Fund’s performance.
+The Fund is subject to legislative risk, which is the risk that changes in government policies may affect the value of the investments held by the Fund in ways we cannot anticipate, and that such policies could have an adverse impact on the value of the Fund’s investments and the Fund’s NAV.
+The Fund is subject to prepayment and extension risk. The Fund can invest in mortgage-backed securities. These securities make regularly scheduled payments of principal along with interest payments. In addition, mortgagors
+Prospectus  |  3
+ 
+
+Table of Contents
+generally have the option of paying off their mortgages without penalty at any time. For example, when a mortgaged property is sold, the old mortgage is usually prepaid. Also, when interest rates fall, the mortgagor may refinance the mortgage and prepay the old mortgage. A homeowner’s default on the mortgage also may cause a prepayment of the mortgage. This unpredictability of the mortgage’s cash flow is called prepayment risk. For the investor, prepayment risk usually means that principal is received at the least opportune time. For example, when interest rates fall, homeowners may find it advantageous to refinance their mortgages and prepay principal. In this case, the investor is forced to reinvest the principal at the current lower rate. On the other hand, when interest rates rise, homeowners generally will not refinance their mortgages and prepayments will fall. This causes the average life of the mortgage to extend and be more sensitive to interest rates, which sometimes is called extension risk. In addition, the amount of principal the investor has to invest in these higher interest rates is reduced.
+An investment in the Fund is not a deposit in USAA Federal Savings Bank, or any other bank, and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+PERFORMANCE
+The following bar chart and table are intended to help you understand the risks of investing in the Fund. The Fund has four classes of shares: Fund Shares, Institutional Shares, Adviser Shares, and R6 Shares. The bar chart provides some indication of the risks of investing in the Fund and illustrates the Fund Shares class's volatility and performance from year to year for each full calendar year over the past 10 years. The table shows how the average annual total returns of the share classes for the periods indicated compared to those of the Fund's benchmark index and an additional index of funds with similar investment objectives. Performance reflects any expense limitations in effect during the periods shown.
+Remember, historical performance (before and after taxes) does not necessarily indicate what will happen in the future. For the Fund’s most current performance information, log on to usaa.com or call (800) 531-USAA (8722) or (210) 531-8722.
+4  |  USAA Government Securities Fund
+ 
+
+Table of Contents
+RISK/RETURN BAR CHART
+Annual Returns for Periods Ended December 31
+
+During the periods shown in the chart:	Returns	Quarter ended
+Highest Quarter Return	3.66%	December 31, 2008
+Lowest Quarter Return	-2.18%	December 31, 2016
+Year-to-Date Return	-0.90%	June 30, 2018
+After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. In certain situations, the return after taxes on distributions and sale of fund shares may be higher than the other return amounts. A higher after-tax return may result when a capital loss occurs upon redemption and translates into an assumed tax deduction that benefits the shareholder. The actual after-tax returns depend on your tax situation and may differ from those shown. If you hold your shares through a tax-deferred arrangement, such as an individual retirement account (IRA) or 401(k) plan, the after-tax returns shown in the table are not relevant to you. Please note that after-tax returns are only shown for the Fund Shares and may differ for each share class.
+Prospectus  |  5
+ 
+
+Table of Contents
+AVERAGE ANNUAL TOTAL RETURNS
+For Periods Ended December 31, 2017
+ 	Past
+1 Year	Past
+5 Years	Past
+10 Years	Since
+Inception	Inception
+Date
+Fund Shares	 	 	 	 	 
+Return Before Taxes	1.35%	1.18%	3.17%	 	 
+Return After Taxes on Distributions	0.45%	0.14%	1.97%	 	 
+Return After Taxes on Distributions and Sale of Fund Shares	0.76%	0.43%	1.97%	 	 
+Institutional Shares	 	 	 	 	 
+Return Before Taxes	1.55%	–	–	1.26%	8/7/2015
+Adviser Shares	 	 	 	 	 
+Return Before Taxes	1.08%	0.87%	–	1.53%	8/1/2010
+R6 Shares	 	 	 	 	 
+Return Before Taxes	1.49%	–	–	1.46%	12/1/2016
+Indexes
+Bloomberg Barclays U.S. Aggregate Government Intermediate & MBS Index (reflects no deduction for fees, expenses, or taxes)	1.76%	1.43%	3.26%	2.05%	8/1/2010*
+Lipper Intermediate U.S. Government Funds Index (reflects no deduction for taxes)	1.76%	1.03%	3.36%	2.11%	8/1/2010*
+* The performance of the Bloomberg Barclays U.S. Aggregate Government Intermediate & MBS Index and the Lipper Intermediate U.S. Government Funds Index is calculated from the end of the month, July 31, 2010, while the inception date of the Adviser Shares is August 1, 2010. There may be a slight variation in performance because of the difference. The average annual total returns for the Bloomberg Barclays U.S. Aggregate Government Intermediate & MBS Index and the Lipper Intermediate U.S. Government Funds Index from August 7, 2015, through December 31, 2017, were 1.42% and 1.21%. The average annual total returns for the Bloomberg Barclays U.S. Aggregate Government Intermediate & MBS Index and the Lipper Intermediate U.S. Government Funds Index from December 1, 2016, through December 31, 2017, were 1.76% and 1.87%, respectively.
+INVESTMENT ADVISER
+USAA Asset Management Company (“AMCO” or “Adviser”)
+6  |  USAA Government Securities Fund
+ 
+
+Table of Contents
+PORTFOLIO MANAGERS
+Donna J. Baggerly, CFA, Vice President, Insurance Portfolios, has managed or co-managed the Fund since July 2012.
+R. Neal Graves, CFA, CPA, Assistant Vice President, Insurance Portfolios, has co-managed the Fund since October 2013.
+PURCHASE AND SALE OF SHARES
+Fund Shares:
+You may purchase or sell Fund Shares through a USAA investment account on any business day through our website at usaa.com or mobile.usaa.com, or by telephone at (800) 531-USAA (8722) or (210) 531-8722. You also may purchase or sell Fund Shares through certain other financial intermediaries. If you have opened an account directly with the Fund, you also may purchase and sell Fund Shares by mail at P.O. Box 659453, San Antonio, Texas 78265-9825.
+■	Minimum initial purchase: $3,000
+■	Minimum subsequent investment: $50
+Institutional Shares:
+The Institutional Shares are not offered for sale directly to the general public. The minimum initial purchase is $1 million; however, the Fund reserves the right to waive or lower purchase minimums in certain circumstances.
+Adviser Shares:
+Adviser Shares are available for investment through financial intermediaries. Your ability to purchase, exchange, sell, and transfer shares will be affected by the policies of the financial intermediary through which you do business. The minimum initial purchase is $3,000; however, financial intermediaries may set different investment minimums in certain circumstances.
+R6 Shares:
+R6 Shares generally are available only through employer-sponsored retirement plans where a financial intermediary provides retirement recordkeeping services to plan participants. R6 Shares also are available to endowment funds and foundations. There is no minimum initial investment amount or minimum subsequent investment for R6 Shares. Please contact your plan administrator or recordkeeper to purchase or sell (redeem) shares from your retirement plan.
+TAX INFORMATION
+The Fund intends to make distributions that generally will be taxed to you as ordinary income or long-term capital gains, unless you are a tax-exempt
+Prospectus  |  7
+ 
+
+Table of Contents
+investor or you invest through an IRA, 401(k) plan, or other tax-deferred account (in which case you may be taxed later, upon withdrawal of your investment from such account).
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+If you purchase shares of the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies may pay the intermediary for the sale of such shares and certain servicing and administrative functions for investments in all share classes except the R6 Shares. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

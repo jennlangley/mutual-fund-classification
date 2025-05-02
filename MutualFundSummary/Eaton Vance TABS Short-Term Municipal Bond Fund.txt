@@ -1,0 +1,113 @@
+Eaton Vance TABS Short-Term Municipal Bond Fund
+<head_breaker>
+
+Eaton Vance TABS Short-Term Municipal Bond Fund
+
+Investment Objective
+
+The Fund’s investment objective is to seek after-tax total return.
+
+Fees and Expenses of the Fund
+
+This table describes the fees and expenses that you may pay if you buy and hold shares of the Fund. Investors may also pay commissions or other fees to their financial intermediary when they buy and hold shares of the Fund, which are not reflected below. You may qualify for a reduced sales charge on purchases of Class A shares if you invest, or agree to invest over a 13-month period, at least $100,000 in Eaton Vance funds. Certain financial intermediaries also may offer variations in Fund sales charges to their customers as described in Appendix A – Financial Intermediary Sales Charge Variations in this Prospectus. More information about these and other discounts is available from your financial intermediary and in Sales Charges on page 20 of this Prospectus and page 21 of the Fund’s Statement of Additional Information.
+
+Shareholder Fees (fees paid directly from your investment)	Class A	Class C	Class I
+Maximum Sales Charge (Load) Imposed on Purchases (as a percentage of offering price)	2.25%	None	None
+Maximum Deferred Sales Charge (Load) (as a percentage of the lower of net asset value at purchase or redemption)	None	1.00%	None
+ 
+
+Annual Fund Operating Expenses (expenses you pay each year as a percentage of the value of your investment)	Class A	Class C	Class I
+Management Fees	0.55%	0.55%	0.55%
+Distribution and Service (12b-1) Fees	0.25%	1.00%	None
+Other Expenses	0.10%	0.10%	0.10%
+Total Annual Fund Operating Expenses	0.90%	1.65%	0.65%
+Example. This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. The Example assumes that you invest $10,000 in the Fund for the time periods indicated and then redeem all of your shares at the end of those periods. The Example also assumes that your investment has a 5% return each year, that the operating expenses remain the same and that any expense reimbursement arrangement remains in place for the contractual period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 	Expenses with Redemption	Expenses without Redemption
+ 	1 Year	3 Years	5 Years	10 Years	1 Year	3 Years	5 Years	10 Years
+Class A shares	$315	$506	$712	$1,308	$315	$506	$712	$1,308
+Class C shares	$268	$520	$897	$1,955	$168	$520	$897	$1,955
+Class I shares	$66	$208	$362	$810	$66	$208	$362	$810
+Portfolio Turnover
+
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” the portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund shares are held in a taxable account. These costs, which are not reflected in Annual Fund Operating Expenses or in the Example, affect the Fund’s performance. During the most recent fiscal year, the Fund's portfolio turnover rate was 54% of the average value of its portfolio.
+
+Principal Investment Strategies
+
+Under normal market conditions, the Fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in a diversified portfolio of municipal obligations, the interest on which is exempt from regular federal income tax (the “80% Policy”). In seeking the Fund’s investment objective, the portfolio managers emphasize tax-exempt income. The Fund normally invests in municipal obligations rated in the three highest rating categories (those rated A or higher by S&P Global Ratings (“S&P”), Fitch Ratings (“Fitch”) or Moody’s Investors Service, Inc. (“Moody’s”)) or, if unrated, determined by the investment adviser to be of comparable quality at the time of purchase. The Fund will not invest more
+
+Eaton Vance TABS Municipal Bond Funds	3	Prospectus dated June 1, 2018
+ 
+than 50% of its net assets in municipal obligations rated A at the time of purchase by S&P, Fitch or Moody’s or, if unrated, determined by the investment adviser to be of comparable quality. For purposes of rating restrictions, if securities are rated differently by two or more rating agencies, the highest rating is used. The Fund may continue to hold securities that are downgraded (including bonds downgraded to below investment grade credit quality (“junk bonds”)) if the investment adviser believes it would be advantageous to do so. The Fund will not invest in a municipal obligation the interest on which the Fund’s investment adviser believes is subject to the federal alternative minimum tax.
+
+For its investment in municipal obligations, the Fund invests primarily in general obligation or revenue bonds. The Fund currently targets an average portfolio duration of approximately 2 - 4.5 years and an average weighted portfolio maturity of approximately 3 - 6 years, but may invest in securities of any maturity or duration, and may in the future alter its maturity or duration target range. The Fund may use various techniques to shorten or lengthen its dollar-weighted average portfolio duration, including the acquisition of municipal obligations at a premium or discount. The portfolio managers generally will seek to enhance after-tax total return by actively engaging in relative value trading within the portfolio to take advantage of price opportunities in the markets for municipal obligations. With respect to 20% of its net assets, the Fund may invest in municipal obligations that are not exempt from regular federal income tax, direct obligations of the U.S. Treasury and/or obligations of U.S. Government agencies, instrumentalities and government-sponsored enterprises. The Fund may also invest in cash and money market instruments.
+
+The investment adviser’s process for selecting municipal obligations for purchase and sale generally includes consideration of the creditworthiness of the issuer or person obligated to repay the obligation. In evaluating creditworthiness, the investment adviser considers ratings assigned by rating agencies and generally performs additional credit and investment analysis.
+
+Principal Risks
+
+Market Risk. The value of investments held by the Fund may increase or decrease in response to economic, political and financial events (whether real, expected or perceived) in the U.S. and global markets. The frequency and magnitude of such changes in value cannot be predicted. Certain securities and other investments held by the Fund may experience increased volatility, illiquidity, or other potentially adverse effects in reaction to changing market conditions. Actions taken by the U.S. Federal Reserve or foreign central banks to stimulate or stabilize economic growth, such as decreases or increases in short-term interest rates, could cause high volatility in markets. No active trading market may exist for certain investments, which may impair the ability of the Fund to sell or to realize the current valuation of such investments in the event of the need to liquidate such assets. Fixed-income markets may experience periods of relatively high volatility in an environment where U.S. treasury yields are rising.
+
+Municipal Obligation Risk. The amount of public information available about municipal obligations is generally less than for corporate equities or bonds, meaning that the investment performance of municipal obligations may be more dependent on the analytical abilities of the investment adviser than stock or corporate bond investments. The secondary market for municipal obligations also tends to be less well-developed and less liquid than many other securities markets, which may limit the Fund’s ability to sell its municipal obligations at attractive prices. The differences between the price at which an obligation can be purchased and the price at which it can be sold may widen during periods of market distress. Less liquid obligations can become more difficult to value and be subject to erratic price movements. The increased presence of nontraditional participants (such as proprietary trading desks of investment banks and hedge funds) or the absence of traditional participants (such as individuals, insurance companies, banks and life insurance companies) in the municipal markets may lead to greater volatility in the markets because non-traditional participants may trade more frequently or in greater volume. 
+
+Interest Rate Risk. In general, the value of income securities will fluctuate based on changes in interest rates. The value of these securities is likely to increase when interest rates fall and decline when interest rates rise. Generally, securities with longer durations are more sensitive to changes in interest rates than shorter duration securities, causing them to be more volatile. Conversely, fixed income securities with shorter durations will be less volatile but may provide lower returns than fixed income securities with longer durations. The Fund may own individual investments that have longer durations. In a rising interest rate environment, the durations of income securities that have the ability to be prepaid or called by the issuer may be extended. In a declining interest rate environment, the proceeds from prepaid or maturing instruments may have to be reinvested at a lower interest rate.
+
+Credit Risk. Investments in municipal obligations and other debt obligations (referred to below as “debt instruments”) are subject to the risk of non-payment of scheduled principal and interest. Changes in economic conditions or other circumstances may reduce the capacity of the party obligated to make principal and interest payments on such instruments and may lead to defaults. Such non-payments and defaults may reduce the value of Fund shares and income distributions. The value of debt instruments also may decline because of concerns about the issuer’s ability to make principal and interest payments. In addition, the credit ratings of debt instruments may be lowered if the financial condition of the party obligated to make payments with respect to such instruments deteriorates. In order to enforce its rights in the
+
+Eaton Vance TABS Municipal Bond Funds	4	Prospectus dated June 1, 2018
+ 
+event of a default, bankruptcy or similar situation, the Fund may be required to retain legal or similar counsel, which may increase the Fund’s operating expenses and adversely affect net asset value. Municipal obligations may be insured as to principal and interest payments. If the claims-paying ability or other rating of the insurer is downgraded by a rating agency, the value of such obligations may be negatively affected.
+
+Risks of Principal Only Investments. Principal only investments entitle the Fund to receive the stated value of such investment when held to maturity. The values of principal only investments are subject to greater fluctuation in response to changes in market interest rates than obligations that pay interest currently. The Fund will accrue income on these investments and distribute that income each year. The Fund may be required to sell other investments to obtain cash needed for such income distributions.
+
+U.S. Government Securities Risk. Although certain U.S. Government-sponsored agencies (such as the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association) may be chartered or sponsored by acts of Congress, their securities are neither issued nor guaranteed by the U.S. Treasury. U.S. Treasury securities generally have a lower return than other obligations because of their higher credit quality and market liquidity.
+
+Tax Risk. Income from tax-exempt municipal obligations could be declared taxable because of changes in tax laws, adverse interpretations by the relevant taxing authority or the non-compliant conduct of the issuer of an obligation.
+
+Money Market Instrument Risk. Money market instruments may be adversely affected by market and economic events, such as a sharp rise in prevailing short-term interest rates; adverse developments in the banking industry, which issues or guarantees many money market instruments; adverse economic, political or other developments affecting issuers of money market instruments; changes in the credit quality of issuers; and default by a counterparty.
+
+General Fund Investing Risks. The Fund is not a complete investment program and there is no guarantee that the Fund will achieve its investment objective. It is possible to lose money by investing in the Fund. The Fund is designed to be a long-term investment vehicle and is not suited for short-term trading. Investors in the Fund should have a long-term investment perspective and be able to tolerate potentially sharp declines in value. Purchase and redemption activities by Fund shareholders may impact the management of the Fund and its ability to achieve its investment objective(s). In addition, the redemption by one or more large shareholders or groups of shareholders of their holdings in the Fund could have an adverse impact on the remaining shareholders in the Fund. An investment in the Fund is not a deposit in a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+
+Performance
+
+The following bar chart and table provide some indication of the risks of investing in the Fund by showing changes in the Fund’s performance from year to year and how the Fund’s average annual returns over time compare with those of two broad-based securities market indices.
+
+The Fund commenced operations on March 27, 2009 and is the successor to the operations of a private limited partnership (the “Predecessor Account”). The Predecessor Account was managed by Eaton Vance and had substantially the same investment objective, policies and strategies as the Fund. However, the Predecessor Account was not a mutual fund registered under the Investment Company Act of 1940, as amended (the “1940 Act”) or a regulated investment company under the Internal Revenue Code of 1986, as amended (the “Code”), and therefore the Predecessor Account was not subject to the investment limitations, diversification requirements and other restrictions imposed by the 1940 Act and/or the Code. If such requirements were applicable to the Predecessor Account, the performance shown may have been adversely affected.
+
+Eaton Vance TABS Municipal Bond Funds	5	Prospectus dated June 1, 2018
+ 
+ 
+
+The performance of each Class for the period prior to March 27, 2009 is that of the Predecessor Account. The returns in the bar chart for periods after March 27, 2009 are for Class A shares of the Fund and do not reflect a sales charge. If the sales charge was reflected, the returns would be lower. The Fund’s performance for certain periods after March 27, 2009 reflects the effects of expense reductions. Absent these reductions, performance for certain periods would have been lower. Effective February 17, 2015, the Fund changed its name, objective and investment strategy to invest at least 80% of its net assets in a diversified portfolio of municipal obligations, the interest on which is exempt from regular federal income tax. Past performance (both before and after taxes) is not necessarily an indication of how the Fund will perform in the future. Updated Fund performance information can be obtained by visiting www.eatonvance.com.
+
+
+
+For the ten years ended December 31, 2017, the highest quarterly total return for the Fund or Predecessor Account was 5.03% for the quarter ended December 31, 2008, and the lowest quarterly return for the Fund or Predecessor Account was -2.36% for the quarter ended December 31, 2016. The year-to-date total return through the end of the most recent calendar quarter (December 31, 2017 to March 31, 2018) was -0.99%.
+
+Average Annual Total Return as of December 31, 2017	One Year	Five Years	Ten Years
+Class A Return Before Taxes	-0.26%	0.45%	2.45%
+Class A Return After Taxes on Distributions	-0.30%	0.34%	---
+Class A Return After Taxes on Distributions and the Sale of Class A Shares	0.40%	0.56%	---
+Class C Return Before Taxes	0.21%	0.14%	2.01%
+Class I Return Before Taxes	2.32%	1.14%	2.90%
+Bloomberg  Barclays  5 Year Municipal Bond Index (reflects no deduction for fees, expenses or taxes)	3.14%	1.83%	3.54%
+Bloomberg Barclays Municipal Managed Money 1-7 Year Bond Index (reflects no deduction for fees, expenses or taxes)	2.41%	1.38%	2.98%
+These returns reflect the maximum sales charge for Class A (2.25%) and any applicable contingent deferred sales charge (“CDSC”) for Class C. The performance shown above for each Class for the period prior to March 27, 2009 (commencement of operations) is that of the Predecessor Account adjusted to reflect any applicable sales charge or CDSC of the Class but not adjusted for any other differences in expenses. If adjusted for such differences, returns would be different. Investors cannot invest directly in an Index.
+
+After-Tax Return is calculated using the highest historical individual federal income tax rates and does not reflect the impact of state and local taxes. Actual after-tax returns depend on a shareholder’s tax situation and the actual characterization of distributions, and may differ from those shown. After-tax returns are not relevant to shareholders who hold shares in tax-deferred accounts or to shares held by non-taxable entities. After-tax returns for other Classes of shares will vary from the after-tax returns presented for Class A shares. Return After Taxes on Distributions for a period may be the same as Return Before Taxes for that period because no taxable distributions were made during that period. Also, Return After Taxes on distributions and Sale of Fund Shares for a period may be greater than or equal to Return After Taxes on Distributions for the same period because of losses realized on the sale of Fund shares. After-Tax Returns are not shown for the Ten Years ending December 31, 2017 because the Predecessor Account, unlike a registered investment company, was not required to make annual income distributions to its investors.
+
+Management
+
+Investment Adviser. Eaton Vance Management (“Eaton Vance”).
+
+Portfolio Managers
+
+The portfolio managers of the Fund are part of Eaton Vance’s Tax-Advantaged Bond Strategies (“TABS”) division.
+
+James H. Evans, (lead portfolio manager), Vice President of Eaton Vance, has managed the Fund since it commenced operations in March 2009.
+
+Brian C. Barney, Vice President of Eaton Vance, has managed the Fund since June 2010.
+
+Devin J. Cooch, Vice President of Eaton Vance, has managed the Fund since July 2013.
+
+For important information about purchase and sale of shares, taxes and financial intermediary compensation, please turn to “Important Information Regarding Fund Shares” on page 11 of this Prospectus.

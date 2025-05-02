@@ -1,0 +1,99 @@
+Managed Allocation Fund
+<head_breaker>
+
+INVESTMENT OBJECTIVE
+The USAA Managed Allocation Fund (the Fund) seeks to maximize total return, consisting primarily of capital appreciation.
+FEES AND EXPENSES
+The tables below describe the fees and expenses that you may pay, directly and indirectly, to invest in the Fund. The annual fund operating expenses for the Fund are based on expenses incurred during the Fund’s most recently completed fiscal year.
+Shareholder Fees
+(fees paid directly from your investment)	None
+Annual Fund Operating Expenses
+(expenses that you pay each year as a percentage of the value of your investment)
+Management Fee	0.60%
+Distribution and/or Service (12b-1) Fees	None
+Other Expenses	0.14%
+Acquired Fund Fees and Expenses	0.17%
+Total Annual Fund Operating Expenses	0.91%(a)
+(a)	The total annual operating expenses for the Fund may not correlate to the ratio of expenses to average daily net assets shown in the financial highlights, which reflect the operating expenses of the Fund and do not include acquired fund fees and expenses.
+Example
+This example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. Although your actual costs may be higher or lower, you would pay the following expenses on a $10,000 investment, assuming (1) a 5% annual return, (2) the Fund’s operating expenses remain the same, and (3) you redeem all of your shares at the end of the periods shown.
+1 Year	3 Years	5 Years	10 Years
+$93	$290	$504	$1,120
+Prospectus  |  1
+ 
+
+Table of Contents
+Portfolio Turnover
+The Fund pays transaction costs, including commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when shares of the Fund are held in a taxable account. These costs, which are not reflected in the Annual Fund Operating Expenses or in the Example, affect the Fund’s performance.
+For the most recent fiscal year, the Fund’s portfolio turnover rate was 97% of the average value of its whole portfolio.
+PRINCIPAL INVESTMENT STRATEGY
+The Fund invests primarily in U.S. and/or foreign (to include emerging markets) equity securities and fixed-income securities through investments in shares of other investment companies, including exchange-traded funds (ETFs), and real estate securities, including real estate investment trusts (REITs). Consistent with its investment strategy, the Fund may at times invest directly in U.S. and/or foreign equity securities and fixed-income securities, as well as derivatives, including futures contracts, and hedge funds.
+PRINCIPAL RISKS
+Any investment involves risk, and there is no assurance that the Fund’s objective will be achieved. The Fund is actively managed and the investment techniques and risk analyses used by the Fund's manager(s) may not produce the desired results. As with other mutual funds, losing money is a risk of investing in the Fund.
+The Fund may change the allocation of its portfolio holdings on a frequent basis, which may result in higher portfolio turnover. In purchasing and selling securities in order to reallocate the portfolio, the Fund will pay more brokerage commissions than it would without a reallocation policy. In addition, the Fund may have a higher proportion of capital gains and a potentially lower return than a fund that does not reallocate from time to time.
+The fixed-income securities in the Fund's portfolio are subject to credit risk, which is the possibility that an issuer of a fixed-income security will fail to make timely interest and/or principal payments on its securities or that negative market perceptions of the issuer’s ability to make such payments will cause the price of that security to decline. The Fund accepts some credit risk as a recognized means to enhance an investor’s return. All fixed-income securities, varying from the highest quality to the very speculative, have some degree of credit risk. Fixed-income securities rated below investment grade, also known as “junk” or high-yield bonds, generally entail greater economic,
+2  |  USAA Managed Allocation Fund
+ 
+
+Table of Contents
+credit, and liquidity risk than investment-grade securities. Their prices may be more volatile, especially during economic downturns, financial setbacks, or liquidity events.
+As a mutual fund that has the ability to invest in bonds, as well as in investment companies and ETFs that also may invest in bonds, the Fund is subject to the risk that the market value of the bonds in its portfolio will fluctuate because of changes in interest rates, changes in the supply of and demand for securities, and other market factors. Bond prices generally are linked to the prevailing market interest rates. In general, when interest rates rise, bond prices fall; conversely, when interest rates fall, bond prices rise. The price volatility of a bond also depends on its maturity. Generally, the longer the maturity of a bond, the greater is its sensitivity to interest rates. To compensate investors for this higher interest rate risk, bonds with longer maturities generally offer higher yields than bonds with shorter maturities. Because the Federal Reserve has begun to raise interest rates, the Fund may face a heightened level of interest rate risk.
+In addition, market developments and other factors, including a general rise in interest rates, have the potential to cause investors to move out of fixed-income securities on a large scale, which may increase redemptions from mutual funds that hold large amounts of fixed-income securities. Such a move, coupled with a reduction in the ability or willingness of dealers and other institutional investors to buy or hold fixed-income securities, may result in decreased liquidity and increased volatility in the fixed-income markets. Heavy redemptions of fixed-income mutual funds and decreased liquidity from fixed-income securities could hurt the Fund’s performance.
+The Fund may invest in futures, options, and other types of derivatives. Risks associated with derivatives include the risk that the derivative is not well-correlated with the security, index, ETF, or currency to which it relates; the risk that the use of derivatives may not have the intended effects and may result in losses, underperformance, or missed opportunities; the risk that the Fund will be unable to sell the derivative because of an illiquid secondary market; the risk that a counterparty is unwilling or unable to meet its obligation; the risk of interest rate movements; and the risk that the derivatives transaction could expose the Fund to the effects of leverage, which could increase the Fund’s market exposure, magnify investment risks and losses, and cause losses to be realized more quickly. There is no guarantee that derivative techniques will be employed or that they will work as intended, and their use could lower returns or even result in losses to the Fund.
+Because the Fund invests in stocks and other instruments whose value is tied to stocks, it is subject to stock market risk, which is the possibility that the value of the Fund’s investments in stocks will decline regardless of the success or failure of a company’s operations. In addition, there is a possibility that the value of the Fund’s investments in foreign securities will decrease because of unique risks, such as currency exchange rate fluctuations; foreign
+Prospectus  |  3
+ 
+
+Table of Contents
+market illiquidity; emerging-market risk; increased price volatility; uncertain political conditions and environments; exchange control regulations; foreign ownership limits; different accounting, reporting, and disclosure requirements; less publicly available information about foreign issuers; difficulties in obtaining legal judgments; and foreign withholding taxes.
+ETFs, which generally are registered investment companies, incur their own management and other fees and expenses, such as trustees’ fees, operating expenses, registration fees, and marketing expenses, a proportionate share of which will be borne indirectly by the Fund as a shareholder in an ETF. As a result, the Fund’s investment in an ETF will cause the Fund to indirectly bear the fees and expenses of the ETF and, in turn, the Fund’s performance may be lower than if the Fund were to invest directly in the underlying securities held by the ETF. For investments in affiliated USAA ETFs, the Fund’s management fee is reimbursed by the Adviser to the extent of the indirect management fee incurred through the Fund’s investment in the affiliated ETFs. The Adviser may have conflicts of interest in allocating assets among affiliated and unaffiliated ETFs, because the Adviser also manages and administers the affiliated ETFs, and the Adviser and its affiliates receive other fees from the affiliated ETFs. In addition, the Fund also will be subject to the risks associated with the securities or other investments held by the ETFs.
+There is a risk that the value of the Fund’s investment in REITs will decrease because of a decline in real estate values more broadly. Investing in REITs may subject the Fund to many of the same risks associated with the direct ownership of real estate. Additionally, REITs are dependent upon the capabilities of the REIT’s manager(s); have limited diversification; and may be particularly sensitive to economic downturns or changes in interest rates, real estate values, cash flows of underlying real estate assets, occupancy rates, zoning laws, and tax laws. Because REITs are pooled investment vehicles that incur expenses of their own, the Fund will indirectly bear its proportionate share of those expenses.
+An investment in the Fund is not a deposit in USAA Federal Savings Bank, or any other bank, and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+PERFORMANCE
+The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart provides some indication of the risks of investing in the Fund and illustrates the volatility and performance from year to year for each full calendar year since the Fund's inception. The table shows how the Fund’s average annual total returns for the periods indicated compared to those of the Fund’s benchmark index and an additional broad-based securities market index with investment characteristics similar to the Fund. Performance reflects any expense limitations in effect during the periods shown.
+4  |  USAA Managed Allocation Fund
+ 
+
+Table of Contents
+Remember, historical performance (before and after taxes) does not necessarily indicate what will happen in the future. For the Fund’s most current performance information, log on to usaa.com or call (800) 531-USAA (8722) or (210) 531-8722.
+RISK/RETURN BAR CHART
+Annual Returns for Periods Ended December 31
+(Fund began operations on February 1, 2010)
+
+During the periods shown in the chart:	Returns	Quarter ended
+Highest Quarter Return	4.81%	March 31, 2017
+Lowest Quarter Return	-6.22%	September 30, 2015
+Year-to-Date Return	-4.32%	June 30, 2018
+After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. In certain situations, the return after taxes on distributions and sale of fund shares may be higher than the other return amounts. A higher after-tax return may result when a capital loss occurs upon redemption and translates into an assumed tax deduction that benefits the shareholder. The actual after-tax returns depend on your tax situation and may differ from those shown. If you hold your shares through a tax-deferred arrangement, such as an individual retirement account (IRA) or 401(k) plan, the after-tax returns shown in the table are not relevant to you.
+Prospectus  |  5
+ 
+
+Table of Contents
+AVERAGE ANNUAL TOTAL RETURNS
+For Periods Ended December 31, 2017
+ 	Past
+1 Year	Past
+5 Years	Since
+Inception	Inception
+Date
+Return Before Taxes	16.21%	4.00%	6.21%	2/1/2010
+Return After Taxes on Distributions	15.04%	3.04%	4.98%	 
+Return After Taxes on Distributions and Sale of Fund Shares	9.17%	2.65%	4.43%	 
+Indexes
+S&P 500® Index (reflects no deduction for fees, expenses, or taxes)	21.96%	15.79%	12.02%	2/1/2010
+Bloomberg Barclays U.S. Aggregate Bond Index (reflects no deduction for fees, expenses, or taxes)	3.54%	2.10%	3.48%	2/1/2010
+INVESTMENT ADVISER
+USAA Asset Management Company (“AMCO” or “Adviser”)
+PORTFOLIO MANAGERS
+Wasif A. Latif, Vice President, Head of Global Multi-Assets, is responsible for the Fund’s asset allocation and has co-managed the Fund since February 2010.
+Lance Humphrey, CFA, Assistant Vice President, Global Multi-Asset Portfolio Management, has co-managed the Fund since March 2016.
+PURCHASE AND SALE OF SHARES
+This Fund is not offered for sale directly to the general public and currently is available for investment only to other USAA funds participating in a fund-of-funds investment strategy and other accounts managed by AMCO or an affiliate. The Fund may be offered to other persons and legal entities that AMCO may approve from time to time. There are no minimum initial or subsequent purchase amounts for investment in the Fund.
+TAX INFORMATION
+The Fund intends to make distributions that generally will be taxed to you as ordinary income or long-term capital gains, unless you are a tax-exempt investor or you invest through an IRA, 401(k) plan, or other tax-deferred account (in which case you may be taxed later, upon withdrawal of your investment from such account).
+6  |  USAA Managed Allocation Fund
+ 
+
+Table of Contents
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+If you purchase shares of the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies may pay the intermediary for the sale of such shares and certain servicing and administrative functions. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

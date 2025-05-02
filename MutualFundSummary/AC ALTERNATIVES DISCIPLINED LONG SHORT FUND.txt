@@ -1,0 +1,256 @@
+AC ALTERNATIVES DISCIPLINED LONG SHORT FUND
+<head_breaker>
+
+Fund Summary
+Investment Objective
+The fund seeks long-term capital growth.
+Fees and Expenses
+The following table describes the fees and expenses you may pay if you buy and hold shares of the fund. You may qualify for sales charge discounts if you and your family invest, or agree to invest in the future, at least $50,000 in American Century Investments funds. More information about these and other discounts is available from your financial professional and in Calculation of Sales Charges on page 14 of the fund’s prospectus, Appendix A of the fund’s prospectus and Sales Charges in Appendix B of the statement of additional information.
+Shareholder Fees (fees paid directly from your investment)
+ 
+Investor
+I1
+A
+C
+R
+Maximum Sales Charge (Load) Imposed on
+Purchases (as a percentage of offering price)
+None
+None
+5.75%
+None
+None
+Maximum Deferred Sales Charge (Load) 
+(as a percentage of the lower of the original 
+offering price or redemption proceeds when
+redeemed within one year of purchase)
+None
+None
+None²
+1.00%
+None
+Maximum Annual Account Maintenance Fee
+(waived if eligible investments total at least $10,000)
+$25
+None
+None
+None
+None
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+ 
+Investor
+I
+A
+C
+R
+Management Fee
+   1.44%
+   1.24%
+   1.44%
+   1.44%
+   1.44%
+Distribution and Service (12b-1) Fees
+   None
+   None
+   0.25%
+   1.00%
+   0.50%
+Other Expenses
+   0.95%
+   0.95%
+   0.95%
+   0.95%
+   0.95%
+Dividends on Short Sales
+0.46%
+0.46%
+0.46%
+0.46%
+0.46%
+Broker Fees and Charges on Short Sales
+0.49%
+0.49%
+0.49%
+0.49%
+0.49%
+Other
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+Total Annual Fund Operating Expenses
+   2.39%
+   2.19%
+   2.64%
+   3.39%
+   2.89%
+1 
+Prior to April 10, 2017, this class was referred to as the Institutional Class. 
+2 
+Purchases of $1 million or more may be subject to a contingent deferred sales charge of 1.00% if the shares are redeemed within one year of the date of the purchase.
+Example
+The example below is intended to help you compare the costs of investing in the fund with the costs of investing in other mutual funds. The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods, that you earn a 5% return each year, and that the fund’s operating expenses remain the same. You may be required to pay brokerage commissions on your purchases of Investor or I Class shares of the fund, which are not reflected in the example. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+ 
+1 year
+3 years
+5 years
+10 years
+Investor Class
+$243
+$747
+$1,276
+$2,722
+I Class
+$223
+$686
+$1,175
+$2,520
+A Class
+$827
+$1,349
+$1,895
+$3,372
+C Class
+$343
+$1,044
+$1,766
+$3,667
+R Class
+$293
+$896
+$1,524
+$3,207
+Portfolio Turnover
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable
+
+2
+
+
+account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s performance. During the most recent fiscal year, the fund’s portfolio turnover rate was 243% of the average value of its portfolio.
+Principal Investment Strategies
+The portfolio managers initially identify an eligible universe of growth stocks and then use quantitative models in a two-step process to construct the portfolio of equity securities (principally common stocks) for the fund. In the first step, the managers rank stocks, primarily large and mid capitalization, publicly traded U.S. companies with a market capitalization greater than $2 billion, from most to least attractive by using a quantitative model that combines measures that the advisor believes are predictive of an individual stock’s performance, including valuation, quality, growth, and sentiment. In the second step, the managers use a quantitative model to build a portfolio that provides the optimal balance between risk and expected return.
+The portfolio managers buy, or take long positions in, equity securities that they have identified as the most attractive and take short positions in equity securities that they have identified as the least attractive using the multi-factor quantitative model described above. A long position arises when the fund buys a security outright. A short position arises when the fund sells a security it does not own but has borrowed in anticipation that the market price of the security will decline. If the market price in fact declines, the fund can replace the borrowed security at a lower price and capture the value represented by the difference between the higher sale price and the lower replacement price. The proceeds from the securities sold short may be used to fund the purchase of additional long positions or held as cash or cash equivalents. Using such proceeds to fund the purchase of additional long positions may result in a long exposure greater than 100%. The amount of the long and short positions held by the fund may vary over time depending on prevailing market conditions. In the aggregate, the fund expects to have net long exposure to the equity markets, which the portfolio managers may adjust over time. Typically, the fund’s net exposure (long minus short positions) ranges between 30% and 70%.
+The portfolio managers generally sell a stock from the fund’s long portfolio when they believe it has become less attractive relative to other opportunities, its risk characteristics outweigh its return opportunity or specific events alter its prospects.
+The fund’s use of short selling as a primary investment strategy creates leverage in an attempt to increase returns.
+The fund may invest a portion of its assets in foreign securities when these securities meet the portfolio managers’ standards of selection.
+As part of the fund’s principal investment strategy, a significant portion of the fund’s assets may be invested in cash and cash equivalent securities. The fund’s cash holdings may vary over time as the portfolio managers adjust the fund’s net long exposure.
+The fund may engage in active and frequent trading of portfolio securities to achieve its principal investment strategies. This may cause higher transaction costs and may affect performance. It may also result in the realization and distribution of capital gains.
+Principal Risks
+•
+Style Risk – If at any time the market is not favoring the fund’s quantitative investment style, the fund’s gains may not be as big as, or its losses may be bigger than, those of other equity funds using different investment styles.
+•
+Investment Process Risk – Stocks selected by the portfolio managers using quantitative models may perform differently than expected due to the portfolio managers’ judgments regarding the factors used in the models, the weight placed on each factor, changes from the factors’ historical trends, and technical issues with the construction and implementation of the models (including, for example, data problems and/or software or other implementation issues). There is no guarantee that the use of the quantitative model will result in effective investment decisions for the fund. Additionally, the commonality of portfolio holdings across quantitative investment managers may amplify losses.
+•
+Foreign Securities – The fund may invest in foreign securities, which can be riskier than investing in U.S. securities. Securities of foreign issuers may be less liquid, more volatile and harder to value than U.S. stocks.
+•
+Short Sales Risk – If the market price of a security increases after the fund borrows the security, the fund may suffer a loss when it replaces the borrowed security at the higher price. Any loss will be increased by the amount of compensation, interest or dividends, and transaction costs the fund must pay to the lender of the borrowed security. In addition, because the fund’s loss on a short sale stems from increases in the value of the security sold short, the extent of such loss, like the price of the security sold short, is theoretically unlimited.
+•
+Leverage Risk – The fund’s investment strategy utilizes leverage, which can increase market exposure and subject the fund to greater risk and higher volatility.
+•
+Overweighting Risk – If the fund is overweighted in a stock or sector, any negative development related to that stock or sector will have a greater impact on the fund than other funds that are not overweighted in that stock or sector.
+•
+Growth Stocks – Investments in growth stocks may be more volatile than other stocks and the overall stock market. These stocks are typically priced higher than other stocks because of their growth potential, which may or may not be realized.
+•
+Small Cap Stocks – Though the fund invests primarily in larger companies, it may also invest in smaller companies. Investments in smaller companies may be more volatile and subject to greater risk than larger companies. Smaller companies may have limited
+
+3
+
+
+financial resources, product lines and markets, and their securities may trade less frequently and in more limited volumes than the securities of larger companies, which could lead to higher transaction costs.
+•
+Cash Holdings Risk – The fund may hold a significant position in cash and cash equivalent securities. As a result, the fund may not participate in market advances or declines to the same extent that it would if the fund were more fully invested.
+•
+Market Risk – The value of the fund’s shares will go up and down based on the performance of the companies whose securities it owns and other factors generally affecting the securities market.
+•
+Price Volatility – The value of the fund’s shares may fluctuate significantly in the short term.
+•
+Principal Loss – At any given time your shares may be worth less than the price you paid for them. In other words, it is possible to lose money by investing in the fund.
+An investment in the fund is not a bank deposit, and it is not insured or guaranteed by the Federal Deposit Insurance Corporation (FDIC) or any other government agency.
+Fund Performance
+The following bar chart and table provide some indication of the risks of investing in the fund. The bar chart shows changes in the fund’s performance from year to year for Investor Class shares. The table shows how the fund’s average annual returns for the periods shown compared with those of a broad measure of market performance. The fund’s past performance (before and after taxes) is not necessarily an indication of how the fund will perform in the future. For current performance information, please visit americancentury.com.
+Sales charges and account fees, if applicable, are not reflected in the bar chart. If those charges were included, returns would be less than those shown.
+Calendar Year Total Returns  
+ acqef201748_chart-20982a01.jpg
+Highest Performance Quarter (1Q 2012): 17.14% Lowest Performance Quarter (2Q 2012): -5.40%
+As of September 30, 2018 , the most recent calendar quarter end, the fund’s Investor Class year-to-date return was 4.94% .
+
+4
+
+
+Average Annual Total Returns
+For the calendar year ended December 31, 2017
+1 year
+5 years
+Since
+Inception
+Inception
+Date
+Investor Class Return Before Taxes
+10.79%
+13.48%
+13.09%
+10/31/2011
+Return After Taxes on Distributions
+8.98%
+12.56%
+12.33%
+10/31/2011
+Return After Taxes on Distributions and Sale of Fund Shares
+7.61%
+10.73%
+10.56%
+10/31/2011
+I Class Return Before Taxes
+11.09%
+13.71%
+13.31%
+10/31/2011
+A Class Return Before Taxes
+4.21%
+11.87%
+11.73%
+10/31/2011
+C Class Return Before Taxes
+9.71%
+12.37%
+11.97%
+10/31/2011
+R Class Return Before Taxes
+10.29%
+12.91%
+12.52%
+10/31/2011
+Russell 1000® Growth Index
+   (reflects no deduction for fees, expenses or taxes)
+30.21%
+17.32%
+16.41%
+10/31/2011
+HFRX Equity Hedge Index
+   (reflects no deduction for fees, expenses or taxes)
+9.98%
+3.92%
+3.58%
+10/31/2011
+The after-tax returns are shown only for Investor Class shares. After-tax returns for other share classes will vary. After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. Actual after-tax returns depend on an investor’s tax situation and may differ from those shown. After-tax returns are not relevant to investors who hold their fund shares through tax-deferred arrangements, such as 401(k) plans or IRAs.
+Portfolio Management
+Investment Advisor
+American Century Investment Management, Inc.
+Portfolio Managers
+Yulin Long, CFA, Vice President, Portfolio Manager and Senior Quantitative Analyst, has been a member of the team that manages the fund since the fund’s inception in 2011.
+Tsuyoshi Ozaki, Portfolio Manager, has been a member of the team that manages the fund since 2017.
+Purchase and Sale of Fund Shares
+You may purchase or redeem shares of the fund on any business day through our website at americancentury.com, in person (at one of our Investor Centers), by mail (American Century Investments, P.O. Box 419200, Kansas City, MO 64141-6200), by telephone at 1-800-345-2021 (Investor Services Representative) or 1-800-345-3533 (Business, Not-For-Profit and Employer-Sponsored Retirement Plans), or through a financial intermediary. Shares may be purchased and redemption proceeds received by electronic bank transfer, by check or by wire.
+Unless otherwise specified below, the minimum initial investment amount to open an account is $2,500 ($2,000 for Coverdell Education Savings Accounts). Investors opening accounts through financial intermediaries may open an account with $250 for Investor, A, C and R Classes, but the financial intermediaries may require their clients to meet different investment minimums. The minimum may be waived for broker-dealer sponsored wrap program accounts, fee based accounts, and accounts through bank/trust and wealth management advisory organizations.
+The minimum initial investment amount for I Class is generally $5 million ($3 million for endowments and foundations), but the minimum may be waived if you have an aggregate investment in the American Century family of funds of $10 million or more ($5 million for endowments and foundations). This includes accounts held directly with American Century and those held through a financial intermediary.
+For the Investor, A, C and R Classes, there is no minimum initial investment amount for certain employer-sponsored retirement plans, however, financial intermediaries or plan recordkeepers may require plans to meet different minimums. For purposes of fund minimums, employer-sponsored retirement plans do not include SEP IRAs, SIMPLE IRAs or SARSEPs. Employer-sponsored retirement plans are not eligible to invest in the I Class.
+There is a $50 minimum for subsequent purchases, except that there is no subsequent purchase minimum for financial intermediaries or employer-sponsored retirement plans.
+
+5
+
+
+Tax Information
+Fund distributions are generally taxable as ordinary income or capital gains, unless you are investing through a tax-deferred account such as a 401(k) or individual retirement account (in which case you may be taxed upon withdrawal of your investment from such account).
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you purchase the fund through a broker-dealer or other financial intermediary (such as a bank, insurance company, plan sponsor or financial professional), the fund and its related companies may pay the intermediary for the sale of fund shares and related services for investments in all classes. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

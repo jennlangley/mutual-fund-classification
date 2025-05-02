@@ -1,0 +1,119 @@
+Total Return Strategy Fund
+<head_breaker>
+
+INVESTMENT OBJECTIVE
+The USAA Total Return Strategy Fund (the Fund) seeks capital appreciation through the use of a dynamic allocation strategy, across stocks, bonds, and cash instruments.
+FEES AND EXPENSES
+The tables below describe the fees and expenses that you may pay, directly and indirectly, to invest in the Fund. The annual fund operating expenses for the Fund Shares and Institutional Shares are based on expenses incurred during the Fund’s most recently completed fiscal year.
+Shareholder Fees
+(fees paid directly from your investment)
+ 	Fund Shares	Inst. Shares
+ 	None	None
+Annual Fund Operating Expenses
+(expenses that you pay each year as a percentage of the value of your investment)
+ 	Fund Shares	Inst. Shares
+Management Fee (fluctuates based on the Fund's performance relative to a securities market index)	0.58%	0.47%
+Distribution and/or Service (12b-1) Fees	None	None
+Other Expenses	0.87%	0.58%
+Acquired Fund Fees and Expenses	0.26%	0.26%
+Total Annual Fund Operating Expenses	1.71%(a)	1.31%(a)
+(a)	The Total Annual Fund Operating Expenses for the Fund Shares and Institutional Shares may not correlate to the ratio of expenses to average daily net assets shown in the financial highlights, which reflect the operating expenses of the Fund Shares and Institutional Shares and do not include Acquired Fund Fees and Expenses.
+Example
+This example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. Although your actual costs may be higher or lower, you would pay the following expenses on a $10,000 investment, assuming (1) a 5% annual return, (2) the Fund’s operating expenses remain the same, and (3) you redeem all of your shares at the end of the periods shown.
+Prospectus  |  1
+ 
+
+Table of Contents
+ 	1 Year	3 Years	5 Years	10 Years
+Fund Shares	$174	$539	$928	$2,019
+Inst. Shares	$133	$415	$718	$1,579
+Portfolio Turnover
+The Fund pays transaction costs, including commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when shares of the Fund are held in a taxable account. These costs, which are not reflected in the Annual Fund Operating Expenses or in the Example, affect the Fund’s performance.
+For the most recent fiscal year, the Fund’s portfolio turnover rate was 15% of the average value of its whole portfolio.
+PRINCIPAL INVESTMENT STRATEGY
+In seeking to achieve its objective, the Fund's assets are invested pursuant to a dynamic asset allocation strategy that shifts assets among equity securities, investment-grade bonds, and/or cash equivalents. The dynamic asset allocation strategy seeks to identify the most attractive asset classes based on a multi-faceted approach using both a valuation and fundamental framework. The Fund generally will invest in U.S. and foreign stocks and investment-grade bonds, directly or through exchange-traded funds (ETFs), and/or cash equivalents through investment in short-term, high-quality money market instruments or money market funds. Equity securities in which the Fund may invest include common stocks, securities convertible into common stocks, securities that carry the right to buy common stocks, preferred securities, and ETFs. The bond and money market securities in which the Fund may invest include obligations of U.S., state, and local governments, their agencies and instrumentalities; mortgage- and asset-backed securities; corporate debt securities; repurchase agreements; and other securities believed to have debt-like characteristics, including preferred and synthetic securities.
+In addition, in an attempt to reduce the Fund’s volatility over time, the Fund may employ an options-based risk-management strategy by purchasing and/or selling options on component indexes or corresponding ETFs and individual equities to attempt to provide the Fund with fairly consistent returns over a wide range of equity market environments.
+2  |  USAA Total Return Strategy Fund
+ 
+
+Table of Contents
+PRINCIPAL RISKS
+Any investment involves risk, and there is no assurance that the Fund’s objective will be achieved. The Fund is actively managed and the investment techniques and risk analyses used by the Fund’s manager(s) may not produce the desired results. As you consider an investment in the Fund, you also should take into account your tolerance for the daily fluctuations of the financial markets and whether you can afford to leave your money in the Fund for long periods of time to ride out down periods. As with other mutual funds, losing money is a risk of investing in the Fund.
+The equity securities in the Fund’s portfolio are subject to stock market risk. A company’s stock price in general may decline over short or even extended periods, regardless of the success or failure of the company’s operations. Stock markets tend to run in cycles, with periods when stock prices generally go up and periods when stock prices generally go down. Equity securities tend to be more volatile than debt securities. In addition, to the degree the Fund invests in foreign securities, there is a possibility that the value of the Fund’s investments in foreign securities will decrease because of unique risks, such as currency exchange-rate fluctuations; foreign market illiquidity; emerging-market risk; increased price volatility; uncertain political conditions; exchange-control regulations; foreign ownership limits; different accounting, reporting, and disclosure requirements; difficulties in obtaining legal judgments; and foreign withholding taxes. These risks may be heightened to the extent the Fund invests in emerging-market countries. Emerging-market countries are less economically diverse and less mature than more developed countries and tend to be less politically stable.
+The fixed-income securities in the Fund's portfolio are subject to credit risk, which is the possibility that an issuer of a fixed-income security will fail to make timely interest and/or principal payments on its securities or that negative market perceptions of the issuer’s ability to make such payments will cause the price of that security to decline. The Fund accepts some credit risk as a recognized means to enhance an investor’s return. All fixed-income securities, varying from the highest quality to the very speculative, have some degree of credit risk. Fixed-income securities rated below investment grade, also known as “junk” or high-yield bonds, generally entail greater economic, credit, and liquidity risk than investment-grade securities. Their prices may be more volatile, especially during economic downturns, financial setbacks, or liquidity events.
+The Fund is subject to the risk that the market value of the bonds in its portfolio will fluctuate because of changes in interest rates, changes in the supply of and demand for debt securities, and other market factors. Bond prices generally are linked to the prevailing market interest rates. In general, when interest rates rise, bond prices fall; and conversely, when interest rates fall, bond prices rise. The price volatility of a bond also depends on its maturity. Generally, the longer the maturity of a bond, the greater is its
+Prospectus  |  3
+ 
+
+Table of Contents
+sensitivity to interest rates. To compensate investors for this higher interest rate risk, bonds with longer maturities generally offer higher yields than bonds with shorter maturities. The Fund may be subject to a greater risk of rising interest rates due to the current period of historically low rates.
+ETFs, which generally are registered investment companies, incur their own management and other fees and expenses, such as trustees’ fees, operating expenses, registration fees, and marketing expenses, a proportionate share of which will be borne indirectly by the Fund as a shareholder in an ETF. As a result, the Fund’s investment in an ETF will cause the Fund to indirectly bear the fees and expenses of the ETF and, in turn, the Fund’s performance may be lower than if the Fund were to invest directly in the underlying securities held by the ETF. For investments in affiliated USAA ETFs, the Fund’s management fee is reimbursed by the Adviser to the extent of the indirect management fee incurred through the Fund’s investment in the affiliated ETFs. The Adviser is subject to potential conflicts of interest in allocating assets among affiliated and unaffiliated ETFs because the Adviser also is responsible for managing and administering the affiliated ETFs, and the Adviser and its affiliates receive other fees from the affiliated ETFs. In addition, the Fund also will be subject to the risks associated with the securities or other investments held by the ETFs.
+The Fund may invest in futures, options, and other types of derivatives. Risks associated with derivatives include the risk that the derivative is not well-correlated with the security, index, ETF, or currency to which it relates; the risk that the use of derivatives may not have the intended effects and may result in losses, underperformance, or missed opportunities; the risk that the Fund will be unable to sell the derivative because of an illiquid secondary market; the risk that a counterparty is unwilling or unable to meet its obligation; the risk of interest rate movements; and the risk that the derivatives transaction could expose the Fund to the effects of leverage, which could increase the Fund’s market exposure, magnify investment risks and losses, and cause losses to be realized more quickly. There is no guarantee that derivative techniques will be employed or that they will work as intended, and their use could lower returns or even result in losses to the Fund.
+The Fund could experience a loss in the options portion of the portfolio, particularly during periods when market values are increasing but market volatility is high. When it sells index or corresponding ETF call options, the Fund receives cash but limits its opportunity to profit from an increase in the market value of its stock portfolio. When the Fund purchases index or corresponding ETF put options, it risks the loss of the cash paid for the options. At times, the Fund may not own put options, which increases exposure to a market decline. When the Fund simultaneously buys index put options and sells index put options to fund the purchases, resulting in an
+4  |  USAA Total Return Strategy Fund
+ 
+
+Table of Contents
+index put spread, the Fund has increased exposure to further market decline if the market price of the index falls below the strike price of the short index put option.
+While the Fund does not concentrate in any industry, to the extent that the Fund has exposure to a given industry or sector, any factors affecting that industry or sector could affect the value of portfolio securities. This risk is increased to the extent that the Fund has overweight investments in a particular industry or sector.
+The risk of investing in securities that generally are less liquid than higher-quality securities is referred to as liquidity risk. The market for lower-quality issues generally is less liquid than the market for higher-quality issues. Therefore, large purchases or sales could cause sudden and significant price changes in these securities. Many lower-quality issues do not trade frequently; however, when they do trade, the trade price may be substantially higher or lower than expected.
+To implement the Fund’s principal investment strategies and to take advantage of opportunities and to manage risk, the Fund’s securities may be actively and frequently traded. In purchasing and selling securities in order to reallocate its portfolio, the Fund will pay more in brokerage commissions than it would if it did not reallocate assets among asset classes from time to time. While we will attempt to minimize any adverse impact to the Fund or its shareholders, the Fund may have a higher proportion of net realized capital gains which would be taxable to shareholders when distributed to them and a potentially lower return than a fund that does not reallocate from time to time.
+An investment in the Fund is not a deposit in USAA Federal Savings Bank, or any other bank, and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+PERFORMANCE
+The following bar chart and table are intended to help you understand the risks of investing in the Fund. The Fund has two classes of shares: Fund Shares and Institutional Shares. The bar chart provides some indication of the risks of investing in the Fund and illustrates the Fund Shares class's volatility and performance from year to year for each full calendar year over the past 10 years. The table shows how the average annual total returns of the share classes for the periods indicated compared to those of the Fund's benchmark index and an additional broad-based securities market index with investment characteristics similar to the Fund. Performance reflects any expense limitations in effect during the periods shown.
+Remember, historical performance (before and after taxes) does not necessarily indicate what will happen in the future. For the Fund’s most current performance information, log on to usaa.com or call (800) 531-USAA (8722) or (210) 531-8722.
+Prospectus  |  5
+ 
+
+Table of Contents
+RISK/RETURN BAR CHART
+Annual Returns for Periods Ended December 31
+
+During the periods shown in the chart:	Returns	Quarter ended
+Highest Quarter Return	8.82%	June 30, 2009
+Lowest Quarter Return	-14.54%	December 31, 2008
+Year-to-Date Return	-1.87%	March 31, 2018
+After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. In certain situations, the return after taxes on distributions and sale of fund shares may be higher than the other return amounts. A higher after-tax return may result when a capital loss occurs upon redemption and translates into an assumed tax deduction that benefits the shareholder. The actual after-tax returns depend on your tax situation and may differ from those shown. If you hold your shares through a tax-deferred arrangement, such as an individual retirement account (IRA) or 401(k) plan, the after-tax returns shown in the table are not relevant to you. Please note that after-tax returns are only shown for the Fund Shares and may differ for each share class.
+6  |  USAA Total Return Strategy Fund
+ 
+
+Table of Contents
+AVERAGE ANNUAL TOTAL RETURNS
+For Periods Ended December 31, 2017
+ 	Past
+1 Year	Past
+5 Years	Past
+10 Years	Since
+Inception	Inception
+Date
+Fund Shares	 	 	 	 	 
+Return Before Taxes	6.60%	-0.60%	-0.11%	 	 
+Return After Taxes on Distributions	6.59%	-0.74%	-0.28%	 	 
+Return After Taxes on Distributions and Sale of Fund Shares	3.73%	-0.48%	-0.08%	 	 
+Institutional Shares	 	 	 	 	 
+Return Before Taxes	6.92%	–	–	0.29%	7/12/2013
+Indexes
+MSCI All-Country World Index (reflects no deduction for fees, expenses, or taxes)	23.97%	10.82%	4.65%	9.70%	7/12/2013
+Bloomberg Barclays U.S. Universal Index (reflects no deduction for fees, expenses, or taxes)	4.09%	2.50%	4.33%	3.36%	7/12/2013
+Lipper Flexible Portfolio Funds Index (reflects no deduction for taxes)	15.47%	7.77%	5.21%	7.09%	7/12/2013
+INVESTMENT ADVISER
+USAA Asset Management Company (“AMCO” or “Adviser”)
+PORTFOLIO MANAGERS
+Wasif A. Latif, Vice President, Head of Global Multi-Assets, is the asset allocation manager of the Fund and has managed the portion of the Fund’s assets invested in ETFs since May 2009 and options since February 2011.
+Anthony M. Era, Jr., CFA, Vice President, Money Market Funds, has co-managed the Fund since October 2006.
+Lance Humphrey, CFA, Executive Director, Global Multi-Asset Portfolio Management, has co-managed the Fund since March 2016.
+Prospectus  |  7
+ 
+
+Table of Contents
+PURCHASE AND SALE OF SHARES
+Fund Shares:
+You may purchase or sell Fund Shares through a USAA investment account on any business day through our website at usaa.com or mobile.usaa.com, or by telephone at (800) 531-USAA (8722) or (210) 531-8722. You also may purchase or sell Fund Shares through certain other financial intermediaries. If you have opened an account directly with the Fund, you also may purchase and sell Fund Shares by mail at P.O. Box 659453, San Antonio, Texas 78265-9825.
+■	Minimum initial purchase: $3,000
+■	Minimum subsequent investment: $50
+Institutional Shares:
+The Institutional Shares are not offered for sale directly to the general public. The minimum initial purchase is $1 million; however, the Fund reserves the right to waive or lower purchase minimums in certain circumstances.
+TAX INFORMATION
+The Fund intends to make distributions that generally will be taxed to you as ordinary income or long-term capital gains, unless you are a tax-exempt investor or you invest through an IRA, 401(k) plan, or other tax-deferred account (in which case you may be taxed later, upon withdrawal of your investment from such account).
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+If you purchase shares of the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies may pay the intermediary for the sale of such shares and certain servicing and administrative functions. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

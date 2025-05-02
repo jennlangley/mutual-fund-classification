@@ -1,0 +1,194 @@
+BALANCED FUND
+<head_breaker>
+
+Fund Summary
+Investment Objective 
+The fund seeks long-term capital growth and current income by investing approximately 60% of its assets in equity securities and the remainder in bonds and other fixed-income securities. 
+ Fees and Expenses 
+The following table describes the fees and expenses you may pay if you buy and hold shares of the fund.
+Shareholder Fees (fees paid directly from your investment)
+ 
+ 
+ 
+ 
+Investor
+I1
+R5
+Maximum Annual Account Maintenance Fee
+(waived if eligible investments total at least $10,000)
+$25
+None
+None
+ 
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+ 
+ 
+Investor
+I
+R5
+Management Fee
+0.90%
+0.70%
+0.70%
+Distribution and Service (12b-1) Fees
+None
+None
+None
+Other Expenses
+0.01%
+0.01%
+0.01%
+Total Annual Fund Operating Expenses
+0.91%
+0.71%
+0.71%
+    
+1 Prior to April 10, 2017, this class was referred to as the Institutional Class.
+Example 
+The example below is intended to help you compare the costs of investing in the fund with the costs of investing in other mutual funds. The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods, that you earn a 5% return each year, and that the fund’s operating expenses remain the same. You may be required to pay brokerage commissions on your purchases of Investor or I Class shares of the fund, which are not reflected in the example. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+ 
+1 year
+3 years
+5 years
+10 years
+Investor Class
+$93
+$291
+$504
+$1,120
+I Class
+$73
+$227
+$396
+$883
+R5 Class
+$73
+$227
+$396
+$883
+Portfolio Turnover 
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s performance. During the most recent fiscal year, the fund’s portfolio turnover rate was 112% of the average value of its portfolio. 
+Principal Investment Strategies
+For the equity portion of the fund, the portfolio managers select stocks using quantitative management techniques in a two-step process. First, the managers rank stocks, primarily those of large (those with a market cap greater than $2 billion), publicly-traded U.S. companies from most attractive to least attractive based on an objective set of measures, including valuation, quality, growth and sentiment. Second, the portfolio managers use a quantitative model to build a portfolio of stocks from the ranking described above that they believe will provide the optimal balance between risk and expected return. The portfolio managers generally sell a stock when they believe it has become less attractive relative to other opportunities, its risk characteristics outweigh its return opportunity or specific events alter its prospects.
+For the fixed-income portion of the fund, the portfolio managers invest in a diversified portfolio of high- and medium-grade non-money market debt securities. These securities, which may be payable in U.S. or foreign currencies, may include corporate bonds and notes, government securities, bank loans, securities backed by mortgages or other assets and collateralized debt obligations (including collateralized loan obligations). Shorter-term debt securities round out the portfolio. 
+
+2#
+
+
+
+
+
+Principal Risks 
+•
+Style Risk — If at any time the market is not favoring the quantitative investment style used to manage the fund’s equity portion, that portion’s gains may not be as big as, or its losses may be bigger than, those of other equity funds using different investment styles.
+•
+Investment Process Risk — Stocks selected by the portfolio managers using quantitative models may perform differently than expected due to the portfolio managers’ judgments regarding the factors used in the models, the weight placed on each factor, changes from the factors’ historical trends, and technical issues with the construction and implementation of the models (including, for example, data problems and/or software or other implementation issues). There is no guarantee that the use of the quantitative models will result in effective investment decisions for the fund. Additionally, the commonality of portfolio holdings across quantitative investment managers may amplify losses.
+•
+Benchmark Correlation — The performance of the fund’s equity portion will be similar to the performance of the S&P 500 Index. If the S&P 500 goes down, it is likely that the fund’s performance will go down.
+•
+Market Risk — The value of the fund’s shares will go up and down based on the performance of the companies whose securities it owns and other factors generally affecting the securities market.
+•
+Interest Rate Risk — Investments in debt securities are sensitive to interest rate changes. Generally, the value of debt securities and the funds that hold them decline as interest rates rise. The fund’s fixed-income investments are designed to reduce this risk. Interest rate risk, however, is generally higher for the fixed-income portion of Balanced than for funds that have shorter-weighted maturities, such as money market funds and short-term bond funds. A period of rising interest rates may negatively affect the fund’s performance.
+•
+Credit Risk — Debt securities, even investment-grade debt securities, are subject to credit risk. Credit risk is the risk that the inability or perceived inability of the issuer to make interest and principal payments will cause the value of the securities to decrease. As a result the fund’s share price could also decrease. Changes in the credit rating of a debt security held by the fund could have a similar effect.
+•
+Prepayment Risk — The fund may invest in debt securities backed by mortgages or other assets. If these underlying assets are prepaid, the fund may benefit less from declining interest rates than funds of similar maturity that invest less heavily in mortgage- and asset-backed securities.
+•
+Foreign Securities Risk — Foreign securities have certain unique risks, such as currency risk, social, political and economic risk, and foreign market and trading risk. Securities of foreign issuers may be less liquid, more volatile and harder to value than U.S. securities.
+•
+Bank Loan Risk — The market for bank loans may not be highly liquid and the fund may have difficulty selling them. In connection with purchasing loan participations, the fund generally will have no right to enforce compliance by borrowers with loan terms nor any set off rights, and the fund may not benefit directly from any posted collateral. As a result, the fund may be subject to the credit risk of both the borrower and the lender selling the participation. Bank loan transactions may take more than seven days to settle, meaning that proceeds would be unavailable to make additional investments or meet redemptions.
+•
+Collateralized Debt Obligations/Collateralized Loan Obligation Risk — Collateralized debt obligations and collateralized loan obligations (CLOs) are subject to credit, interest rate, valuation, and prepayment and extension risks. These securities also are subject to risk of default on the underlying asset, particularly during periods of economic downturn. The market value of CLOs may be affected by, among other things, changes in the market value of the underlying assets held by the CLO, changes in the distributions on the underlying assets, defaults and recoveries on the underlying assets, capital gains and losses on the underlying assets, prepayments on underlying assets and the availability, prices and interest rate of underlying assets.
+•
+Derivative Risk — The use of derivative instruments involves risks different from, or possibly greater than, the risks associated with investing directly in securities and other traditional instruments. Derivatives are subject to a number of risks, including liquidity, interest rate, market, credit and correlation risk.
+•
+Liquidity Risk — The fund may also be subject to liquidity risk. During periods of market turbulence or unusually low trading activity, in order to meet redemptions it may be necessary for the fund to sell securities at prices that could have an adverse effect on the fund’s share price. Changing regulatory and market conditions, including increases in interest rates and credit spreads may adversely affect the liquidity of the fund’s investments.
+•
+Price Volatility — The value of the fund’s shares may fluctuate significantly in the short term.
+•
+Principal Loss — At any given time your shares may be worth less than the price you paid for them. In other words, it is possible to lose money by investing in the fund.
+An investment in the fund is not a bank deposit, and it is not insured or guaranteed by the Federal Deposit Insurance Corporation (FDIC) or any other government agency. 
+
+3#
+
+
+
+
+
+Fund Performance 
+The following bar chart and table provide some indication of the risks of investing in the fund. The bar chart shows changes in the fund’s performance from year to year for Investor Class shares. The table shows how the fund’s average annual returns for the periods shown compared with those of a broad measure of market performance. The fund’s past performance (before and after taxes) is not necessarily an indication of how the fund will perform in the future. For current performance information, please visit americancentury.com.
+The blended index is considered the benchmark for the fund . It combines two widely known indices in proportion to the asset mix of the fund. Accordingly, 60% of the index is represented by the S&P 500 Index, which reflects the approximately 60% of the fund’s assets invested in stocks. The blended index’s remaining 40% is represented by the Bloomberg Barclays U.S. Aggregate Bond Index, which reflects the roughly 40% of the fund’s assets invested in fixed-income securities. 
+Sales charges and account fees, if applicable, are not reflected in the bar chart. If those charges were included, returns would be less than those shown. 
+Calendar Year Total Returns 
+acmf2015485_chart-26148a07.jpg
+Highest Performance Quarter (3Q 2009): 10.38% Lowest Performance Quarter (4Q 2008): -12.18%
+ 
+Average Annual Total Returns
+For the calendar year ended December 31, 2017
+1 year
+5 years
+10 years
+Investor Class Return Before Taxes
+14.05%
+8.85%
+6.40%
+Return After Taxes on Distributions
+12.12%
+6.88%
+5.13%
+Return After Taxes on Distributions and Sale of Fund Shares
+8.84%
+6.44%
+4.80%
+I Class Return Before Taxes
+14.27%
+9.06%
+6.61%
+R5 Class1 Return Before Taxes
+14.26%
+9.06%
+6.61%
+S&P 500® Index
+   (reflects no deduction for fees, expenses or taxes)
+21.83%
+15.78%
+8.49%
+Bloomberg Barclays U.S. Aggregate Bond Index
+   (reflects no deduction for fees, expenses or taxes)
+3.54%
+2.10%
+4.00%
+Blended Index
+   (reflects no deduction for fees, expenses or taxes)
+14.21%
+10.25%
+6.98%
+1 Historical performance for the R5 Class prior to its inception (April 10, 2017) is based on the performance of I Class shares, which have the same expenses as the R5 Class.
+The after-tax returns are shown only for Investor Class shares. After-tax returns for other share classes will vary. After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. Actual after-tax returns depend on an investor’s tax situation and may differ from those shown. After-tax returns are not relevant to investors who hold their fund shares through tax-deferred arrangements, such as 401(k) plans or IRAs.
+
+4#
+
+
+
+
+
+Portfolio Management 
+Investment Advisor 
+American Century Investment Management, Inc. 
+Portfolio Managers 
+Claudia Musat, Vice President, Portfolio Manager and Quantitative Analyst, has been a member of the team that manages the fund since 2010. 
+Steven Rossi, CFA, Portfolio Manager, has been a member of the team that manages the fund since 2016.
+G. David MacEwen, Co-Chief Investment Officer and Senior Vice President, has served on teams managing fixed-income investments for American Century since joining the advisor in 1991. 
+Robert V. Gahagan, Senior Vice President and Senior Portfolio Manager, has served on teams managing fixed-income investments for American Century since joining the advisor in 1983. 
+Brian Howell, Vice President and Senior Portfolio Manager, has served on teams managing fixed-income investments for American Century since joining the advisor in 1987. 
+Purchase and Sale of Fund Shares 
+You may purchase or redeem shares of the fund on any business day through our website at americancentury.com, in person (at one of our Investor Centers), by mail (American Century Investments, P.O. Box 419200, Kansas City, MO 64141-6200), by telephone at 1-800-345-2021 (Investor Services Representative) or 1-800-345-3533 (Business, Not-For-Profit and Employer-Sponsored Retirement Plans), or through a financial intermediary. Shares may be purchased and redemption proceeds received by electronic bank transfer, by check or by wire. 
+Unless otherwise specified below, the minimum initial investment amount to open an account is $2,500 ($2,000 for Coverdell Education Savings Accounts). Investors opening accounts through financial intermediaries may open an account with $250 for Investor Class, but the financial intermediaries may require their clients to meet different investment minimums. The minimum may be waived for broker-dealer sponsored wrap program accounts, fee based accounts, and accounts through bank/trust and wealth management advisory organizations. 
+The minimum initial investment amount for the I Class is generally $5 million ($3 million for endowments and foundations), but the minimum may be waived if you have an aggregate investment in the American Century family of funds of $10 million or more ($5 million for endowment and foundations). This includes accounts held directly with American Century and those held through a financial intermediary.
+There is no minimum initial investment amount for R5 Class shares.
+For the Investor and R5 Classes, there is no minimum initial investment amount for certain employer-sponsored retirement plans, however, financial intermediaries or plan recordkeepers may require plans to meet different minimums. For purposes of fund minimums, employer-sponsored retirement plans do not include SEP IRAs, SIMPLE IRAs or SARSEPs. Employer-sponsored retirement plans are not eligible to invest in I Class.
+There is a $50 minimum for subsequent purchases, except that there is no subsequent purchase minimum for financial intermediaries or employer-sponsored retirement plans. 
+Tax Information 
+Fund distributions are generally taxable as ordinary income or capital gains, unless you are investing through a tax-deferred account such as a 401(k) or individual retirement account (in which case you may be taxed upon withdrawal of your investment from such account). 
+Payments to Broker-Dealers and Other Financial Intermediaries 
+If you purchase the fund through a broker-dealer or other financial intermediary (such as a bank, insurance company, plan sponsor or financial professional), the fund and its related companies may pay the intermediary for the sale of fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

@@ -1,0 +1,165 @@
+Managed Risk Growth Fund
+<head_breaker>
+
+Managed Risk Growth Fund
+
+Investment objective The fund’s investment objective is to provide growth of capital while seeking to manage volatility and provide downside protection.
+
+Fees and expenses of the fund This table describes the fees and expenses that you may pay if you buy and hold an interest in Class P1 shares of the fund. It does not reflect insurance contract fees and expenses. If insurance contract fees and expenses were reflected, expenses shown would be higher.
+
+ 	 
+Annual fund operating expenses (expenses that you pay each year as a percentage of the value of your investment)	Class P1
+Management fees	0.15%
+Distribution fees	None
+Other expenses	0.29
+Acquired (underlying) fund fees and expenses	0.34
+Total annual fund operating expenses	0.78
+Fee waiver and/or expense reimbursement*	0.06
+Total annual fund operating expenses after fee waiver and/or expense reimbursement	0.72
+* The investment adviser is currently waiving a portion of its management fee equal to .05% of the fund’s net assets. In addition, the investment adviser is currently reimbursing a portion of the other expenses. This waiver and reimbursement will be in effect through at least May 1, 2019. The adviser may elect at its discretion to extend, modify or terminate the reimbursement at that time. The waiver may only be modified or terminated with the approval of the fund’s board.
+
+Example This example is intended to help you compare the cost of investing in Class P1 shares of the fund with the cost of investing in other mutual funds.
+
+The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods. The example also assumes that your investment has a 5% return each year and that the fund’s operating expenses remain the same. The example does not reflect insurance contract expenses. If insurance contract expenses were reflected, expenses shown would be higher. The example reflects the expense reimbursement described above through the expiration date of such reimbursement and total annual fund operating expenses thereafter. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 	 	 	 	 
+ 	1 year	3 years	5 years	10 years
+Class P1	$74	$243	$427	$960
+Portfolio turnover The fund pays transaction costs, such as commissions, when it buys and sells securities and other instruments (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s investment results. During the most recent fiscal year, the fund’s portfolio turnover rate was 25% of the average value of its portfolio.
+
+Principal investment strategies The fund pursues its investment objective by investing in shares of two underlying funds, the American Funds Insurance Series – Growth Fund (the “Growth Fund”) and the American Funds Insurance Series – Bond Fund (the “Bond Fund”) – while seeking to manage portfolio volatility and provide downside protection primarily through the use of exchange-traded futures contracts.
+
+The fund normally seeks to invest 80% of its assets in the Growth Fund, the investment objective of which is to provide growth of capital. The Growth Fund invests primarily in common stocks and seeks to invest in companies that appear to offer superior opportunities for growth of capital. The Growth Fund may invest up to 25% of its assets in common stocks and other securities of issuers domiciled outside the United States. The fund invests the remainder of its assets in the Bond Fund and in cash and/or U.S. Treasury futures. The Bond Fund’s investment objective is to provide as high a level of current income as is consistent with the preservation of capital. Normally, the Bond Fund invests at least 80% of its assets in bonds and other debt securities. The Bond Fund invests at least 65% of its assets in investment-grade debt securities (rated Baa3 or better or BBB+ or better by Nationally Recognized Statistical Rating Organizations designated by the fund’s investment adviser or unrated but determined to be of equivalent quality by the adviser).
+
+The fund’s investment in the Bond Fund seeks to provide a level of diversification across multiple asset classes. Because different asset classes often react differently to changes in market conditions, such diversification seeks to manage the fund's risk to market changes, including stock market declines. Additionally, the fund employs a risk-management overlay referred to in this prospectus as the managed risk strategy. The managed risk strategy consists of using hedge instruments — primarily short positions in exchange-traded futures contracts — to attempt to stabilize the volatility of the fund around a target volatility level and reduce the downside exposure of the fund during periods of significant market declines. The fund employs a subadviser to select individual futures contracts on equity indexes of U.S. markets and markets outside the United States that the subadviser believes are correlated to the underlying fund’s equity exposure. These instruments are selected based on the subadviser’s analysis of the relation of various equity indexes to the underlying fund’s portfolio. In addition, the subadviser will monitor liquidity levels of relevant futures contracts and transparency provided by exchanges as the counterparties in hedging transactions. The target volatility level will be set from time to time by the investment adviser and the subadviser and may be adjusted if deemed advisable in the judgment of the investment adviser and the subadviser. The subadviser may also seek to hedge the fund’s currency risk related to its exposure to equity index futures denominated in currencies other than the U.S. dollar.
+
+1     American Funds Insurance Series — Managed Risk Funds / Prospectus
+
+
+ 
+ 
+ 
+
+A futures contract on an index is an agreement pursuant to which two parties agree to take or make delivery of an amount of cash linked to the value of the index at the close of the last trading day of the contract. A futures contract is considered a derivative because it derives its value from the price of the underlying index. A short position in an index futures contract gains in value when the underlying index declines and loses value when the underlying index rises.
+
+The subadviser will regularly adjust the level of exchange-traded futures contracts to seek to manage the overall net risk level of the fund. In situations of extreme market volatility, the subadviser will tend to use exchange-traded equity index futures more heavily, as the exchange-traded futures could significantly reduce the fund’s net economic exposure to equity securities. Even in periods of low volatility in the equity markets, however, the subadviser will continue to use the hedging techniques (although, presumably, to a lesser degree) to seek to preserve gains after favorable market conditions and reduce losses in adverse market conditions.
+
+The fund is nondiversified, which allows it to invest a greater percentage of its assets in any one issuer than would otherwise be the case. However, through the underlying funds, the fund owns a diversified mix of securities.
+
+Principal risks
+
+This section describes the principal risks associated with the fund’s principal investment strategies. You may lose money by investing in the fund. The likelihood of loss may be greater if you invest for a shorter period of time. Investors in the fund should have a long-term perspective and be able to tolerate potentially sharp declines in value. Investors in the fund should also understand that the fund’s objective of protecting against downside losses may result in the fund not realizing the full gains of the underlying funds. In addition, the managed risk strategy may not effectively protect the fund from market declines.
+
+Fund structure — The fund invests in underlying funds and incurs expenses related to those underlying funds. In addition, investors in the fund will incur fees to pay for certain expenses related to the operations of the fund. An investor holding the underlying funds directly would incur lower overall expenses but would not receive the benefit of the managed risk strategy.
+
+Underlying fund risks — Because the fund’s investments consist of investments in underlying funds, the fund’s risks are directly related to the risks of those underlying funds. For this reason, it is important to understand the risks associated with investing both in the fund and in each of the underlying funds.
+
+Investing in derivatives — The use of derivatives involves a variety of risks, which may be different from, or greater than, the risks associated with investing in traditional cash securities, such as stocks and bonds. Changes in the value of a derivative may not correlate perfectly with, and may be more sensitive to market events than, the underlying asset, rate or index, and a derivative instrument may expose the fund or an underlying fund to losses in excess of its initial investment. Derivatives may be difficult for the fund or an underlying fund to buy or sell at an opportune time or price and may be difficult to terminate or otherwise offset. A fund’s use of derivatives may result in losses to the fund, and investing in derivatives may reduce the fund’s returns and increase the fund’s price volatility. A fund’s counterparty to a derivative transaction (including, if applicable, the fund’s clearing broker, the derivatives exchange or the clearinghouse) may be unable or unwilling to honor its financial obligations in respect of the transaction.
+
+Investing in futures contracts — In addition to the risks generally associated with investing in derivative instruments, futures contracts are subject to the creditworthiness of the clearing organizations, exchanges and futures commission merchants with which the fund transacts. Additionally, although futures require only a small initial investment in the form of a deposit of initial margin, the amount of a potential loss on a futures contract could greatly exceed the initial amount invested. While futures contracts are generally liquid instruments, under certain market conditions, futures may be deemed to be illiquid. For example, the fund may be temporarily prohibited from closing out its position in a futures contract if intraday price change limits or limits on trading volume imposed by the applicable futures exchange are triggered. If the fund is unable to close out a position on a futures contract, the fund would remain subject to the risk of adverse price movements until the fund is able to close out the futures position. The ability of the fund to successfully utilize futures contracts may depend in part upon the ability of the fund’s investment adviser or subadviser to accurately forecast interest rates and other economic factors and to assess and predict the impact of such economic factors on the futures in which the fund invests. If the investment adviser or subadviser incorrectly forecasts economic developments or incorrectly predicts the impact of such developments on the futures in which it invests, the fund could be exposed to the risk of loss.
+
+Hedging — There may be imperfect or even negative correlation between the prices of the futures contracts and the prices of the underlying securities. For example, futures contracts may not provide an effective hedge because changes in futures contract prices may not track those of the underlying securities or indexes they are intended to hedge. In addition, there are significant differences between the securities and futures markets that could result in an imperfect correlation between the markets, causing a given hedge not to achieve its objectives. The degree of imperfection of correlation depends on circumstances such as variations in speculative market demand for futures, including technical influences in futures trading, and differences between the financial instruments being hedged and the instruments underlying the standard contracts available for trading. A decision as to whether, when and how to hedge involves the exercise of skill and judgment, and even a well-conceived hedge may be unsuccessful to some degree because of market behavior or unexpected interest rate trends. In addition, the fund’s investment in exchange-traded futures and their resulting costs could limit the fund’s gains in rising markets relative to those of the underlying funds, or to those of unhedged funds in general.
+
+Short positions — Losses from short positions in futures contracts occur when the underlying index increases in value. As the underlying index increases in value, the holder of the short position in the corresponding futures contract is required to pay the difference in value of the futures contract resulting from the increase in the index on a daily basis. Losses from a short position in an index futures contract could potentially be very large if the value of the underlying index rises dramatically in a short period of time.
+
+Market conditions — The prices of, and the income generated by, the securities held by an underlying fund may decline – sometimes rapidly or unpredictably – due to various factors, including events or conditions affecting the general economy or particular industries;
+
+American Funds Insurance Series — Managed Risk Funds / Prospectus     2
+
+
+ 
+ 
+ 
+
+overall market changes; local, regional or global political, social or economic instability; governmental or governmental agency responses to economic conditions; and currency exchange rate, interest rate and commodity price fluctuations.
+
+Issuer risks — The prices of, and the income generated by, securities held by an underlying fund may decline in response to various factors directly related to the issuers of such securities, including reduced demand for an issuer’s goods or services, poor management performance and strategic initiatives such as mergers, acquisitions or dispositions and the market response to any such initiatives.
+
+Investing in growth-oriented stocks — Growth-oriented common stocks and other equity-type securities (such as preferred stocks, convertible preferred stocks and convertible bonds) may involve larger price swings and greater potential for loss than other types of investments. These risks may be even greater in the case of smaller capitalization stocks.
+
+Investing outside the United States — Securities of issuers domiciled outside the United States, or with significant operations or revenues outside the United States, may lose value because of adverse political, social, economic or market developments (including social instability, regional conflicts, terrorism and war) in the countries or regions in which the issuers operate or generate revenue. These securities may also lose value due to changes in foreign currency exchange rates against the U.S. dollar and/or currencies of other countries. Issuers of these securities may be more susceptible to actions of foreign governments, such as the imposition of price controls or punitive taxes, that could adversely impact the value of these securities. Securities markets in certain countries may be more volatile and/or less liquid than those in the United States. Investments outside the United States may also be subject to different accounting practices and different regulatory, legal and reporting standards and practices, and may be more difficult to value, than those in the United States. In addition, the value of investments outside the United States may be reduced by foreign taxes, including foreign withholding taxes on interest and dividends. Further, there may be increased risks of delayed settlement of securities purchased or sold by an underlying fund. The risks of investing outside the United States may be heightened in connection with investments in emerging markets.
+
+Investing in debt instruments — The prices of, and the income generated by, bonds and other debt securities held by an underlying fund may be affected by changing interest rates and by changes in the effective maturities and credit ratings of these securities.
+
+Rising interest rates will generally cause the prices of bonds and other debt securities to fall. Falling interest rates may cause an issuer to redeem, call or refinance a debt security before its stated maturity, which may result in the fund having to reinvest the proceeds in lower yielding securities. Longer maturity debt securities generally have greater sensitivity to changes in interest rates and may be subject to greater price fluctuations than shorter maturity debt securities.
+
+Bonds and other debt securities are also subject to credit risk, which is the possibility that the credit strength of an issuer will weaken and/or an issuer of a debt security will fail to make timely payments of principal or interest and the security will go into default. Lower quality debt securities generally have higher rates of interest and may be subject to greater price fluctuations than higher quality debt securities. Credit risk is gauged, in part, by the credit ratings of the debt securities in which an underlying fund invests. However, ratings are only the opinions of the rating agencies issuing them and are not guarantees as to credit quality or an evaluation of market risk. The fund’s investment adviser relies on its own credit analysts to research issuers and issues in seeking to mitigate various credit and default risks.
+
+Nondiversification risk — As a nondiversified fund, the fund has the ability to invest a larger percentage of its assets in the securities of a smaller number of issuers than a diversified fund. Therefore, poor performance by a single large holding could adversely impact the fund’s investment results more than if the fund were invested in a larger number of issuers.
+
+Management — The investment adviser to the fund and to the underlying funds actively manages each underlying fund’s investments. Consequently, each underlying fund is subject to the risk that the methods and analyses employed by the investment adviser in this process may not produce the desired results. In addition, the fund is subject to the risk that the managed risk strategy or the methods employed by the subadviser in implementing the managed risk strategy may not produce the desired results. The occurrence of either or both of these events could cause the fund to lose value or its investment results to lag relevant benchmarks or other funds with similar objectives.
+
+Your investment in the fund is not a bank deposit and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency, entity or person. You should consider how this fund fits into your overall investment program.
+
+3     American Funds Insurance Series — Managed Risk Funds / Prospectus
+
+
+ 
+ 
+ 
+
+Investment results The following bar chart shows how the investment results of the Class P1 shares of the fund have varied from year to year, and the following table shows how the fund’s average annual total returns for various periods compare with a broad measure of securities market results and other applicable measures of market results. This information provides some indication of the risks of investing in the fund. The fund has selected the S&P 500 Managed Risk Index – Moderate Aggressive to replace the S&P 500 Index as its broad-based securities market index. The fund's investment adviser believes that the S&P 500 Managed Risk Index – Moderate Aggressive better reflects the market sectors and securities in which the underlying funds primarily invest and the investment strategies employed by the adviser in seeking to achieve the fund's investment objective. Past investment results (before and after taxes) are not predictive of future investment results. Figures shown reflect fees and expenses associated with an investment in the fund, but do not reflect insurance contract fees and expenses. If insurance contract fees and expenses were included, results would have been lower. Updated information on the fund’s investment results can be obtained by visiting americanfunds.com/afis.
+
+
+
+ 
+
+ 	 	 
+Average annual total returns For the periods ended December 31, 2017:	1 year	Lifetime
+Fund (inception date – 5/1/13)	26.23%	9.73%
+S&P 500 Managed Risk Index – Moderate Aggressive (reflects no deduction for sales charges, account fees, expenses or U.S. federal income taxes)	17.94	10.42
+S&P 500 Index (reflects no deduction for sales charges, account fees, expenses or U.S. federal income taxes)	21.83	14.26
+American Funds Insurance Series — Managed Risk Funds / Prospectus     4
+
+
+ 
+ 
+ 
+
+Management
+
+Investment adviser Capital Research and Management CompanySM
+
+Subadviser Milliman Financial Risk Management LLC
+
+Portfolio managers The individuals primarily responsible for the management of the fund are:
+
+ 	 	 
+Portfolio manager/
+Series title (if applicable)	Portfolio manager
+experience in this fund	Primary title
+with investment adviser
+Alan N. Berro President	5 years	Partner – Capital World Investors
+James R. Mulally	5 years	Partner – Capital Fixed Income Investors
+Subadviser portfolio manager The individual primarily responsible for the management of the fund’s managed risk strategy is:
+
+ 	 	 
+Portfolio manager	Portfolio manager
+experience in this fund	Primary title with subadviser
+Adam Schenck	5 years	Director – Portfolio Management Group,
+Milliman Financial Risk Management LLC
+Portfolio managers of the underlying funds The individuals primarily responsible for the portfolio management of the Growth Fund are:
+
+ 	 	 
+Portfolio manager/
+Series title (if applicable)	Portfolio manager
+experience in the Growth Fund	Primary title
+with investment adviser
+Mark L. Casey	1 year	Partner – Capital World Investors
+Michael T. Kerr	13 years	Partner – Capital World Investors
+Andraz Razen	5 years	Partner – Capital World Investors
+Martin Romo	2 years	Partner – Capital World Investors
+Alan J. Wilson	4 years	Partner – Capital World Investors
+The individuals primarily responsible for the portfolio management of the Bond Fund are:
+
+ 	 	 
+Portfolio manager/
+Series title (if applicable)	Portfolio manager
+experience in the Bond Fund	Primary title
+with investment adviser
+Pramod Atluri	2 years	Vice President – Capital Fixed Income Investors
+David A. Hoag	11 years	Partner – Capital Fixed Income Investors
+ 
+Tax information See your variable insurance contract prospectus for information regarding the federal income tax treatment of your variable insurance contract and related distributions.
+
+Payments to broker-dealers and other financial intermediaries If you purchase shares of the fund through a broker-dealer or other financial intermediary (such as an insurance company), the fund and the fund’s distributor or its affiliates may pay the intermediary for the sale of fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your individual financial advisor to recommend the fund over another investment. Ask your individual financial advisor or visit your financial intermediary’s website for more information. The fund is not sold directly to the general public but instead is offered as an underlying investment option for variable insurance contracts. In addition to payments described above, the fund and its related companies may make payments to the sponsoring insurance company (or its affiliates) for distribution and/or other services. These payments may be a factor that the insurance company considers in including the fund as an underlying investment option in the variable insurance contract. The prospectus (or other offering document) for your variable insurance contract may contain additional information about these payments.

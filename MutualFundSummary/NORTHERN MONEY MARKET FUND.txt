@@ -1,0 +1,325 @@
+NORTHERN MONEY MARKET FUND
+<head_breaker>
+
+FUND SUMMARIES
+
+ 
+
+MONEY MARKET FUND
+
+ 
+
+INVESTMENT OBJECTIVE
+
+The Fund seeks to maximize current income to the extent consistent with the preservation of capital and maintenance of liquidity by investing exclusively in high quality money market instruments.
+
+FEES AND EXPENSES OF THE FUND
+
+This table describes the fees and expenses that you may pay if you buy and hold shares of the Fund.
+
+ 
+
+Shareholder Fees (fees paid directly from your investment)
+
+ 
+
+ 
+None
+
+ 	 	 	 
+Annual Fund Operating Expenses (expenses that you pay each year as a
+percentage of the value of your investment)	 
+Management Fees
+
+ 	 	0.33% 	
+Other Expenses
+
+ 	 	0.10% 	 
+Transfer Agent Fees
+
+ 	 	0.02%        	
+Other Operating Expenses
+
+ 	 	0.08%        	 
+Total Annual Fund Operating Expenses
+
+ 	 	0.43% 	 
+Expense Reimbursement(1)
+
+ 	 	(0.08)%	 
+Total Annual Fund Operating Expenses After Expense Reimbursement
+
+ 	 	0.35% 	
+ 
+
+(1)  	
+Northern Trust Investments, Inc. has contractually agreed to reimburse a portion of the operating expenses of the Fund (other than certain excepted expenses, i.e., Acquired Fund Fees and Expenses, the compensation paid to each Independent Trustee of the Trust, expenses of third party consultants engaged by the Board of Trustees, membership dues paid to the Investment Company Institute and Mutual Fund Directors Forum, expenses in connection with the negotiation and renewal of the revolving credit facility, extraordinary expenses and interest) to the extent the “Total Annual Fund Operating Expenses” exceed 0.35%. The “Total Annual Fund Operating Expenses After Expense Reimbursement” may be higher than the contractual limitation as a result of the excepted expenses that are not reimbursed. This contractual limitation will remain in effect for at least one year from the effective date of this Prospectus and may not be terminated before that time without the approval of the Board of Trustees.
+
+EXAMPLE
+
+The following Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. The Example assumes that you invest $10,000 in the Fund for the time periods indicated and then redeem all of your shares at the end of those periods. The Example also assumes that your investment has a 5% return each year and that the Fund’s operating expenses remain the same. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 
+
+1 Year	  	3 Years	  	5 Years	  	10 Years
+$36	  	$130	  	$233	  	$534
+PRINCIPAL INVESTMENT STRATEGIES
+
+The Fund seeks to achieve its objective by investing in a broad range of high-quality, U.S. dollar-denominated government, bank and commercial obligations that are available in the money markets, including:
+
+ 
+
+∎	 	
+Obligations of U.S. banks (including obligations of foreign branches of such banks);
+
+ 
+
+∎	 	
+Obligations of foreign commercial banks;
+
+ 
+
+∎	 	
+Commercial paper and other obligations issued or guaranteed by U.S. and foreign corporations and other issuers;
+
+ 
+
+∎	 	
+Corporate bonds, notes, paper and other instruments that are of high-quality;
+
+ 
+
+∎	 	
+Asset-backed securities and asset-backed commercial paper;
+
+ 
+
+∎	 	
+Securities issued or guaranteed as to principal and interest by the U.S. government or by its agencies, instrumentalities or sponsored enterprises and custodial receipts with respect thereto;
+
+ 
+
+∎	 	
+Securities issued or guaranteed by one or more foreign governments or political subdivisions, agencies or instrumentalities;
+
+ 
+
+∎	 	
+Repurchase agreements; and
+
+ 
+
+∎	 	
+Municipal securities issued or guaranteed by state or local governmental bodies.
+
+Under normal market conditions, the Fund will invest at least 25% of its total assets in securities issued by companies in the financial services group of industries. Companies in the financial services group of industries include but are not limited to U.S. and non-U.S. companies involved in banking, mortgage, consumer or specialized finance, investment banking, securities brokerage, asset management and custody, insurance, financial investment, real estate and mortgage finance and financial conglomerates, and related asset-backed securities. The Fund may, however, for temporary defensive purposes, invest less than 25% of its total assets in the financial services industry if warranted due to adverse economic conditions or if investing less than 25% of its total assets in the financial services industry appears to be in the best interest of shareholders.
+
+The Fund is a money market fund that seeks to maintain a stable net asset value (“NAV”) of $1.00 per share.
+
+ 
+
+NORTHERN FUNDS PROSPECTUS	 	3	 	MONEY MARKET FUNDS
+Table of Contents
+MONEY MARKET FUNDS
+
+ 
+
+MONEY MARKET FUND
+
+ 
+
+The Fund operates as a “retail money market fund,” as defined under Rule 2a-7 of the Investment Company Act of 1940, as amended. As a “retail money market fund” under Rule 2a-7, the Fund (1) is permitted to continue to use the amortized cost method of valuation to seek to maintain a stable NAV of $1.00 share price, and (2) the Board of Trustees (the “Board”) will be permitted to impose a “liquidity fee” on redemptions from the Fund (up to 2%) or temporarily restrict redemptions from the Fund for up to 10 business days during a 90-day period, as described in more detail under “Purchase and Sale of Fund Shares.”
+
+The Securities and Exchange Commission (“SEC”) imposes strict requirements on the investment quality, maturity, diversification and liquidity of the Fund’s investments.
+
+Accordingly, the Fund’s investments must have a remaining maturity of no more than 397 days and must be high quality. The Fund’s investment adviser may consider, among other things, credit, interest rate and prepayment risks as well as general market conditions when deciding whether to buy or sell investments for the Fund.
+
+PRINCIPAL RISKS
+
+ASSET-BACKED SECURITIES RISK. Asset-backed securities represent interests in pools of assets such as mortgages, automobile loans, credit card receivables and other financial assets. Asset-backed securities are subject to credit, interest rate, prepayment, extension, valuation and liquidity risk. These securities, in most cases, are not backed by the full faith and credit of the U.S. government and are subject to the risk of default on the underlying asset or loan, particularly during periods of economic downturn. Small movements in interest rates (both increases and decreases) may quickly and significantly reduce the value of certain asset-backed securities.
+
+COMMERCIAL PAPER RISK. Investments in commercial paper are subject to the risk that the issuer cannot issue enough new commercial paper to satisfy its obligations with respect to its outstanding commercial paper, also known as rollover risk. Commercial paper is also susceptible to changes in the issuer’s financial condition or credit quality. In addition, under certain circumstances commercial paper may become illiquid or may suffer from reduced liquidity. Commercial paper is generally unsecured, which increases the credit risk associated with this type of investment.
+
+CREDIT (OR DEFAULT) RISK is the risk that the inability or unwillingness of an issuer or guarantor of a fixed-income security, or a counterparty to a repurchase or other transaction, to meet its payment or other financial obligations will adversely affect the value of the Fund’s investments and its yield. Changes in the credit rating of a debt security held by the Fund could have a similar effect.
+
+CYBERSECURITY RISK is the risk of an unauthorized breach and access to fund assets, customer data (including private shareholder information), or proprietary information, or the risk of an incident occurring that causes the Fund, the investment adviser, custodian, transfer agent, distributor and other service providers and financial intermediaries to suffer data breaches, data corruption or lose operational functionality. Successful cyber-attacks or other cyber-failures or events affecting the Fund or its service providers may adversely impact the Fund or its shareholders.
+
+DEBT EXTENSION RISK is the risk that an issuer will exercise its right to pay principal on an obligation held by the Fund (such as an asset-backed security) later than expected. This may happen during a period of rising interest rates. Under these circumstances, the value of the obligation will decrease and the Fund will suffer from the inability to invest in higher yielding securities.
+
+FINANCIAL SERVICES INDUSTRY RISK is the risk that, because the Fund will invest under normal market conditions at least 25% of its total assets in the financial services industry, the Fund will be subject to greater risk of loss by economic, business, political or other developments which generally affect this industry. Changes in government regulation and interest rates and economic downturns can have a significant negative effect on issuers in the financial services sector, including the price of their securities or their ability to meet their payment obligations.
+
+FOREIGN SECURITIES RISK is the risk that a foreign security, even if it is a U.S. dollar-denominated foreign security, could lose value as a result of political, financial and economic events in foreign countries, more or less stringent foreign securities regulations and accounting and disclosure standards or other factors. In addition, the Fund will be subject to the risk that an issuer of foreign sovereign debt or the government authorities that control the repayment of the debt may be unable or unwilling to repay the principal or interest when due.
+
+GUARANTOR (OR CREDIT ENHANCEMENT) RISK is the risk that changes in credit quality of a U.S. or foreign bank, insurance company or other financial institution or such entity’s failure to fulfill its obligations could cause the Fund’s investments to decline in value. Adverse developments in the banking or bond insurance industries also may negatively affect the Fund.
+
+INCOME RISK is the risk that falling interest rates will cause the Fund’s income to decline. Income risk is generally higher for short-term debt securities.
+
+INTEREST RATE RISK is the risk that during periods of rising interest rates, the Fund’s yield (and the market value of its
+
+ 
+
+MONEY MARKET FUNDS	 	4	 	NORTHERN FUNDS PROSPECTUS
+Table of Contents
+MONEY MARKET FUNDS
+
+ 
+
+MONEY MARKET FUND
+
+ 
+
+securities) will tend to be lower than prevailing market rates; in periods of falling interest rates, the Fund’s yield (and the market value of its securities) will tend to be higher. Securities with longer maturities tend to be more sensitive to changes in interest rates, causing them to be more volatile than securities with shorter maturities. Securities with shorter maturities tend to provide lower returns and be less volatile than securities with longer maturities. If interest rates rise, the Fund’s yield may not increase proportionately, and the maturities of income securities that have the ability to be prepaid or called by the issuer may be extended. The risks associated with increasing interest rates are heightened given that interest rates are near historic lows, but may increase in the future with unpredictable effects on the markets and the Fund’s investments. A general rise in interest rates may cause investors to move out of fixed income securities on a large scale, which could adversely affect the price and liquidity of fixed income securities and could also result in increased redemptions from the Fund. A low or declining interest rate environment may prevent the Fund from providing a positive yield or paying Fund expenses out of Fund assets and could lead to a decline in the Fund’s share price. Fluctuations in interest rates may also affect the liquidity of fixed income securities and instruments held by the Fund.
+
+LARGE SHAREHOLDER TRANSACTIONS RISK is the risk that the Fund may experience adverse effects when certain large shareholders purchase or redeem large amounts of shares of the Fund. Such large shareholder redemptions may cause the Fund to sell its securities at times it would not otherwise do so, which may negatively impact its liquidity. Such sales may also accelerate the increase of taxable income to shareholders if these sales result in gains, and may also increase transaction costs. In addition, large redemptions could lead to an increase in the Fund’s expense ratio due to a smaller asset base. Large Fund share purchases may adversely affect the Fund’s performance to the extent that the Fund is delayed in investing new cash and is required to maintain a larger cash position than it ordinarily would.
+
+LIQUIDITY FEE AND REDEMPTION GATE RISK is the risk that the Fund may impose a “liquidity fee” (up to 2%) or “redemption gate” that temporarily restricts your ability to sell shares for up to 10 business days if the Fund’s liquidity falls below required minimums because of market conditions or other factors.
+
+LIQUIDITY RISK is the risk that the Fund will not be able to pay redemption proceeds in a timely manner because of unusual market conditions, an unusually high volume of redemption requests, legal restrictions impairing its ability to sell particular securities at an advantageous market price or other reasons. Certain portfolio securities may be less liquid than others, which may make them difficult or impossible to sell at the time and the price that the Fund would like and the Fund may have to lower the price, sell other securities instead or forgo an investment opportunity. In addition, less liquid securities may be more difficult to value and markets may become less liquid when there are fewer interested buyers or sellers or when dealers are unwilling or unable to make a market for certain securities. Recently, dealers have generally been less willing to make markets for fixed income securities. All of these risks may increase during periods of market turmoil and could have a negative effect on the Fund’s performance.
+
+MANAGEMENT RISK is the risk that a strategy used by the Fund’s investment adviser may fail to produce the intended results or that imperfections, errors or limitations in the tools and data used by the investment adviser may cause unintended results.
+
+MARKET RISK is the risk that general market conditions, such as real or perceived adverse economic or political conditions, inflation, changes in interest rates, lack of liquidity in the bond markets or adverse investor sentiment could cause the value of your investment in the Fund, or its yield, to decline. The market value of the securities in which the Fund invests may go up or down in response to the prospects of particular sectors or governments and/or general economic conditions throughout the world due to increasingly interconnected global economies and financial markets.
+
+MUNICIPAL MARKET VOLATILITY RISK is the risk that the Fund may be adversely affected by the volatile municipal market. The increased presence of nontraditional participants (such as proprietary trading desks of investment banks and hedge funds) or the absence of traditional participants (such as individuals, insurance companies, banks and life insurance companies) in the municipal markets may lead to greater volatility in the markets because non-traditional participants may trade more frequently or in greater volume. The municipal market can be significantly affected by adverse tax, legislative, or political changes and the financial condition of the issuers of municipal securities. In recent years an increasing number of municipal issuers have defaulted on obligations, been downgraded or commenced insolvency proceedings. Municipalities continue to experience difficulties in the current economic and political environment.
+
+MUNICIPAL SECURITIES RISK is the risk that municipal securities may be subject to credit/default risk, interest rate risk, liquidity risk and certain additional risks. The Fund may be more sensitive to adverse economic, business or political developments if it invests more than 25% of its assets in the debt securities of similar projects (such as those relating to education, health care, housing, transportation, and utilities), industrial development bonds, or in particular types of municipal securities (such as general obligation bonds, private activity bonds and moral obligation bonds). Municipal securities may be fully or partially backed or enhanced by the taxing authority of a local government, by the current or
+
+ 
+
+NORTHERN FUNDS PROSPECTUS	 	5	 	MONEY MARKET FUNDS
+Table of Contents
+MONEY MARKET FUNDS
+
+ 
+
+MONEY MARKET FUND
+
+ 
+
+anticipated revenues from a specific project or specific assets, or by the credit of, or liquidity enhancement provided by, a private issuer. Special factors, such as legislative changes, and state and local economic and business developments, may adversely affect the yield and/or value of the Fund’s investments in municipal securities. The secondary market for municipal obligations also tends to be less well-developed and less liquid than many other securities markets, which may limit the Fund’s ability to sell its municipal obligations at attractive prices.
+
+PREPAYMENT (OR CALL) RISK is the risk that prepayment of the underlying mortgages or other collateral of some fixed-income securities may result in a decreased rate of return and a decline in value of those securities.
+
+STABLE NAV RISK is the risk that the Fund will not be able to maintain an NAV per share of $1.00 at all times. A significant enough market disruption or drop in market prices of securities held by the Fund, especially at a time when the Fund needs to sell securities to meet shareholder redemption requests, could cause the value of the Fund’s shares to decrease to a price less than $1.00 per share. If the Fund fails to maintain a stable NAV (or if there is a perceived threat of such a failure) the Fund could be subject to increased redemption activity, which could adversely affect its NAV.
+
+U.S. GOVERNMENT SECURITIES RISK is the risk that the U.S. government will not provide financial support to its agencies, instrumentalities or sponsored enterprises if it is not obligated to do so by law. Certain U.S. government securities purchased by the Fund are neither issued nor guaranteed by the U.S. Treasury and, therefore, may not be backed by the full faith and credit of the United States. It is possible that the issuers of such securities will not have the funds to meet their payment obligations in the future.
+
+You could lose money by investing in the Fund. Although the Fund seeks to preserve the value of your investment at $1.00 per share, the Fund cannot guarantee it will do so. The Fund may impose a fee upon sale of your shares or may temporarily suspend your ability to sell shares if the Fund’s liquidity falls below required minimums because of market conditions or other factors. An investment in the Fund is not a deposit of any bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation, any other government agency, or The Northern Trust Company, its affiliates, subsidiaries or any other bank. The Fund’s sponsor has no legal obligation to provide financial support to the Fund, and you should not expect that the sponsor will provide financial support to the Fund at any time.
+
+FUND PERFORMANCE
+
+The bar chart and table that follow provide an indication of the risks of investing in the Fund by showing changes in the performance of the Fund from year to year.
+
+The Fund’s past performance is not necessarily an indication of how the Fund will perform in the future.
+
+Updated performance information for the Fund is available and may be obtained on the Fund’s website at northerntrust.com/funds or by calling 800-595-9111.
+
+CALENDAR YEAR TOTAL RETURN*
+
+ 
+
+ 
+
+LOGO
+
+* Year to date total return for the nine months ended September 30, 2018 is [        ]%. For the periods shown in the bar chart above, the highest quarterly return was 0.80% in the first quarter of 2008, and the lowest quarterly return was 0.00% in the second quarter of 2015.
+
+AVERAGE ANNUAL TOTAL RETURN
+
+(For the periods ended December 31, 2017)
+
+ 
+
+ 	 	Inception
+Date	 	 	1-Year	 	 	5-Year	 	 	10-Year	 	 	Since
+Inception	 
+Money Market Fund
+
+ 	 	4/11/94	 	 	 	0.92	% 	 	 	0.25	% 	 	 	0.33	% 	 	 	2.42	% 
+The 7-day yield for the Fund as of December 31, 2017: 1.21%. For the current 7-day yield call 800-595-9111 or visit northerntrust.com/funds.
+
+MANAGEMENT
+
+INVESTMENT ADVISER. Northern Trust Investments, Inc., a subsidiary of Northern Trust Corporation, serves as the investment adviser of the Fund. The Northern Trust Company, an affiliate of Northern Trust Investments, Inc., serves as transfer agent, custodian and sub-administrator to the Fund.
+
+ 
+
+MONEY MARKET FUNDS	 	6	 	NORTHERN FUNDS PROSPECTUS
+Table of Contents
+MONEY MARKET FUNDS
+
+ 
+
+MONEY MARKET FUND
+
+ 
+
+PURCHASE AND SALE OF FUND SHARES
+
+The Fund has adopted policies and procedures reasonably designed to limit all beneficial owners of the Fund to natural persons. A natural person is an individual human being with a social security number, taxpayer identification number, passport, and/or other government-issued identification evidencing nationality or residence. Shareholders must furnish to the Fund, or an authorized financial intermediary, if any, an account application that provides certain information (e.g., social security number or government-issued identification, such as a driver’s license or passport) that confirms that such shareholder is a natural person. Shareholders who do not qualify as a natural person, such as institutional investors, are not permitted to own shares of the Fund.
+
+You may open an account directly with Northern Funds (the “Trust”) with a minimum initial investment of $2,500 in the Fund ($500 for an IRA; $250 under the Automatic Investment Plan; and $500 for employees of Northern Trust and its affiliates). The minimum subsequent investment is $50 (except for reinvestments of distributions for which there is no minimum). The Fund reserves the right to waive these minimums. You may also purchase Fund shares through your account at Northern Trust (or an affiliate) or an authorized intermediary.
+
+On any business day, you may sell (redeem) or exchange shares through your account by contacting your Northern Trust account representative or authorized intermediary. If you purchase shares directly from the Trust, you may sell (redeem) or exchange your shares in one of the following ways:
+
+ 
+
+∎	 	
+By Mail – Send a written request to: Northern Funds, P.O. Box 75986, Chicago, Illinois 60675-5986.
+
+ 
+
+∎	 	
+By Telephone – Authorize the telephone privilege on your New Account Application. Call 800-595-9111 to use the telephone privilege.
+
+ 
+
+∎	 	
+By Wire – Authorize wire redemptions on your New Account Application and have proceeds sent by federal wire transfer to a previously designated bank account (the minimum redemption amount by this method is $250). You will be charged $15 for each wire redemption unless the designated bank account is maintained at Northern Trust or an affiliated bank. Call 800-595-9111 for instructions.
+
+ 
+
+∎	 	
+By Systematic Withdrawal – If you own shares of the Fund with a minimum value of $10,000, you may elect to have a fixed sum redeemed at regular intervals and distributed in cash or reinvested in one or more other funds of the Trust. Call 800-595-9111 for an application form and additional information. The minimum amount is $250 per withdrawal.
+
+ 
+
+∎	 	
+By Exchange – Complete the Exchange Privilege section of your New Account Application to exchange shares of one fund in the Trust for shares of another fund in the Trust. Shares being exchanged must have a value of at least $1,000 ($2,500 if a new account is being established by the exchange, $500 if the new account is an IRA). Call 800-595-9111 for more information.
+
+ 
+
+∎	 	
+By Internet – You may initiate transactions between Northern Trust banking and Fund accounts by using Northern Trust Private Passport. For details and to sign up for this service, go to northerntrust.com/funds or contact your Relationship Manager.
+
+The Fund is permitted to impose a liquidity fee on redemptions (up to 2%) or temporarily restrict redemptions from the Fund for up to 10 business days during a 90-day period (a redemption gate), in the event that the Fund’s weekly liquid assets fall below the following thresholds:
+
+ 
+
+∎	 	
+30% weekly liquid assets – If the Fund’s weekly liquid assets fall below 30% of the Fund’s total assets as of the end of a business day, and the Board of Trustees determines it is in the best interests of the Fund, the Board may impose a liquidity fee of no more than 2% of the amount redeemed and/or a redemption gate that temporarily suspends the right of redemption. Liquidity fees and/or redemption gates may be implemented as early as the same business day that weekly liquid assets of the Fund fall below 30% of the total assets.
+
+ 
+
+∎	 	
+10% weekly liquid assets – If the Fund’s weekly liquid assets fall below 10% of the Fund’s total assets as of the end of a business day, the Fund will impose, at the beginning of the next business day, a liquidity fee of 1% of the amount redeemed, unless the Board determines that imposing such a fee would not be in the best interests of the Fund or determines that a lower or higher fee (not to exceed 2%) would be in the best interests of the Fund.
+
+TAX INFORMATION
+
+When you sell your shares, you will generally recognize a capital gain or loss in an amount equal to the difference between your adjusted tax basis in the shares and the amount received. Any liquidity fees you incur on shares redeemed will generally decrease the amount of any capital gain (or increase the amount of any capital loss) you recognize with respect to such redemption. The Fund’s distributions are generally taxable to you as ordinary income, capital gains, or a combination of the two, unless you are investing through a tax-exempt or tax-deferred arrangement, such as a 401(k) plan or an individual retirement account. Distributions may be taxable upon withdrawal from tax-deferred accounts.
+
+ 
+
+NORTHERN FUNDS PROSPECTUS	 	7	 	MONEY MARKET FUNDS
+Table of Contents
+MONEY MARKET FUNDS
+
+ 
+
+MONEY MARKET FUND
+
+ 
+
+PAYMENTS TO BROKERS-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+
+If you purchase the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies may pay the intermediary for the sale of Fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

@@ -1,0 +1,102 @@
+Vanguard Real Estate II Index Fund
+<head_breaker>
+
+Fund Summary
+
+Investment Objective
+
+The Fund seeks to provide a high level of income and moderate long-term capital appreciation by tracking the performance of a benchmark index that measures the performance of publicly traded equity REITs and other real estate-related investments.
+
+Fees and Expenses
+
+The following table describes the fees and expenses you may pay if you buy and hold shares of the Fund.
+
+Shareholder Fees	 
+(Fees paid directly from your investment)	 
+ 
+Sales Charge (Load) Imposed on Purchases	None
+Purchase Fee	None
+Sales Charge (Load) Imposed on Reinvested Dividends	None
+Redemption Fee	None
+ 
+Annual Fund Operating Expenses	 
+(Expenses that you pay each year as a percentage of the value of your investment)	 
+ 
+Management Fees	0.07%
+12b-1 Distribution Fee	None
+Other Expenses	0.01%
+Total Annual Fund Operating Expenses	0.08%
+ 
+
+1
+
+ 
+
+Example
+
+The following example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. It illustrates the hypothetical expenses that you would incur over various periods if you were to invest $10,000 in the Fund’s shares. This example assumes that the Fund provides a return of 5% each year and that total annual fund operating expenses remain as stated in the preceding table. You would incur these hypothetical expenses whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+1 Year	3 Years	5 Years	10 Years
+$8	$26	$45	$103
+ 
+
+Portfolio Turnover
+
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in more taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the previous expense example, reduce the Fund’s performance. During the fiscal period from September 26, 2017, to January 31, 2018, the Fund’s portfolio turnover rate was 1% of the average value of its portfolio.
+
+Principal Investment Strategies
+
+The Fund employs an indexing investment approach designed to track the performance of the MSCI US Investable Market Real Estate 25/50 Transition Index, an interim index that will gradually increase exposure to other real estate-related investments while proportionately reducing exposure to other stocks based on their weightings in the MSCI US Investable Market Real Estate 25/50 Index. The MSCI US Investable Market Real Estate 25/50 Index is made up of stocks of large, mid-size, and small U.S. companies within the real estate sector, as classified under the Global Industry Classification Standard (GICS). The GICS real estate sector is composed of equity real estate investment trusts (known as REITs), which includes specialized REITs, and real estate management and development companies.
+
+The Fund attempts to replicate the Index by investing all, or substantially all, of its assets in the stocks that make up the Index, holding each stock in approximately the same proportion as its weighting in the Index.
+
+2
+
+ 
+
+Principal Risks
+
+An investment in the Fund could lose money over short or long periods of time. You should expect the Fund’s share price and total return to fluctuate within a wide range. The Fund is subject to the following risks, which could affect the Fund’s performance:
+
+• Industry concentration risk, which is the chance that the stocks of REITs and other real estate-related investments will decline because of adverse developments affecting the real estate industry and real property values. Because the Fund concentrates its assets in these stocks, industry concentration risk is high.
+
+• Stock market risk, which is the chance that stock prices overall will decline. Stock markets tend to move in cycles, with periods of rising prices and periods of falling prices. The Fund’s target index may, at times, become focused in stocks of a limited number of companies, which could cause the Fund to underperform the overall stock market.
+
+• Interest rate risk, which is the chance that REIT stock prices overall will decline and that the cost of borrowing for REITs will increase because of rising interest rates. Interest rate risk is high for the Fund.
+
+• Investment style risk, which is the chance that the returns from the stocks of REITs and other real estate-related investments—which typically are small- or mid-capitalization stocks—will trail returns from the overall stock market. Historically, these stocks have performed quite differently from the overall market.
+
+• Nondiversification risk, which is the chance that the Fund may invest a greater percentage of its assets in a particular issuer or group of issuers or may own larger positions of an issuer’s voting stock than a diversified fund.
+
+• Asset concentration risk, which is the chance that, because the Fund’s target index (and therefore the Fund) tends to be heavily weighted in its ten largest holdings, the Fund’s performance may be hurt disproportionately by the poor performance of relatively few stocks.
+
+An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+
+Annual Total Returns
+
+The Fund has not been in operation long enough to report a full calendar-year return. Performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.
+
+3
+
+ 
+
+Investment Advisor
+The Vanguard Group, Inc. (Vanguard)
+
+Portfolio Managers
+
+Walter Nejman, Portfolio Manager at Vanguard. He has co-managed the Fund since its inception in 2017.
+
+Gerard C. O’Reilly, Principal of Vanguard. He has co-managed the Fund since its inception in 2017.
+
+Purchase and Sale of Fund Shares
+
+You may purchase or redeem shares online through our website (vanguard.com), by mail (The Vanguard Group, P.O. Box 1110, Valley Forge, PA 19482-1110), or by telephone (800-662-2739). The minimum investment amount required to open and maintain a Fund account for Institutional Plus Shares is $100 million. The minimum investment amount required to add to an existing Fund account is generally $1.
+
+Tax Information
+
+The Fund’s distributions may be taxable as ordinary income or capital gain or may constitute non-taxable return of capital. If you are investing through a tax-advantaged account, special tax rules apply.
+
+Payments to Financial Intermediaries
+
+The Fund and its investment advisor do not pay financial intermediaries for sales of Fund shares.

@@ -1,0 +1,133 @@
+Franklin LibertyQ Emerging Markets ETF
+<head_breaker>
+
+Franklin LibertyQ Emerging Markets ETF
+
+Investment Goal
+
+To seek to provide investment results that closely correspond, before fees and expenses, to the performance of the LibertyQ Emerging Markets Index (the Emerging Markets Underlying Index).
+
+Fees and Expenses of the Fund
+
+The following table describes the fees and expenses that you will incur if you own shares of the Fund. You may also incur usual and customary brokerage commissions when buying or selling shares of the Fund, which are not reflected in the Example that follows.
+
+
+Annual Fund Operating Expenses
+
+(expenses that you pay each year as a percentage of the value of your investment)
+
+   	 
+Management fees 	0.55% 
+Distribution and service (12b-1) fees 	None 
+Other expenses1 	None 
+Total annual Fund operating expenses1 	0.55% 
+1. Expenses have been restated to reflect current fees.
+
+Example
+
+This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other funds. The Example assumes that you invest $10,000 in the Fund for the time periods indicated and then redeem all of your shares at the end of the period. The Example also assumes that your investment has a 5% return each year and that the Fund's operating expenses remain the same. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+   	1 Year 	3 Years 	5 Years 	10 Years 
+   	$ 56 	$ 176 	$ 307 	$ 689 
+Portfolio Turnover
+
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or "turns over" its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual Fund operating expenses or in the Example, affect the Fund's performance. During the most recent fiscal year, the Fund's portfolio turnover rate was 32.87% of the average value of its portfolio.
+
+Principal Investment Strategies
+
+Under normal market conditions, the Fund invests at least 80% of its assets in the component securities of the Emerging Markets Underlying Index and in depositary receipts representing such securities. The Emerging Markets Underlying Index is a systematic, rules-based proprietary index that is owned and calculated by MSCI Inc. (MSCI). The Emerging Markets Underlying Index is based on the MSCI Emerging Markets Index using a methodology developed with Franklin Templeton to reflect Franklin Templeton’s desired investment strategy. The MSCI Emerging Markets Index is a free float-adjusted market capitalization weighted index that is designed to measure the equity market performance of emerging markets.
+
+The Emerging Markets Underlying Index includes stocks from emerging market countries that have favorable exposure to multiple investment style factors. The Emerging Markets Underlying Index seeks to achieve a lower level of risk and higher risk-adjusted performance than the MSCI Emerging Markets Index over the long term by applying a multi-factor selection process, which is designed to select equity securities from the MSCI Emerging Markets Index that have favorable exposure to four investment style factors – quality, value, momentum and low volatility. Factors are common characteristics that relate to a group of issuers or securities that are important in explaining the returns and risks of those issuers’ securities. The “quality” factor incorporates measurements such as return on equity, earnings variability, cash return on assets and leverage. The “value” factor incorporates measurements such as price to earnings, price to forward earnings, price to book value and dividend yield. The “momentum” factor incorporates measurements such as 6-month risk adjusted price momentum and 12-month risk-adjusted price momentum. The “low volatility” factor incorporates measurements such as historical beta (i.e., a measure of the volatility of a security relative to the total market).
+
+At the time of each semi-annual reconstitution of the Emerging Markets Underlying Index, no company shall comprise more than 1% of the Emerging Markets Underlying Index. The Emerging Markets Underlying Index is also constrained in its construction to limit turnover of constituent securities at each semi-annual reconstitution. The Emerging Markets Underlying Index may include large- and mid-capitalization companies. As of June 29, 2018, the Emerging Markets Underlying Index was comprised of 203 securities with capitalizations ranging from $912 million to $268.70 billion.
+
+The Fund, using a “passive” or indexing investment approach, seeks investment results that closely correspond, before fees and expenses, to the performance of the Emerging Markets Underlying Index. The investment manager seeks to achieve, over time, a correlation between the Fund’s performance, before fees and expenses, and that of the Emerging Markets Underlying Index of 0.95 or better. A figure of 1.00 would indicate perfect correlation. The Fund’s intention is to replicate the component securities of the Emerging Markets Underlying Index as closely as possible (i.e., invest in all of the component securities in their respective weightings in the Emerging Markets Underlying Index). However, under various circumstances, it may not be possible or practicable to replicate the Emerging Markets Underlying Index. In these circumstances, the Fund may use a “representative sampling” strategy whereby the Fund would invest in what it believes to be a representative sample of the component securities of the Emerging Markets Underlying Index, but may not track the Emerging Markets Underlying Index with the same degree of accuracy as would an investment vehicle replicating the entire Emerging Markets Underlying Index. Under the representative sampling technique, the investment manager will select securities that collectively have an investment profile similar to that of the Emerging Markets Underlying Index, including securities that resemble those included in the Emerging Markets Underlying Index in terms of risk factors, performance attributes and other characteristics, such as market capitalization and industry weightings. The Fund’s portfolio is reconstituted semi-annually following the semi-annual reconstitution of the Emerging Markets Underlying Index.
+
+The Fund will concentrate its investments (i.e., hold 25% or more of its net assets) in a particular industry or group of industries to approximately the same extent that the Emerging Markets Underlying Index is concentrated.
+
+Principal Risks
+
+You could lose money by investing in the Fund. Exchange-traded fund (ETF) shares are not deposits or obligations of, or guaranteed or endorsed by, any bank, and are not insured by the Federal Deposit Insurance Corporation, the Federal Reserve Board, or any other agency of the U.S. government. The Fund is subject to the principal risks noted below, any of which may adversely affect the Fund’s net asset value (NAV), trading price, yield, total return and ability to meet its investment goal.
+
+Market   The market values of securities or other investments owned by the Fund will go up or down, sometimes rapidly or unpredictably. The market value of a security or other investment may be reduced by market activity or other results of supply and demand unrelated to the issuer. This is a basic risk associated with all investments. When there are more sellers than buyers, prices tend to fall. Likewise, when there are more buyers than sellers, prices tend to rise.
+
+Stock prices tend to go up and down more dramatically than those of debt securities. A slower-growth or recessionary economic environment could have an adverse effect on the prices of the various stocks held by the Fund.
+
+Investment Style Factors   There can be no assurance that the multi-factor stock selection process of the Emerging Markets Underlying Index will enhance performance. Exposure to such investment factors may detract from performance in some market environments, perhaps for extended periods.
+
+Foreign Securities (non-U.S.)   Investing in foreign securities typically involves more risks than investing in U.S. securities, and includes risks associated with: (i) internal and external political and economic developments – e.g., the political, economic and social policies and structures of some foreign countries may be less stable and more volatile than those in the U.S. or some foreign countries may be subject to trading restrictions or economic sanctions; (ii) trading practices – e.g., government supervision and regulation of foreign securities and currency markets, trading systems and brokers may be less than in the U.S.; (iii) availability of information – e.g., foreign issuers may not be subject to the same disclosure, accounting and financial reporting standards and practices as U.S. issuers; (iv) limited markets – e.g., the securities of certain foreign issuers may be less liquid (harder to sell) and more volatile; and (v) currency exchange rate fluctuations and policies (e.g., fluctuations may negatively affect investments denominated in foreign currencies and any income received or expenses paid by the Fund in that foreign currency). The risks of foreign investments may be greater in developing or emerging market countries.
+
+Emerging Market Countries   The Fund’s investments in emerging market countries are subject to all of the risks of foreign investing generally, and have additional heightened risks due to a lack of established legal, political, business and social frameworks to support securities and currency markets, including: delays in settling portfolio transactions; currency and capital controls; greater sensitivity to interest rate changes; pervasiveness of corruption and crime; currency exchange rate volatility; and inflation, deflation or currency devaluation.
+
+Regional   The Fund will invest in specific countries or geographic regions to approximately the same extent as the Emerging Markets Underlying Index. To the extent that the Fund invests a significant portion of its assets in a specific geographic region or a particular country, the Fund will generally have more exposure to the specific regional or country economic risks. In the event of economic or political turmoil or a deterioration of diplomatic relations in a region or country where a substantial portion of the Fund’s assets are invested, the Fund may experience substantial illiquidity or reduction in the value of the Fund’s investments. Adverse conditions in a certain region or country can also adversely affect securities of issuers in other countries whose economies appear to be unrelated.
+
+Depositary Receipts   Depositary receipts are subject to many of the risks of the underlying securities. For some depositary receipts, the custodian or similar financial institution that holds the issuer's shares in a trust account is located in the issuer's home country. In these cases if the issuer’s home country does not have developed financial markets, the Fund could be exposed to the credit risk of the custodian or financial institution and greater market risk. In addition, the depository institution may not have physical custody of the underlying securities at all times and may charge fees for various services. The Fund may experience delays in receiving its dividend and interest payments or exercising rights as a shareholder. There may be an increased possibility of untimely responses to certain corporate actions of the issuer in an unsponsored depositary receipt program. Accordingly, there may be less information available regarding issuers of securities underlying unsponsored programs and there may not be a correlation between this information and the market value of the depositary receipts.
+
+Calculation Methodology   The Emerging Markets Underlying Index relies on various sources of information to assess the criteria of issuers included in the Emerging Markets Underlying Index (or the MSCI index on which it is based), including information that may be based on assumptions and estimates. Neither the Fund nor the investment manager can offer assurances that the Emerging Markets Underlying Index’s calculation methodology or sources of information will provide an accurate assessment of included issuers or that the included issuers will provide the Fund with the market exposure it seeks.
+
+Index-Related   There is no assurance that the Emerging Markets Underlying Index will be determined, composed or calculated accurately. While MSCI provides descriptions of what the Emerging Markets Underlying Index is designed to achieve, MSCI does not guarantee the quality, accuracy or completeness of data in respect of its indices, and does not guarantee that the Emerging Markets Underlying Index will be in line with the described index methodology. Gains, losses or costs to the Fund caused by errors in the Emerging Markets Underlying Index may therefore be borne by the Fund and its shareholders.
+
+Non-Correlation   There is no guarantee that the Fund will achieve a high degree of correlation to the Emerging Markets Underlying Index and therefore achieve its investment goal. Market disruptions and regulatory restrictions could have an adverse effect on the Fund’s ability to adjust its exposure to the required levels in order to track the Emerging Markets Underlying Index. In addition, the Fund’s NAV may deviate from the Emerging Markets Underlying Index if the Fund fair values a portfolio security at a price other than the price used by the Emerging Markets Underlying Index for that security. To the extent that the investment manager uses a representative sampling strategy, the Fund may not track the return of the Emerging Markets Underlying Index as well as it would have if the Fund held all of the securities in the Emerging Markets Underlying Index.
+
+Tracking Error   Tracking error is the divergence of the Fund’s performance from that of the Emerging Markets Underlying Index. Tracking error may occur because of differences between the securities held in the Fund’s portfolio and those included in the Emerging Markets Underlying Index, pricing differences (including differences between a security’s price at the local market close and the Fund’s valuation of a security at the time of calculation of the Fund’s NAV), transaction costs, the Fund’s holding of cash, differences in timing of the accrual of dividends or interest, tax gains or losses, changes to the Emerging Markets Underlying Index or the need to meet various new or existing regulatory requirements. This risk may be heightened during times of increased market volatility or other unusual market conditions. Tracking error also may result because the Fund incurs fees and expenses, while the Emerging Markets Underlying Index does not.
+
+Market Trading   The Fund faces numerous market trading risks, including the potential lack of an active market for Fund shares, losses from trading in secondary markets, periods of high volatility and disruption in the creation/redemption process of the Fund. Any of these factors, among others, may lead to the Fund’s shares trading at a premium or discount to NAV. Thus, you may pay more (or less) than NAV when you buy shares of the Fund in the secondary market, and you may receive less (or more) than NAV when you sell those shares in the secondary market. The investment manager cannot predict whether shares will trade above (premium), below (discount) or at NAV.
+
+Concentration   To the extent the Fund concentrates in a specific industry, a group of industries, sector or type of investment, the Fund will carry much greater risks of adverse developments and price movements in such industries, sectors or investments than a fund that invests in a wider variety of industries, sectors or investments. There is also the risk that the Fund will perform poorly during a slump in demand for securities of companies in such industries or sectors.
+
+Midsize Companies   Securities issued by midsize companies may be more volatile in price than those of larger companies, involve substantial risks and should be considered speculative. Such risks may include greater sensitivity to economic conditions, less certain growth prospects, lack of depth of management and funds for growth and development, and limited or less developed product lines and markets. In addition, midsize companies may be particularly affected by interest rate increases, as they may find it more difficult to borrow money to continue or expand operations, or may have difficulty in repaying any loans.
+
+Passive Investment   Unlike many investment companies, the Fund is not actively managed and the investment manager does not attempt to take defensive positions under any market conditions, including declining markets. Therefore, the investment manager would not necessarily buy or sell a security unless that security is added or removed, respectively, from the Emerging Markets Underlying Index, even if that security generally is underperforming.
+
+International Closed Market Trading   To the extent that the underlying securities held by the Fund trade on an exchange that is closed when the securities exchange on which the Fund shares list and trade is open, there may be market uncertainty about the stale security pricing (i.e., the last quote from its closed foreign market) resulting in premiums or discounts to NAV that may be greater than those experienced by other ETFs.
+
+Authorized Participant Concentration   Only an authorized participant (Authorized Participant) may engage in creation or redemption transactions directly with the Fund. The Fund has a limited number of institutions that act as Authorized Participants. To the extent that these institutions exit the business or are unable to proceed with creation and/or redemption orders with respect to the Fund and no other Authorized Participant is able to step forward to create or redeem Creation Units (as defined below), Fund shares may trade at a discount to NAV and possibly face trading halts and/or delisting. This risk may be more pronounced in volatile markets, potentially where there are significant redemptions in ETFs generally.
+
+Cash Transactions   Unlike certain ETFs, the Fund expects to generally effect its creations and redemptions partially for cash, rather than for in-kind securities. Therefore, it may be required to sell portfolio securities and subsequently recognize gains on such sales that the Fund might not have recognized if it were to distribute portfolio securities in-kind. As such, investments in Fund shares may be less tax-efficient than an investment in an ETF that distributes portfolio securities entirely in-kind.
+
+Performance
+
+The following bar chart and table provide some indication of the risks of investing in the Fund by comparing the Fund's performance with that of the Fund's underlying index and a broad measure of market performance. The bar chart shows the Fund's performance for the most recent calendar year. The Fund's past performance (before and after taxes) is not necessarily an indication of how the Fund will perform in the future. You can obtain updated performance information at libertyshares.com or by calling (800) DIAL BEN/342-5236.
+
+
+
+Best Quarter: 	Q1'17 	10.49% 
+Worst Quarter: 	Q2'17 	3.72% 
+As of June 30, 2018, the Fund's year-to-date return was -8.28%. 
+
+Average Annual Total Returns
+
+For the periods ended December 31, 2017
+
+   	1 Year 	Since Inception
+6/1/2016 
+Franklin LibertyQ Emerging Markets ETF   	 	 
+         Return Before Taxes 	28.37% 	19.78% 
+         Return After Taxes on Distributions 	26.99% 	18.87% 
+         Return After Taxes on Distributions and Sale of Fund Shares 	16.12% 	14.85% 
+MSCI Emerging Markets (Net Dividends) Index (index reflects no deduction for fees, expenses or taxes) 	37.28% 	28.77% 
+LibertyQ Emerging Markets NETR Index (index reflects no deduction for fees, expenses or taxes) 	28.90% 	20.69% 
+The after-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. Actual after-tax returns depend on an investor's tax situation and may differ from those shown. After-tax returns are not relevant to investors who hold their Fund shares through tax-deferred arrangements, such as 401(k) plans or individual retirement accounts.
+
+Investment Manager
+
+Franklin Advisers, Inc. (Advisers)
+
+Portfolio Managers
+
+Dina Ting, CFA   Portfolio Manager of Advisers and lead portfolio manager of the Fund since inception (2016).
+
+Louis Hsu, CFA   Portfolio Manager of Advisers and portfolio manager of the Fund since December 2017.
+
+Purchase and Sale of Fund Shares
+
+The Fund is an ETF. Fund shares may only be purchased and sold on a national securities exchange through a broker-dealer. The price of Fund shares is based on market price, and because ETF shares trade at market prices rather than NAV, shares may trade at a price greater than NAV (a premium) or less than NAV (a discount). The Fund issues or redeems shares that have been aggregated into blocks of 200,000 shares or multiples thereof (Creation Units) to Authorized Participants who have entered into agreements with the Fund’s distributor, Franklin Templeton Distributors, Inc. The Fund will generally issue or redeem Creation Units in return for a basket of securities (and an amount of cash) that the Fund specifies each day.
+
+Taxes
+
+The Fund’s distributions are generally taxable to you as ordinary income, capital gains, or some combination of both, unless you are investing through a tax-deferred arrangement, such as a 401(k) plan or an individual retirement account, in which case your distributions would generally be taxed when withdrawn from the tax-deferred account.
+
+Payments to Broker-Dealers and
+Other Financial Intermediaries
+
+If you purchase shares of the Fund through a broker-dealer or other financial intermediary (such as a bank), Advisers or other related companies may pay the intermediary for the sale of Fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary's website for more information.

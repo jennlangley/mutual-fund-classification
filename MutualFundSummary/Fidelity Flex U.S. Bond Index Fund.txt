@@ -1,0 +1,127 @@
+Fidelity Flex U.S. Bond Index Fund
+<head_breaker>
+
+Fund Summary
+
+Fund:
+Fidelity Flex℠ U.S. Bond Index Fund
+Investment Objective
+
+The fund seeks to provide investment results that correspond to the aggregate price and interest performance of the debt securities in the Bloomberg Barclays U.S. Aggregate Bond Index.
+
+Fee Table
+
+The following table describes the fees and expenses that may be incurred when you buy and hold shares of the fund.
+
+Shareholder fees
+
+(fees paid directly from your investment) 	None 
+Annual Operating Expenses
+
+(expenses that you pay each year as a % of the value of your investment)
+
+Management fee 	None 
+Distribution and/or Service (12b-1) fees 	None 
+Other expenses 	0.00% 
+Total annual operating expenses(a) 	0.00% 
+(a)   The fund is available only to certain fee-based accounts offered by Fidelity. Managed account clients, retirement plans, plan sponsors and/or plan participants pay a wrap fee that covers investment advisory and administrative services.
+
+This example helps compare the cost of investing in the fund with the cost of investing in other funds.
+
+Let's say, hypothetically, that the annual return for shares of the fund is 5% and that your shareholder fees and the annual operating expenses for shares of the fund are exactly as described in the fee table. This example illustrates the effect of fees and expenses, but is not meant to suggest actual or expected fees and expenses or returns, all of which may vary. This example does not include any fees paid at the fee-based account or plan level. For every $10,000 you invested, here's how much you would pay in total expenses if you sell all of your shares at the end of each time period indicated:
+
+1 year 	$0 
+3 years 	$0 
+5 years 	$0 
+10 years 	$0 
+Portfolio Turnover
+
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or "turns over" its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account. These costs, which are not reflected in annual operating expenses or in the example, affect the fund's performance. During the most recent fiscal year, the fund's portfolio turnover rate was 102% of the average value of its portfolio.
+
+Principal Investment Strategies
+
+Normally investing at least 80% of the fund's assets in bonds included in the Bloomberg Barclays U.S. Aggregate Bond Index.
+Using statistical sampling techniques based on duration, maturity, interest rate sensitivity, security structure, and credit quality to attempt to replicate the returns of the Bloomberg Barclays U.S. Aggregate Bond Index using a smaller number of securities.
+Engaging in transactions that have a leveraging effect on the fund, including investments in derivatives - such as swaps (interest rate, total return, and credit default), options, and futures contracts - and forward-settling securities, to adjust the fund's risk exposure.
+Investing in Fidelity's central funds (specialized investment vehicles used by Fidelity® funds to invest in particular security types or investment disciplines).
+Principal Investment Risks
+
+Interest Rate Changes.  Interest rate increases can cause the price of a debt security to decrease.
+Foreign Exposure.  Entities located in foreign countries can be affected by adverse political, regulatory, market, or economic developments in those countries.
+Prepayment.  The ability of an issuer of a debt security to repay principal prior to a security's maturity can cause greater price volatility if interest rates change.
+Issuer-Specific Changes.  The value of an individual security or particular type of security can be more volatile than, and can perform differently from, the market as a whole. A decline in the credit quality of an issuer or a provider of credit support or a maturity-shortening structure for a security can cause the price of a security to decrease.
+Correlation to Index.  The performance of the fund and its index may vary somewhat due to factors such as fees and expenses of the fund, transaction costs, sample selection, regulatory restrictions, and timing differences associated with additions to and deletions from its index.
+Passive Management Risk.  The fund is managed with a passive investment strategy, attempting to track the performance of an unmanaged index of securities, regardless of the current or projected performance of the fund’s index or of the actual securities included in the index. This differs from an actively managed fund, which typically seeks to outperform a benchmark index. As a result, the fund’s performance could be lower than actively managed funds that may shift their portfolio assets to take advantage of market opportunities or lessen the impact of a market decline or a decline in the value of one or more issuers.
+Leverage Risk.  Leverage can increase market exposure, magnify investment risks, and cause losses to be realized more quickly.
+An investment in the fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Unlike individual debt securities, which typically pay principal at maturity, the value of an investment in the fund will fluctuate. You could lose money by investing in the fund.
+
+Performance
+
+Performance history will be available for the fund after the fund has been in operation for one calendar year.
+
+Investment Adviser
+
+Fidelity Management & Research Company (FMR) (the Adviser) is the fund's manager. Fidelity Investments Money Management, Inc. (FIMM) and other investment advisers serve as sub-advisers for the fund.
+
+Portfolio Manager(s)
+
+Brandon Bettencourt (co-manager) and Jay Small (co-manager) have managed the fund since March 2017.
+
+Purchase and Sale of Shares
+
+Shares are available only to certain fee-based accounts offered by Fidelity. You may buy or sell shares in various ways:
+
+Internet
+
+Plan Accounts:
+
+www.401k.com	
+All Other Accounts:
+
+www.fidelity.com
+Phone
+
+Plan Accounts:
+
+For Individual Accounts (investing through a retirement plan sponsor or other institution), refer to your plan materials or contact that institution directly.
+
+For Retirement Plan Level Accounts:
+
+Corporate Clients 1-800-962-1375
+
+"Not for Profit" Clients 1-800-343-0860
+
+All Other Accounts:
+
+1-800-544-3455
+
+Mail (Plan Accounts Only)
+
+Redemptions:
+
+Fidelity Investments
+P.O. Box 770001
+Cincinnati, OH 45277-0035
+Overnight Express:
+Fidelity Investments
+100 Crosby Parkway
+Covington, KY 41015
+TDD- Service for the Deaf and Hearing Impaired
+
+1-800-544-0118
+
+The price to buy one share is its net asset value per share (NAV). Shares will be bought at the NAV next calculated after an order is received in proper form.
+
+The price to sell one share is its NAV. Shares will be sold at the NAV next calculated after an order is received in proper form.
+
+The fund is open for business each day the New York Stock Exchange (NYSE) is open.
+
+There is no purchase minimum for fund shares.
+
+Tax Information
+
+Distributions you receive from the fund are subject to federal income tax and generally will be taxed as ordinary income or capital gains, and may also be subject to state or local taxes, unless you are investing through a tax-advantaged retirement account (in which case you may be taxed later, upon withdrawal of your investment from such account).
+
+Payments to Broker-Dealers and Other Financial Intermediaries
+
+The Adviser, Fidelity Distributors Corporation (FDC), and/or their affiliates may pay intermediaries, which may include banks, broker-dealers, retirement plan sponsors, administrators, or service-providers (who may be affiliated with the Adviser or FDC), for the sale of fund shares and related services. These payments may create a conflict of interest by influencing your intermediary and your investment professional to recommend the fund over another investment. Currently, the Board of Trustees of the fund has not authorized such payments for shares of the fund. Ask your investment professional or visit your intermediary's web site for more information.

@@ -1,0 +1,113 @@
+American Century Quality Diversified International ETF
+<head_breaker>
+
+Fund Summary
+Investment Objective
+The fund seeks to provide investment results that closely correspond, before fees and expenses, to the performance of the Alpha Vee American Century Diversified International Equity Index (the “Index”).
+Fees and Expenses
+The following table describes the fees and expenses you may pay if you buy and hold shares of the fund. You may also incur usual and customary brokerage commissions when buying or selling shares of the fund, which are not reflected in the example that follows.
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+Management Fee
+0.39%
+Other Expenses1
+0.00%
+Total Annual Fund Operating Expenses
+0.39%
+1 
+Other expenses are based on estimated amounts for the current fiscal year.
+Example
+The example below is intended to help you compare the costs of investing in the fund with the costs of investing in other funds. The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods (unless otherwise indicated), that you earn a 5% return each year, and that the fund’s operating expenses remain the same. You may be required to pay brokerage commissions on your purchases of shares of the fund, which are not reflected in the example. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+1 year
+3 years
+$40
+$126
+Portfolio Turnover
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s performance. Because the fund is new, the fund’s portfolio turnover rate is not available.
+Principal Investment Strategies
+Under normal market conditions, the fund invests at least 80% of its assets, exclusive of collateral held from securities lending, in the component securities of the underlying index. The Index is a rules-based index maintained by Alpha Vee Solutions, Inc. (the index provider).
+The Index is designed to select securities with attractive growth, valuation, and quality fundamentals. The universe of the Index is comprised of large- and mid-capitalization equity securities of global issuers in developed and emerging markets, excluding the United States. To construct the Index, the index provider first screens the underlying universe, selecting securities with higher profitability, return on assets, return on equity, and gross margins. The index provider next determines a growth score and a value score for each selected security. The growth scores are based on sales, earnings, operating income, profitability and cash flows. The value scores are based on value, earnings yield, dividend yield, and cash flow metrics. The index provider then weights each security based on a combined growth and value score. Though component securities of the Index may change from time to time, the index typically consists of 300–500 securities and, as of September 30 , 2018, the market capitalization range of the Index was approximately $ 3.8 billion and larger.
+For purposes of investing at least 80% of its assets in securities included in the Index, the fund may invest in depositary receipts representing securities included in the Index or securities representing depositary receipts included in the Index.
+The Index and the fund are rebalanced monthly and reconstituted quarterly.
+The fund may use a “representative sampling” strategy with respect to its Index instead of a replication strategy. For example, the fund may use such strategy when there are practical difficulties or substantial costs involved in compiling a portfolio of securities to follow the Index or, in certain instances, when a component security becomes temporarily illiquid, unavailable or less liquid. To the extent the fund uses representative sampling, the advisor invests in what it believes to be a representative sample of the component securities in the Index using quantitative analytical procedures to give the fund’s portfolio an investment profile similar to that of its Index. The fund also may realize savings in transaction costs or other efficiencies by investing up to 20% of its assets in securities or instruments not included in the Index but which the advisor believes will help the fund track the Index.
+
+2
+
+
+In addition, the fund may use futures contracts to invest cash balances, simulate investments in the underlying index, facilitate trading or minimize transaction costs. The portfolio managers may also use futures contracts to seek to reduce the fund’s tracking error relative to the Index.
+The fund may concentrate its investments (i.e., hold 25% or more of its net assets) in a particular industry or group of industries to the extent that the Index is concentrated.
+If the Index has high portfolio turnover, the fund may also have high portfolio turnover. This may cause higher transaction costs and may affect performance. It may also result in the realization and distribution of capital gains.
+Principal Risks
+•
+Market Risk  - The value of the fund’s shares will go up and down, sometimes rapidly or unpredictably, based on the performance of the companies whose securities it owns and other factors generally affecting the securities market.
+•
+Equity Securities Risk - The value of equity securities, may fluctuate due to changes in investor perception of a specific issuer, changes in the general condition of the stock market, or occurrences of political or economic events that affect equity issuers and the market. Common stock prices may be particularly sensitive to rising interest rates, as the cost of capital rises and borrowing costs increase.
+•
+Market Trading Risk  - The fund faces numerous market trading risks, including the potential lack of an active market for fund shares, losses from trading in secondary markets, periods of high volatility and disruption in the creation and/or redemption process of the fund. Any of these factors, among others, may lead to the fund’s shares trading at a premium or discount to NAV. Thus, you may pay more (or less) than NAV when you buy shares of the fund in the secondary market, and you may receive less (or more) than NAV when you sell those shares in the secondary market. The portfolio managers cannot predict whether shares will trade above (premium), below (discount) or at NAV.
+•
+Index-Related Risk  - Unlike many investment companies, the fund is not actively managed, and the portfolio managers do not attempt to take defensive positions under any market conditions, including declining markets. Therefore, the portfolio managers generally will not buy or sell securities unless they are added or removed from the Index, even if a security is underperforming. There is no assurance that the Index will be determined, composed or calculated accurately. While the index provider provides descriptions of what the Index is designed to achieve, the index provider does not guarantee the quality, accuracy or completeness of data in respect of its indices and does not guarantee that the Index will be in line with the described index methodology. Gains, losses or costs to the fund caused by errors in the Index may therefore be borne by the fund and its shareholders.
+•
+Calculation Methodology Risk  - The Index relies on various sources of information to assess the criteria of issuers included in the Index, including information that may be based on assumptions and estimates. Neither the fund nor American Century Investment Management, Inc. (the advisor) can offer assurances that the Index’s calculation methodology or sources of information will provide an accurate assessment of included issuers.
+•
+Style Risk  - There can be no assurance that the investment factor stock selection process and screens of the Index will enhance performance. Exposure to certain investment factors and use of screens may detract from performance in some market environments, perhaps for extended periods.
+•
+Geographic Risk - The fund will be subject to the risks of volatile economic cycles and/or conditions and developments that may be particular to a country or region in which it invests, such as: adverse securities markets; adverse exchange rates; adverse social, political, regulatory, economic, business, environmental or other developments; or natural disasters.
+•
+Emerging Market Risk  - Investing in emerging market countries generally is riskier than investing in foreign developed countries. Emerging market countries may have unstable governments, economies that are subject to sudden change, and significant volatility in their financial markets. These countries also may lack the legal, business and social framework to support securities markets.
+•
+Foreign Securities Risk - Foreign securities are generally riskier than U.S. securities. Political events (such as civil unrest, national elections and imposition of exchange controls), social and economic events (such as labor strikes and rising inflation), and natural disasters occurring in a country where the fund invests could cause the fund’s investments in that country to experience gains or losses. Securities of foreign issuers may be less liquid, more volatile and harder to value than U.S. securities.
+•
+Currency Risk  - The fund could experience gains or losses based solely on changes in the exchange rate between foreign currencies and the U.S. dollar.
+•
+Valuation Risk - The sale price the fund receives for a security may differ from the fund’s valuation of the security and may differ from the value used by the Index, particularly for securities that trade in low volume or volatile markets or that are valued using a fair value methodology. Non-U.S. exchanges may be open on days when the fund does not price its shares, thus the value of securities in the fund’s portfolio may change on days when investors are unable to purchase or sell the fund.
+•
+Depositary Receipts Risk - Investment in depositary receipts does not eliminate all the risks inherent in investing in securities of non-U.S. issuers. The market value of depositary receipts is dependent upon the market value of the underlying securities and fluctuations in the relative value of the currencies in which the depositary receipts and the underlying securities are quoted.
+
+3
+
+
+•
+Mid-Capitalization Company Risk - Investments in medium-size companies may involve greater risk and price volatility than investments in larger, more mature companies.
+•
+Tracking Error Risk  - Tracking error is the divergence of the fund’s performance from that of the Index. Tracking error may occur because of differences between the securities held in the fund’s portfolio and those included in the Index, pricing differences, transaction costs, the fund’s holding of cash, differences in timing of the accrual of dividends or interest, changes to the Index or the need to meet various new or existing regulatory requirements. This risk may be heightened during times of increased market volatility or other unusual market conditions. Tracking error also may result because the fund incurs fees and expenses, while the Index does not. In addition, any issues the fund encounters with regard to currency convertibility and repatriation may also increase Index tracking risk.
+•
+High Portfolio Turnover Risk - High portfolio turnover (higher than 100% annually), may result in increased transaction costs to the fund, including brokerage commissions, dealer mark-ups and other transaction costs on the sale of securities.
+•
+Sampling   Risk - To the extent the fund uses a representative sampling strategy, it may hold a smaller number of securities than are in the Index or it may hold securities that are not included in the Index. As a result, an adverse development respecting an issuer of securities held by the fund could result in a greater decline in the fund’s NAV than would be the case if all of the securities in the Index were held. The fund’s use of a representative sampling strategy may also include the risk that it may not track the return of the Index with the same degree of accuracy as would an investment vehicle that invested in every component security of the Index with the same weightings as the Index.
+•
+Management Risk - To the extent the fund uses representative sampling, the strategy may fail to produce the intended results.
+•
+Cash Transactions Risk  - The fund may effect its creations and redemptions for cash, rather than for in-kind securities. Therefore, it may be required to sell portfolio securities and subsequently recognize gains on such sales that the fund might not have recognized if it were to distribute portfolio securities in-kind. As such, investments in fund shares may be less tax-efficient than an investment in an ETF that distributes portfolio securities entirely in-kind.
+•
+Non-Correlation Risk  - There is no guarantee that the fund will achieve a high degree of correlation to the Index and therefore achieve its investment objective. Market disruptions and regulatory restrictions could have an adverse effect on the fund’s ability to adjust its exposure to the required levels in order to track the Index. In addition, the fund’s NAV may deviate from the Index if the fund fair values a portfolio security at a price other than the price used by the Index for that security.
+•
+Authorized Participant Concentration Risk  - Only an authorized participant may engage in creation or redemption transactions directly with the fund. The fund may have a limited number of institutions that act as authorized participants. To the extent that these institutions exit the business or are unable to proceed with creation and/or redemption orders with respect to the fund and no other authorized participant is able to step forward to process creation and/or redemption orders, fund shares may trade at a discount to net asset value (NAV) and possibly face trading halts and/or delisting. This risk may be more pronounced in volatile markets, potentially where there are significant redemptions in exchange-traded funds (ETFs) generally.
+•
+Concentration Risk  - To the extent the fund concentrates in a specific industry or a group of industries, it may be subject to greater risks and market fluctuations than a portfolio investing in a broader range of industries.
+•
+New Fund Risk - As a new fund, there can be no assurance that it will grow to or maintain an economically viable size. The fund may experience greater tracking error than it otherwise would at higher asset levels.
+•
+Large Shareholder Risk -  Certain shareholders, including other funds advised by the advisor, may from time to time own a substantial amount of the shares of the fund. In addition, a third party investor, the advisor or an affiliate of the advisor, an authorized participant, a market maker, or another entity may invest in the fund and hold its investment for a limited period of time solely to facilitate commencement of the fund or to facilitate the fund’s achieving a specified size or scale. There can be no assurance that any large shareholder would not redeem its investment, that the size of the fund would be maintained at such levels or that the fund would continue to meet applicable listing requirements. Redemptions by large shareholders could have a significant negative impact on the fund. In addition, transactions by large shareholders may account for a large percentage of the trading volume on the NYSE Arca, Inc. and may, therefore, have a material upward or downward effect on the market price of the shares.
+•
+Derivatives Risk  - The use of derivative instruments such as futures contracts involves risks different from, or possibly greater than, the risks associated with investing directly in securities and other traditional instruments. Derivatives are subject to a number of risks, including liquidity, interest rate, market, credit and correlation risk. In addition, derivatives can create economic leverage in the fund’s portfolio, which may result in significant volatility and cause the fund to participate in losses (as well as gains) in an amount that exceeds the fund’s initial investment. Certain derivatives have the potential for unlimited loss, regardless of the size of the initial investment.
+•
+Principal Loss Risk  - At any given time your shares may be worth less than the price you paid for them. In other words, it is possible to lose money by investing in the fund.
+An investment in the fund is not a bank deposit, and it is not insured or guaranteed by the Federal Deposit Insurance Corporation (FDIC) or any other government agency.
+
+4
+
+
+Fund Performance
+The fund’s performance history is not available as of the date of this prospectus. When the fund has investment results for a full calendar year, this section will feature charts that show annual total returns, highest and lowest quarterly returns and average annual total returns for the fund. This information indicates the volatility of the fund’s historical returns from year to year. For current performance information, please visit americancenturyetfs.com.
+Performance information is designed to help you see how fund returns can vary. Keep in mind that past performance (before and after taxes) does not predict how the fund will perform in the future.
+Portfolio Management
+Investment Advisor
+American Century Investment Management, Inc.
+Portfolio Managers
+Peruvemba Satish, Ph.D., CFA, Senior Vice President, Portfolio Manager and Director, Global Analytics, has been a member of the team that manages the fund since 2018.
+Rene P. Casis, Portfolio Manager, has been a member of the team that manages the fund since 2018.
+Purchase and Sale of Fund Shares
+The fund is an ETF. Fund shares may only be purchased and sold on a national securities exchange through a broker-dealer. The price of fund shares is based on market price, and because ETF shares trade at market prices rather than NAV, shares may trade at a price greater than NAV (a premium) or less than NAV (a discount). The fund issues and redeems shares that have been aggregated into blocks of 50,000 shares or multiples thereof (Creation Units) to authorized participants who have entered into agreements with the fund’s distributor. The fund will generally issue and redeem Creation Units in return for a basket of securities (and an amount of cash) that the fund specifies each day.
+Tax Information
+Fund distributions are generally taxable as ordinary income or capital gains, unless you are investing through a tax-deferred account such as a 401(k) or individual retirement account (in which case you may be taxed upon withdrawal of your investment from such account).
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you purchase the fund through a broker-dealer or other financial intermediary (such as a bank), the advisor and its related companies may pay the intermediary for the sale of fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

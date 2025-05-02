@@ -1,0 +1,105 @@
+Columbia Variable Portfolio - Large Cap Index Fund
+<head_breaker>
+
+SUMMARY OF COLUMBIA VP – LARGE CAP INDEX FUND
+Investment Objective
+Columbia Variable Portfolio (VP) – Large Cap Index Fund (the Fund) seeks to provide shareholders with long-term capital appreciation.
+Fees and Expenses of the Fund
+This table describes the fees and expenses that you may pay as an investor in the Fund. The table does not reflect any fees or expenses imposed by your Contract or Qualified Plan, which are disclosed in your separate Contract prospectus or Qualified Plan disclosure documents. If the additional fees or expenses were reflected, the expenses set forth below would be higher.
+    
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+ 	Class 1	Class 2	Class 3
+Management fees	0.20%	0.20%	0.20%
+Distribution and/or service (12b-1) fees	0.00%	0.25%	0.13%
+Other expenses(a)	0.08%	0.08%	0.08%
+Total annual Fund operating expenses	0.28%	0.53%	0.41%
+(a)	Other expenses have been restated to reflect current fees paid by the Fund.
+Example
+The following example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. The example illustrates the hypothetical expenses that you would incur over the time periods indicated, and assumes that:
+■	you invest $10,000 in the applicable class of Fund shares for the periods indicated,
+■	your investment has a 5% return each year, and
+■	the Fund’s total annual operating expenses remain the same as shown in the Annual Fund Operating Expenses table above.
+The example does not reflect any fees and expenses that apply to your Contract or Qualified Plan. Inclusion of these charges would increase expenses for all periods shown.
+Although your actual costs may be higher or lower, based on the assumptions listed above, your costs would be:
+    
+ 	1 year	3 years	5 years	10 years
+Class 1 (whether or not shares are redeemed)	$29	$ 90	$157	$356
+Class 2 (whether or not shares are redeemed)	$54	$170	$296	$665
+Class 3 (whether or not shares are redeemed)	$42	$132	$230	$518
+Portfolio Turnover
+The Fund may pay transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs. These costs, which are not reflected in annual fund operating expenses or in the example, affect the Fund’s performance. During the most recent fiscal year, the Fund’s portfolio turnover rate was 2% of the average value of its portfolio.
+Principal Investment Strategies
+Under normal market conditions, the Fund invests at least 80% of its net assets (including the amount of any borrowings for investment purposes) in common stocks that comprise the Standard & Poor's (S&P) 500 Index (the Index).
+The Fund may invest in derivatives, such as futures (including equity index futures), for cash equitization purposes.
+70	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA VARIABLE PORTFOLIO FUNDS
+SUMMARY OF COLUMBIA VP – LARGE CAP INDEX FUND (continued)
+Different common stocks have different weightings in the Index, depending on the amount of stock outstanding and the stock’s current price. In seeking to match the performance of the Index, Columbia Management Investment Advisers, LLC (the Investment Manager) attempts to allocate the Fund’s assets among common stocks in approximately the same weightings as the Index. This is referred to as a passive or indexing approach to investing.
+As a result of the Fund’s indexing approach to investing, the Fund will typically emphasize within the portfolio those economic sectors emphasized by the Index, such as the information technology sector. The Fund may buy shares of Ameriprise Financial, Inc., an affiliate of the Investment Manager, which is currently included in the Index, subject to certain restrictions.
+Principal Risks
+An investment in the Fund involves risks, including those described below. There is no assurance that the Fund will achieve its investment objective and you may lose money. The value of the Fund’s holdings may decline, and the Fund’s net asset value (NAV) and share price may go down. An investment in the Fund is not a bank deposit and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+Correlation/Tracking Error Risk. The Fund’s value will generally decline when the performance of the Index declines. A number of factors may affect the Fund’s ability to achieve a high degree of correlation with the Index, and there is no guarantee that the Fund will achieve a high degree of correlation. Failure to achieve a high degree of correlation may prevent the Fund from achieving its investment objective. The factors that may adversely affect the Fund’s correlation with the Index include the size of the Fund’s portfolio, fees, expenses, transaction costs, income items, valuation methodology, accounting standards, the effectiveness of sampling techniques (if applicable), changes in the Index and disruptions or illiquidity in the markets for the securities or other instruments in which the Fund invests. While the Fund typically seeks to track the performance of the Index by investing all, or substantially all, of its assets in the components of the Index in approximately the same proportion as their weighting in the Index, at times, the Fund may not have investment exposure to all components of the Index, or its weighting of investment exposure to such components may be different from that of the Index. In addition, the Fund may invest in securities or other instruments not included in the Index. The Fund may take or refrain from taking investment positions for various reasons, such as tax efficiency purposes, or to comply with regulatory restrictions, which may negatively affect the Fund’s correlation with the Index. The Fund may also be subject to large movements of assets into and out of the Fund, potentially resulting in the Fund being over- or under-exposed to certain components of the Index and may be impacted by Index reconstitutions and Index rebalancing events. Holding cash balances may detract from the Fund’s ability to track the Index. In addition, the Fund’s NAV may deviate from the Index if the Fund fair values a portfolio security at a price other than the price used by the Index for that security. The Fund also bears management and other expenses and transaction costs in trading securities or other instruments, which the Index does not bear. Accordingly, the Fund’s performance will likely fail to match the performance of the Index, after taking expenses into account. Any of these factors could decrease correlation between the performance of the Fund and the Index and may hinder the Fund’s ability to meet its investment objective. It is not possible to invest directly in an index.
+Derivatives Risk. Derivatives may involve significant risks. Derivatives are financial instruments with a value in relation to, or derived from, the value of an underlying asset(s) or other reference, such as an index, rate or other economic indicator (each an underlying reference). Derivatives may include those that are privately placed or otherwise exempt from SEC registration, including certain Rule 144A eligible securities. Derivatives could result in Fund losses if the underlying reference does not perform as anticipated. Use of derivatives is a highly specialized activity that can involve investment techniques, risks, and tax planning different from those associated with more traditional investment instruments. The Fund’s derivatives strategy may not be successful and use of certain derivatives could result in substantial, potentially unlimited, losses to the Fund regardless of the Fund’s actual investment. A relatively small movement in the price, rate or other economic indicator associated with the underlying reference may result in substantial loss for the Fund. Derivatives may be more volatile than other types of investments. The value of derivatives may be influenced by a variety of factors, including national and international political and economic developments. Potential changes to the regulation of the derivatives markets may make derivatives more costly, may limit the market for derivatives, or may otherwise adversely affect the value or
+PROSPECTUS 2018	71
+ 
+
+Table of Contents
+COLUMBIA VARIABLE PORTFOLIO FUNDS
+SUMMARY OF COLUMBIA VP – LARGE CAP INDEX FUND (continued)
+performance of derivatives. Derivatives can increase the Fund’s risk exposure to underlying references and their attendant risks, such as credit risk, market risk, foreign currency risk and interest rate risk, while exposing the Fund to correlation risk, counterparty risk, hedging risk, leverage risk, liquidity risk, pricing risk and volatility risk.
+Derivatives Risk – Futures Contracts Risk. A futures contract is an exchange-traded derivative transaction between two parties in which a buyer (holding the “long” position) agrees to pay a fixed price (or rate) at a specified future date for delivery of an underlying reference from a seller (holding the “short” position). The seller hopes that the market price on the delivery date is less than the agreed upon price, while the buyer hopes for the contrary. Certain futures contract markets are highly volatile, and futures contracts may be illiquid. Futures exchanges may limit fluctuations in futures contract prices by imposing a maximum permissible daily price movement. The Fund may be disadvantaged if it is prohibited from executing a trade outside the daily permissible price movement. At or prior to maturity of a futures contract, the Fund may enter into an offsetting contract and may incur a loss to the extent there has been adverse movement in futures contract prices. The liquidity of the futures markets depends on participants entering into offsetting transactions rather than making or taking delivery. To the extent participants make or take delivery, liquidity in the futures market could be reduced. Because of the low margin deposits normally required in futures trading, it is possible that the Fund may employ a high degree of leverage in the portfolio. As a result, a relatively small price movement in a futures contract may result in substantial losses to the Fund, exceeding the amount of the margin paid. For certain types of futures contracts, losses are potentially unlimited. Futures markets are highly volatile and the use of futures may increase the volatility of the Fund’s NAV. Futures contracts executed (if any) on foreign exchanges may not provide the same protection as U.S. exchanges. Futures contracts can increase the Fund’s risk exposure to underlying references and their attendant risks, such as credit risk, market risk, foreign currency risk and interest rate risk, while also exposing the Fund to correlation risk, counterparty risk, hedging risk, leverage risk, liquidity risk, pricing risk and volatility risk.
+Issuer Risk. An issuer in which the Fund invests or to which it has exposure may perform poorly, and the value of its securities may therefore decline, which would negatively affect the Fund’s performance. Poor performance may be caused by poor management decisions, competitive pressures, breakthroughs in technology, reliance on suppliers, labor problems or shortages, corporate restructurings, fraudulent disclosures, natural disasters or other events, conditions or factors.
+Market Risk. Market risk refers to the possibility that the market values of securities or other investments that the Fund holds will fall, sometimes rapidly or unpredictably, or fail to rise. An investment in the Fund could lose money over short or long periods.
+Passive Investment Risk. The Fund is not “actively” managed and may be affected by a general decline in market segments related to its underlying index. The Fund invests in securities or instruments included in, or representative of, its underlying index, regardless of their investment merits. The Fund does not seek temporary defensive positions when markets decline or appear overvalued.
+Sector Risk. At times, the Fund may have a significant portion of its assets invested in securities of companies conducting business in a related group of industries within a sector, including the information technology sector. Companies in the same sector may be similarly affected by economic, regulatory, political or market events or conditions, which may make the Fund more vulnerable to unfavorable developments in that sector than funds that invest more broadly. Generally, the more broadly the Fund invests, the more it spreads risk and potentially reduces the risks of loss and volatility.
+Information Technology and Technology-Related Sectors. The Fund may be more susceptible to the particular risks that may affect companies in the information technology sector, as well as other technology-related sectors (collectively, the technology sectors) than if it were invested in a wider variety of companies in unrelated sectors. Companies in the technology sectors are subject to certain risks, including the risk that new services, equipment or technologies will not be accepted by consumers and businesses or will become rapidly obsolete. Performance of such companies may be affected by factors including obtaining and protecting patents (or the failure to do so) and significant competitive pressures, including aggressive pricing of their products or services, new market entrants, competition for market share and short product cycles due to an accelerated rate of technological developments.
+72	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA VARIABLE PORTFOLIO FUNDS
+SUMMARY OF COLUMBIA VP – LARGE CAP INDEX FUND (continued)
+Such competitive pressures may lead to limited earnings and/or falling profit margins. As a result, the value of their securities may fall or fail to rise. In addition, many technology sector companies have limited operating histories and prices of these companies’ securities historically have been more volatile than other securities, especially over the short term.
+Performance Information
+The following bar chart and table show you how the Fund has performed in the past, and can help you understand the risks of investing in the Fund. The bar chart shows how the Fund’s Class 3 share performance has varied for each full calendar year shown. The table below the bar chart compares the Fund’s returns for the periods shown with a broad measure of market performance.
+The performance of one or more share classes shown in the table below begins before the indicated inception date for such share class. The returns shown for each such share class include the returns of the Fund’s Class 3 shares (adjusted to reflect the higher class-related operating expenses of such classes, where applicable) for periods prior to its inception date. Except for differences in annual returns resulting from differences in expenses (where applicable), the share classes of the Fund would have substantially similar annual returns because all share classes of the Fund invest in the same portfolio of securities.
+The returns shown do not reflect any fees and expenses imposed under your Contract or Qualified Plan and would be lower if they did.
+The Fund’s past performance is no guarantee of how the Fund will perform in the future. Updated performance information can be obtained by calling toll-free 800.345.6611 or visiting columbiathreadneedle.com/us.
+    
+Year by Year Total Return (%)
+as of December 31 Each Year	Best and Worst Quarterly Returns
+During the Period Shown in the Bar Chart
+
+Best	2nd Quarter 2009	15.79%
+Worst
+4th Quarter 2008	-21.84%
+Average Annual Total Returns (for periods ended December 31, 2017)
+ 	Share Class
+Inception Date	1 Year	5 Years	10 Years
+Class 1	04/25/2011	21.45%	15.41%	8.14%
+Class 2	04/25/2011	21.21%	15.14%	7.96%
+Class 3	05/01/2000	21.28%	15.26%	8.07%
+S&P 500 Index (reflects no deductions for fees, expenses or taxes)	 	21.83%	15.79%	8.50%
+  
+Fund Management
+Investment Manager: Columbia Management Investment Advisers, LLC
+    
+Portfolio Manager	 	Title	 	Role with Fund	 	Managed Fund Since
+Christopher Lo, Ph.D., CFA	 	Senior Portfolio Manager	 	Lead Portfolio Manager	 	2014
+PROSPECTUS 2018	73
+ 
+
+Table of Contents
+COLUMBIA VARIABLE PORTFOLIO FUNDS
+SUMMARY OF COLUMBIA VP – LARGE CAP INDEX FUND (continued)
+Portfolio Manager	 	Title	 	Role with Fund	 	Managed Fund Since
+Vadim Shteyn	 	Associate Portfolio Manager	 	Portfolio Manager	 	2011
+Purchase and Sale of Fund Shares
+The Fund is available for purchase through Contracts offered by the separate accounts of participating insurance companies or Qualified Plans or by other eligible investors authorized by Columbia Management Investment Distributors, Inc. (the Distributor). Shares of the Fund may not be purchased or sold by individual owners of Contracts or Qualified Plans. If you are a Contract holder or Qualified Plan participant, please refer to your separate Contract prospectus or Qualified Plan disclosure documents for information about minimum investment requirements and how to purchase and redeem shares of the Fund on days the Fund is open for business.
+Tax Information
+The Fund expects to be treated as a partnership for U.S. federal income tax purposes, and does not expect to make regular distributions (other than in redemption of Fund shares) to shareholders which are generally the participating insurance companies investing in the Fund through separate accounts or Qualified Plans or certain other eligible investors authorized by the Distributor. You should consult with the participating insurance company that issued your Contract, plan sponsor or other eligible investor through which your investment in the Fund is made regarding the U.S. federal income taxation of your investment.
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you make allocations to the Fund, the Fund, its Distributor or other related companies may pay participating insurance companies or other financial intermediaries for the allocation (sale) of Fund shares and related services in connection with such allocations to the Fund. These payments may create a conflict of interest by influencing the participating insurance company, other financial intermediary or your salesperson to recommend an allocation to the Fund over another fund or other investment option. Ask your financial advisor or salesperson or visit your financial intermediary’s website for more information.

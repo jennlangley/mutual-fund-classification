@@ -1,0 +1,490 @@
+AB All Market Real Return Portfolio
+<head_breaker>
+
+AB ALL MARKET REAL RETURN PORTFOLIO
+--------------------------------------------------------------------------------
+
+INVESTMENT OBJECTIVE
+The Fund's investment objective is to maximize real return over inflation.
+
+FEES AND EXPENSES OF THE FUND
+
+This table describes the fees and expenses that you may pay if you buy and hold
+shares of the Fund. You may qualify for sales charge reductions if you and
+members of your family invest, or agree to invest in the future, at least
+$100,000 in AB Mutual Funds. More information about these and other discounts
+is available from your financial intermediary and in Investing in the
+Funds--Sales Charge Reduction Programs for Class A Shares on page 34 of this
+Prospectus, in Appendix C--Financial Intermediary Waivers of this Prospectus
+and in Purchase of Shares--Sales Charge Reduction Programs for Class A Shares
+on page 108 of the Fund's Statement of Additional Information ("SAI").
+
+You may be required to pay commissions and/or other forms of compensation to a
+broker for transactions in Advisor Class shares, which are not reflected in the
+tables or the examples below.
+
+
+SHAREHOLDER FEES (fees paid directly from your investment)
+
+<TABLE>
+<CAPTION>
+                                                                                                                     CLASS
+                                                                                CLASS A  CLASS C   ADVISOR CLASS R, K, I AND Z
+                                                                                SHARES   SHARES       SHARES        SHARES
+------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>      <C>       <C>           <C>
+Maximum Sales Charge (Load) Imposed on Purchases
+(as a percentage of offering price)                                              4.25%    None         None          None
+------------------------------------------------------------------------------------------------------------------------------
+Maximum Deferred Sales Charge (Load)
+(as a percentage of offering price or redemption proceeds, whichever is lower)   None(a)  1.00%(b)     None          None
+------------------------------------------------------------------------------------------------------------------------------
+Exchange Fee                                                                     None     None         None          None
+------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+ANNUAL FUND OPERATING EXPENSES (expenses that you pay each year as a percentage
+of the value of your investment)
+
+
+<TABLE>
+<CAPTION>
+                                                              CLASS A CLASS C ADVISOR CLASS CLASS R CLASS K CLASS I CLASS Z
+---------------------------------------------------------------------------------------------------------------------------
+<S>                                                           <C>     <C>     <C>           <C>     <C>     <C>     <C>
+Management Fees                                                 .75%    .75%       .75%       .75%    .75%    .75%    .75%
+Distribution and/or Service (12b-1) Fees                        .25%   1.00%       None       .50%    .25%    None    None
+Other Expenses:
+  Transfer Agent                                                .19%    .19%       .19%       .26%    .20%    .02%    .02%
+  Other Expenses                                                .09%    .09%       .08%       .09%    .09%    .09%    .06%
+                                                              ------  ------     ------     ------  ------  ------  ------
+Total Other Expenses                                            .28%    .28%       .27%       .35%    .29%    .11%    .08%
+                                                              ------  ------     ------     ------  ------  ------  ------
+Acquired Fund Fees and Expenses                                 .04%    .04%       .04%       .04%    .04%    .04%    .04%
+                                                              ------  ------     ------     ------  ------  ------  ------
+Total Annual Fund Operating Expenses                           1.32%   2.07%      1.06%      1.64%   1.33%    .90%    .87%
+                                                              ======  ======     ======     ======  ======  ======  ======
+Fee Waiver and/or Expense Reimbursement(c)                    (.01)%  (.01)%     (.01)%     (.06)%  (.01)%  (.01)%  (.01)%
+                                                              ------  ------     ------     ------  ------  ------  ------
+Total Annual Fund Operating Expenses After Fee Waiver and/or
+ Expense Reimbursement                                         1.31%   2.06%      1.05%      1.58%   1.32%    .89%    .86%
+                                                              ======  ======     ======     ======  ======  ======  ======
+---------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(a)Purchases of Class A shares in amounts of $1,000,000 or more, or by certain
+   group retirement plans, may be subject to a 1%, 1-year contingent deferred
+   sales charge ("CDSC"), which may be subject to waiver in certain
+   circumstances.
+
+
+(b)For Class C shares, the CDSC is 0% after the first year. Class C shares
+   automatically convert to Class A shares after ten years.
+
+(c)The Adviser has contractually agreed to waive its management fees and/or to
+   bear expenses of the Fund until January 31, 2019 to the extent necessary to
+   prevent total Fund operating expenses (excluding extraordinary expenses,
+   interest expense, and acquired fund fees and expenses other than the
+   advisory fees of any AB Mutual Funds in which the Fund may invest), on an
+   annualized basis, from exceeding 1.30%, 2.05%, 1.05%, 1.55%, 1.30%, 1.05%
+   and 1.05% of average daily net assets, respectively, for Class A, Class C,
+   Advisor Class, Class R, Class K, Class I and Class Z shares ("expense
+   limitations"). The expense limitations will remain in effect until
+   January 31, 2019 and will continue thereafter from year to year unless the
+   Adviser provides notice of termination to the Fund at least 60 days prior to
+   the end of the period. In connection with the Fund's investments in AB
+   Government Money Market Portfolio (the "Money Market Portfolio"), the
+   Adviser has contractually agreed to waive its management fee from the Fund
+   and/or reimburse other expenses of the Fund in an amount equal to the Fund's
+   pro rata share of the Money Market Portfolio's effective management fee, as
+   included in "Acquired Fund Fees and Expenses".
+
+
+                                                                             13
+
+<PAGE>
+
+
+
+EXAMPLES
+
+The Examples are intended to help you compare the cost of investing in the Fund
+with the cost of investing in other mutual funds. The Examples assume that you
+invest $10,000 in the Fund for the time periods indicated and then redeem all
+of your shares at the end of those periods. The Examples also assume that your
+investment has a 5% return each year, that the Fund's operating expenses stay
+the same and that any fee waiver is in effect for only the first year. Although
+your actual costs may be higher or lower, based on these assumptions your costs
+would be:
+
+
+
+<TABLE>
+<CAPTION>
+                CLASS A CLASS C ADVISOR CLASS CLASS R CLASS K CLASS I CLASS Z
+-----------------------------------------------------------------------------
+<S>             <C>     <C>     <C>           <C>     <C>     <C>     <C>
+After 1 Year    $  553  $  309*    $  107     $  161  $  134  $   91  $   88
+After 3 Years   $  825  $  648     $  336     $  511  $  420  $  286  $  277
+After 5 Years   $1,117  $1,113     $  584     $  886  $  728  $  497  $  481
+After 10 Years  $1,947  $2,399     $1,293     $1,939  $1,601  $1,107  $1,072
+-----------------------------------------------------------------------------
+</TABLE>
+
+
+*If you did not redeem your shares at the end of the period, your expenses
+ would be decreased by approximately $100.
+
+PORTFOLIO TURNOVER
+
+The Fund pays transaction costs, such as commissions, when it buys or sells
+securities (or "turns over" its portfolio). A higher portfolio turnover rate
+may indicate higher transaction costs and may result in higher taxes when Fund
+shares are held in a taxable account. These transaction costs, which are not
+reflected in the Annual Fund Operating Expenses or in the Examples, affect the
+Fund's performance. During the most recent fiscal year, the Fund's portfolio
+turnover rate was 123% of the average value of its portfolio.
+
+
+PRINCIPAL STRATEGIES
+The Fund seeks to maximize real return. Real return is the rate of return after
+adjusting for inflation.
+
+The Fund pursues an aggressive investment strategy involving a variety of asset
+classes. The Fund invests primarily in instruments that the Adviser expects to
+outperform broad equity indices during periods of rising inflation. Under
+normal circumstances, the Fund expects to invest its assets principally in the
+following instruments that, in the judgment of the Adviser, are affected
+directly or indirectly by the level and change in rate of inflation:
+inflation-indexed fixed-income securities, such as Treasury Inflation-Protected
+Securities ("TIPS") and similar bonds issued by governments outside of the
+United States; commodities; commodity-related equity securities; real estate
+equity securities; inflation sensitive equity securities, which the Fund
+defines as equity securities of companies that the Adviser believes have the
+ability to pass along increasing costs to consumers and maintain or grow
+margins in rising inflation environments, including equity securities of
+utilities and infrastructure-related companies ("inflation sensitive
+equities"); securities and derivatives linked to the price of other assets
+(such as commodities, stock indices and real estate); and currencies. The Fund
+expects its investments in fixed-income securities to have a broad range of
+maturities and quality levels.
+
+The Fund will seek inflation protection from investments around the globe, both
+in developed and emerging market countries. In selecting securities for
+purchase and sale, the Adviser will utilize its qualitative and quantitative
+resources to determine overall inflation sensitivity, asset allocation, and
+security selection. The Adviser assesses the securities' risks and inflation
+sensitivity as well as the securities' impact on the overall risks and
+inflation sensitivity of the Fund. When its analysis indicates that changes are
+necessary, the Adviser intends to implement them through a combination of
+changes to underlying positions and the use of inflation swaps and other types
+of derivatives, such as interest rate swaps.
+
+The Fund anticipates that its targeted investment mix, other than its
+investments in inflation-indexed fixed-income securities, will focus on
+commodity-related equity securities, commodities and commodity derivatives,
+real estate equity securities and inflation sensitive equities to provide a
+balance between expected return and inflation protection. The Fund may vary its
+investment allocations among these asset classes, at times significantly. Its
+commodities investments will include significant exposure to energy
+commodities, but will also include agricultural products, and industrial and
+precious metals, such as gold. The Fund's investments in real estate equity
+securities will include real estate investment trusts ("REITs") and other real
+estate-related securities.
+
+The Fund will invest in both U.S. and non-U.S. Dollar-denominated equity or
+fixed-income securities. The Fund may invest in currencies for hedging or for
+investment purposes, both in the spot market and through long or short
+positions in currency-related derivatives. The Fund does not ordinarily expect
+to hedge its foreign currency exposure because it will be balanced by
+investments in U.S. Dollar-denominated securities, although it may hedge the
+exposure under certain circumstances.
+
+The Fund may invest significantly to the extent permitted by applicable law in
+derivatives, such as options, futures contracts, forwards, swaps or structured
+notes. The Fund intends to use leverage for investment purposes through the use
+of cash made available by derivatives transactions to make other investments in
+accordance with its investment policies. In determining when and to what extent
+to employ leverage or enter into derivatives transactions, the Adviser will
+consider factors such as the relative risks and returns expected of potential
+investments and the cost of such transactions. The Adviser will consider the
+impact of derivatives in making its assessments of the Fund's risks. The
+resulting exposures to markets, sectors, issuers or specific securities will be
+continuously monitored by the Adviser.
+
+14
+
+<PAGE>
+
+
+
+The Fund may seek to gain exposure to physical commodities traded in the
+commodities markets through investments in a variety of derivative instruments,
+including investments in commodity index-linked notes. The Adviser expects that
+the Fund will seek to gain exposure to commodities and commodity-related
+instruments and derivatives primarily through investments in AllianceBernstein
+Cayman Inflation Strategy, Ltd., a wholly-owned subsidiary of the Fund
+organized under the laws of the Cayman Islands (the "Subsidiary"). The
+Subsidiary is advised by the Adviser and has the same investment objective and
+substantially similar investment policies and restrictions as the Fund except
+that the Subsidiary, unlike the Fund, may invest, without limitation, in
+commodities and commodity-related instruments. The Fund will be subject to the
+risks associated with the commodities, derivatives and other instruments in
+which the Subsidiary invests, to the extent of its investment in the
+Subsidiary. The Fund limits its investment in the Subsidiary to no more than
+25% of its net assets. Investment in the Subsidiary is expected to provide the
+Fund with commodity exposure within the limitations of federal tax requirements
+that apply to the Fund.
+
+The Fund is "non-diversified", which means that it may concentrate its assets
+in a smaller number of issuers than a diversified fund.
+
+PRINCIPAL RISKS
+.  MARKET RISK: The value of the Fund's assets will fluctuate as the stock,
+   commodity and bond markets fluctuate. The value of the Fund's investments
+   may decline, sometimes rapidly and unpredictably, simply because of economic
+   changes or other events that affect large portions of the market.
+
+
+.  CREDIT RISK: An issuer or guarantor of a fixed-income security, or the
+   counterparty to a derivatives or other contract, may be unable or unwilling
+   to make timely payments of interest or principal, or to otherwise honor its
+   obligations. The issuer or guarantor may default, causing a loss of the full
+   principal amount of a security and accrued interest. The degree of risk for
+   a particular security may be reflected in its credit rating. There is the
+   possibility that the credit rating of a fixed-income security may be
+   downgraded after purchase, which may adversely affect the value of the
+   security. Investments in fixed-income securities with lower ratings tend to
+   have a higher probability that an issuer will default or fail to meet its
+   payment obligations.
+
+.  INTEREST RATE RISK: Changes in interest rates will affect the value of
+   investments in fixed-income securities. When interest rates rise, the value
+   of existing investments in fixed-income securities tends to fall and this
+   decrease in value may not be offset by higher income from new investments.
+   The Fund may be subject to heightened interest rate risk due to rising rates
+   as the current period of historically low interest rates may be ending.
+   Interest rate risk is generally greater for fixed-income securities with
+   longer maturities or durations.
+
+
+.  COMMODITY RISK: Investing in commodities and commodity-linked derivative
+   instruments, either directly or through the Subsidiary, may subject the Fund
+   to greater volatility than investments in traditional securities. The value
+   of commodity-linked derivative instruments may be affected by changes in
+   overall market movements, commodity index volatility, changes in interest
+   rates, or factors affecting a particular industry or commodity, such as
+   drought, floods, weather, livestock disease, embargoes, tariffs and
+   international economic, political and regulatory developments.
+
+.  DERIVATIVES RISK: Derivatives may be illiquid, difficult to price, and
+   leveraged so that small changes may produce disproportionate losses for the
+   Fund, and may be subject to counterparty risk to a greater degree than more
+   traditional investments.
+
+.  LEVERAGE RISK: To the extent the Fund uses leveraging techniques, its net
+   asset value ("NAV") may be more volatile because leverage tends to
+   exaggerate the effect of changes in interest rates and any increase or
+   decrease in the value of the Fund's investments.
+
+.  LIQUIDITY RISK: Liquidity risk occurs when certain investments become
+   difficult to purchase or sell. Difficulty in selling less liquid securities
+   may result in sales at disadvantageous prices affecting the value of your
+   investment in the Fund. Causes of liquidity risk may include low trading
+   volumes and large positions. Foreign fixed-income securities may have more
+   liquidity risk because secondary trading markets for these securities may be
+   smaller and less well-developed and the securities may trade less
+   frequently. Liquidity risk may be higher in a rising interest rate
+   environment, when the value and liquidity of fixed-income securities
+   generally go down.
+
+.  FOREIGN (NON-U.S.) RISK: Investments in securities of non-U.S. issuers may
+   involve more risk than those of U.S. issuers. These securities may fluctuate
+   more widely in price and may be less liquid due to adverse market, economic,
+   political, regulatory or other factors.
+
+.  CURRENCY RISK: Fluctuations in currency exchange rates may negatively affect
+   the value of the Fund's investments or reduce its returns.
+
+.  SUBSIDIARY RISK: By investing in the Subsidiary, the Fund is indirectly
+   exposed to the risks associated with the Subsidiary's investments. The
+   derivatives and other investments held by the Subsidiary are generally
+   similar to those that are permitted to be held by the Fund and are subject
+   to the same risks that apply to similar investments if held directly by the
+   Fund. The Subsidiary is not registered under the Investment Company Act of
+   1940, as amended (the "1940 Act"), and, unless otherwise noted in this
+   Prospectus, is not subject to all of the investor protections of the 1940
+   Act. However, the Fund wholly owns and controls the Subsidiary, and the Fund
+   and the Subsidiary are managed by the Adviser, making it unlikely the
+   Subsidiary will take actions contrary to the interests of the Fund or its
+   shareholders.
+
+                                                                             15
+
+<PAGE>
+
+
+
+.  REAL ESTATE RISK: The Fund's investments in real estate securities have many
+   of the same risks as direct ownership of real estate, including the risk
+   that the value of real estate could decline due to a variety of factors that
+   affect the real estate market generally. Investments in REITs may have
+   additional risks. REITs are dependent on the capability of their managers,
+   may have limited diversification, and could be significantly affected by
+   changes in taxes.
+
+.  NON-DIVERSIFICATION RISK: The Fund may have more risk because it is
+   "non-diversified", meaning that it can invest more of its assets in a
+   smaller number of issuers. Accordingly, changes in the value of a single
+   security may have a more significant effect, either negative or positive, on
+   the Fund's NAV.
+
+.  MANAGEMENT RISK: The Fund is subject to management risk because it is an
+   actively-managed investment fund. The Adviser will apply its investment
+   techniques and risk analyses in making investment decisions, but there is no
+   guarantee that its techniques will produce the intended results.
+
+As with all investments, you may lose money by investing in the Fund.
+
+BAR CHART AND PERFORMANCE INFORMATION
+The bar chart and performance information provide an indication of the
+historical risk of an investment in the Fund by showing:
+
+.  how the Fund's performance changed from year to year over the life of the
+   Fund; and
+
+.  how the Fund's average annual returns for one year, five years and since
+   inception compare to those of a broad-based securities market index.
+
+You may obtain updated performance information on the website at
+www.abfunds.com (click on "Investments--Mutual Funds").
+
+The Fund's past performance before and after taxes, of course, does not
+necessarily indicate how it will perform in the future.
+
+BAR CHART
+The annual returns in the bar chart are for the Fund's Class A shares and do
+not reflect sales loads. If sales loads were reflected, returns would be less
+than those shown.
+
+
+                                    [CHART]
+
+ 08    09    10     11     12      13       14        15        16         17
+----  ----  ----  ------  -----  ------   -------   -------   -------    ------
+ n/a   n/a   n/a  -8.60%  9.18%  -1.40%   -12.41%   -19.55%    15.49%    11.06%
+
+                             Calendar Year End (%)
+
+
+
+
+During the period shown in the bar chart, the Fund's:
+
+BEST QUARTER WAS UP 9.33%, 2ND QUARTER, 2016; AND WORST QUARTER WAS DOWN
+-16.30%, 3RD QUARTER, 2011.
+
+16
+
+<PAGE>
+
+
+
+PERFORMANCE TABLE
+AVERAGE ANNUAL TOTAL RETURNS
+
+(For the periods ended December 31, 2017)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                             SINCE
+                                                                            1 YEAR 5 YEARS INCEPTION*
+-----------------------------------------------------------------------------------------------------
+<C>            <S>                                                          <C>    <C>     <C>
+Class A**      Return Before Taxes                                           6.37% -3.13%     0.21%
+               ------------------------------------------------------------ ------ ------- ----------
+               Return After Taxes on Distributions                           5.22% -3.75%    -0.43%
+               ------------------------------------------------------------ ------ ------- ----------
+               Return After Taxes on Distributions and Sale of Fund Shares   3.85% -2.52%     0.01%
+-----------------------------------------------------------------------------------------------------
+Class C        Return Before Taxes                                           9.30% -2.99%     0.04%
+-----------------------------------------------------------------------------------------------------
+Advisor Class  Return Before Taxes                                          11.40% -2.01%     1.04%
+-----------------------------------------------------------------------------------------------------
+Class R        Return Before Taxes                                          10.69% -2.51%     0.53%
+-----------------------------------------------------------------------------------------------------
+Class K        Return Before Taxes                                          11.00% -2.28%     0.78%
+-----------------------------------------------------------------------------------------------------
+Class I        Return Before Taxes                                          11.55% -1.94%     1.09%
+-----------------------------------------------------------------------------------------------------
+Class Z***     Return Before Taxes                                          11.55% -1.90%     1.15%
+-----------------------------------------------------------------------------------------------------
+MSCI All Country World Commodity Producers Index
+(reflects no deduction for fees, taxes or expenses)                         13.70% -0.32%     0.15%
+-----------------------------------------------------------------------------------------------------
+Bloomberg Commodity Index/#/
+(reflects no deduction for fees, taxes or expenses)                          1.70% -8.45%    -5.05%
+-----------------------------------------------------------------------------------------------------
+Bloomberg Barclays 10+ Year U.S. TIPS Index/#/
+(reflects no deduction for fees, taxes or expenses)                          1.90%  0.09%     2.33%
+-----------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+*  Inception date for all Classes, except Class Z, is 03/08/2010. Inception
+   date for Class Z shares is 01/31/2014.
+
+** After-tax returns:
+
+   -Are shown for Class A shares only and will vary for the other Classes of
+    shares because these Classes have different expense ratios;
+
+   -Are an estimate, which is based on the highest historical individual
+    federal marginal income tax rates, and do not reflect the impact of state
+    and local taxes; actual after-tax returns depend on an individual
+    investor's tax situation and are likely to differ from those shown; and
+
+   -Are not relevant to investors who hold fund shares through tax-deferred
+    arrangements such as 401(k) plans or individual retirement accounts.
+
+***The performance of the Fund's Class Z shares for periods prior to this share
+   class's inception is the performance of the Fund's Class A shares, adjusted
+   to reflect the net expense differences between Class A and Class Z shares.
+
+
+#  The information in each of the Bloomberg Commodity Index and Bloomberg
+   Barclays 10+ Year U.S. TIPS Index shows how the Fund's performance compares
+   with the returns of an index of securities similar to those in which the
+   Fund invests.
+
+
+INVESTMENT ADVISER
+AllianceBernstein L.P. is the investment adviser for the Fund.
+
+PORTFOLIO MANAGERS
+The following table lists the persons responsible for day-to-day management of
+the Fund's portfolio:
+
+
+<TABLE>
+<CAPTION>
+EMPLOYEE         LENGTH OF SERVICE   TITLE
+--------------------------------------------------------------------------
+<S>              <C>                 <C>
+Vinod Chathlani  Since 2015          Vice President of the Adviser
+
+Daniel J. Loewy  Since 2015          Senior Vice President of the Adviser
+
+Leon Zhu         Since January 2018  Senior Vice President of the Adviser
+</TABLE>
+
+
+ADDITIONAL INFORMATION
+
+For important information about the purchase and sale of Fund shares, tax
+information and financial intermediary compensation, please turn to ADDITIONAL
+INFORMATION ABOUT PURCHASE AND SALE OF FUND SHARES, TAXES AND FINANCIAL
+INTERMEDIARIES, page 18 in this Prospectus.

@@ -1,0 +1,166 @@
+Fidelity Investment Grade Bond Fund
+<head_breaker>
+
+Fund Summary
+
+Fund/Class:
+Fidelity® Investment Grade Bond Fund/Fidelity Advisor® Investment Grade Bond Fund A, M, C, I, Z
+
+Investment Objective
+
+The fund seeks a high level of current income.
+
+Fee Table
+
+The following table describes the fees and expenses that may be incurred when you buy and hold shares of the fund. In addition to the fees and expenses described below, your broker may also require you to pay brokerage commissions on purchases and sales of certain share classes of the fund.
+
+You may qualify for sales charge discounts if you and your family invest, or agree to invest in the future, at least $50,000 in the fund or certain other Fidelity® funds. More information about these and other discounts is available from your investment professional and in the "Fund Distribution" section beginning on page 31 of the prospectus. Different intermediaries may provide additional waivers or reductions of the sales charge. Please see “Sales Charge Waiver Policies Applied by Certain Intermediaries” in the “Appendix” section of the prospectus.
+
+Shareholder fees
+
+(fees paid directly from your investment)
+
+ 	Class A 	Class M 	Class C 	Class I 	Class Z 
+Maximum sales charge (load) on purchases (as a % of offering price) 	4.00% 	4.00% 	None 	None 	None 
+Maximum contingent deferred sales charge (as a % of the lesser of original purchase price or redemption proceeds) 	None(a) 	None(a) 	1.00%(b) 	None 	None 
+(a)  Class A and Class M purchases of $1 million or more will not be subject to a front-end sales charge. Such Class A and Class M purchases may be subject, upon redemption, to a contingent deferred sales charge (CDSC) of 0.75% or 0.25%, respectively.
+
+(b)  On Class C shares redeemed less than one year after purchase.
+
+Annual Operating Expenses
+
+(expenses that you pay each year as a % of the value of your investment)
+
+ 	Class A 	Class M 	Class C 	Class I 	Class Z 
+Management fee 	0.31% 	0.31% 	0.31% 	0.31% 	0.31% 
+Distribution and/or Service (12b-1) fees 	0.25% 	0.25% 	1.00% 	None 	None 
+Other expenses 	0.21% 	0.23% 	0.23% 	0.19% 	0.09%(a) 
+Total annual operating expenses 	0.77% 	0.79% 	1.54% 	0.50% 	0.40% 
+Fee waiver and/or expense reimbursement 	None 	None 	None 	None 	0.04%(b) 
+Total annual operating expenses after fee waiver and/or expense reimbursement 	0.77% 	0.79% 	1.54% 	0.50% 	0.36% 
+(a)  Based on estimated amounts for the current fiscal year.
+
+(b)  Fidelity Management & Research Company (FMR) has contractually agreed to reimburse Class Z of the fund to the extent that total operating expenses (excluding interest, certain taxes, certain securities lending costs, brokerage commissions, fees and expenses of the Independent Trustees, proxy and shareholder meeting expenses, extraordinary expenses, and acquired fund fees and expenses, if any), as a percentage of its average net assets, exceed 0.36% (the Expense Cap). If at any time during the current fiscal year expenses for Class Z or of the fund fall below the Expense Cap, FMR reserves the right to recoup through the end of fiscal year prior reimbursed expenses up to, but not in excess of, the Expense Cap. This arrangement will remain in effect through December 31, 2019. FMR may not terminate this arrangement before the expiration date without the approval of the Board of Trustees and may extend it in its discretion after that date.
+
+This example helps compare the cost of investing in the fund with the cost of investing in other funds.
+
+Let's say, hypothetically, that the annual return for shares of the fund is 5% and that your shareholder fees and the annual operating expenses for shares of the fund are exactly as described in the fee table. This example illustrates the effect of fees and expenses, but is not meant to suggest actual or expected fees and expenses or returns, all of which may vary. For every $10,000 you invested, here's how much you would pay in total expenses if you sell all of your shares at the end of each time period indicated and if you hold your shares:
+
+ 	Class A 	Class M 	Class C 	Class I 	Class Z 
+ 	Sell All
+Shares 	Hold
+Shares 	Sell All
+Shares 	Hold
+Shares 	Sell All
+Shares 	Hold
+Shares 	Sell All
+Shares 	Hold
+Shares 	Sell All
+Shares 	Hold
+Shares 
+1 year 	$475 	$475 	$477 	$477 	$257 	$157 	$51 	$51 	$37 	$37 
+3 years 	$636 	$636 	$642 	$642 	$486 	$486 	$160 	$160 	$123 	$123 
+5 years 	$811 	$811 	$821 	$821 	$839 	$839 	$280 	$280 	$219 	$219 
+10 years 	$1,316 	$1,316 	$1,339 	$1,339 	$1,834 	$1,834 	$628 	$628 	$500 	$500 
+Portfolio Turnover
+
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or "turns over" its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account. These costs, which are not reflected in annual operating expenses or in the example, affect the fund's performance. During the most recent fiscal year, the fund's portfolio turnover rate was 56% of the average value of its portfolio.
+
+Principal Investment Strategies
+
+Normally investing at least 80% of assets in investment-grade debt securities (those of medium and high quality) of all types and repurchase agreements for those securities.
+Managing the fund to have similar overall interest rate risk to the Bloomberg Barclays U.S. Aggregate Bond Index.
+Allocating assets across different market sectors and maturities.
+Investing in domestic and foreign issuers.
+Analyzing the credit quality of the issuer, security-specific features, current and potential future valuation, and trading opportunities to select investments.
+Investing in lower-quality debt securities (those of less than investment-grade quality, also referred to as high yield debt securities or junk bonds).
+Engaging in transactions that have a leveraging effect on the fund, including investments in derivatives - such as swaps (interest rate, total return, and credit default), options, and futures contracts - and forward-settling securities, to adjust the fund's risk exposure.
+Investing in Fidelity's central funds (specialized investment vehicles used by Fidelity® funds to invest in particular security types or investment disciplines).
+Principal Investment Risks
+
+Interest Rate Changes.  Interest rate increases can cause the price of a debt security to decrease.
+Foreign Exposure.  Foreign markets can be more volatile than the U.S. market due to increased risks of adverse issuer, political, regulatory, market, or economic developments and can perform differently from the U.S. market.
+Prepayment.  The ability of an issuer of a debt security to repay principal prior to a security's maturity can cause greater price volatility if interest rates change.
+Issuer-Specific Changes.  The value of an individual security or particular type of security can be more volatile than, and can perform differently from, the market as a whole. A decline in the credit quality of an issuer or a provider of credit support or a maturity-shortening structure for a security can cause the price of a security to decrease. Lower-quality debt securities (those of less than investment-grade quality, also referred to as high yield debt securities or junk bonds) involve greater risk of default or price changes due to changes in the credit quality of the issuer. The value of lower-quality debt securities can be more volatile due to increased sensitivity to adverse issuer, political, regulatory, market, or economic developments.
+Leverage Risk.  Leverage can increase market exposure, magnify investment risks, and cause losses to be realized more quickly.
+An investment in the fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Unlike individual debt securities, which typically pay principal at maturity, the value of an investment in the fund will fluctuate. You could lose money by investing in the fund.
+
+Performance
+
+The following information is intended to help you understand the risks of investing in the fund. The information illustrates the changes in the performance of the fund's shares from year to year and compares the performance of the fund's shares to the performance of a securities market index over various periods of time. The index description appears in the "Additional Index Information" section of the prospectus. Past performance (before and after taxes) is not an indication of future performance.
+
+Visit institutional.fidelity.com for more recent performance information.
+
+Performance history will be available for Class Z after Class Z has been in operation for one calendar year.
+
+Year-by-Year Returns
+
+The returns in the bar chart do not reflect any applicable sales charges; if sales charges were reflected, returns would be lower than those shown.
+
+
+
+During the periods shown in the chart for Class A: 	Returns 	Quarter ended 
+Highest Quarter Return 	6.25% 	September 30, 2009 
+Lowest Quarter Return 	(3.49)% 	December 31, 2008 
+Year-to-Date Return 	(1.67)% 	September 30, 2018 
+Average Annual Returns
+
+Unlike the returns in the bar chart, the returns in the table reflect the maximum applicable sales charges. After-tax returns are calculated using the historical highest individual federal marginal income tax rates, but do not reflect the impact of state or local taxes. After-tax returns for Class A are shown in the table below and after-tax returns for other classes will vary. Actual after-tax returns may differ depending on your individual circumstances. The after-tax returns shown are not relevant if you hold your shares in a retirement account or in another tax-deferred arrangement, such as an employee benefit plan (profit sharing, 401(k), or 403(b) plan). Return After Taxes on Distributions and Sale of Fund Shares may be higher than other returns for the same period due to a tax benefit of realizing a capital loss upon the sale of fund shares.
+
+For the periods ended December 31, 2017 	Past 1 year 	Past 5 years 	Past 10 years 
+Class A - Return Before Taxes 	(0.69)% 	1.11% 	3.37% 
+Return After Taxes on Distributions 	(1.49)% 	0.18% 	2.28% 
+Return After Taxes on Distributions and Sale of Fund Shares 	(0.39)% 	0.41% 	2.15% 
+Class M - Return Before Taxes 	(0.59)% 	1.11% 	3.36% 
+Class C - Return Before Taxes 	1.79% 	1.20% 	3.04% 
+Class I - Return Before Taxes 	3.86% 	2.24% 	4.08% 
+Bloomberg Barclays U.S. Aggregate Bond Index
+(reflects no deduction for fees, expenses, or taxes) 	3.54% 	2.10% 	4.01% 
+Investment Adviser
+
+Fidelity Management & Research Company (FMR) (the Adviser) is the fund's manager. Fidelity Investments Money Management, Inc. (FIMM) and other investment advisers serve as sub-advisers for the fund.
+
+Portfolio Manager(s)
+
+Jeffrey Moore (co-manager) has managed the fund since December 2004.
+
+Michael Plage (co-manager) has managed the fund since October 2016.
+
+Purchase and Sale of Shares
+
+You may buy or sell shares through a retirement account or through an investment professional. You may buy or sell shares in various ways:
+
+Internet
+
+institutional.fidelity.com
+
+Phone
+
+To reach a Fidelity representative 1-877-208-0098
+
+Mail
+
+Fidelity Investments
+P.O. Box 770002
+Cincinnati, OH 45277-0081
+Overnight Express:
+Fidelity Investments
+100 Crosby Parkway
+Covington, KY 41015
+Class I and Class Z eligibility requirements are listed in the "Additional Information about the Purchase and Sale of Shares" section of the prospectus.
+
+The price to buy one share of Class A or Class M is its offering price, if you pay a front-end sales charge, or its net asset value per share (NAV), if you qualify for a front-end sales charge waiver. The price to buy one share of Class C, Class I, or Class Z is its NAV. Shares will be bought at the offering price or NAV, as applicable, next calculated after an order is received in proper form.
+
+The price to sell one share of Class A, Class M, or Class C is its NAV, minus any applicable contingent deferred sales charge (CDSC). The price to sell one share of Class I or Class Z is its NAV. Shares will be sold at the NAV next calculated after an order is received in proper form, minus any applicable CDSC.
+
+The fund is open for business each day the New York Stock Exchange (NYSE) is open.
+
+There is no purchase minimum for Class A, Class M, Class C, Class I or Class Z shares.
+
+Tax Information
+
+Distributions you receive from the fund are subject to federal income tax and generally will be taxed as ordinary income or capital gains, and may also be subject to state or local taxes, unless you are investing through a tax-advantaged retirement account (in which case you may be taxed later, upon withdrawal of your investment from such account).
+
+Payments to Broker-Dealers and Other Financial Intermediaries
+
+The fund, the Adviser, Fidelity Distributors Corporation (FDC), and/or their affiliates may pay intermediaries, which may include banks, broker-dealers, retirement plan sponsors, administrators, or service-providers (who may be affiliated with the Adviser or FDC), for the sale of fund shares and related services. These payments may create a conflict of interest by influencing your intermediary and your investment professional to recommend the fund over another investment. Ask your investment professional or visit your intermediary's web site for more information.

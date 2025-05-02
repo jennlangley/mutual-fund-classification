@@ -1,0 +1,368 @@
+AB Dynamic Asset Allocation Portfolio
+<head_breaker>
+
+AB VPS DYNAMIC ASSET ALLOCATION PORTFOLIO
+--------------------------------------------------------------------------------
+
+INVESTMENT OBJECTIVE
+The Portfolio's investment objective is to maximize total return consistent
+with the Adviser's determination of reasonable risk.
+
+FEES AND EXPENSES OF THE PORTFOLIO
+
+This table describes the fees and expenses that you may pay if you buy and hold
+shares of the Portfolio. Because the information does not reflect deductions at
+the separate account level or contract level for any charges that may be
+incurred under a contract, Contractholders that invest in the Portfolio should
+refer to the variable contract prospectus for a description of fees and
+expenses that apply to Contractholders. Inclusion of these charges would
+increase the fees and expenses provided below.
+
+
+SHAREHOLDER FEES (fees paid directly from your investment)
+N/A
+
+ANNUAL PORTFOLIO OPERATING EXPENSES (expenses that you pay each year as a
+percentage of the value of your investment)
+
+
+<TABLE>
+<S>                                                                    <C>
+--------------------------------------------------------------------------------
+Management Fees                                                          .70%
+Other Expenses:
+ Transfer Agent                                                          .00%(a)
+ Other Expenses                                                          .08%
+                                                                       ------
+Total Other Expenses                                                     .08%
+                                                                       ------
+Acquired Fund Fees and Expenses                                          .04%
+                                                                       ------
+Total Portfolio Operating Expenses Before Fee Waiver and/or Expense
+ Reimbursement                                                           .82%
+                                                                       ======
+Fee Waiver and Expense Reimbursement(b)                                (.01)%
+                                                                       ------
+Total Portfolio Operating Expenses After Fee Waiver and/or Expense
+ Reimbursement                                                           .81%
+                                                                       ======
+--------------------------------------------------------------------------------
+</TABLE>
+
+
+(a)Less than .01%.
+
+(b)In connection with the Portfolio's investments in AB Government Money Market
+   Portfolio (the "Money Market Portfolio"), the Adviser has contractually
+   agreed to waive its management fee from the Portfolio and/or reimburse other
+   expenses of the Portfolio in an amount equal to the Portfolio's pro rata
+   share of the Money Market Portfolio's effective management fee, as included
+   in "Acquired Fund Fees and Expenses".
+
+EXAMPLES
+
+The Examples are intended to help you compare the cost of investing in the
+Portfolio with the cost of investing in other mutual funds. The Examples assume
+that you invest $10,000 in the Portfolio for the time periods indicated and
+then redeem all of your shares at the end of those periods. The Examples also
+assume that your investment has a 5% return each year, that the Portfolio's
+operating expenses stay the same and that any fee waiver is in effect for only
+the first year. Although your actual costs may be higher or lower, based on
+these assumptions your costs would be:
+
+
+
+<TABLE>
+<S>                                                                       <C>
+--------------------------------------------------------------------------------
+After 1 Year                                                              $   83
+After 3 Years                                                             $  261
+After 5 Years                                                             $  454
+After 10 Years                                                            $1,013
+--------------------------------------------------------------------------------
+</TABLE>
+
+
+PORTFOLIO TURNOVER
+
+The Portfolio pays transaction costs, such as commissions, when it buys or
+sells securities (or "turns over" its portfolio). A higher portfolio turnover
+rate may indicate higher transaction costs. These transaction costs, which are
+not reflected in the Annual Portfolio Operating Expenses or in the Examples,
+affect the Portfolio's performance. During the most recent fiscal year, the
+Portfolio's portfolio turnover rate was 20% of the average value of its
+portfolio.
+
+
+PRINCIPAL STRATEGIES
+The Portfolio invests in a globally diversified portfolio of equity and debt
+securities, including exchange-traded funds, or ETFs, and other financial
+instruments, and expects to enter into derivatives transactions, such as
+options, futures contracts, forwards, and swaps to achieve market exposure. The
+Portfolio's neutral weighting, from which it will make its tactical asset
+allocations, is 60% equity exposure and 40% debt exposure. Within these broad
+components, the Portfolio may invest in any type of security, including common
+and preferred stocks, warrants and convertible securities, government and
+corporate fixed-income securities, commodities, currencies,
+
+                                                                             43
+
+<PAGE>
+
+
+real estate-related securities and inflation-indexed securities. The Portfolio
+may invest in U.S., non-U.S. and emerging market issuers. The Portfolio may
+invest in securities of companies across the capitalization spectrum, including
+smaller capitalization companies. The Portfolio expects its investments in
+fixed-income securities to have a broad range of maturities and quality levels.
+The Portfolio is expected to be highly diversified across industries, sectors
+and countries, and will choose its positions from several market indices
+worldwide in a manner that is intended to track the performance (before fees
+and expenses) of those indices.
+
+The Adviser will continuously monitor the risks presented by the Portfolio's
+asset allocation and may make frequent adjustments to the Portfolio's exposures
+to different asset classes. Using its proprietary Dynamic Asset Allocation
+techniques, the Adviser will adjust the Portfolio's exposure to the equity and
+debt markets, and to segments within those markets, in response to the
+Adviser's assessment of the relative risks and returns of those segments. For
+example, when the Adviser determines that equity market volatility is
+particularly low and that, therefore, the equity markets present reasonable
+return opportunities, the Adviser may increase the Portfolio's equity exposure
+to as much as 80%. Conversely, when the Adviser determines that the risks in
+the equity markets are disproportionately greater than the potential returns
+offered, the Adviser may reduce the Portfolio's equity exposure significantly
+below the target percentage or may even decide to eliminate equity exposure
+altogether by increasing the Portfolio's fixed-income exposure to 100%. This
+investment strategy is intended to reduce the Portfolio's overall investment
+risk, but may at times result in the Portfolio underperforming the markets.
+
+The Portfolio expects to utilize derivatives and to invest in ETFs to a
+significant extent. Derivatives and ETFs may provide more efficient and
+economical exposure to market segments than direct investments, and the
+Portfolio's market exposures may at times be achieved almost entirely through
+the use of derivatives or through the investments in ETFs. Derivatives
+transactions and ETFs may also be a quicker and more efficient way to alter the
+Portfolio's exposure than buying and selling direct investments. As a result,
+the Adviser expects to use derivatives as one of the primary tools for
+adjusting the Portfolio's exposure levels from its neutral weighting. The
+Adviser also expects to use direct investments and ETFs to adjust the
+Portfolio's exposure levels. In determining when and to what extent to enter
+into derivatives transactions or to invest in ETFs, the Adviser will consider
+factors such as the relative risks and returns expected of potential
+investments and the cost of such transactions. The Adviser will consider the
+impact of derivatives and ETFs in making its assessment of the Portfolio's
+risks.
+
+Currency exchange rate fluctuations can have a dramatic impact on returns,
+significantly adding to returns in some years and greatly diminishing them in
+others. To the extent that the Portfolio invests in non-U.S. Dollar-denominated
+investments, the Adviser will integrate the risks of foreign currency exposures
+into its investment and asset allocation decision making. The Adviser may seek
+to hedge all or a portion of the currency exposure resulting from the
+Portfolio's investments. The Adviser may also seek investment opportunities
+through currencies and currency-related derivatives.
+
+PRINCIPAL RISKS
+.  MARKET RISK: The value of the Portfolio's assets will fluctuate as the stock
+   or bond market fluctuates. The value of its investments may decline,
+   sometimes rapidly and unpredictably, simply because of economic changes or
+   other events that affect large portions of the market.
+
+
+.  INTEREST RATE RISK: Changes in interest rates will affect the value of
+   investments in fixed-income securities. When interest rates rise, the value
+   of existing investments in fixed-income securities tends to fall and this
+   decrease in value may not be offset by higher income from new investments.
+   The Portfolio may be subject to heightened interest rate risk due to rising
+   rates as the current period of historically low interest rates may be
+   ending. Interest rate risk is generally greater for fixed-income securities
+   with longer maturities or durations.
+
+
+
+.  CREDIT RISK: An issuer or guarantor of a fixed-income security, or the
+   counterparty to a derivatives or other contract, may be unable or unwilling
+   to make timely payments of interest or principal, or to otherwise honor its
+   obligations. The issuer or guarantor may default, causing a loss of the full
+   principal amount of a security and accrued interest. The degree of risk for
+   a particular security may be reflected in its credit rating. There is the
+   possibility that the credit rating of a fixed-income security may be
+   downgraded after purchase, which may adversely affect the value of the
+   security. Investments in fixed-income securities with lower ratings tend to
+   have a higher probability that an issuer will default or fail to meet its
+   payment obligations.
+
+
+.  ALLOCATION RISK: The allocation of investments among different global asset
+   classes may have a significant effect on the Portfolio's net asset value, or
+   NAV, when one of these asset classes is performing more poorly than others.
+   As both the direct investments and derivatives positions will be
+   periodically adjusted to reflect the Adviser's view of market and economic
+   conditions, there will be transaction costs that may be, over time,
+   significant. In addition, there is a risk that certain asset allocation
+   decisions may not achieve the desired results and, as a result, the
+   Portfolio may incur significant losses.
+
+.  FOREIGN (NON-U.S.) RISK: The Portfolio's investments in securities of
+   non-U.S. issuers may involve more risk than those of U.S. issuers. These
+   securities may fluctuate more widely in price and may be less liquid due to
+   adverse market, economic, political, regulatory or other factors.
+
+.  EMERGING MARKET RISK: Investments in emerging market countries may have more
+   risk because the markets are less developed and less liquid, and because
+   these investments may be subject to increased economic, political,
+   regulatory or other uncertainties.
+
+44
+
+<PAGE>
+
+
+
+.  CURRENCY RISK: Fluctuations in currency exchange rates may negatively affect
+   the value of the Portfolio's investments or reduce its returns.
+
+.  ETF RISK: ETFs are investment companies. When the Portfolio invests in an
+   ETF, the Portfolio bears its share of the ETF's expenses and runs the risk
+   that the ETF may not achieve its investment objective.
+
+.  DERIVATIVES RISK: Derivatives may be illiquid, difficult to price, and
+   leveraged so that small changes may produce disproportionate losses for the
+   Portfolio, and may be subject to counterparty risk to a greater degree than
+   more traditional investments.
+
+.  LEVERAGE RISK: When the Portfolio borrows money or otherwise leverages its
+   portfolio, its NAV may be more volatile because leverage tends to exaggerate
+   the effect of changes in interest rates and any increase or decrease in the
+   value of the Portfolio's investments. The Portfolio may create leverage
+   through the use of reverse repurchase agreements, forward commitments, or by
+   borrowing money.
+
+.  LIQUIDITY RISK: Liquidity risk occurs when certain investments become
+   difficult to purchase or sell. Difficulty in selling less liquid securities
+   may result in sales at disadvantageous prices affecting the value of your
+   investment in the Portfolio. Causes of liquidity risk may include low
+   trading volumes, large positions and heavy redemptions of Portfolio shares.
+
+.  CAPITALIZATION RISK: Investments in small- and mid-capitalization companies
+   may be more volatile than investments in large-capitalization companies.
+   Investments in small-capitalization companies may have additional risks
+   because these companies have limited product lines, markets or financial
+   resources.
+
+.  REAL ESTATE RISK: The Portfolio's investments in real estate securities have
+   many of the same risks as direct ownership of real estate, including the
+   risk that the value of real estate could decline due to a variety of factors
+   that affect the real estate market generally. Investments in real estate
+   investment trusts, or REITs, may have additional risks. REITs are dependent
+   on the capability of their managers, may have limited diversification, and
+   could be significantly affected by changes in taxes.
+
+
+
+.  MANAGEMENT RISK: The Portfolio is subject to management risk because it is
+   an actively-managed investment fund. The Adviser will apply its investment
+   techniques and risk analyses in making investment decisions for the
+   Portfolio, but there is no guarantee that its techniques will produce the
+   intended results.
+
+As with all investments, you may lose money by investing in the Portfolio.
+
+BAR CHART AND PERFORMANCE INFORMATION
+The bar chart and performance information provide an indication of the
+historical risk of an investment in the Portfolio by showing:
+
+.  how the Portfolio's performance changed from year to year over the life of
+   the Portfolio; and
+
+.  how the Portfolio's average annual returns for one year, five years and
+   since inception compare to those of a broad-based securities market index.
+
+The performance information does not take into account separate account
+charges. If separate account charges were included, an investor's return would
+be lower. The Portfolio's past performance, of course, does not necessarily
+indicate how it will perform in the future.
+
+BAR CHART
+
+                                    [CHART]
+
+                             Calendar Year End (%)
+
+ 08     09     10     11      12        13       14        15      16       17
+----   ----   ----   ----    -----    ------    -----    ------   -----   ------
+n/a    n/a    n/a    n/a     8.22%    12.31%    4.45%    -1.09%   3.59%   14.67%
+
+
+
+During the period shown in the bar chart, the Portfolio's:
+
+BEST QUARTER WAS UP 5.74%, 1ST QUARTER, 2012; AND WORST QUARTER WAS DOWN
+-4.96%, 3RD QUARTER, 2015.
+
+                                                                             45
+
+<PAGE>
+
+
+
+PERFORMANCE TABLE
+AVERAGE ANNUAL TOTAL RETURNS
+
+(For the periods ended December 31, 2017)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                    SINCE
+                                                                   1 YEAR 5 YEARS INCEPTION*
+--------------------------------------------------------------------------------------------
+<S>                                                                <C>    <C>     <C>
+Portfolio                                                          14.67%  6.63%    5.70%
+--------------------------------------------------------------------------------------------
+MSCI World Index
+(reflects no deduction for fees, expenses, or taxes)               22.40% 11.64%    9.10%
+--------------------------------------------------------------------------------------------
+Bloomberg Barclays U.S. Treasury Index**
+(reflects no deduction for fees, expenses, or taxes)                2.31%  1.27%    2.67%
+--------------------------------------------------------------------------------------------
+60% MSCI World Index/40% Bloomberg Barclays U.S. Treasury Index**
+(reflects no deduction for fees, expenses, or taxes)               13.98%  7.53%    6.71%
+--------------------------------------------------------------------------------------------
+</TABLE>
+
+
+ * Since inception return is from April 1, 2011.
+
+** The performance table includes an index of fixed-income securities and
+   information about the 60% MSCI World Index/40% Bloomberg Barclays U.S.
+   Treasury Index to show how the Portfolio's performance compares with indices
+   of securities similar to those in which the Portfolio invests.
+
+INVESTMENT ADVISER
+AllianceBernstein L.P. is the investment adviser for the Portfolio.
+
+PORTFOLIO MANAGERS
+The following table lists the persons responsible for day-to-day management of
+the Portfolio's portfolio:
+
+
+<TABLE>
+<CAPTION>
+EMPLOYEE          LENGTH OF SERVICE  TITLE
+--------------------------------------------------------------------------
+<S>               <C>                <C>
+Brian T. Brugman     Since 2016      Senior Vice President of the Adviser
+
+Daniel J. Loewy      Since 2011      Senior Vice President of the Adviser
+</TABLE>
+
+
+ADDITIONAL INFORMATION
+
+For important information about the purchase and sale of Portfolio shares, tax
+information and financial intermediary compensation, please turn to ADDITIONAL
+INFORMATION ABOUT PURCHASE AND SALE OF PORTFOLIO SHARES, TAXES AND FINANCIAL
+INTERMEDIARIES, page 51 in this Prospectus.

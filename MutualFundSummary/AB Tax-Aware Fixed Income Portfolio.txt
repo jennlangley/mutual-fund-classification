@@ -1,0 +1,443 @@
+AB Tax-Aware Fixed Income Portfolio
+<head_breaker>
+
+TAX-AWARE
+--------------------------------------------------------------------------------
+
+AB TAX-AWARE FIXED INCOME PORTFOLIO
+--------------------------------------------------------------------------------
+
+INVESTMENT OBJECTIVE
+The investment objective of the Fund is to seek to maximize after-tax return
+and income.
+
+FEES AND EXPENSES OF THE FUND
+
+This table describes the fees and expenses that you may pay if you buy and hold
+shares of the Fund. You may qualify for sales charge reductions if you and
+members of your family invest, or agree to invest in the future, at least
+$100,000 in AB Mutual Funds. More information about these and other discounts
+is available from your financial intermediary and in Investing in the
+Funds--Sales Charge Reduction Programs for Class A Shares on page 61 of this
+Prospectus, in Appendix C--Financial Intermediary Waivers of this Prospectus
+and in Purchase of Shares--Sales Charge Reduction Programs for Class A Shares
+on page 126 of the Fund's Statement of Additional Information ("SAI").
+
+You may be required to pay commissions and/or other forms of compensation to a
+broker for transactions in Advisor Class shares, which are not reflected in the
+tables or the examples below.
+
+
+SHAREHOLDER FEES (fees paid directly from your investment)
+
+<TABLE>
+<CAPTION>
+                                                   CLASS A  CLASS C   ADVISOR CLASS
+                                                   SHARES   SHARES       SHARES
+-----------------------------------------------------------------------------------
+<S>                                                <C>      <C>       <C>
+Maximum Sales Charge (Load) Imposed on Purchases
+(as a percentage of offering price)                 3.00%    None         None
+-----------------------------------------------------------------------------------
+Maximum Deferred Sales Charge (Load)
+(as a percentage of offering price or redemption
+proceeds, whichever is lower)                       None(a)  1.00%(b)     None
+-----------------------------------------------------------------------------------
+Exchange Fee                                        None     None         None
+-----------------------------------------------------------------------------------
+</TABLE>
+
+ANNUAL FUND OPERATING EXPENSES (expenses that you pay each year as a percentage
+of the value of your investment)
+
+
+<TABLE>
+<CAPTION>
+                                                                                    CLASS A CLASS C ADVISOR CLASS
+-----------------------------------------------------------------------------------------------------------------
+<S>                                                                                 <C>     <C>     <C>
+Management Fees                                                                       .45%    .45%       .45%
+Distribution and/or Service (12b-1) Fees                                              .25%   1.00%       None
+Other Expenses:
+  Transfer Agent                                                                      .05%    .06%       .05%
+  Other Expenses                                                                      .65%    .67%       .65%
+                                                                                    ------  ------     ------
+Total Other Expenses                                                                  .70%    .73%       .70%
+                                                                                    ------  ------     ------
+Total Annual Fund Operating Expenses                                                 1.40%   2.18%      1.15%
+                                                                                    ======  ======     ======
+Fee Waiver and/or Expense Reimbursement(c)                                          (.65)%  (.68)%     (.65)%
+                                                                                    ------  ------     ------
+Total Annual Fund Operating Expenses After Fee Waiver and/or Expense Reimbursement    .75%   1.50%       .50%
+                                                                                    ======  ======     ======
+-----------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(a)Purchases of Class A shares in amounts of $1,000,000 or more, or by certain
+   group retirement plans, may be subject to a 1%, 1-year contingent deferred
+   sales charge ("CDSC"), which may be subject to waiver in certain
+   circumstances.
+
+
+(b)For Class C shares, the CDSC is 0% after the first year. Class C shares
+   automatically convert to Class A shares after ten years.
+
+(c)The Adviser has contractually agreed to waive its management fees and/or to
+   bear expenses of the Fund until January 31, 2019 to the extent necessary to
+   prevent total Fund operating expenses (excluding expenses associated with
+   securities sold short, acquired fund fees and expenses other than the
+   advisory fees of any AB Mutual Funds in which the Fund may invest, interest
+   expense, taxes, extraordinary expenses, and brokerage commissions and other
+   transaction costs), on an annualized basis, from exceeding .75%, 1.50% and
+   .50% of average daily net assets, respectively, for Class A, Class C and
+   Advisor Class shares ("expense limitations"). The expense limitations will
+   remain in effect until January 31, 2019 and will continue thereafter from
+   year to year unless the Adviser provides notice of termination to the Fund
+   at least 60 days prior to the end of the period.
+
+
+                                                                             39
+
+<PAGE>
+
+
+
+EXAMPLES
+
+The Examples are intended to help you compare the cost of investing in the Fund
+with the cost of investing in other mutual funds. The Examples assume that you
+invest $10,000 in the Fund for the time periods indicated and then redeem all
+of your shares at the end of those periods. The Examples also assume that your
+investment has a 5% return each year, that the Fund's operating expenses stay
+the same and that any fee waiver remains in effect for only the first year.
+Although your actual costs may be higher or lower, based on these assumptions
+your costs would be:
+
+
+
+<TABLE>
+<CAPTION>
+                                                   CLASS A CLASS C ADVISOR CLASS
+--------------------------------------------------------------------------------
+<S>                                                <C>     <C>     <C>
+After 1 Year                                       $  374  $  253*    $   51
+After 3 Years                                      $  668  $  617     $  301
+After 5 Years                                      $  983  $1,107     $  570
+After 10 Years                                     $1,875  $2,460     $1,339
+--------------------------------------------------------------------------------
+</TABLE>
+
+
+*If you did not redeem your shares at the end of the period, your expenses
+ would be decreased by $100.
+
+PORTFOLIO TURNOVER
+
+The Fund pays transaction costs, such as commissions, when it buys or sells
+securities (or "turns over" its portfolio). A higher portfolio turnover rate
+may indicate higher transaction costs and may result in higher taxes when Fund
+shares are held in a taxable account. These transaction costs, which are not
+reflected in the Annual Fund Operating Expenses or in the Examples, affect the
+Fund's performance. During the most recent fiscal year, the Fund's portfolio
+turnover rate was 34% of the average value of its portfolio.
+
+
+PRINCIPAL STRATEGIES
+The Fund pursues its objective by investing principally in a national portfolio
+of both municipal and taxable fixed-income securities. The Fund invests, under
+normal circumstances, at least 80% of its net assets in fixed-income
+securities. The Fund also invests, under normal circumstances, at least 65% of
+its total assets in municipal securities that pay interest that is exempt from
+federal income tax. These securities may pay interest that is subject to the
+federal alternative minimum tax ("AMT") for certain taxpayers. The income
+earned and distributed to shareholders on non-municipal securities would not be
+exempt from federal income tax. The Fund may invest in fixed-income securities
+rated below investment grade (commonly known as "junk bonds"), although such
+securities are not expected to be the Fund's primary focus.
+
+The Adviser selects securities for the Fund based on a variety of factors,
+including credit quality, maturity, diversification benefits, and the relative
+expected after-tax returns of taxable and municipal securities (considering
+federal tax rates and without regard to state and local income taxes). As the
+objective is to increase the after-tax return of the Fund, an investor in the
+Fund may incur a tax liability that will generally be greater than the same
+investor would have in a fund investing exclusively in municipal securities,
+and that will be higher if the investor is in a higher tax bracket. In
+addition, the tax implications of the Fund's trading activity, such as
+realizing taxable gains, are considered in making purchase and sale decisions
+for the Fund. The Fund may invest in fixed-income securities of any maturity
+from short- to long-term.
+
+The Fund may also invest in forward commitments, zero-coupon municipal
+securities and variable, floating and inverse floating-rate municipal
+securities.
+
+The Fund may use derivatives, such as swaps, options, futures contracts and
+forwards, to achieve its investment strategies. For example, the Fund may enter
+into tender option bonds ("TOBs") and credit default and interest rate swaps
+relating to municipal and taxable fixed-income securities or securities
+indices. Derivatives may provide more efficient and economical exposure to
+fixed-income securities markets than direct investments.
+
+PRINCIPAL RISKS
+.  MARKET RISK: The value of the Fund's assets will fluctuate as the bond
+   market fluctuates. The value of its investments may decline, sometimes
+   rapidly and unpredictably, simply because of economic changes or other
+   events that affect large portions of the market.
+
+.  CREDIT RISK: An issuer or guarantor of a fixed-income security, or the
+   counterparty to a derivatives or other contract, may be unable or unwilling
+   to make timely payments of interest or principal, or to otherwise honor its
+   obligations. The issuer or guarantor may default, causing a loss of the full
+   principal amount of a security and accrued interest. The degree of risk for
+   a particular security may be reflected in its credit rating. There is the
+   possibility that the credit rating of a fixed-income security may be
+   downgraded after purchase, which may adversely affect the value of the
+   security.
+
+.  BELOW INVESTMENT GRADE SECURITIES RISK: Investments in fixed-income
+   securities with lower ratings (commonly known as "junk bonds") are subject
+   to a higher probability that an issuer will default or fail to meet its
+   payment obligations. These securities may be subject to greater price
+   volatility due to such factors as specific municipal or corporate
+   developments, negative performance of the junk bond market generally and
+   less secondary market liquidity.
+
+40
+
+<PAGE>
+
+
+
+.  MUNICIPAL MARKET RISK: This is the risk that special factors may adversely
+   affect the value of municipal securities and have a significant effect on
+   the yield or value of the Fund's investments in municipal securities. These
+   factors include economic conditions, political or legislative changes,
+   uncertainties related to the tax status of municipal securities, or the
+   rights of investors in these securities. To the extent that the Fund invests
+   more of its assets in a particular state's municipal securities, the Fund
+   may be vulnerable to events adversely affecting that state, including
+   economic, political and regulatory occurrences, court decisions, terrorism
+   and catastrophic natural disasters, such as hurricanes or earthquakes. The
+   Fund's investments in certain municipal securities with principal and
+   interest payments that are made from the revenues of a specific project or
+   facility, and not general tax revenues, may have increased risks. Factors
+   affecting the project or facility, such as local business or economic
+   conditions, could have a significant effect on the project's ability to make
+   payments of principal and interest on these securities.
+
+
+  The Fund may invest in the municipal securities of Puerto Rico or other U.S.
+  territories and their governmental agencies and municipalities, which are
+  exempt from federal, state, and, where applicable, local income taxes. These
+  municipal securities may have more risks than those of other U.S. issuers of
+  municipal securities. Like many U.S. states and municipalities, Puerto Rico
+  experienced a significant downturn during the recent recession. Puerto Rico's
+  downturn was particularly severe, and Puerto Rico continues to face a very
+  challenging economic and fiscal environment. Municipal securities issued by
+  many Puerto Rico issuers have extremely low credit ratings and are on
+  "negative watch" by credit rating organizations. Several Puerto Rico issuers
+  are in default on principal and interest payments. These defaults cast doubts
+  on the ability of Puerto Rico and its government agencies to make future
+  payments. If the general economic situation in Puerto Rico continues to
+  persist or worsens, the volatility and credit quality of Puerto Rican
+  municipal securities could continue to be adversely affected, and the market
+  for such securities may experience continued volatility. In addition, Puerto
+  Rico's difficulties have resulted in increased volatility in portions of the
+  broader municipal securities market from time to time, and this may recur in
+  the future.
+
+
+.  TAX RISK: From time to time, the U.S. Government and the U.S. Congress
+   consider changes in federal tax law that could limit or eliminate the
+   federal tax exemption for municipal bond income, which would in effect
+   reduce the income received by shareholders from the Fund by increasing taxes
+   on that income. In such event, the Fund's net asset value, or NAV, could
+   also decline as yields on municipal bonds, which are typically lower than
+   those on taxable bonds, would be expected to increase to approximately the
+   yield of comparable taxable bonds. Actions or anticipated actions affecting
+   the tax exempt status of municipal bonds could also result in significant
+   shareholder redemptions of Fund shares as investors anticipate adverse
+   effects on the Fund or seek higher yields to offset the potential loss of
+   the tax deduction. As a result, the Fund would be required to maintain
+   higher levels of cash to meet the redemptions, which would negatively affect
+   the Fund's yield.
+
+.  INTEREST RATE RISK: Changes in interest rates will affect the value of
+   investments in fixed-income securities. When interest rates rise, the value
+   of existing investments in fixed-income securities tends to fall and this
+   decrease in value may not be offset by higher income from new investments.
+   The Fund may be subject to heightened interest rate risk due to rising rates
+   as the current period of historically low interest rates may be ending.
+   Interest rate risk is generally greater for fixed-income securities with
+   longer maturities or durations.
+
+.  DURATION RISK: Duration is a measure that relates the expected price
+   volatility of a fixed-income security to changes in interest rates. The
+   duration of a fixed-income security may be shorter than or equal to full
+   maturity of a fixed-income security. Fixed-income securities with longer
+   durations have more risk and will decrease in price as interest rates rise.
+   For example, a fixed-income security with a duration of three years will
+   decrease in value by approximately 3% if interest rates increase by 1%.
+
+.  INFLATION RISK: This is the risk that the value of assets or income from
+   investments will be less in the future as inflation decreases the value of
+   money. As inflation increases, the value of the Fund's assets can decline as
+   can the value of the Fund's distributions. This risk is significantly
+   greater for fixed-income securities with longer maturities.
+
+.  LIQUIDITY RISK: Liquidity risk occurs when certain investments become
+   difficult to purchase or sell. Difficulty in selling less liquid securities
+   may result in sales at disadvantageous prices affecting the value of your
+   investment in the Fund. Causes of liquidity risk may include low trading
+   volumes and large positions. Municipal securities may have more liquidity
+   risk than other fixed-income securities because they trade less frequently
+   and the market for municipal securities is generally smaller than many other
+   markets.
+
+.  LEVERAGE RISK: To the extent the Fund uses leveraging techniques, its NAV
+   may be more volatile because leverage tends to exaggerate the effect of
+   changes in interest rates and any increase or decrease in the value of the
+   Fund's investments.
+
+.  DERIVATIVES RISK: Derivatives may be illiquid, difficult to price, and
+   leveraged so that small changes may produce disproportionate losses for the
+   Fund, and may be subject to counterparty risk to a greater degree than more
+   traditional investments.
+
+.  MANAGEMENT RISK: The Fund is subject to management risk because it is an
+   actively-managed investment fund. The Adviser will apply its investment
+   techniques and risk analyses in making investment decisions, but there is no
+   guarantee that its techniques will produce the intended results.
+
+As with all investments, you may lose money by investing in the Fund.
+
+                                                                             41
+
+<PAGE>
+
+
+
+BAR CHART AND PERFORMANCE INFORMATION
+The bar chart and performance information provide an indication of the
+historical risk of an investment in the Fund by showing:
+
+.  how the Fund's performance changed from year to year over the life of the
+   Fund; and
+
+.  how the Fund's average annual returns for one year and since inception
+   compare to those of a broad-based securities market index.
+
+You may obtain updated performance information on the Fund's website at
+www.abfunds.com (click on "Investments--Mutual Funds").
+
+The Fund's past performance before and after taxes, of course, does not
+necessarily indicate how it will perform in the future.
+
+BAR CHART
+The annual returns in the bar chart are for the Fund's Class A shares and do
+not reflect sales loads. If sales loads were reflected, returns would be less
+than those shown.
+
+
+                                [CHART]
+
+
+ 08     09     10     11     12     13     14      15      16      17
+----   ----   ----   ----   ----   ----   -----   -----   -----   -----
+ n/a    n/a    n/a    n/a    n/a    n/a   7.05%   3.24%   0.10%   5.15%
+
+                             Calendar Year End (%)
+
+
+
+
+During the period shown in the bar chart, the Fund's:
+
+BEST QUARTER WAS UP 2.75%, 2ND QUARTER, 2016; AND WORST QUARTER WAS DOWN
+-4.15%, 4TH QUARTER, 2016.
+
+PERFORMANCE TABLE
+AVERAGE ANNUAL TOTAL RETURNS
+
+(For the period ended December 31, 2017)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                     SINCE
+                                                                            1 YEAR INCEPTION*
+---------------------------------------------------------------------------------------------
+<C>            <S>                                                          <C>    <C>
+Class A**      Return Before Taxes                                          2.03%    3.03%
+               ------------------------------------------------------------ ------ ----------
+               Return After Taxes on Distributions                          1.91%    2.95%
+               ------------------------------------------------------------ ------ ----------
+               Return After Taxes on Distributions and Sale of Fund Shares  1.90%    2.69%
+---------------------------------------------------------------------------------------------
+Class C        Return Before Taxes                                          3.36%    3.05%
+---------------------------------------------------------------------------------------------
+Advisor Class  Return Before Taxes                                          5.41%    4.08%
+---------------------------------------------------------------------------------------------
+Bloomberg Barclays Municipal Bond Unhedged Index
+(reflects no deduction for fees, expenses or taxes)                         5.45%    4.39%
+---------------------------------------------------------------------------------------------
+</TABLE>
+
+
+*  Inception date for all Classes is 12/11/13.
+
+
+** After-tax returns:
+
+
+   -Are shown for Class A shares only and will vary for the other Classes of
+    shares because these Classes have different expense ratios;
+
+   -Are an estimate, which is based on the highest historical individual
+    federal marginal income tax rates and do not reflect the impact of state
+    and local taxes; actual after-tax returns depend on an individual
+    investor's tax situation and are likely to differ from those shown; and
+
+   -Are not relevant to investors who hold Fund shares through tax-deferred
+    arrangements such as 401(k) plans or individual retirement accounts.
+
+42
+
+<PAGE>
+
+
+
+INVESTMENT ADVISER
+AllianceBernstein L.P. is the investment adviser for the Fund.
+
+PORTFOLIO MANAGERS
+The following table lists the persons responsible for day-to-day management of
+the Fund's portfolio:
+
+
+<TABLE>
+<CAPTION>
+EMPLOYEE                       LENGTH OF SERVICE   TITLE
+----------------------------------------------------------------------------------------
+<S>                            <C>                 <C>
+Robert B. (Guy) Davidson, III  Since 2013          Senior Vice President of the Adviser
+
+Terrance T. Hults              Since 2013          Senior Vice President of the Adviser
+
+Shawn E. Keegan                Since 2013          Senior Vice President of the Adviser
+
+Matthew J. Norton              Since January 2017  Vice President of the Adviser
+
+Andrew D. Potter               Since January 2018  Vice President of the Adviser
+</TABLE>
+
+
+ADDITIONAL INFORMATION
+
+For important information about the purchase and sale of Fund shares, tax
+information and financial intermediary compensation, please turn to ADDITIONAL
+INFORMATION ABOUT PURCHASE AND SALE OF FUND SHARES, TAXES AND FINANCIAL
+INTERMEDIARIES, page 44 in this Prospectus.
