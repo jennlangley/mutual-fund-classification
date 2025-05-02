@@ -1,0 +1,297 @@
+AB Small/Mid Cap Value Portfolio
+<head_breaker>
+
+AB VPS SMALL/MID CAP VALUE PORTFOLIO
+--------------------------------------------------------------------------------
+
+INVESTMENT OBJECTIVE
+The Portfolio's investment objective is long-term growth of capital.
+
+FEES AND EXPENSES OF THE PORTFOLIO
+
+This table describes the fees and expenses that you may pay if you buy and hold
+shares of the Portfolio. Because the information does not reflect deductions at
+the separate account level or contract level for any charges that may be
+incurred under a contract, Contractholders that invest in the Portfolio should
+refer to the variable contract prospectus for a description of fees and
+expenses that apply to Contractholders. Inclusion of these charges would
+increase the fees and expenses provided below.
+
+
+SHAREHOLDER FEES (fees paid directly from your investment)
+N/A
+
+ANNUAL PORTFOLIO OPERATING EXPENSES (expenses that you pay each year as a
+percentage of the value of your investment)
+
+
+<TABLE>
+<S>                                                                     <C>
+-------------------------------------------------------------------------------
+Management Fees                                                         .75%
+Other Expenses:
+ Transfer Agent                                                         .00%(a)
+ Other Expenses                                                         .07%
+                                                                        ----
+Total Other Expenses                                                    .07%
+                                                                        ----
+Total Portfolio Operating Expenses                                      .82%
+                                                                        ====
+-------------------------------------------------------------------------------
+</TABLE>
+
+
+(a)Less than .01%.
+
+EXAMPLES
+The Examples are intended to help you compare the cost of investing in the
+Portfolio with the cost of investing in other mutual funds. The Examples assume
+that you invest $10,000 in the Portfolio for the time periods indicated and
+then redeem all of your shares at the end of those periods. The Examples also
+assume that your investment has a 5% return each year and that the Portfolio's
+operating expenses stay the same. Although your actual costs may be higher or
+lower, based on these assumptions your costs would be:
+
+
+<TABLE>
+<S>                                                                     <C>
+------------------------------------------------------------------------------
+After 1 Year                                                            $   84
+After 3 Years                                                           $  262
+After 5 Years                                                           $  455
+After 10 Years                                                          $1,014
+------------------------------------------------------------------------------
+</TABLE>
+
+
+PORTFOLIO TURNOVER
+
+The Portfolio pays transaction costs, such as commissions, when it buys or
+sells securities (or "turns over" its portfolio). A higher portfolio turnover
+rate may indicate higher transaction costs. These transaction costs, which are
+not reflected in the Annual Portfolio Operating Expenses or in the Examples,
+affect the Portfolio's performance. During the most recent fiscal year, the
+Portfolio's portfolio turnover rate was 33% of the average value of its
+portfolio.
+
+
+PRINCIPAL STRATEGIES
+The Portfolio invests primarily in a diversified portfolio of equity securities
+of small- to mid-capitalization U.S. companies. Under normal circumstances, the
+Portfolio invests at least 80% of its net assets in securities of small- to
+mid-capitalization companies. For purposes of this policy, small- to
+mid-capitalization companies are those that, at the time of investment, fall
+within the capitalization range between the smallest company in the Russell
+2500(R) Value Index and the greater of $5 billion or the market capitalization
+of the largest company in the Russell 2500(R) Value Index.
+
+
+Because the Portfolio's definition of small- to mid-capitalization companies is
+dynamic, the lower and upper limits on market capitalization will change with
+the markets. As of December 31, 2017, there were approximately 1,752 small- to
+mid-capitalization companies, representing a market capitalization range from
+approximately $22.7 million to approximately $13.8 billion.
+
+
+32
+
+<PAGE>
+
+
+
+The Portfolio invests in companies that are determined by the Adviser to be
+undervalued, using the Adviser's fundamental value approach. In selecting
+securities for the Portfolio's portfolio, the Adviser uses its fundamental and
+quantitative research to identify companies whose long-term earnings power is
+not reflected in the current market price of their securities.
+
+In selecting securities for the Portfolio's portfolio, the Adviser looks for
+companies with attractive valuation (for example, with low price to book
+ratios) and compelling success factors (for example, momentum and return on
+equity). The Adviser then uses this information to calculate an expected
+return. Returns and rankings are updated on a daily basis. The rankings are
+used to determine prospective candidates for further fundamental research and,
+subsequently, possible addition to the portfolio. Typically, the Adviser's
+fundamental research analysts focus their research on the most attractive 20%
+of the universe.
+
+The Adviser typically projects a company's financial performance over a full
+economic cycle, including a trough and a peak, within the context of forecasts
+for real economic growth, inflation and interest rate changes. The Adviser
+focuses on the valuation implied by the current price, relative to the earnings
+the company will be generating five years from now, or "normalized" earnings,
+assuming average mid-economic cycle growth for the fifth year.
+
+The Portfolio's management team and other senior investment professionals work
+in close collaboration to weigh each investment opportunity identified by the
+research staff relative to the entire portfolio and determine the timing and
+position size for purchases and sales. Analysts remain responsible for
+monitoring new developments that would affect the securities they cover. The
+team will generally sell a security when it no longer meets appropriate
+valuation criteria, although sales may be delayed when positive return trends
+are favorable. Typically, growth in the size of a company's market
+capitalization relative to other domestically traded companies will not cause
+the Portfolio to dispose of the security.
+
+The Adviser seeks to manage overall portfolio volatility relative to the
+universe of companies that comprise the lowest 20% of the total U.S. market
+capitalization by favoring promising securities that offer the best balance
+between return and targeted risk. At times, the Portfolio may favor or disfavor
+a particular sector compared to that universe of companies. The Portfolio may
+invest significantly in companies involved in certain sectors that constitute a
+material portion of the universe of small- and mid-capitalization companies,
+such as financial services and consumer services.
+
+The Portfolio may enter into derivatives transactions, such as options, futures
+contracts, forwards and swaps. The Portfolio may use options strategies
+involving the purchase and/or writing of various combinations of call and/or
+put options, including on individual securities and stock indices, futures
+contracts (including futures contracts on individual securities and stock
+indices) or shares of exchange-traded funds, or ETFs. These transactions may be
+used, for example, to earn extra income, to adjust exposure to individual
+securities or markets, or to protect all or a portion of the Portfolio's
+portfolio from a decline in value, sometimes within certain ranges.
+
+The Portfolio may invest in securities issued by non-U.S. companies.
+
+The Portfolio may, at times, invest in shares of ETFs in lieu of making direct
+investments in equity securities. ETFs may provide more efficient and
+economical exposure to the types of companies and geographic locations in which
+the Portfolio seeks to invest than direct investments.
+
+PRINCIPAL RISKS
+
+.  MARKET RISK: The value of the Portfolio's assets will fluctuate as the stock
+   or bond market fluctuates. The value of its investments may decline,
+   sometimes rapidly and unpredictably, simply because of economic changes or
+   other events that affect large portions of the market. It includes the risk
+   that a particular style of investing, such as the Portfolio's value
+   approach, may underperform the market generally.
+
+
+.  CAPITALIZATION RISK: Investments in small- and mid-capitalization companies
+   may be more volatile than investments in large-capitalization companies.
+   Investments in small-capitalization companies may have additional risks
+   because these companies have limited product lines, markets or financial
+   resources.
+
+.  FOREIGN (NON-U.S.) RISK: Investments in securities of non-U.S. issuers may
+   involve more risk than those of U.S. issuers. These securities may fluctuate
+   more widely in price and may be less liquid due to adverse market, economic,
+   political, regulatory or other factors.
+
+.  CURRENCY RISK: Fluctuations in currency exchange rates may negatively affect
+   the value of the Portfolio's investments or reduce its returns.
+
+.  DERIVATIVES RISK: Derivatives may be illiquid, difficult to price, and
+   leveraged so that small changes may produce disproportionate losses for the
+   Portfolio, and may be subject to counterparty risk to a greater degree than
+   more traditional investments.
+
+.  MANAGEMENT RISK: The Portfolio is subject to management risk because it is
+   an actively-managed investment fund. The Adviser will apply its investment
+   techniques and risk analyses in making investment decisions for the
+   Portfolio, but there is no guarantee that its techniques will produce the
+   intended results.
+
+As with all investments, you may lose money by investing in the Portfolio.
+
+                                                                             33
+
+<PAGE>
+
+
+
+BAR CHART AND PERFORMANCE INFORMATION
+The bar chart and performance information provide an indication of the
+historical risk of an investment in the Portfolio by showing:
+
+.  how the Portfolio's performance changed from year to year over ten years; and
+
+.  how the Portfolio's average annual returns for one, five and ten years
+   compare to those of a broad-based securities market index.
+
+The performance information does not take into account separate account
+charges. If separate account charges were included, an investor's return would
+be lower. The Portfolio's past performance, of course, does not necessarily
+indicate how it will perform in the future.
+
+BAR CHART
+
+
+                                   [CHART]
+
+                            Calendar Year End (%)
+
+  08       09      10       11      12      13      14      15      16      17
+-------  ------  ------   ------  ------  ------   -----  ------  ------  ------
+-35.58%  42.86%  26.91%   -8.39%  18.75%  38.06%   9.20%  -5.49%  25.09%  13.15%
+
+
+
+
+During the period shown in the bar chart, the Portfolio's:
+
+BEST QUARTER WAS UP 24.75%, 3RD QUARTER, 2009; AND WORST QUARTER WAS DOWN
+-26.95%, 4TH QUARTER, 2008.
+
+PERFORMANCE TABLE
+AVERAGE ANNUAL TOTAL RETURNS
+
+(For the periods ended December 31, 2017)
+
+
+
+<TABLE>
+<CAPTION>
+                                                      1 YEAR 5 YEARS 10 YEARS
+-----------------------------------------------------------------------------
+<S>                                                   <C>    <C>     <C>
+Portfolio*                                            13.15% 15.06%   9.87%
+-----------------------------------------------------------------------------
+Russell 2500(R) Value Index
+(reflects no deduction for fees, expenses, or taxes)  10.36% 13.27%   8.82%
+-----------------------------------------------------------------------------
+Russell 2500/TM/ Index**
+(reflects no deduction for fees, expenses, or taxes)  16.81% 14.33%   9.22%
+-----------------------------------------------------------------------------
+</TABLE>
+
+
+
+ * Includes the impact of proceeds received and credited to the Portfolio
+   resulting from class action settlements, which enhanced the Portfolio's
+   performance for the 1-Year period ended December 31, 2017 by 0.11%.
+
+
+
+** The performance table includes an additional index that shows how the
+   Portfolio's performance compares with an index of securities similar to
+   those in which the Portfolio invests.
+
+
+INVESTMENT ADVISER
+AllianceBernstein L.P. is the investment adviser for the Portfolio.
+
+PORTFOLIO MANAGERS
+The following table lists the persons responsible for day-to-day management of
+the Portfolio's portfolio:
+
+
+<TABLE>
+<CAPTION>
+EMPLOYEE            LENGTH OF SERVICE  TITLE
+----------------------------------------------------------------------------
+<S>                 <C>                <C>
+James W. MacGregor     Since 2005      Senior Vice President of the Adviser
+
+Shri Singhvi           Since 2014      Senior Vice President of the Adviser
+</TABLE>
+
+
+ADDITIONAL INFORMATION
+
+For important information about the purchase and sale of Portfolio shares, tax
+information and financial intermediary compensation, please turn to ADDITIONAL
+INFORMATION ABOUT PURCHASE AND SALE OF PORTFOLIO SHARES, TAXES AND FINANCIAL
+INTERMEDIARIES, page 51 in this Prospectus.

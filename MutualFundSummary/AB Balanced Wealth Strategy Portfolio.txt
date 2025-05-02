@@ -1,0 +1,456 @@
+AB Balanced Wealth Strategy Portfolio
+<head_breaker>
+
+AB VPS BALANCED WEALTH STRATEGY PORTFOLIO
+--------------------------------------------------------------------------------
+
+INVESTMENT OBJECTIVE
+The Portfolio's investment objective is to maximize total return consistent
+with the Adviser's determination of reasonable risk.
+
+FEES AND EXPENSES OF THE PORTFOLIO
+
+This table describes the fees and expenses that you may pay if you buy and hold
+shares of the Portfolio. Because the information does not reflect deductions at
+the separate account level or contract level for any charges that may be
+incurred under a contract, Contractholders that invest in the Portfolio should
+refer to the variable contract prospectus for a description of fees and
+expenses that apply to Contractholders. Inclusion of these charges would
+increase the fees and expenses provided below.
+
+
+SHAREHOLDER FEES (fees paid directly from your investment)
+N/A
+
+ANNUAL PORTFOLIO OPERATING EXPENSES (expenses that you pay each year as a
+percentage of the value of your investment)
+
+
+<TABLE>
+<S>                                                                    <C>
+--------------------------------------------------------------------------------
+Management Fees                                                          .55%
+Other Expenses:
+ Transfer Agent                                                          .00%(a)
+ Other Expenses                                                          .18%
+                                                                       ------
+Total Other Expenses                                                     .18%
+                                                                       ------
+Acquired Fund Fees and Expenses(b)                                       .24%
+                                                                       ------
+Total Portfolio Operating Expenses                                       .97%
+                                                                       ======
+Fee Waiver and/or Expense Reimbursement(c)                             (.23)%
+                                                                       ------
+Total Portfolio Operating Expenses After Fee Waiver and/or Expense
+ Reimbursement                                                           .74%
+                                                                       ======
+--------------------------------------------------------------------------------
+</TABLE>
+
+
+
+(a)Less than .01%.
+
+
+
+(b)Restated to reflect current fees and expenses.
+
+
+
+(c)The Adviser has contractually agreed to waive fees and/or reimburse the
+   expenses payable to the Adviser by the Portfolio in an amount equal to the
+   Portfolio's share of the advisory fees of any mutual funds advised by the
+   Adviser in which the Portfolio invests, as included in "Acquired Fund Fees
+   and Expenses" and paid by the Portfolio. This fee waiver and/or expense
+   reimbursement will remain in effect until at least May 1, 2019 unless
+   terminated by the Board of Directors of the AB Variable Products Series
+   (VPS) Fund, Inc. prior to its expiration date.
+
+
+
+
+EXAMPLES
+
+The Examples are intended to help you compare the cost of investing in the
+Portfolio with the cost of investing in other mutual funds. The Examples assume
+that you invest $10,000 in the Portfolio for the time periods indicated and
+then redeem all of your shares at the end of those periods. The Examples also
+assume that your investment has a 5% return each year, that the Portfolio's
+operating expenses stay the same and that any fee waivers remain in effect for
+only one year. Although your actual costs may be higher or lower, based on
+these assumptions your costs would be:
+
+
+
+<TABLE>
+<S>                                                                      <C>
+-------------------------------------------------------------------------------
+After 1 Year                                                             $   76
+After 3 Years                                                            $  286
+After 5 Years                                                            $  514
+After 10 Years                                                           $1,169
+-------------------------------------------------------------------------------
+</TABLE>
+
+
+PORTFOLIO TURNOVER
+
+The Portfolio pays transaction costs, such as commissions, when it buys or
+sells securities (or "turns over" its portfolio). A higher portfolio turnover
+rate may indicate higher transaction costs. These transaction costs, which are
+not reflected in the Annual Portfolio Operating Expenses or in the Examples,
+affect the Portfolio's performance. During the most recent fiscal year, the
+Portfolio's portfolio turnover rate was 108% of the average value of its
+portfolio.
+
+
+PRINCIPAL STRATEGIES
+
+The Portfolio invests in a portfolio of equity and fixed-income securities that
+is designed as a solution for investors who seek a moderate tilt toward equity
+returns but also want the risk diversification offered by fixed-income
+securities and the broad diversification of their equity risk across styles,
+capitalization ranges and geographic regions. Under normal circumstances, the
+Portfolio will invest at
+
+
+38
+
+<PAGE>
+
+
+
+least 25% of its total assets in equity securities and at least 25% of its
+total assets in fixed-income securities with a goal of providing moderate
+upside potential without excessive volatility. The Portfolio also seeks
+exposure to real assets by investing in real estate-related equity securities
+(including real estate investment trusts, or REITs), natural resource equity
+securities and inflation-sensitive equity securities, which are equity
+securities of companies that the Adviser believes maintain or grow margins in
+rising inflation environments, including equity securities of utilities and
+infrastructure-related companies ("inflation sensitive equities"). The
+Portfolio pursues a global strategy, typically investing in securities of
+issuers located in the United States and in other countries throughout the
+world, including emerging market countries.
+
+
+
+The Adviser expects that the Portfolio will normally invest a greater
+percentage of its total assets in equity securities than in fixed-income
+securities, and will generally invest in equity securities both directly and
+through underlying investment companies advised by the Adviser ("Underlying
+Portfolios"). A significant portion of the Portfolio's assets are expected to
+be invested directly in U.S. large-cap equity securities, primarily common
+stocks, in accordance with the Adviser's U.S. Strategic Equities investment
+strategy ("U.S. Strategic Equities"). Under U.S. Strategic Equities, portfolio
+managers of the Adviser that specialize in various investment disciplines
+identify high-conviction large-cap equity securities based on their fundamental
+investment research for potential investment by the Portfolio. These securities
+are then assessed in terms of both this fundamental research and quantitative
+analysis in creating the equity portion of the Portfolio's portfolio. In
+applying the quantitative analysis, the Adviser considers a number of metrics
+that historically have provided some indication of favorable future returns,
+including metrics related to valuation, quality, investor behavior and
+corporate behavior.
+
+
+
+In addition, the Portfolio seeks to achieve exposure to international large-cap
+equity securities through investments in the INTERNATIONAL STRATEGIC EQUITIES
+PORTFOLIO of BERNSTEIN FUND, INC. ("Bernstein International Strategic Equities
+Portfolio") and the INTERNATIONAL PORTFOLIO of SANFORD C. BERNSTEIN FUND, INC.
+("SCB International Portfolio"), each a registered investment company advised
+by the Adviser. Bernstein International Strategic Equities Portfolio and SCB
+International Portfolio focus on investing in non-U.S. large-cap and mid-cap
+equity securities. Bernstein International Strategic Equities Portfolio follows
+a strategy similar to U.S. Strategic Equities, but in the international
+context. In managing SCB International Portfolio, the Adviser selects stocks by
+drawing on the capabilities of its separate investment teams specializing in
+different investment disciplines, including value, growth, stability and
+others. The Portfolio also invests in other Underlying Portfolios to
+efficiently gain exposure to certain other types of equity securities,
+including small- and mid-cap and emerging market equity securities. The Adviser
+selects an Underlying Portfolio based on the segment of the equity market to
+which the Underlying Portfolio provides exposure, its investment philosophy,
+and how it complements and diversifies the Portfolio's overall portfolio.
+
+
+
+
+
+In selecting fixed-income investments, the Adviser may draw on the capabilities
+of separate investment teams that specialize in different areas that are
+generally defined by the maturity of the debt securities and/or their ratings,
+and which may include subspecialties (such as inflation-indexed securities).
+These fixed-income teams draw on the resources and expertise of the Adviser's
+internal fixed-income research staff, which includes over 50 dedicated
+fixed-income research analysts and economists. The Portfolio's fixed-income
+securities will primarily be investment-grade debt securities, but are expected
+to include lower-rated securities ("junk bonds") and preferred stock.
+
+
+
+The Portfolio expects to enter into derivative transactions, such as options,
+futures contracts, forwards and swaps. Derivatives may provide a more efficient
+and economical exposure to market segments than direct investments, and may
+also be a more efficient way to alter the Portfolio's exposure. The Portfolio
+may, for example, use credit default, interest rate and total return swaps to
+establish exposure to the fixed-income markets or particular fixed-income
+securities and, as noted below, may use currency derivatives to hedge foreign
+currency exposure.
+
+
+
+The Adviser may employ currency hedging strategies in the Portfolio or the
+Underlying Portfolios, including the use of currency-related derivatives, to
+seek to reduce currency risk in the Portfolio or the Underlying Portfolios, but
+it is not required to do so. The Adviser will generally employ currency hedging
+strategies more frequently in the fixed-income portion of the Portfolio than in
+the equity portion.
+
+
+PRINCIPAL RISKS:
+.  MARKET RISK: The value of the Portfolio's assets will fluctuate as the stock
+   or bond market fluctuates. The value of its investments may decline,
+   sometimes rapidly and unpredictably, simply because of economic changes or
+   other events that affect large portions of the market.
+
+
+.  ALLOCATION RISK: The allocation of investments among the different
+   investment styles, such as growth or value, equity or debt securities, or
+   U.S. or non-U.S. securities may have a more significant effect on the
+   Portfolio's net asset value, or NAV, when one of these investment strategies
+   is performing more poorly than others.
+
+
+
+.  FOREIGN (NON-U.S.) RISK: Investments in securities of non-U.S. issuers may
+   involve more risk than those of U.S. issuers. These securities may fluctuate
+   more widely in price and may be less liquid due to adverse market, economic,
+   political, regulatory or other factors. These risks may be heightened with
+   respect to investments in emerging market countries, where there may be an
+   increased amount of economic, political and social instability.
+
+
+                                                                             39
+
+<PAGE>
+
+
+
+
+.  CURRENCY RISK: Fluctuations in currency exchange rates may negatively affect
+   the value of the Portfolio's investments in securities denominated in
+   foreign currencies or reduce the Portfolio's returns.
+
+
+.  INTEREST RATE RISK: Changes in interest rates will affect the value of
+   investments in fixed-income securities. When interest rates rise, the value
+   of existing investments in fixed-income securities tends to fall and this
+   decrease in value may not be offset by higher income from new investments.
+   The Portfolio may be subject to heightened interest rate risk due to rising
+   rates as the current period of historically low interest rates may be
+   ending. Interest rate risk is generally greater for fixed-income securities
+   with longer maturities or durations.
+
+
+.  CREDIT RISK: An issuer or guarantor of a fixed-income security, or the
+   counterparty to a derivatives or other contract, may be unable or unwilling
+   to make timely payments of interest or principal, or to otherwise honor its
+   obligations. The issuer or guarantor may default, causing a loss of the full
+   principal amount of a security and accrued interest. The degree of risk for
+   a particular security may be reflected in its credit rating. There is the
+   possibility that the credit rating of a fixed-income security may be
+   downgraded after purchase, which may adversely affect the value of the
+   security.
+
+
+.  BELOW INVESTMENT GRADE SECURITY RISK: Investments in fixed-income securities
+   with lower ratings ("junk bonds") tend to have a higher probability that an
+   issuer will default or fail to meet its payment obligations. These
+   securities may be subject to greater price volatility due to such factors as
+   specific corporate developments, interest rate sensitivity, negative
+   perceptions of the junk bond market generally and less secondary market
+   liquidity.
+
+
+
+.  CAPITALIZATION RISK: Investments in small- and mid-capitalization companies
+   may be more volatile than investments in large-capitalization companies.
+   Investments in small-capitalization companies may have additional risks
+   because these companies have limited product lines, markets or financial
+   resources.
+
+
+.  INVESTMENT IN OTHER INVESTMENT COMPANIES RISK: As with other investments,
+   investments in other investment companies are subject to market and
+   selection risk. In addition, Contractholders invested in the Portfolio bear
+   both their proportionate share of expenses in the Portfolio (including
+   management fees) and, indirectly, the expenses of the investment companies
+   (to the extent these expenses are not waived or reimbursed by the Adviser).
+
+
+.  DERIVATIVES RISK: Derivatives may be illiquid, difficult to price, and
+   leveraged so that small changes may produce disproportionate losses for the
+   Portfolio, and may be subject to counterparty risk to a greater degree than
+   more traditional investments.
+
+
+.  REAL ASSETS RISK: The Portfolio's investments in securities linked to real
+   assets involve significant risks, including financial, operating, and
+   competitive risks. Investments in securities linked to real assets expose
+   the Portfolio to adverse macroeconomic conditions, such as a rise in
+   interest rates or a downturn in the economy in which the asset is located.
+   Changes in inflation rates or in the market's inflation expectations may
+   adversely affect the market value of inflation-sensitive equities. The
+   Portfolio's investments in real estate securities have many of the same
+   risks as direct ownership of real estate, including the risk that the value
+   of real estate could decline due to a variety of factors that affect the
+   real estate market generally. Investments in REITs may have additional
+   risks. REITs are dependent on the capability of their managers, may have
+   limited diversification, and could be significantly affected by changes in
+   tax laws.
+
+
+
+.  ACTIVE TRADING RISK: The Portfolio expects to engage in active and frequent
+   trading of its portfolio securities and its portfolio turnover rate is
+   expected to exceed 100%. A higher rate of portfolio turnover increases
+   transaction costs, which may negatively affect the Portfolio's return. In
+   addition, a high rate of portfolio turnover may result in substantial
+   short-term gains, which may have adverse tax consequences for
+   Contractholders.
+
+
+.  MANAGEMENT RISK: The Portfolio is subject to management risk because it is
+   an actively-managed investment fund. The Adviser will apply its investment
+   techniques and risk analyses in making investment decisions for the
+   Portfolio, but there is no guarantee that its techniques will produce the
+   intended results.
+
+As with all investments, you may lose money by investing in the Portfolio.
+
+40
+
+<PAGE>
+
+
+
+BAR CHART AND PERFORMANCE INFORMATION
+The bar chart and performance information provide an indication of the
+historical risk of an investment in the Portfolio by showing:
+
+.  how the Portfolio's performance changed from year to year over ten years; and
+
+.  how the Portfolio's average annual returns for one, five and ten years
+   compare to those of a broad-based securities market index.
+
+The performance information does not take into account separate account
+charges. If separate account charges were included, an investor's return would
+be lower. The Portfolio's past performance, of course, does not necessarily
+indicate how it will perform in the future.
+
+
+EFFECTIVE MAY 1, 2018, THE PORTFOLIO AMENDED ITS PRINCIPAL STRATEGIES BY
+ELIMINATING THE STATIC TARGETS FOR ALLOCATION OF INVESTMENTS AMONG ASSET
+CLASSES, CHANGING THE SECURITIES SELECTION STRATEGIES USED FOR THE EQUITY
+PORTION OF THE PORTFOLIO, AND BROADENING THE TYPES OF REAL ASSET SECURITIES IN
+WHICH THE PORTFOLIO WILL INVEST. THE PERFORMANCE SHOWN BELOW FOR PERIODS PRIOR
+TO MAY 1, 2018 IS BASED ON THE PORTFOLIO'S PRIOR PRINCIPAL STRATEGIES AND MAY
+NOT BE REPRESENTATIVE OF THE PORTFOLIO'S PERFORMANCE UNDER ITS CURRENT
+PRINCIPAL STRATEGIES.
+
+
+BAR CHART
+
+
+                                    [CHART]
+
+                             Calendar Year End (%)
+
+  08        09       10       11       12      13      14    15     16      17
+-------   ------   ------   ------   ------  ------  -----  -----  -----  ------
+-30.01%   24.88%   10.61%   -2.81%   13.63%  16.49%  7.37%  1.65%  4.69%  15.84%
+
+
+
+
+
+During the period shown in the bar chart, the Portfolio's:
+
+BEST QUARTER WAS UP 15.07%, 3RD QUARTER, 2009; AND WORST QUARTER WAS DOWN
+-14.72%, 4TH QUARTER, 2008.
+
+PERFORMANCE TABLE
+AVERAGE ANNUAL TOTAL RETURNS
+
+(For the periods ended December 31, 2017)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                  1 YEAR 5 YEARS 10 YEARS
+-------------------------------------------------------------------------------------------------------------------------
+<S>                                                                                               <C>    <C>     <C>
+Portfolio                                                                                         15.84%  9.05%   5.11%
+-------------------------------------------------------------------------------------------------------------------------
+MSCI AC World Index (net)
+(reflects no deduction for fees, expenses, or taxes, except the reinvestment of dividends net of
+non-U.S. withholding taxes)                                                                       23.97% 10.80%   4.65%
+-------------------------------------------------------------------------------------------------------------------------
+S&P 500 Index*
+(reflects no deduction for fees, expenses, or taxes)                                              21.83% 15.79%   8.50%
+-------------------------------------------------------------------------------------------------------------------------
+Bloomberg Barclays Global Aggregate Bond Index (USD Hedged)**
+(reflects no deduction for fees, expenses, or taxes)                                               3.04%  3.06%   4.16%
+-------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+ * In connection with changes in investment strategy referred to above, the
+   broad-based index used for comparison with the Portfolio's performance has
+   changed from the S&P 500 Index to the MSCI AC World Index (net) because the
+   new index more closely reflects the Portfolio's equity investments.
+
+
+
+** The performance table includes the Bloomberg Barclays Global Aggregate Bond
+   Index (USD Hedged) to show how the Portfolio's performance compares with an
+   index of fixed-income securities similar to those in which the Portfolio
+   invests.
+
+
+                                                                             41
+
+<PAGE>
+
+
+
+INVESTMENT ADVISER
+AllianceBernstein L.P. is the investment adviser for the Portfolio.
+
+PORTFOLIO MANAGERS
+The following table lists the persons responsible for day-to-day management of
+the Portfolio's portfolio:
+
+
+<TABLE>
+<CAPTION>
+EMPLOYEE         LENGTH OF SERVICE    TITLE
+---------------------------------------------------------------------------
+<S>              <C>                  <C>
+Jess Gaspar      Since February 2018  Senior Vice President of the Adviser
+
+Daniel J. Loewy  Since 2013           Senior Vice President of the Adviser
+</TABLE>
+
+
+ADDITIONAL INFORMATION
+
+For important information about the purchase and sale of Portfolio shares, tax
+information and financial intermediary compensation, please turn to ADDITIONAL
+INFORMATION ABOUT PURCHASE AND SALE OF PORTFOLIO SHARES, TAXES AND FINANCIAL
+INTERMEDIARIES, page 51 in this Prospectus.

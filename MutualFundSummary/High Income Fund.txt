@@ -1,0 +1,136 @@
+High Income Fund
+<head_breaker>
+
+INVESTMENT OBJECTIVE
+The USAA High Income Fund (the Fund) seeks to provide an attractive total return primarily through high current income and secondarily through capital appreciation.
+FEES AND EXPENSES
+The tables below describe the fees and expenses that you may pay, directly and indirectly, to invest in the Fund. The annual fund operating expenses for the Fund Shares, Institutional Shares, Adviser Shares, and R6 Shares are based on expenses incurred during the Fund’s most recently completed fiscal year.
+Shareholder Fees
+(fees paid directly from your investment)
+ 	Fund Shares	Inst. Shares	Adviser Shares	R6
+Shares
+Redemption Fee (as a percentage of amount redeemed on shares held less than 60 days)	1.00%	1.00%	1.00%	1.00%
+Annual Fund Operating Expenses
+(expenses that you pay each year as a percentage of the value of your investment)
+ 	Fund Shares	Inst. Shares	Adviser Shares	R6 Shares
+Management Fee (fluctuates based on the Fund's performance relative to a securities market index)	0.48%	0.49%	0.46%	0.50%
+Distribution and/or Service (12b-1) Fees	None	None	0.25%	None
+Other Expenses	0.33%	0.23%	0.42%	0.42%
+Acquired Fund Fees and Expenses	0.02%	0.02%	0.02%	0.02%
+Total Annual Fund Operating Expenses	0.83%(a)	0.74%(a)	1.15%(a)	0.94%(a)
+Reimbursement from Adviser	N/A	N/A	(0.13%)(b)	(0.27%)(b)
+Total Annual Fund Operating Expenses after Reimbursement	0.83%	0.74%	1.02%	0.67%
+(a)	The total annual operating expenses for the Fund Shares, Institutional Shares, Adviser Shares, and R6 Shares may not correlate to the ratio of expenses to average daily net assets shown in the financial highlights, which reflect the operating expenses of the Fund Shares, Institutional Shares, Adviser Shares, and R6 Shares and do not include acquired fund fees and expenses.
+Prospectus  |  1
+ 
+
+Table of Contents
+(b)	The Investment Adviser has agreed, through November 30, 2019, to make payments or waive management, administration, and other fees to limit the expenses of the Adviser Shares and R6 Shares of the Fund so that the total annual operating expenses (exclusive of expense offset arrangements, acquired fund fees and expenses, and extraordinary expenses) do not exceed an annual rate of 1.00% of the Adviser Shares’ average daily net assets and an annual rate of 0.65% of the R6 Shares’ average daily net assets. This reimbursement arrangement may not be changed or terminated during this time period without approval of the Fund’s Board of Trustees and may be changed or terminated by the Investment Adviser at any time after November 30, 2019.
+Example
+This example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. Although your actual costs may be higher or lower, you would pay the following expenses on a $10,000 investment, assuming (1) a 5% annual return, (2) the Fund’s operating expenses remain the same, (3) you redeem all of your shares at the end of the periods shown, and (4) the expense reimbursement arrangements for Adviser Shares and R6 Shares are not continued beyond one year.
+ 	1 Year	3 Years	5 Years	10 Years
+Fund Shares	$85	$265	$460	$1,025
+Inst. Shares	$76	$237	$411	$918
+Adviser Shares	$104	$352	$620	$1,386
+R6 Shares	$68	$273	$494	$1,130
+Portfolio Turnover
+The Fund pays transaction costs, including commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when shares of the Fund are held in a taxable account. These costs, which are not reflected in the Annual Fund Operating Expenses or in the Example, affect the Fund’s performance.
+For the most recent fiscal year, the Fund’s portfolio turnover rate was 22% of the average value of its whole portfolio.
+PRINCIPAL INVESTMENT STRATEGY
+The Fund primarily invests its assets in a broad range of U.S. dollar- denominated high-yield securities, including bonds (often referred to as “junk” bonds), convertible securities, leveraged loans, or preferred stocks, with an emphasis on non-investment-grade debt securities. Although the Fund will invest primarily in U.S. securities, it may invest without limit in dollar-
+2  |  USAA High Income Fund
+ 
+
+Table of Contents
+denominated foreign securities and to a limited extent in non-dollar- denominated foreign securities, including in each case emerging-markets securities.
+PRINCIPAL RISKS
+Any investment involves risk, and there is no assurance that the Fund’s objective will be achieved. The Fund is actively managed and the investment techniques and risk analyses used by the Fund’s manager(s) may not produce the desired results. As you consider an investment in the Fund, you also should take into account your tolerance for the daily fluctuations of the financial markets and whether you can afford to leave your money in the Fund for long periods of time to ride out down periods. As with other mutual funds, losing money is a risk of investing in the Fund.
+The fixed-income securities in the Fund's portfolio are subject to credit risk, which is the possibility that an issuer of a fixed-income security will fail to make timely interest and/or principal payments on its securities or that negative market perceptions of the issuer’s ability to make such payments will cause the price of that security to decline. The Fund accepts some credit risk as a recognized means to enhance an investor’s return. All fixed-income securities, varying from the highest quality to the very speculative, have some degree of credit risk. Fixed-income securities rated below investment grade, also known as “junk” or high-yield bonds, generally entail greater economic, credit, and liquidity risk than investment-grade securities. Their prices may be more volatile, especially during economic downturns, financial setbacks, or liquidity events.
+The Fund is subject to the risk that the market value of the bonds in its portfolio will fluctuate because of changes in interest rates, changes in the supply of and demand for debt securities, and other market factors. Bond prices generally are linked to the prevailing market interest rates. In general, when interest rates rise, bond prices fall; conversely, when interest rates fall, bond prices rise. The price volatility of a bond also depends on its duration. Generally, the longer the duration of a bond, the greater its sensitivity to interest rates. To compensate investors for this higher interest rate risk, bonds with longer durations generally offer higher yields than bonds with shorter durations. Because the Federal Reserve has begun to raise interest rates, the Fund may face a heightened level of interest rate risk.
+The Fund may invest in futures, options, and other types of derivatives. Risks associated with derivatives include the risk that the derivative is not well-correlated with the security, index, exchanged-traded funds (ETFs), or currency to which it relates; the risk that the use of derivatives may not have the intended effects and may result in losses, underperformance, or missed opportunities; the risk that the Fund will be unable to sell the derivative because of an illiquid secondary market; the risk that a counterparty is unwilling or unable to meet its obligation; the risk of interest rate movements;
+Prospectus  |  3
+ 
+
+Table of Contents
+and the risk that the derivatives transaction could expose the Fund to the effects of leverage, which could increase the Fund’s market exposure, magnify investment risks and losses, and cause losses to be realized more quickly. There is no guarantee that derivative techniques will be employed or that they will work as intended, and their use could lower returns or even result in losses to the Fund.
+The equity securities in the Fund’s portfolio are subject to stock market risk. A company’s stock price in general may decline over short or even extended periods, regardless of the success or failure of the company’s operations. Stock markets tend to run in cycles, with periods when stock prices generally go up and periods when stock prices generally go down. Equity securities tend to be more volatile than debt securities. In addition, to the degree the Fund invests in foreign securities, there is a possibility that the value of the Fund’s investments in foreign securities will decrease because of unique risks, such as currency exchange-rate fluctuations; foreign market illiquidity; emerging-market risk; increased price volatility; uncertain political conditions; exchange control regulations; foreign ownership limits; different accounting, reporting, and disclosure requirements; difficulties in obtaining legal judgments; and foreign withholding taxes. These risks are particularly heightened in this Fund because investments in emerging-market countries generally are more volatile than investments in developed markets. Emerging-market countries are less economically diverse and mature than more developed countries and tend to be politically less stable.
+The Fund is subject to legislative risk, which is the risk that changes in government policies may affect the value of the investments held by the Fund in ways we cannot anticipate, and that such policies could have an adverse impact on the value of the Fund’s investments and the Fund’s net asset value (NAV).
+The Fund is subject to liquidity risk, which is the risk that the Fund’s investments generally cannot expect to be sold or disposed of in the ordinary course of business within seven days at approximately the value ascribed to such securities.
+The risk of investing in securities that generally are less liquid than higher-quality securities is referred to as liquidity risk. The market for lower-quality issues generally is less liquid than the market for higher-quality issues. Therefore, large purchases or sales could cause sudden and significant price changes in these securities. Many lower-quality issues do not trade frequently; however, when they do trade, the trade price may be substantially higher or lower than expected.
+The Fund is subject to prepayment and extension risk. The Fund can invest in mortgage-backed securities. These securities make regularly scheduled payments of principal along with interest payments. In addition, mortgagors generally have the option of paying off their mortgages without penalty at any time. For example, when a mortgaged property is sold, the old mortgage is
+4  |  USAA High Income Fund
+ 
+
+Table of Contents
+usually prepaid. Also, when interest rates fall, the mortgagor may refinance the mortgage and prepay the old mortgage. A homeowner’s default on the mortgage also may cause a prepayment of the mortgage. This unpredictability of the mortgage’s cash flow is called prepayment risk. For the investor, prepayment risk usually means that principal is received at the least opportune time. For example, when interest rates fall, homeowners may find it advantageous to refinance their mortgages and prepay principal. In this case, the investor is forced to reinvest the principal at the current lower rate. On the other hand, when interest rates rise, homeowners generally will not refinance their mortgages and prepayments will fall. This causes the average life of the mortgage to extend and be more sensitive to interest rates, which sometimes is called extension risk. In addition, the amount of principal the investor has to invest in these higher interest rates is reduced.
+An investment in the Fund is not a deposit in USAA Federal Savings Bank, or any other bank, and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+PERFORMANCE
+The following bar chart and table are intended to help you understand the risks of investing in the Fund. The Fund has four classes of shares: Fund Shares, Institutional Shares, Adviser Shares, and R6 Shares. The bar chart provides some indication of the risks of investing in the Fund and illustrates the Fund Shares class's volatility and performance from year to year for each full calendar year over the past 10 years. The table shows how the average annual total returns of the share classes for the periods indicated compared to those of the Fund's benchmark index and an additional index of funds with similar investment objectives. Performance reflects any expense limitations in effect during the periods shown.
+Remember, historical performance (before and after taxes) does not necessarily indicate what will happen in the future. For the Fund’s most current performance information, log on to usaa.com or call (800) 531-USAA (8722) or (210) 531-8722.
+Prospectus  |  5
+ 
+
+Table of Contents
+RISK/RETURN BAR CHART
+Annual Returns for Periods Ended December 31
+
+During the periods shown in the chart:	Returns	Quarter ended
+Highest Quarter Return	23.62%	June 30, 2009
+Lowest Quarter Return	-19.27%	December 31, 2008
+Year-to-Date Return	2.13%	September 30, 2018
+After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. In certain situations, the return after taxes on distributions and sale of fund shares may be higher than the other return amounts. A higher after-tax return may result when a capital loss occurs upon redemption and translates into an assumed tax deduction that benefits the shareholder. The actual after-tax returns depend on your tax situation and may differ from those shown. If you hold your shares through a tax-deferred arrangement, such as an individual retirement account (IRA) or 401(k) plan, the after-tax returns shown in the table are not relevant to you. Please note that after-tax returns are only shown for the Fund Shares and may differ for each share class.
+6  |  USAA High Income Fund
+ 
+
+Table of Contents
+AVERAGE ANNUAL TOTAL RETURNS
+For Periods Ended December 31, 2017
+ 	Past
+1 Year	Past
+5 Years	Past
+10 Years	Since
+Inception	Inception
+Date
+Fund Shares	 	 	 	 	 
+Return Before Taxes	7.17%	5.35%	7.25%	 	 
+Return After Taxes on Distributions	4.60%	2.65%	4.44%	 	 
+Return After Taxes on Distributions and Sale of Fund Shares	4.07%	2.90%	4.46%	 	 
+Institutional Shares	 	 	 	 	 
+Return Before Taxes	7.26%	5.44%	–	8.44%	8/1/2008
+Adviser Shares	 	 	 	 	 
+Return Before Taxes	6.90%	5.10%	–	6.87%	8/1/2010
+R6 Shares	 	 	 	 	 
+Return Before Taxes	7.23%	–	–	8.56%	12/1/2016
+Indexes
+Bloomberg Barclays U.S. High Yield 2% Issuer Capped Bond Index (reflects no deduction for fees, expenses, or taxes)	7.50%	5.79%	8.09%	8.89%	8/1/2008*
+Lipper High Yield Bond Funds Index (reflects no deduction for taxes)	7.53%	5.22%	6.47%	7.26%	8/1/2008*
+* The performance of the Bloomberg Barclays U.S. High Yield 2% Issuer Capped Bond Index and the Lipper High Yield Bond Funds Index is calculated from the end of the month, July 31, 2008, while the inception date of the Institutional Shares is August 1, 2008. The performance of the Bloomberg Barclays U.S. High Yield 2% Issuer Capped Bond Index and Lipper High Yield Bond Funds Index is calculated from the end of the month, July 31, 2010, while the inception date of the Adviser Shares is August 1, 2010. There may be a slight variation in performance because of the difference. The average annual total returns for the Bloomberg Barclays U.S. High Yield 2% Issuer Capped Bond Index and Lipper High Yield Bond Funds Index from July 31, 2010, through December 31, 2017, were 7.51% and 6.87%, respectively. The average annual total returns for the Bloomberg Barclays U.S. High Yield 2% Issuer Capped Bond Index and Lipper High Yield Bond Funds Index from December 1, 2016, through December 31, 2017, were 9.49% and 9.52%, respectively.
+INVESTMENT ADVISER
+USAA Asset Management Company (“AMCO” or “Adviser”)
+Prospectus  |  7
+ 
+
+Table of Contents
+PORTFOLIO MANAGER
+Julianne Bass, CFA, Vice President of Mutual Fund Portfolios, has co-managed the Fund since January 2007.
+Kurt Daum, J.D., Executive Director of Mutual Funds Portfolios, has co-managed the Fund since November 2016.
+John Spear, CFA, Senior Vice President, Chief Investment Officer of USAA Investments, has co-managed the Fund since November 2016.
+PURCHASE AND SALE OF SHARES
+Fund Shares:
+You may purchase or sell Fund Shares through a USAA investment account on any business day through our website at usaa.com or mobile.usaa.com, or by telephone at (800) 531-USAA (8722) or (210) 531-8722. You also may purchase or sell Fund Shares through certain other financial intermediaries. If you have opened an account directly with the Fund, you also may purchase and sell Fund Shares by mail at P.O. Box 659453, San Antonio, Texas 78265-9825.
+■	Minimum initial purchase: $3,000
+■	Minimum subsequent investment: $50
+Institutional Shares:
+The Institutional Shares are not offered for sale directly to the general public. The minimum initial purchase is $1 million; however, the Fund reserves the right to waive or lower purchase minimums in certain circumstances.
+Adviser Shares:
+Adviser Shares are available for investment through financial intermediaries. Your ability to purchase, exchange, sell, and transfer shares will be affected by the policies of the financial intermediary through which you do business. The minimum initial purchase is $3,000; however, financial intermediaries may set different investment minimums in certain circumstances.
+R6 Shares:
+R6 Shares generally are available only through employer-sponsored retirement plans where a financial intermediary provides retirement recordkeeping services to plan participants. R6 Shares also are available to endowment funds and foundations. There is no minimum initial investment amount or minimum subsequent investment for R6 Shares. Please contact your plan administrator or recordkeeper to purchase or sell (redeem) shares from your retirement plan.
+8  |  USAA High Income Fund
+ 
+
+Table of Contents
+TAX INFORMATION
+The Fund intends to make distributions that generally will be taxed to you as ordinary income or long-term capital gains, unless you are a tax-exempt investor or you invest through an IRA, 401(k) plan, or other tax-deferred account (in which case you may be taxed later, upon withdrawal of your investment from such account).
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+If you purchase shares of the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies may pay the intermediary for the sale of such shares and certain servicing and administrative functions in all share classes except the R6 Shares. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

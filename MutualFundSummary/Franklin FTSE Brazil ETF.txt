@@ -1,0 +1,114 @@
+Franklin FTSE Brazil ETF
+<head_breaker>
+
+Franklin FTSE Brazil ETF
+
+Investment Goal
+
+To seek to provide investment results that closely correspond, before fees and expenses, to the performance of the FTSE Brazil RIC Capped Index (the FTSE Brazil Capped Index).
+
+Fees and Expenses of the Fund
+
+The following table describes the fees and expenses that you will incur if you own shares of the Fund. You may also incur usual and customary brokerage commissions when buying or selling shares of the Fund, which are not reflected in the Example that follows.
+
+
+Annual Fund Operating Expenses
+
+(expenses that you pay each year as a percentage of the value of your investment)
+
+Management fees 	0.19% 
+Distribution and service (12b-1) fees 	None 
+Other expenses1 	None 
+Total annual Fund operating expenses 	0.19% 
+1. Other expenses are based on estimated amounts for the current fiscal year.
+
+Example
+
+This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other funds. The Example assumes that you invest $10,000 in the Fund for the time periods indicated and then redeem all of your shares at the end of the period. The Example also assumes that your investment has a 5% return each year and that the Fund's operating expenses remain the same. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+   	1 Year 	3 Years 
+   	$ 19 	$ 61 
+Portfolio Turnover
+
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or "turns over" its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual Fund operating expenses or in the Example, affect the Fund's performance. During the Fund's first fiscal period (November 3, 2017 to March 31, 2018), the Fund's portfolio turnover rate was 4.79% of the average value of its portfolio.
+
+Principal Investment Strategies
+
+Under normal market conditions, the Fund invests at least 80% of its assets in the component securities of the FTSE Brazil Capped Index and in depositary receipts representing such securities. The FTSE Brazil Capped Index is a free float-adjusted market capitalization weighted index maintained and calculated by FTSE Russell with a capping methodology applied quarterly to issuer weights so that no single issuer of a component exceeds 25% of the FTSE Brazil Capped Index weight, and all issuers with weights above 5% do not cumulatively exceed 50% of the FTSE Brazil Capped Index’s weight. The FTSE Brazil Capped Index is based on the FTSE Brazil Index and is designed to measure the performance of Brazilian large- and mid-capitalization stocks. FTSE Russell determines eligible securities for the FTSE Brazil Capped Index based on measures such as the company’s place of incorporation, quality of investor protection, tax domicile, location of headquarters/factors of production and currency of denomination. As of June 29, 2018, the FTSE Brazil Capped Index was comprised of 79 securities with capitalizations ranging from $97 million to $43.74 billion.
+
+The Fund, using a “passive” or indexing investment approach, seeks investment results that closely correspond, before fees and expenses, to the performance of the FTSE Brazil Capped Index. The investment manager seeks to achieve, over time, a correlation between the Fund’s performance, before fees and expenses, and that of the FTSE Brazil Capped Index of 0.95 or better. A figure of 1.00 would indicate perfect correlation. The Fund’s intention is to replicate the component securities of the FTSE Brazil Capped Index as closely as possible (i.e., invest in all of the component securities in their respective weightings in the FTSE Brazil Capped Index). However, under various circumstances, it may not be possible or practicable to replicate the FTSE Brazil Capped Index. In these circumstances, the Fund may use a “representative sampling” strategy whereby the Fund would invest in what it believes to be a representative sample of the component securities of the FTSE Brazil Capped Index, but may not track the FTSE Brazil Capped Index with the same degree of accuracy as would an investment vehicle replicating the entire FTSE Brazil Capped Index. Under the representative sampling technique, the investment manager will select securities that collectively have an investment profile similar to that of the FTSE Brazil Capped Index, including securities that resemble those included in the FTSE Brazil Capped Index in terms of risk factors, performance attributes and other characteristics, such as market capitalization and industry weightings.
+
+The Fund is a "non-diversified" fund, which means it generally invests a greater proportion of its assets in the securities of one or more issuers and invests overall in a smaller number of issuers than a diversified fund.
+
+The Fund will concentrate its investments (i.e., hold 25% or more of its net assets) in a particular industry or group of industries to approximately the same extent that the FTSE Brazil Capped Index is concentrated. As of June 29, 2018, the FTSE Brazil Capped Index was concentrated in the banking industry.
+
+Principal Risks
+
+You could lose money by investing in the Fund. Exchange-traded fund (ETF) shares are not deposits or obligations of, or guaranteed or endorsed by, any bank, and are not insured by the Federal Deposit Insurance Corporation, the Federal Reserve Board, or any other agency of the U.S. government. The Fund is subject to the principal risks noted below, any of which may adversely affect the Fund’s net asset value (NAV), trading price, yield, total return and ability to meet its investment goal.
+
+Market   The market values of securities or other investments owned by the Fund will go up or down, sometimes rapidly or unpredictably. The market value of a security or other investment may be reduced by market activity or other results of supply and demand unrelated to the issuer. This is a basic risk associated with all investments. When there are more sellers than buyers, prices tend to fall. Likewise, when there are more buyers than sellers, prices tend to rise.
+
+Stock prices tend to go up and down more dramatically than those of debt securities. A slower-growth or recessionary economic environment could have an adverse effect on the prices of the various stocks held by the Fund.
+
+Foreign Securities (non-U.S.)   Investing in foreign securities typically involves more risks than investing in U.S. securities, and includes risks associated with: (i) internal and external political and economic developments – e.g., the political, economic and social policies and structures of some foreign countries may be less stable and more volatile than those in the U.S. or some foreign countries may be subject to trading restrictions or economic sanctions; (ii) trading practices – e.g., government supervision and regulation of foreign securities and currency markets, trading systems and brokers may be less than in the U.S.; (iii) availability of information – e.g., foreign issuers may not be subject to the same disclosure, accounting and financial reporting standards and practices as U.S. issuers; (iv) limited markets – e.g., the securities of certain foreign issuers may be less liquid (harder to sell) and more volatile; and (v) currency exchange rate fluctuations and policies (e.g., fluctuations may negatively affect investments denominated in foreign currencies and any income received or expenses paid by the Fund in that foreign currency). The risks of foreign investments may be greater in developing or emerging market countries.
+
+Emerging Market Countries   The Fund’s investments in emerging market issuers are subject to all of the risks of foreign investing generally, and have additional heightened risks due to a lack of established legal, political, business and social frameworks to support securities markets, including: delays in settling portfolio securities transactions; currency and capital controls; greater sensitivity to interest rate changes; pervasiveness of corruption and crime; currency exchange rate volatility; and inflation, deflation or currency devaluation.
+
+Geographic Focus   Because the Fund invests its assets primarily in companies in a specific country and region, the Fund is subject to greater risks of adverse developments in that country, region and/or the surrounding regions than a fund that is more broadly diversified geographically. Political, social or economic disruptions in the country or region, even in countries in which the Fund is not invested, may adversely affect the value of investments held by the Fund.
+
+The Brazilian economy has experienced in the past, and may continue to experience, periods of high inflation rates and political unrest. While the Brazilian economy has experienced growth in recent years, there is no guarantee that this growth will continue. The Brazilian economy depends heavily on international trade, and its economy is highly sensitive to fluctuations in international commodity prices and commodity markets. Currency devaluations or restrictions, fluctuations in commodity markets, political and social instability, high inflation rates and deteriorating economic conditions may result in significant downturns and increased volatility in the Brazilian economy, as it has in the past, and thus adversely affect the Fund’s performance.
+
+Depositary Receipts   Depositary receipts are subject to many of the risks of the underlying securities. For some depositary receipts, the custodian or similar financial institution that holds the issuer's shares in a trust account is located in the issuer's home country. In these cases if the issuer’s home country does not have developed financial markets, the Fund could be exposed to the credit risk of the custodian or financial institution and greater market risk. In addition, the depository institution may not have physical custody of the underlying securities at all times and may charge fees for various services. The Fund may experience delays in receiving its dividend and interest payments or exercising rights as a shareholder. There may be an increased possibility of untimely responses to certain corporate actions of the issuer in an unsponsored depositary receipt program. Accordingly, there may be less information available regarding issuers of securities underlying unsponsored programs and there may not be a correlation between this information and the market value of the depositary receipts.
+
+Calculation Methodology   FTSE Russell relies on various sources of information to assess the criteria of issuers included in the FTSE Brazil Capped Index, including information that may be based on assumptions and estimates. Neither the Fund nor the investment manager can offer assurances that FTSE Russell’s calculation methodology or sources of information will provide an accurate assessment of included issuers or that the included issuers will provide the Fund with the market exposure it seeks.
+
+Index-Related   There is no assurance that the FTSE Brazil Capped Index will be determined, composed or calculated accurately. While FTSE Russell provides descriptions of what the FTSE Brazil Capped Index is designed to achieve, FTSE Russell does not guarantee the quality, accuracy or completeness of data in respect of its indices, and does not guarantee that the FTSE Brazil Capped Index will be in line with the described index methodology. Gains, losses or costs to the Fund caused by errors in the FTSE Brazil Capped Index may therefore be borne by the Fund and its shareholders.
+
+Non-Correlation   There is no guarantee that the Fund will achieve a high degree of correlation to the FTSE Brazil Capped Index and therefore achieve its investment goal. Market disruptions and regulatory restrictions could have an adverse effect on the Fund’s ability to adjust its exposure to the required levels in order to track the FTSE Brazil Capped Index. In addition, the Fund’s NAV may deviate from the FTSE Brazil Capped Index if the Fund fair values a portfolio security at a price other than the price used by the FTSE Brazil Capped Index for that security. To the extent that the investment manager uses a representative sampling strategy, the Fund may not track the return of the FTSE Brazil Capped Index as well as it would have if the Fund held all of the securities in the FTSE Brazil Capped Index.
+
+Tracking Error   Tracking error is the divergence of the Fund’s performance from that of the FTSE Brazil Capped Index. Tracking error may occur because of differences between the securities held in the Fund’s portfolio and those included in the FTSE Brazil Capped Index, pricing differences (including differences between a security’s price at the local market close and the Fund’s valuation of a security at the time of calculation of the Fund’s NAV), transaction costs, the Fund’s holding of cash, differences in timing of the accrual of dividends or interest, tax gains or losses, changes to the FTSE Brazil Capped Index or the need to meet various new or existing regulatory requirements. This risk may be heightened during times of increased market volatility or other unusual market conditions. Tracking error also may result because the Fund incurs fees and expenses, while the FTSE Brazil Capped Index does not.
+
+Market Trading   The Fund faces numerous market trading risks, including the potential lack of an active market for Fund shares, losses from trading in secondary markets, periods of high volatility and disruption in the creation/redemption process of the Fund. Any of these factors, among others, may lead to the Fund’s shares trading at a premium or discount to NAV. Thus, you may pay more (or less) than NAV when you buy shares of the Fund in the secondary market, and you may receive less (or more) than NAV when you sell those shares in the secondary market. The investment manager cannot predict whether shares will trade above (premium), below (discount) or at NAV.
+
+Concentration   To the extent the Fund concentrates in a specific industry, a group of industries, sector or type of investment, the Fund will carry much greater risks of adverse developments and price movements in such industries, sectors or investments than a fund that invests in a wider variety of industries, sectors or investments. There is also the risk that the Fund will perform poorly during a slump in demand for securities of companies in such industries or sectors.
+
+The Fund may focus in the banking industry. Companies in the banking industry are subject to certain risks, including the effects of: (1) changes in interest rates on the profitability of banks; (2) the rate of corporate and consumer debt defaults; (3) price competition; (4) governmental limitations on a company’s loans, other financial commitments, product lines and other operations; and (5) ongoing changes in the financial services industry (including consolidations, development of new products and changes to the industry’s regulatory framework). The oversight of, and regulations applicable to, companies in the banking industry in emerging markets may be ineffective and underdeveloped relative to more developed markets.
+
+Non-Diversification   Because the Fund is non-diversified, it may be more sensitive to economic, business, political or other changes affecting individual issuers or investments than a diversified fund, which may result in greater fluctuation in the value of the Fund’s shares and greater risk of loss.
+
+Midsize Companies   Securities issued by midsize companies may be more volatile in price than those of larger companies, involve substantial risks and should be considered speculative. Such risks may include greater sensitivity to economic conditions, less certain growth prospects, lack of depth of management and funds for growth and development, and limited or less developed product lines and markets. In addition, midsize companies may be particularly affected by interest rate increases, as they may find it more difficult to borrow money to continue or expand operations, or may have difficulty in repaying any loans.
+
+Passive Investment   Unlike many investment companies, the Fund is not actively managed and the investment manager does not attempt to take defensive positions under any market conditions, including declining markets. Therefore, the investment manager would not necessarily buy or sell a security unless that security is added or removed, respectively, from the FTSE Brazil Capped Index, even if that security generally is underperforming.
+
+International Closed Market Trading   To the extent that the underlying securities held by the Fund trade on an exchange that is closed when the securities exchange on which the Fund shares list and trade is open, there may be market uncertainty about the stale security pricing (i.e., the last quote from its closed foreign market) resulting in premiums or discounts to NAV that may be greater than those experienced by other ETFs.
+
+Authorized Participant Concentration   Only an authorized participant (Authorized Participant) may engage in creation or redemption transactions directly with the Fund. The Fund has a limited number of institutions that act as Authorized Participants. To the extent that these institutions exit the business or are unable to proceed with creation and/or redemption orders with respect to the Fund and no other Authorized Participant is able to step forward to create or redeem Creation Units (as defined below), Fund shares may trade at a discount to NAV and possibly face trading halts and/or delisting. This risk may be more pronounced in volatile markets, potentially where there are significant redemptions in ETFs generally.
+
+Cash Transactions   Unlike certain ETFs, the Fund expects to generally effect its creations and redemptions entirely for cash, rather than for in-kind securities. Therefore, it may be required to sell portfolio securities and subsequently recognize gains on such sales that the Fund might not have recognized if it were to distribute portfolio securities in-kind. As such, investments in Fund shares may be less tax-efficient than an investment in an ETF that distributes portfolio securities entirely in-kind.
+
+Performance
+
+Because the Fund does not have a full calendar year of performance, annual total return information is not available and therefore is not presented. You can obtain updated performance information at libertyshares.com or by calling (800) DIAL BEN/342-5236. The Fund's past performance (before and after taxes) is not necessarily an indication of how the Fund will perform in the future.
+
+Investment Manager
+
+Franklin Advisers, Inc. (Advisers)
+
+Portfolio Managers
+
+Dina Ting, CFA   Portfolio Manager of Advisers and lead portfolio manager of the Fund since inception (2017).
+
+Louis Hsu, CFA   Portfolio Manager of Advisers and portfolio manager of the Fund since inception (2017).
+
+Purchase and Sale of Fund Shares
+
+The Fund is an ETF. Fund shares may only be purchased and sold on a national securities exchange through a broker-dealer. The price of Fund shares is based on market price, and because ETF shares trade at market prices rather than NAV, shares may trade at a price greater than NAV (a premium) or less than NAV (a discount). The Fund issues or redeems shares that have been aggregated into blocks of 200,000 shares or multiples thereof (Creation Units) to Authorized Participants who have entered into agreements with the Fund’s distributor, Franklin Templeton Distributors, Inc. The Fund will generally issue or redeem Creation Units in return for a basket of cash and/or securities that the Fund specifies each day.
+
+Taxes
+
+The Fund’s distributions are generally taxable to you as ordinary income, capital gains, or some combination of both, unless you are investing through a tax-deferred arrangement, such as a 401(k) plan or an individual retirement account, in which case your distributions would generally be taxed when withdrawn from the tax-deferred account.
+
+Payments to Broker-Dealers and
+Other Financial Intermediaries
+
+If you purchase shares of the Fund through a broker-dealer or other financial intermediary (such as a bank), Advisers or other related companies may pay the intermediary for the sale of Fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary's website for more information.

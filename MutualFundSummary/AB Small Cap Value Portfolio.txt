@@ -1,0 +1,344 @@
+AB Small Cap Value Portfolio
+<head_breaker>
+
+AB SMALL CAP VALUE PORTFOLIO
+--------------------------------------------------------------------------------
+
+INVESTMENT OBJECTIVE
+The Fund's investment objective is to seek long-term growth of capital.
+
+FEES AND EXPENSES OF THE FUND
+
+This table describes the fees and expenses that you may pay if you buy and hold
+shares of the Fund. You may qualify for sales charge reductions if you and
+members of your family invest, or agree to invest in the future, at least
+$100,000 in AB Mutual Funds. More information about these and other discounts
+is available from your financial intermediary and in Investing in the
+Funds--Sales Charge Reduction Programs for Class A Shares on page 69 of this
+Prospectus, in Appendix B--Financial Intermediary Waivers of this Prospectus
+and in Purchase of Shares--Sales Charge Reduction Programs for Class A Shares
+on page 129 of the Fund's Statement of Additional Information ("SAI").
+
+You may be required to pay commissions and/or other forms of compensation to a
+broker for transactions in Advisor Class shares, which are not reflected in the
+tables or the examples below.
+
+
+SHAREHOLDER FEES (fees paid directly from your investment)
+
+<TABLE>
+<CAPTION>
+                                                                                CLASS A  CLASS C   ADVISOR CLASS
+                                                                                SHARES   SHARES       SHARES
+----------------------------------------------------------------------------------------------------------------
+<S>                                                                             <C>      <C>       <C>
+Maximum Sales Charge (Load) Imposed on Purchases
+(as a percentage of offering price)                                              4.25%    None         None
+----------------------------------------------------------------------------------------------------------------
+Maximum Deferred Sales Charge (Load)
+(as a percentage of offering price or redemption proceeds, whichever is lower)   None(a)  1.00%(b)     None
+----------------------------------------------------------------------------------------------------------------
+Exchange Fee                                                                     None     None         None
+----------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+ANNUAL FUND OPERATING EXPENSES (expenses that you pay each year as a percentage
+of the value of your investment)
+
+
+<TABLE>
+<CAPTION>
+                                                                                    CLASS A CLASS C ADVISOR CLASS
+-----------------------------------------------------------------------------------------------------------------
+<S>                                                                                 <C>     <C>     <C>
+Management Fees                                                                       .80%    .80%       .80%
+Distribution and/or Service (12b-1) Fees                                              .25%   1.00%       None
+Other Expenses:
+  Transfer Agent                                                                      .01%    .10%       .01%
+  Other Expenses                                                                      .19%    .17%       .19%
+                                                                                    ------  ------     ------
+Total Other Expenses                                                                  .20%    .27%       .20%
+                                                                                    ------  ------     ------
+Acquired Fund Fees and Expenses                                                       .01%    .01%       .01%
+                                                                                    ------  ------     ------
+Total Annual Fund Operating Expenses                                                 1.26%   2.08%      1.01%
+                                                                                    ======  ======     ======
+Fee Waiver and/or Expense Reimbursement(c)                                          (.01)%  (.08)%     (.01)%
+                                                                                    ------  ------     ------
+Total Annual Fund Operating Expenses After Fee Waiver and/or Expense Reimbursement   1.25%   2.00%      1.00%
+                                                                                    ======  ======     ======
+-----------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(a)Purchases of Class A shares in amounts of $1,000,000 or more, or by certain
+   group retirement plans, may be subject to a 1%, 1-year contingent deferred
+   sales charge, or CDSC, which may be subject to waiver in certain
+   circumstances.
+
+(b)For Class C shares, the CDSC is 0% after the first year. Class C shares
+   automatically convert to Class A shares after ten years.
+
+
+(c)The Adviser has contractually agreed to waive its management fees and/or to
+   bear expenses of the Fund until February 28, 2019 to the extent necessary to
+   prevent total Fund operating expenses (excluding expenses associated with
+   acquired fund fees and expenses other than the advisory fees of any AB
+   Mutual Funds in which the Fund may invest, interest expense, taxes,
+   extraordinary expenses, and brokerage commissions and other transaction
+   costs), on an annualized basis, from exceeding 1.25%, 2.00% and 1.00% of
+   average daily net assets, respectively, for Class A, Class C and Advisor
+   Class shares ("expense limitations"). The expense limitations will remain in
+   effect until February 28, 2019 and will continue thereafter from year to
+   year unless the Adviser provides notice of termination to the Fund at least
+   60 days prior to the end of the period. Any fees waived and expenses borne
+   by the Adviser through December 2, 2015 under the expense limitations in
+   effect prior to that date may be reimbursed by the Fund until the end of the
+   third fiscal year after the fiscal period in which the fee was waived or the
+   expense was borne, provided that no reimbursement payment will be made that
+   would cause the Fund's covered operating expenses to exceed the expense
+   limitations. In connection with the Fund's investments in AB Government
+   Money Market Portfolio (the "Money Market Portfolio"), the Adviser has
+   contractually agreed to waive its management fee from the Fund and/or
+   reimburse other expenses of the Fund in an amount equal to the Fund's pro
+   rata share of the Money Market Portfolio's effective management fee, as
+   included in "Acquired Fund Fees and Expenses".
+
+
+40
+
+<PAGE>
+
+
+
+EXAMPLES
+
+The Examples are intended to help you compare the cost of investing in the Fund
+with the cost of investing in other mutual funds. The Examples assume that you
+invest $10,000 in the Fund for the time periods indicated and then redeem all
+of your shares at the end of these periods. The Examples also assume that your
+investment has a 5% return each year, that the Fund's operating expenses stay
+the same and that any fee waiver and/or expense limitation is in effect for
+only the first year. Although your actual costs may be higher or lower, based
+on these assumptions your costs would be:
+
+
+
+<TABLE>
+<CAPTION>
+                                                             CLASS A CLASS C ADVISOR CLASS
+------------------------------------------------------------------------------------------
+<S>                                                          <C>     <C>     <C>
+After 1 Year                                                 $  547  $  303*    $  102
+After 3 Years                                                $  807  $  644     $  321
+After 5 Years                                                $1,086  $1,111     $  557
+After 10 Years                                               $1,882  $2,404     $1,235
+------------------------------------------------------------------------------------------
+</TABLE>
+
+
+* If you did not redeem your shares at the end of the period, your expenses
+  would be decreased by approximately $100.
+
+PORTFOLIO TURNOVER
+
+The Fund pays transaction costs, such as commissions, when it buys or sells
+securities (or "turns over" its portfolio). A higher portfolio turnover rate
+may indicate higher transaction costs and may result in higher taxes when Fund
+shares are held in a taxable account. These transaction costs, which are not
+reflected in the Annual Fund Operating Expenses or in the Examples, affect the
+Fund's performance. During the most recent fiscal year, the Fund's portfolio
+turnover rate was 36% of the average value of its portfolio.
+
+
+PRINCIPAL STRATEGIES
+
+The Fund invests primarily in a portfolio of equity securities of
+small-capitalization U.S. companies. Under normal circumstances, the Fund
+invests at least 80% of its net assets in equity securities of
+small-capitalization companies. For purposes of this policy,
+small-capitalization companies are those that, at the time of investment, fall
+within the capitalization range between the smallest company in the Russell
+2000(R) Value Index and the greater of $2.5 billion or the largest company in
+the Russell 2000(R) Value Index. As of December 31, 2017, the market
+capitalization range of the Russell 2000(R) Value Index was between
+$22.7 million and $8.9 billion.
+
+
+The Fund invests in companies that are determined by the Adviser to be
+undervalued, using the Adviser's fundamental value approach. In selecting
+securities for the Fund, the Adviser uses its fundamental and quantitative
+research to identify companies whose long-term earnings power is not reflected
+in the current market price of the securities.
+
+The Adviser looks for companies with attractive valuation (for example, with
+low price to book value ratios) and compelling quality factors (for example,
+momentum and return on equity). The Adviser then uses this information to
+calculate an expected return. Returns and rankings are updated on a daily
+basis. The rankings are used to determine prospective candidates for further
+fundamental research and, subsequently, possible addition to the Fund.
+Typically, the Adviser's fundamental research analysts focus their research on
+the most attractive 20% of the companies in the small-capitalization universe
+as defined above.
+
+The Adviser typically projects a company's financial performance over a full
+economic cycle, including a trough and a peak, within the context of forecasts
+for real economic growth, inflation and interest rate changes. The Adviser
+focuses on the valuation implied by the current price, relative to the earnings
+the company is projected to generate five years from now, or "normalized"
+earnings, assuming average mid-economic cycle growth for the fifth year.
+
+The Adviser generally sells a security when it no longer meets appropriate
+valuation criteria, although sales may be delayed when return trends are
+favorable. Typically, growth in the size of a company's market capitalization
+relative to other domestically traded companies will not cause the Adviser to
+dispose of the security.
+
+
+The Adviser seeks to manage the overall portfolio volatility relative to the
+Russell 2000(R) Value Index by favoring promising securities that offer the
+best balance between return and targeted risk.
+
+
+PRINCIPAL RISKS
+.  MARKET RISK: The value of the Fund's assets will fluctuate as the stock
+   market fluctuates. The value of its investments may decline, sometimes
+   rapidly and unpredictably, simply because of economic changes or other
+   events that affect large portions of the market. It includes the risk that a
+   particular style of investing, such as the Fund's value approach, may
+   underperform the market generally.
+
+.  CAPITALIZATION RISK: Investments in small-capitalization companies may be
+   more volatile than investments in large-capitalization companies.
+   Investments in small-capitalization companies may have additional risks
+   because these companies have limited product lines, markets or financial
+   resources.
+
+
+
+                                                                             41
+
+<PAGE>
+
+
+
+.  MANAGEMENT RISK: The Fund is subject to management risk because it is an
+   actively-managed investment fund. The Adviser will apply its investment
+   techniques and risk analyses in making investment decisions for the Fund,
+   but there is no guarantee that its techniques will produce the intended
+   results.
+
+As with all investments, you may lose money by investing in the Fund.
+
+BAR CHART AND PERFORMANCE INFORMATION
+The bar chart and performance information provide an indication of the
+historical risk of an investment in the Fund by showing:
+
+.  how the Fund's performance changed from year to year over the life of the
+   Fund; and
+
+.  how the Fund's average annual returns for one year and since inception
+   compare to those of a broad-based securities market index.
+
+You may obtain updated performance information on the Fund's website at
+www.abfunds.com (click on "Investments--Mutual Funds").
+
+The Fund's past performance before and after taxes, of course, does not
+necessarily indicate how it will perform in the future.
+
+BAR CHART
+The annual returns in the bar chart are for the Fund's Class A shares and do
+not reflect sales loads. If sales loads were reflected, returns would be less
+than those shown.
+
+
+                                    [CHART]
+
+
+ 08      09      10      11      12      13      14       15        16      17
+----    ----    ----    ----    ----    ----    ----    ------    ------   -----
+ n/a     n/a     n/a     n/a     n/a     n/a     n/a    -2.30%    29.49%   8.71%
+
+
+
+
+During the period shown in the bar chart, the Fund's:
+
+BEST QUARTER WAS UP 13.09%, 4TH QUARTER, 2016; AND WORST QUARTER WAS DOWN
+-9.42%, 3RD QUARTER, 2015.
+
+PERFORMANCE TABLE
+AVERAGE ANNUAL TOTAL RETURNS
+
+(For the periods ended December 31, 2017)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                      SINCE
+                                                                            1 YEAR INCEPTION**
+----------------------------------------------------------------------------------------------
+<C>            <S>                                                          <C>    <C>
+Class A*       Return Before Taxes                                          4.10%    10.47%
+               -------------------------------------------------------------------------------
+               Return After Taxes on Distributions                          2.70%     9.86%
+               -------------------------------------------------------------------------------
+               Return After Taxes on Distributions and Sale of Fund Shares  3.37%     8.11%
+----------------------------------------------------------------------------------------------
+Class C        Return Before Taxes                                          6.88%    11.17%
+----------------------------------------------------------------------------------------------
+Advisor Class  Return Before Taxes                                          8.97%    12.31%
+----------------------------------------------------------------------------------------------
+Russell 2000(R) Value Index
+(reflects no deduction for fees, expenses or taxes)                         7.84%    10.06%
+----------------------------------------------------------------------------------------------
+</TABLE>
+
+
+* After-tax returns:
+
+   -Are shown for Class A shares only and will vary for the other Classes of
+    shares because these Classes have different expense ratios;
+
+   -Are estimates based on the highest historical individual federal marginal
+    income tax rates, and do not reflect the impact of state and local taxes;
+    actual after-tax returns depend on an individual investor's tax situation
+    and are likely to differ from those shown; and
+
+   -Are not relevant to investors who hold fund shares through tax-deferred
+    arrangements such as 401(k) plans or individual retirement accounts.
+
+**Inception date for all classes is 12/3/14.
+
+42
+
+<PAGE>
+
+
+
+INVESTMENT ADVISER
+AllianceBernstein L.P. is the investment adviser for the Fund.
+
+PORTFOLIO MANAGERS
+The following table lists the persons responsible for day-to-day management of
+the Fund's portfolio:
+
+
+<TABLE>
+<CAPTION>
+EMPLOYEE            LENGTH OF SERVICE  TITLE
+----------------------------------------------------------------------------
+<S>                 <C>                <C>
+James W. MacGregor  Since 2014         Senior Vice President of the Adviser
+
+Shri Singhvi        Since 2014         Senior Vice President of the Adviser
+</TABLE>
+
+
+ADDITIONAL INFORMATION
+
+For important information about the purchase and sale of Fund shares, tax
+information and financial intermediary compensation, please turn to ADDITIONAL
+INFORMATION ABOUT PURCHASE AND SALE OF FUND SHARES, TAXES AND FINANCIAL
+INTERMEDIARIES, page 52 of this Prospectus.

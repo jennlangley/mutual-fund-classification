@@ -1,0 +1,81 @@
+American Century Diversified Municipal Bond ETF
+<head_breaker>
+
+Fund Summary
+Investment Objective
+The fund seeks current income that is exempt from federal income tax.
+Fees and Expenses
+The following table describes the fees and expenses you may pay if you buy and hold shares of the fund. You may also incur usual and customary brokerage commissions when buying or selling shares of the fund, which are not reflected in the example that follows.
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+Management Fee
+0.29%
+Other Expenses1
+0.00%
+Total Annual Fund Operating Expenses
+0.29%
+1Other expenses are based on estimated amounts for the current fiscal year.
+Example
+The example below is intended to help you compare the costs of investing in the fund with the costs of investing in other funds. The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods, that you earn a 5% return each year, and that the fund’s operating expenses remain the same. You may be required to pay brokerage commissions on your purchases of shares of the fund which are not reflected in the example. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+1 year
+3 years
+$30
+$93
+Portfolio Turnover
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s performance. Because the fund is new, the fund’s portfolio turnover rate is not available.
+Principal Investment Strategies
+The fund invests in municipal and other debt securities. Under normal market conditions, the portfolio managers invest at least 80% of the fund’s net assets, plus borrowings for investment purposes, in municipal securities with interest payments exempt from federal income tax. Some of these investments in municipal securities are not necessarily exempt from the federal alternative minimum tax.
+The fund principally invests in investment-grade debt securities but may invest in high-yield securities (junk bonds). A high-yield security is one that has been rated below investment-grade or determined by the investment advisor to be of similar quality, including bonds that are in technical or monetary default. Issuers of these securities often have short financial histories or have questionable credit or have had and may continue to have problems making interest and principal payments. The portfolio managers also may buy unrated securities if they determine such securities meet the investment objective of the fund.
+The fund may purchase debt securities of any duration, and the average duration of the fund will vary based on the portfolio managers’ forecast of interest rates.
+Although the fund seeks current income, it also employs techniques designed to realize capital appreciation. For example, the portfolio managers may select bonds with maturities and coupon rates that position the fund for potential capital appreciation for a variety of reasons, including their view on the direction of future interest-rate movements and the potential for a credit upgrade.
+The fund is an actively managed exchange-traded fund (ETF) that does not seek to replicate the performance of a specified index. When determining whether to buy or sell a security, portfolio managers consider, among other things, current and anticipated changes in interest rates, the credit quality of a particular issuer, comparable alternatives, general market conditions and any other factor deemed relevant by the portfolio managers.
+Principal Risks
+•
+Credit Risk  - Debt securities, even investment-grade debt securities, are subject to credit risk. The risk that the inability or perceived inability of a security’s issuer to make interest and principal payments may cause the value of the security to decrease. As a result, the fund’s share price could also decrease. Changes in the credit rating of a debt security held by the fund could have a similar effect. The fund’s investments may have high credit risk, which helps the fund pursue a higher yield than more conservatively managed bond funds.
+
+2
+
+
+•
+Below Investment-Grade Securities Risk - Issuers of lower rated, high-yield securities are more vulnerable to real or perceived economic changes (such as an economic downturn or a prolonged period of rising interest rates), political changes, or adverse developments specific to the issuer. Adverse economic, political and other developments may be more likely to cause an issuer of low-quality bonds to default on its obligation to pay interest and principal due under its securities. The fund may invest in securities rated below investment-grade or that are unrated, including bonds that are in technical or monetary default. By definition, the issuers of many of these securities have had and may continue to have problems making interest and principal payments.
+•
+Interest Rate Risk  - When interest rates change, the fund’s share value will be affected. Generally, the value of debt securities and the funds that hold them decline as interest rates rise. Because the fund may invest in intermediate-term and long-term bonds, the fund’s interest rate risk is generally higher than for funds with shorter-weighted average maturities, such as money market and short-term bond funds. A period of rising interest rates may negatively affect the fund’s performance.
+•
+Municipal Securities Risk  - Because the fund invests principally in municipal securities, it will be sensitive to events that affect municipal markets, including legislative or political changes and the financial condition of the issuers of municipal securities. The fund may have a higher level of risk than funds that invest in a larger universe of securities.
+•
+Cash Transactions Risk - The fund may effect its creations and redemptions for cash, rather than for in-kind securities. Therefore, it may be required to sell portfolio securities and subsequently recognize gains on such sales that the fund might not have recognized if it were to distribute portfolio securities in-kind. As such, investments in fund shares may be less tax-efficient than an investment in an ETF that distributes portfolio securities entirely in-kind.
+•
+Tax Risk  - Some or all of the fund’s income may be subject to the federal alternative minimum tax. There is no guarantee that all of the fund’s income will remain exempt from federal or state income taxes. Income from municipal bonds held by a fund could be declared taxable because of unfavorable changes in tax laws, adverse interpretations by the Internal Revenue Service or state tax authorities, or noncompliant conduct of a bond issuer. The fund may sell securities that lose their tax-exempt statuses at inopportune times, which may cause tax consequences or a decrease in the fund’s value.
+•
+Liquidity Risk  - During periods of market turbulence or unusually low trading activity, to meet redemptions, it may be necessary for the fund to sell securities at prices that could have an adverse effect on the fund’s share price. Changing regulatory and market conditions, including increases in interest rates and credit spreads may adversely affect the liquidity of the fund’s investments.
+•
+Market Trading Risk  - The fund faces numerous market trading risks, including the potential lack of an active market for fund shares, losses from trading in secondary markets, periods of high volatility and disruption in the creation and/or redemption process of the fund. Any of these factors, among others, may lead to the fund’s shares trading at a premium or discount to NAV. Thus, you may pay more (or less) than NAV when you buy shares of the fund in the secondary market, and you may receive less (or more) than NAV when you sell those shares in the secondary market. The portfolio managers cannot predict whether shares will trade above (premium), below (discount) or at NAV.
+•
+Market Risk  - The risk that the value of securities owned by the fund may go up and down, sometimes rapidly or unpredictably.
+•
+Authorized Participant Concentration Risk  - Only an authorized participant may engage in creation or redemption transactions directly with the fund. The fund may have a limited number of institutions that act as authorized participants. To the extent that these institutions exit the business or are unable to proceed with creation and/or redemption orders with respect to the fund and no other authorized participant is able to step forward to process creation and/or redemption orders, fund shares may trade at a discount to net asset value (NAV) and possibly face trading halts and/or delisting. This risk may be more pronounced in volatile markets, potentially where there are significant redemptions in ETFs generally.
+•
+Large Shareholder Risk - Certain shareholders, including other funds advised by the advisor, may from time to time own a substantial amount of the shares of the fund. In addition, a third party investor, the advisor or an affiliate of the advisor, an authorized participant, a market maker, or another entity may invest in the fund and hold its investment for a limited period of time solely to facilitate commencement of the fund or to facilitate the fund’s achieving a specified size or scale. There can be no assurance that any large shareholder would not redeem its investment, that the size of the fund would be maintained at such levels or that the fund would continue to meet applicable listing requirements. Redemptions by large shareholders could have a significant negative impact on the fund. In addition, transactions by large shareholders may account for a large percentage of the trading volume on the NYSE Arca, Inc. and may, therefore, have a material upward or downward effect on the market price of the shares.
+•
+Principal Loss Risk  - At any given time your shares may be worth less than the price you paid for them. In other words, it is possible to lose money by investing in the fund.
+An investment in the fund is not a bank deposit, and it is not insured or guaranteed by the Federal Deposit Insurance Corporation (FDIC) or any other government agency.
+Fund Performance
+The fund’s performance history is not available as of the date of this prospectus. When the fund has investment results for a full calendar year, this section will feature charts that show annual total returns, highest and lowest quarterly returns and average annual total returns for the fund. This information indicates the volatility of the fund’s historical returns from year to year. For current performance information, please visit americancenturyetfs.com.
+
+3
+
+
+Performance information is designed to help you see how fund returns can vary. Keep in mind that past performance (before and after taxes) does not predict how the fund will perform in the future.
+Portfolio Management
+Investment Advisor
+American Century Investment Management, Inc.
+Portfolio Managers
+Steven M. Permut, Senior Vice President and Senior Portfolio Manager, has served on teams managing fixed-income investments for American Century Investments since joining the advisor in 1987.
+Joseph Gotelli, Vice President and Portfolio Manager, has served on teams managing fixed-income investments for American Century Investments since joining the advisor in 2008.
+Alan Kruss, Vice President and Portfolio Manager, has served on teams managing fixed-income investments for American Century Investments since joining the advisor in 1997.
+Purchase and Sale of Fund Shares
+The fund is an ETF. Fund shares may only be purchased and sold on a national securities exchange through a broker-dealer. The price of fund shares is based on market price, and because ETF shares trade at market prices rather than NAV, shares may trade at a price greater than NAV (a premium) or less than NAV (a discount). The fund issues and redeems shares that have been aggregated into blocks of 50,000 shares or multiples thereof (Creation Units) to authorized participants who have entered into agreements with the fund’s distributor. The fund will generally issue and redeem Creation Units in return for a basket of cash and/or securities that the fund specifies each day.
+Tax Information
+The fund intends to distribute income that is exempt from regular federal income tax, however, fund distributions may be subject to capital gains tax. A portion of the fund’s distributions may be subject to federal income tax or to the federal alternative minimum tax.
+If you hold your fund shares through a tax-deferred investment plan, such as a 401(k) plan or an IRA, any distributions received from the fund may be taxable as ordinary income upon withdrawal from the tax-deferred plan, regardless of whether the distributions were tax-exempt when earned.
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you purchase the fund through a broker-dealer or other financial intermediary (such as a bank), the advisor and its related companies may pay the intermediary for the sale of fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

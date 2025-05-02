@@ -1,0 +1,227 @@
+Virtus Enhanced U.S. Equity ETF
+<head_breaker>
+
+INVESTMENT OBJECTIVE
+
+ 
+
+Virtus Enhanced U.S. Equity ETF (Ticker: VESP) (the “Fund”) seeks investment results that correspond, before fees and expenses, to the price and yield performance of the Rampart Enhanced U.S. Equity Index (the “Index”).
+
+ 
+
+FEES AND EXPENSES OF THE FUND
+
+ 
+
+This table describes the fees and expenses that you may pay if you buy and hold shares of the Fund (“Shares”). Most investors will incur customary brokerage commissions when buying or selling Shares of the Fund, which are not reflected in the table or example set forth below.
+
+ 
+
+Shareholder Fees (fees paid directly from your investment):	None
+  
+
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment):
+
+ 
+
+Management Fee1	0.55%
+ 	 
+Other Expenses2	0.00%
+ 	 
+Total Annual Fund Operating Expenses	0.55%
+ 
+
+(1)	The management fee is structured as a “unified fee,” out of which the Fund’s adviser pays all routine expenses of the Fund, except for the following expenses, each of which is paid by the Fund: the Fund’s management fee, payments under any 12b-1 plan; taxes and other governmental fees; brokerage fees, commissions and other transaction expenses; interest and other costs of borrowing; litigation or arbitration expenses; acquired fund fees and expenses; and extraordinary expenses of the Fund.
+ 
+
+(2)	“Other Expenses” are based on estimated amounts for the current fiscal year.
+ 
+
+Example. This example is intended to help you compare the cost of investing in the Fund with the cost of investing in other funds. This example does not take into account brokerage commissions that you pay when purchasing or selling Shares of the Fund.
+
+ 
+
+The example assumes that you invest $10,000 in the Fund for the time periods indicated and then redeem all of your Shares at the end of those periods. The example also assumes that your investment has a 5% return each year and that the Fund’s operating expenses remain at current levels. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 
+
+1 Year	3 Years
+ 	 
+$58	$181
+  
+
+PORTFOLIO TURNOVER
+
+ 
+
+The Fund pays transaction costs, such as commissions, when it buys and sells securities or other instruments (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund Shares are held in a taxable account. These costs, which are not reflected in annual Fund operating expenses or in the example, affect the Fund’s performance. The Fund is newly organized and, as of the date of the Prospectus, has not had any portfolio turnover.
+
+ 
+
+PRINCIPAL INVESTMENT STRATEGY
+
+ 
+
+Under normal market conditions, the Fund will invest not less than 80% of its assets in component securities of the Index. Additionally, under normal market conditions, the Fund will invest not less than 80% of its net assets (plus the amount of any borrowings for investment purposes) in common stocks of issuers that trade principally on U.S. exchanges. The Fund will also seek to generate additional income and capital appreciation by writing put and call options.
+
+ 
+
+The Index. The Index is comprised of an equity portfolio (the “Equity Portfolio”) enhanced by an options strategy overlay (the “Options Strategy Overlay”). The Index was developed by Rampart Investment Management Company, LLC (“Rampart”), the index provider of the Index. Rampart is solely responsible for calculating, maintaining, rebalancing and reconstituting the Index. Rampart is affiliated with Virtus ETF Advisers LLC, the Fund’s investment adviser (the “Adviser”).
+
+ 
+
+Equity Portfolio. The Equity Portfolio is comprised of the largest 400 U.S. stocks listed on the New York Stock Exchange and NASDAQ, as measured by market capitalization. The Equity Portfolio is market capitalization-weighted and is reconstituted and rebalanced on a quarterly basis. A company’s stock is eligible for inclusion in the Equity Portfolio if at least 50% of the company’s total issued and outstanding shares are available for trading (i.e., are not subject to restrictions that would prevent them from being publicly traded).
+
+ 
+
+Options Strategy Overlay. The Options Strategy Overlay uses an objective, rules-based methodology to transact in cash-settled options linked to the S&P 500 Index (SPX) with a one-week maturity. In accordance with the Options Strategy Overlay, each week, the Fund will sell (write) out-of-the-
+
+ 
+
+3 
+
+ 
+
+ 
+
+money put and call options on the SPX. An SPX put option gives the purchaser the right to sell, and an SPX call option gives the purchaser the right to buy, the value of the SPX at a specific price (i.e., the strike price) at or prior to a specific date (i.e., the expiration date). An SPX option is “out-of-the-money” if the strike price is below (for a put) or above (for a call) the current value of the SPX. Pursuant to the Options Overlay Strategy, each put and call option will be written at a strike price nearest to 10 delta, which is a calculated value that sets the strike price of the option based on an estimation that the option has approximately a 10% probability of finishing in-the-money. The notional value of the written put position will equal approximately half of the value of the Equity Portfolio, and the notional value of the written call position will equal approximately 100% of the Equity Portfolio. The notional value of a written put or call option is the total exposure created by the option (i.e., the value of the underlying instrument at its strike price).
+
+  
+
+Each time the Fund sells an out-of-the-money put and call option, the Fund receives a premium from the option buyer, which increases the Fund’s return if the option is not exercised prior to its expiration date—options are generally not exercised if they remain out-of-the-money or at-the-money (i.e., if the strike price is equal to the current value of the SPX). If, however, the option is exercised in-the-money, the Fund would be obligated to pay the buyer the difference between the strike price and the value of the SPX. The amount by which the written options are out-of-the-money will depend on the current volatility of the SPX, and in general the written options will be farther out-of-the-money in higher SPX volatility environments. This strategy is intended to generate returns for the Fund if the SPX experiences relatively lower volatility in the near term.
+
+ 
+
+The Options Strategy Overlay provides that all options will be structured as European style options, meaning they will expire at the close of business on the expiration day. If any cash is required to satisfy option obligations at expiration, the Equity Portfolio will be liquidated proportionally across all holdings. For the written, cash-settled SPX options, the Fund will designate cash and liquid securities, marked-to-market daily, at least equal to the in-the-money amount of the cash-settled contract.
+
+ 
+
+Additional Information. The Fund will not seek to “beat” the performance of the Index and will not seek temporary defensive measures when markets decline or appear overvalued. Instead, the Fund uses a “passive” or indexing investment approach to try to approximate the investment performance of the Index by investing in a portfolio of securities that generally replicates the Index; however, there may be times when the Fund does not hold every security in the Index. The Adviser expects that, over time, the correlation between the Fund’s performance before fees and expenses and that of the Index will be 95% or better. A figure of 100% would indicate perfect correlation.
+
+ 
+
+The Fund will concentrate its investments (i.e., holds 25% or more of its total assets) in a particular industry or group of industries approximately to the same extent that the Index is concentrated.
+
+ 
+
+PRINCIPAL RISKS
+
+ 
+
+An investment in the Fund is subject to investment risks; therefore, you may lose money by investing in the Fund. There can be no assurance that the Fund will be successful in meeting its investment objective. Generally, the Fund will be subject to the following principal risks:
+
+ 
+
+Options Risk. The Options Strategy Overlay is expected to increase the volatility of the Fund’s net asset value (“NAV”) compared to a fund that only invests in the Equity Portfolio. In particular, large losses can be experienced when the underlying SPX makes a strong move either upwards or downwards. The risk of loss on the written put and call options is potentially unlimited. Because the Fund uses a rules-based methodology, it will not close its written option positions prior to expiration even if the Fund experiences significant losses.
+
+ 
+
+The writing of options involves certain risks, which may include risks different from, or possibly greater than, the risks associated with investing directly in the underlying securities. During the option period, a call writer has, in return for the premium on the option, given up the opportunity to profit from a price increase in the underlying securities above the exercise price. The writer of an option has no control over the time when it may be required to fulfill its obligation as a writer of the option. Once an option writer has received an exercise notice, it cannot effect a closing purchase transaction in order to terminate its obligation under the option and must deliver the underlying securities at the exercise price. There can be no assurance that a liquid market will exist when the Fund seeks to close out an option position. The Fund may incur transaction costs in connection with closing out options positions. Furthermore, if trading restrictions or suspensions are imposed on the options market, the Fund may be unable to close out a position.
+
+ 
+
+Authorized Participant Risk. The Fund has a limited number of financial institutions that may act as Authorized Participants, none of which are obligated to engage in creation or redemption transactions. To the extent these Authorized Participants exit the business or are unable to process creation and/or redemption orders and no other Authorized Participant is able to step forward to process creation and/or redemption orders, in either of these cases, Shares of the Fund may trade like closed-end fund shares at a discount to NAV and possibly face delisting.
+
+ 
+
+Costs of Buying or Selling Shares. Investors buying or selling Shares in the secondary market will pay brokerage commissions or other charges imposed by brokers as determined by those brokers. Brokerage commissions are often a fixed amount and may be a significant proportional cost for investors seeking to buy or sell relatively small amounts of Shares. In addition, secondary market investors will also incur the cost of the difference between the price that an investor is willing to pay for Shares (the “bid” price) and the price at which an investor is willing to sell Shares (the “ask” price). This difference in bid and ask prices is often referred to as the “spread” or “bid/ask spread.” The bid/ask spread varies over time for Shares based on trading volume and market liquidity, and is generally lower if the Fund’s Shares have more trading volume and market liquidity and higher if the Fund’s Shares have little trading volume and market liquidity. Further, increased market volatility may cause increased bid/ask spreads. Due to the costs of buying or selling Shares, including bid/ask spreads, frequent trading of Shares may significantly reduce investment results and an investment in Shares may not be advisable for investors who anticipate regularly making small investments.
+
+ 
+
+4 
+
+ 
+
+ 
+
+Equity Risk. The prices of equity securities rise and fall daily. These price movements may result from factors affecting individual issuers, industries or the stock market as a whole. In addition, equity markets tend to move in cycles which may cause stock prices to fall over a short and extended periods of time. In a declining stock market, stock prices for all companies (including those in the Fund’s portfolio) may decline, regardless of their long-term prospects. Common stock is subordinated to preferred stocks, bonds and other debt instruments in a company’s capital structure, in terms of priority to corporate income, and therefore will be subject to greater dividend risk than preferred stocks or debt instruments of such issuers.
+
+ 
+
+Fluctuation of NAV; Unit Premiums and Discounts. The NAV of the Fund’s Shares will generally fluctuate with changes in the market value of the Fund’s securities holdings. The market prices of Shares will generally fluctuate in accordance with changes in the Fund’s NAV and supply and demand of Shares on the Exchange or any other exchange on which Shares are traded. It cannot be predicted whether Shares will trade below, at or above their NAV. Price differences may be due, in large part, to the fact that supply and demand forces at work in the secondary trading market for Shares will be closely related to, but not identical to, the same forces influencing the prices of the securities of the Fund trading individually or in the aggregate at any point in time. The market prices of Shares may deviate significantly from the NAV of the Shares during periods of market volatility. While the creation/redemption feature is designed to make it likely that Shares normally will trade close to the Fund’s NAV, disruptions to creations and redemptions and/or market volatility may result in trading prices that differ significantly from the Fund’s NAV. If an investor purchases Shares at a time when the market price is at a premium to the NAV of the Shares or sells at a time when the market price is at a discount to the NAV of the Shares, then the investor may sustain losses that are in addition to any losses caused by a decrease in NAV.
+
+ 
+
+Index Construction Risk. There is no assurance that the Index will be determined, composed or calculated accurately. While Rampart, the index provider of the Index, provides descriptions of what the Index is designed to achieve, Rampart does not guarantee the quality, accuracy or completeness of data in respect of its Index, and does not guarantee that the Index will be in line with its described index methodology. Gains, losses or costs to the Fund caused by errors to the Index may therefore be borne by the Fund and its shareholders. Although Rampart is affiliated with the Adviser, Rampart maintains compliance policies and procedures designed to prevent conflicts of interest from arising in the portfolio management of the Fund and the personal trading of the Adviser’s personnel.
+
+ 
+
+Index Tracking Risk. While the Adviser seeks to track the performance of the Index closely (i.e., to achieve a high degree of correlation with the Index), it will not seek to beat the performance of the Index. Further, the Fund’s return may not match or achieve a high degree of correlation with the returns of the Index due to operating expenses, transaction costs, cash flows, regulatory requirements and operational inefficiencies.
+
+ 
+
+Issuer Risk. The performance of the Fund depends on the performance of the issuers of the individual securities in which Fund invests. Poor performance by any issuer may cause the value of its securities, and the value of the Fund’s Shares, to decline.
+
+ 
+
+Market Risk. Market risk refers to the risk that the value of securities in the Fund’s portfolio may decline due to daily fluctuations in the securities markets that are generally beyond the Fund’s control, including the quality of the Fund’s investments, economic conditions, adverse investor sentiment, poor management decisions, lower demand for a company’s goods or services and general equity market conditions. In a declining market, the prices for all securities (including those in the Fund’s portfolio) may decline, regardless of their long-term prospects. Security values tend to move in cycles, with periods when securities markets generally rise and periods when they generally decline. During a “flash crash,” the market prices of the Fund’s Shares may decline suddenly and significantly. Such a decline may not reflect the performance of the portfolio securities held by the Fund. Flash crashes may cause Authorized Participants and other market makers to limit or cease trading in the Fund’s Shares for temporary or longer periods. Shareholders could suffer significant losses to the extent that they sell Shares at these temporarily low market prices.
+
+ 
+
+No Assurance of Active Trading Market. Although the Shares in the Fund are approved for listing on the Exchange, there can be no assurance that an active trading market will develop and be maintained for the Shares of the Fund. Further, market makers (other than lead market makers) have no obligation to make markets in the Fund’s shares and may discontinue doing so at any time without notice. As a new fund, there can be no assurance that the Fund will grow to or maintain an economically viable size, in which case the Fund may ultimately liquidate.
+
+ 
+
+Passive Strategy/Index Risk. The Fund is managed with a passive investment strategy that seeks to track the performance of the Index. This differs from an actively managed fund, which typically seeks to outperform a benchmark index. As a result, the Fund may hold constituent securities of the Index regardless of the current or projected performance of a specific security or the relevant sector as a whole. Maintaining investments in securities regardless of market conditions or the performance of individual securities could cause the Fund’s returns to be lower than if the Fund employed an active strategy. The Fund will seek to track the Index in all market conditions, including during adverse market conditions when other funds may seek to take temporary defensive measures (such as investing significantly in cash or cash equivalents). Accordingly, unless the Index allocates significant portions of its assets to cash and cash equivalents during times of adverse market or economic conditions, the Fund may be subject to a higher level of market risk during such times than other funds.
+
+ 
+
+Concentration Risk. A fund concentrated in an industry or sector is likely to present more risks than a fund that is broadly diversified over several industries or sectors. Compared to the broad market, an individual industry or sector may be more strongly affected by changes in the economic climate, broad market shifts, moves in a particular dominant stock or regulatory changes.
+
+ 
+
+PERFORMANCE INFORMATION
+
+ 
+
+The Fund is new and therefore does not have a performance history for a full calendar year. Performance information for the Fund will be provided once it has annual returns for a full calendar year.
+
+ 
+
+5 
+
+ 
+
+ 
+
+MANAGEMENT OF THE FUND
+
+ 
+
+Investment Adviser 
+
+ 
+
+Virtus ETF Advisers LLC is the Fund’s investment adviser (the “Adviser”). The Adviser is responsible for managing the Fund’s investments, subject to the oversight and supervision of the Board of Trustees (the “Board”) of Virtus ETF Trust II (the “Trust”).
+
+ 
+
+Portfolio Managers
+
+ 
+
+The Fund’s portfolio management team is comprised of Seth Kadushin and Matthew B. Brown, each of whom is a Portfolio Manager with the Adviser and has served as portfolio manager of the Fund since the inception of its operations.
+
+ 
+
+PURCHASE AND SALE OF FUND SHARES
+
+ 
+
+Unlike conventional investment companies, the Fund issues and redeems Shares on a continuous basis, at NAV, only in blocks of 50,000 Shares or whole multiples thereof (“Creation Units”). The Fund’s Creation Units may be issued and redeemed, principally in-kind for securities included in the Fund, only by certain large institutions, referred to as “Authorized Participants”, that enter into agreements with the Fund’s principal underwriter. Retail investors may acquire and sell Shares only on the Exchange through a broker-dealer. Shares of the Fund will trade on the Exchange at market price rather than NAV. As such, Shares may trade at a price greater than NAV (premium) or less than NAV (discount).
+
+ 
+
+TAX INFORMATION
+
+ 
+
+The Fund’s distributions generally are taxed as ordinary income, capital gains or some combination of both, unless you are investing through a tax-advantaged arrangement, such as a 401(k) plan or an IRA, in which case your distributions may be taxed as ordinary income when withdrawn from such arrangement.
+
+ 
+
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+
+ 
+
+If you purchase the Fund through a broker-dealer or other financial intermediary (such as a bank), the Adviser may pay the intermediary for the sale of Fund Shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

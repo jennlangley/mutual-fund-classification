@@ -1,0 +1,137 @@
+Vanguard Real Estate Index Fund
+<head_breaker>
+
+Fund Summary
+
+Investment Objective
+
+The Fund seeks to provide a high level of income and moderate long-term capital appreciation by tracking the performance of a benchmark index that measures the performance of publicly traded equity REITs and other real estate-related investments.
+
+Fees and Expenses
+
+The following table describes the fees and expenses you may pay if you buy and hold Investor Shares or Admiral Shares of the Fund.
+
+Shareholder Fees	 	 
+(Fees paid directly from your investment)	 	 
+ 	Investor Shares	Admiral Shares
+Sales Charge (Load) Imposed on Purchases	None	None
+Purchase Fee	None	None
+Sales Charge (Load) Imposed on Reinvested Dividends	None	None
+Redemption Fee	None	None
+Account Service Fee (for certain fund account balances below	$20/year	$20/year
+$10,000)	 	 
+ 
+Annual Fund Operating Expenses	 	 
+(Expenses that you pay each year as a percentage of the value of your investment)	 
+ 	Investor Shares	Admiral Shares
+Management Fees	0.23%	0.11%
+12b-1 Distribution Fee	None	None
+Other Expenses	0.03%	0.01%
+Total Annual Fund Operating Expenses	0.26%	0.12%
+ 
+
+1
+
+ 
+
+Examples
+
+The following examples are intended to help you compare the cost of investing in the Fund’s Investor Shares or Admiral Shares with the cost of investing in other mutual funds. They illustrate the hypothetical expenses that you would incur over various periods if you were to invest $10,000 in the Fund’s shares. These examples assume that the shares provide a return of 5% each year and that total annual fund operating expenses remain as stated in the preceding table. You would incur these hypothetical expenses whether or not you redeem your investment at the end of the given period. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 	1 Year	3 Years	5 Years	10 Years
+Investor Shares	$27	$84	$146	$331
+Admiral Shares	$12	$39	$68	$154
+ 
+
+Portfolio Turnover
+
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in more taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the previous expense examples, reduce the Fund’s performance. During the most recent fiscal year, the Fund’s portfolio turnover rate was 6% of the average value of its portfolio.
+
+Principal Investment Strategies
+
+The Fund employs an indexing investment approach designed to track the performance of the MSCI US Investable Market Real Estate 25/50 Transition Index, an interim index that will gradually increase exposure to other real estate-related investments while proportionately reducing exposure to other stocks based on their weightings in the MSCI US Investable Market Real Estate 25/50 Index. The MSCI US Investable Market Real Estate 25/50 Index is made up of stocks of large, mid-size, and small U.S. companies within the real estate sector, as classified under the Global Industry Classification Standard (GICS). The GICS real estate sector is composed of equity real estate investment trusts (known as REITs), which includes specialized REITs, and real estate management and development companies.
+
+2
+
+ 
+
+The Fund attempts to replicate the Index by investing all, or substantially all, of its assets—either directly or indirectly through a wholly owned subsidiary (the underlying fund), which is itself a registered investment company—in the stocks that make up the Index, holding each stock in approximately the same proportion as its weighting in the Index. The Fund may invest a portion of its assets in the underlying fund.
+
+Principal Risks
+
+An investment in the Fund could lose money over short or long periods of time. You should expect the Fund’s share price and total return to fluctuate within a wide range. The Fund is subject to the following risks, which could affect the Fund’s performance:
+
+• Industry concentration risk, which is the chance that the stocks of REITs and other real estate-related investments will decline because of adverse developments affecting the real estate industry and real property values. Because the Fund concentrates its assets in these stocks, industry concentration risk is high.
+
+• Stock market risk, which is the chance that stock prices overall will decline. Stock markets tend to move in cycles, with periods of rising prices and periods of falling prices. The Fund’s target index may, at times, become focused in stocks of a limited number of companies, which could cause the Fund to underperform the overall stock market.
+
+• Interest rate risk, which is the chance that REIT stock prices overall will decline and that the cost of borrowing for REITs will increase because of rising interest rates. Interest rate risk is high for the Fund.
+
+• Investment style risk, which is the chance that the returns from the stocks of REITs and other real estate-related investments—which typically are small- or mid-capitalization stocks—will trail returns from the overall stock market. Historically, these stocks have performed quite differently from the overall market.
+
+• Nondiversification risk, which is the chance that the Fund may invest a greater percentage of its assets in a particular issuer or group of issuers or may own larger positions of an issuer’s voting stock than a diversified fund.
+
+• Asset concentration risk, which is the chance that, because the Fund’s target index (and therefore the Fund) tends to be heavily weighted in its ten largest holdings, the Fund’s performance may be hurt disproportionately by the poor performance of relatively few stocks.
+
+An investment in the Fund is not a deposit of a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+
+3
+
+ 
+
+Annual Total Returns
+
+The following bar chart and table are intended to help you understand the risks of investing in the Fund. The bar chart shows how the performance of the Fund‘s Investor Shares has varied from one calendar year to another over the periods shown. The table shows how the average annual total returns of the share classes presented compare with those of a relevant market index and a comparative index, which have investment characteristics similar to those of the Fund. The Real Estate Spliced Index reflects performance of the MSCI US REIT Index adjusted to include a 2% cash position (Lipper Money Market Average) through April 30, 2009; the MSCI US REIT Index through January 31, 2018; and the MSCI US Investable Market Real Estate 25/50 Transition Index thereafter. Effective February 1, 2018, the Fund began tracking the MSCI US Investable Market Real Estate 25/50 Transition Index as its interim target index. The Fund‘s board of trustees believes that the new index is more closely aligned with the Fund‘s new investment objective. Keep in mind that the Fund’s past performance (before and after taxes) does not indicate how the Fund will perform in the future. Updated performance information is available on our website at vanguard.com/performance or by calling Vanguard toll-free at 800-662-7447.
+
+Annual Total Returns — Vanguard Real Estate Index Fund Investor Shares1
+
+
+1 The year-to-date return as of the most recent calendar quarter, which ended on March 31, 2018, was –8.15%.
+
+During the periods shown in the bar chart, the highest return for a calendar quarter was 34.54% (quarter ended September 30, 2009), and the lowest return for a quarter was –38.16% (quarter ended December 31, 2008).
+
+4
+
+ 
+
+Average Annual Total Returns for Periods Ended December 31, 2017	 	 
+ 	1 Year	5 Years	10 Years
+Vanguard Real Estate Index Fund Investor Shares	 	 	 
+Return Before Taxes	4.83%	9.10%	7.50%
+Return After Taxes on Distributions	3.52	7.80	6.26
+Return After Taxes on Distributions and Sale of Fund Shares	2.72	6.54	5.39
+Vanguard Real Estate Index Fund Admiral Shares	 	 	 
+Return Before Taxes	4.94%	9.24%	7.65%
+Comparative Indexes	 	 	 
+(reflect no deduction for fees, expenses, or taxes)	 	 	 
+MSCI US REIT Index	5.07%	9.34%	7.44%
+Real Estate Spliced Index	5.07	9.34	7.63
+ 
+
+Actual after-tax returns depend on your tax situation and may differ from those shown in the preceding table. When after-tax returns are calculated, it is assumed that the shareholder was in the highest individual federal marginal income tax bracket at the time of each distribution of income or capital gains or upon redemption. State and local income taxes are not reflected in the calculations. Please note that after-tax returns are shown only for the Investor Shares and may differ for each share class. After-tax returns are not relevant for a shareholder who holds fund shares in a tax-deferred account, such as an individual retirement account or a 401(k) plan. Also, figures captioned Return After Taxes on Distributions and Sale of Fund Shares may be higher than other figures for the same period if a capital loss occurs upon redemption and results in an assumed tax deduction for the shareholder.
+
+Investment Advisor
+
+The Vanguard Group, Inc. (Vanguard)
+
+Portfolio Managers
+
+Walter Nejman, Portfolio Manager at Vanguard. He has co-managed the Fund since 2016.
+
+Gerard C. O’Reilly, Principal of Vanguard. He has managed the Fund since its inception in 1996 (co-managed since 2016).
+
+5
+
+ 
+
+Purchase and Sale of Fund Shares
+
+You may purchase or redeem shares online through our website (vanguard.com), by mail (The Vanguard Group, P.O. Box 1110, Valley Forge, PA 19482-1110), or by telephone (800-662-2739). The minimum investment amount required to open and maintain a Fund account for Investor Shares or Admiral Shares is $3,000 or $10,000, respectively. The minimum investment amount required to add to an existing Fund account is generally $1. Financial intermediaries, institutional, and Vanguard retail managed clients should contact Vanguard for information on special eligibility rules that may apply to them regarding Admiral Shares. If you are investing through an intermediary, please contact that firm directly for more information regarding your eligibility. If you are investing through an employer-sponsored retirement or savings plan, your plan administrator or your benefits office can provide you with detailed information on how you can invest through your plan.
+
+Tax Information
+
+The Fund’s distributions may be taxable as ordinary income or capital gain or may constitute non-taxable return of capital. If you are investing through a tax-advantaged account, such as an IRA or an employer-sponsored retirement or savings plan, special tax rules apply.
+
+Payments to Financial Intermediaries
+
+The Fund and its investment advisor do not pay financial intermediaries for sales of Fund shares.

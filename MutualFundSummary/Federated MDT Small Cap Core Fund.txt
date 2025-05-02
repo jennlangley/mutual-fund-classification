@@ -1,0 +1,132 @@
+Federated MDT Small Cap Core Fund
+<head_breaker>
+
+Fund Summary Information
+Federated MDT Small Cap Core Fund (the “Fund”)
+RISK/RETURN SUMMARY: INVESTMENT OBJECTIVE
+The Fund's investment objective is long-term capital appreciation.
+RISK/RETURN SUMMARY: FEES AND EXPENSES
+This table describes the fees and expenses that you may pay if you buy and hold the Fund's Class A Shares (A), Class C Shares (C), Institutional Shares (IS) and Class R6 Shares (R6). You may qualify for certain sales charge discounts if you and your family invest, or agree to invest in the future, at least $50,000 in certain classes (e.g., A class) of Federated Funds. More information about these and other discounts is available from your financial professional, in the “What Do Shares Cost?” section of the Prospectus on page 8 and in “Appendix B” to this Prospectus. If you purchase the Fund's IS or R6 Shares through a broker acting as an agent on behalf of its customers, you may be required to pay a commission to such broker; such commissions, if any, are not reflected in the Example below.
+Shareholder Fees (fees paid directly from your investment)
+A	C	IS	R6
+Maximum Sales Charge (Load) Imposed on Purchases (as a percentage of offering price)
+5.50%	None	None	None
+Maximum Deferred Sales Charge (Load) (as a percentage of original purchase price or redemption proceeds, as applicable)
+0.00%	1.00%	None	None
+Maximum Sales Charge (Load) Imposed on Reinvested Dividends (and other Distributions) (as a percentage of offering price)
+None	None	None	None
+Redemption Fee (as a percentage of amount redeemed, if applicable)
+None	None	None	None
+Exchange Fee
+None	None	None	None
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+ 	 	 	 
+Management Fee
+0.85%	0.85%	0.85%	0.85%
+Distribution (12b-1) Fee
+0.00%1	0.75%	None	None
+Other Expenses
+0.54%	0.55%	0.26%	0.17%
+Total Annual Fund Operating Expenses
+1.39%	2.15%	1.11%	1.02%
+Fee Waivers and/or Expense Reimbursements2
+(0.25)%	(0.26)%	(0.22)%	(0.14)%
+Total Annual Fund Operating Expenses After Fee Waivers and/or Expense Reimbursements
+1.14%	1.89%	0.89%	0.88%
+1	The Fund has adopted a Distribution (12b-1) Plan for its Class A Shares pursuant to which the A class of the Fund may incur or charge a Distribution (12b-1) Fee of up to a maximum amount of 0.05%. No such fee is currently incurred or charged by the A class of the Fund. The A class of the Fund will not incur or charge such a Distribution (12b-1) Fee until such time as approved by the Fund's Board of Trustees (the “Trustees”).
+2	The Adviser and certain of its affiliates, on their own initiative, have agreed to waive certain amounts of their respective fees and/or reimburse expenses. Effective October 1, 2018, total annual fund operating expenses (excluding acquired fund fees and expenses, interest expense, extraordinary expenses and proxy-related expenses paid by the Fund, if any) paid by the Fund's A, C, IS and R6 classes (after the voluntary waivers and/or reimbursements) will not exceed 1.13%,1.88%, 0.88% and 0.87% (the “Fee Limit”), respectively, up to but not including the later of (the “Termination Date”): (a) October 1, 2019; or (b) the date of the Fund's next effective Prospectus. While the Adviser and its affiliates currently do not anticipate terminating or increasing these arrangements prior to the Termination Date, these arrangements may only be terminated or the Fee Limit increased prior to the Termination Date with the agreement of the Trustees.
+Example
+This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds.
+1
+Table of Contents
+The Example assumes that you invest $10,000 for the time periods indicated and then redeem all of your Shares at the end of those periods. Expenses assuming no redemption are also shown. The Example also assumes that your investment has a 5% return each year and that operating expenses are as shown in the table above and remain the same. Although your actual costs and returns may be higher or lower, based on these assumptions your costs would be:
+Share Class	1 Year	3 Years	5 Years	10 Years
+A:	 	 	 	 
+Expenses assuming redemption	$684	$966	$1,269	$2,127
+Expenses assuming no redemption	$684	$966	$1,269	$2,127
+C:	 	 	 	 
+Expenses assuming redemption	$318	$673	$1,154	$2,483
+Expenses assuming no redemption	$218	$673	$1,154	$2,483
+IS:	 	 	 	 
+Expenses assuming redemption	$113	$353	$612	$1,352
+Expenses assuming no redemption	$113	$353	$612	$1,352
+R6:	 	 	 	 
+Expenses assuming redemption	$104	$325	$563	$1,248
+Expenses assuming no redemption	$104	$325	$563	$1,248
+Portfolio Turnover
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund Shares are held in a taxable account. These costs, which are not reflected in Annual Fund Operating Expenses or in the Example, affect the Fund's performance. During the most recent fiscal year, the Fund's portfolio turnover rate was 88% of the average value of its portfolio.
+RISK/RETURN SUMMARY: INVESTMENTS, RISKS AND PERFORMANCE
+What are the Fund's Main Investment Strategies?
+The Fund seeks to achieve its objective by investing primarily in the common stock of small U.S. companies. The investment adviser's investment strategy utilizes a small-cap approach by selecting most of its investments from companies listed in the Russell 2000® Index, an index that measures the performance of the 2,000 smallest U.S. companies by market capitalization within the Russell 3000® Index (an index that includes the 3,000 largest U.S. companies by market capitalization, representing approximately 98% of the investable domestic equity market). As of July 31, 2018, companies in the Russell 2000® Index ranged in market capitalization from $36.0 million to $6.1 billion. The Fund's investments may include, but are not limited to, equity securities of domestic issuers.
+The Adviser implements its strategy using a quantitative model driven by fundamental and technical stock selection variables, including relative value, profit trends, capital structure and price history. This process seeks to impose strict discipline over stock selection, unimpeded by market or manager psychology. It seeks to maximize compound annual return while controlling risk. The process also takes into account trading costs in an effort to ensure that trades are generated only to the extent they are expected to be profitable on an after-trading-cost basis. Additionally, risk is controlled through diversification constraints which limit exposure to individual companies as well as groups of correlated companies. The investment adviser's stock selection process is expected to result in investments in companies with both growth and value characteristics.
+The Fund will invest its assets so that at least 80% of its net assets (plus any borrowings for investment purposes) are invested in small companies. The Fund will notify shareholders at least 60 days in advance of any change in its investment policies that would permit the Fund normally to invest less than 80% of its net assets (plus any borrowings for investment purposes) in small companies. For purposes of this limitation, small companies will be defined as companies with market capitalizations similar to companies in the Russell 2000® Index.
+The Fund actively trades its portfolio securities in an attempt to achieve its investment objective. Active trading will cause the Fund to have an increased portfolio turnover rate and increase the Fund's trading costs, which may have an adverse impact on the Fund's performance. An active trading strategy will likely result in the Fund generating more short-term capital gains or losses. Short-term gains are generally taxed at a higher rate than long-term gains. Any short-term losses are used first to offset short-term gains.
+2
+Table of Contents
+What are the Main Risks of Investing in the Fund?
+All mutual funds take investment risks. Therefore, it is possible to lose money by investing in the Fund. The primary factors that may reduce the Fund's returns include:
+■ 	Stock Market Risk. The value of equity securities in the Fund's portfolio will fluctuate and, as a result, the Fund's Share price may decline suddenly or over a sustained period of time. Information publicly available about a company, whether from the company's financial statements or other disclosures or from third parties, or information available to some but not all market participants, can affect the price of a company's shares in the market. Among other factors, equity securities may decline in value because of an increase in interest rates or changes in the stock market. Recent and potential future changes in industry and/or economic trends, as well as changes in monetary policy made by central banks and/or their governments, also can affect the level of interest rates and contribute to the development of or increase in volatility, illiquidity, shareholder redemptions and other adverse effects (such as a decline in a company's stock price), which could negatively impact the Fund's performance.
+■ 	Risk Related to the Economy. The value of the Fund's portfolio may decline in tandem with a drop in the overall value of the markets in which the Fund invests and/or other markets. Economic, political and financial conditions, or industry or economic trends and developments, may from time to time, and for varying periods of time, cause the Fund to experience volatility, illiquidity, shareholder redemptions and/or other potentially adverse effects.
+■ 	Small-Cap Company Risk. The Fund may invest in small capitalization (or “small-cap”) companies. Small-cap companies may have less liquid stock, a more volatile share price, unproven track records, a limited product or service base and limited access to capital. The above factors could make small-cap companies more likely to fail than larger companies, and increase the volatility of the Fund's portfolio, performance and Share price.
+■ 	Risk Related to Investing for Growth. Due to their relatively high valuations, growth stocks are typically more volatile than value stocks. Additionally, growth stocks may not pay dividends or may pay lower dividends than value stocks.
+■ 	Risk Related to Investing for Value. Due to their relatively low valuations, value stocks are typically less volatile than growth stocks. Additionally, value stocks tend to have higher dividends than growth stocks. This means they depend less on price changes for returns and may lag behind growth stocks in an up market. The value approach to stock selection also carries the risk that the market will not recognize a security's intrinsic value for a long time (if ever), or that a stock judged to be undervalued may actually be appropriately priced.
+■ 	Sector Risk. Because the Fund may allocate relatively more assets to certain industry sectors than others, the Fund's performance may be more susceptible to any developments which affect those sectors emphasized by the Fund.
+■ 	Quantitative Modeling Risk. The Fund employs quantitative models as a management technique. These models examine multiple economic factors using various proprietary and third-party data. The results generated by quantitative analysis may perform differently than expected and may negatively affect Fund performance for various reasons (for example, human judgment, data imprecision, software or other technology malfunctions, or programming inaccuracies).
+The Shares offered by this Prospectus are not deposits or obligations of any bank, are not endorsed or guaranteed by any bank and are not insured or guaranteed by the U.S. government, the Federal Deposit Insurance Corporation, the Federal Reserve Board or any other government agency.
+3
+Table of Contents
+PERFORMANCE: BAR CHART AND TABLE
+Risk/Return Bar Chart
+The bar chart and performance table below reflect historical performance data for the Fund and are intended to help you analyze the Fund's investment risks in light of its historical returns. The bar chart shows the variability of the Fund's IS class total returns on a calendar year-by-year basis. The Average Annual Total Return Table shows returns averaged over the stated periods, and includes comparative performance information. The Fund's performance will fluctuate, and past performance (before and after taxes) is not necessarily an indication of future results. Updated performance information for the Fund is available under the “Products” section at FederatedInvestors.com or by calling 1-800-341-7400.
+
+  
+The Fund's IS class total return for the six-month period from January 1, 2018 to June 30, 2018, was 7.85%.
+Within the periods shown in the bar chart, the Fund's IS class highest quarterly return was 17.75% (quarter ended December 31, 2011). Its lowest quarterly return was (30.75)% (quarter ended December 31, 2008).
+Average Annual Total Return Table
+The Fund's R6 class commenced operations on June 29, 2016. For the periods prior to the commencement of operations of the Fund's R6 class, the R6 class performance information shown below is for the Fund's IS class. The performance of the Fund's IS class has not been adjusted to reflect the expenses applicable to the R6 class since the R6 class has a lower expense ratio than the expense ratio of the IS class. The performance of the IS class has been adjusted to remove any voluntary waiver of the Fund expenses related to the IS class that may have occurred during periods prior to the commencement of operations of the R6 class which would have caused the IS class expenses to be lower than the gross expenses of the R6 class. In addition to Return Before Taxes, Return After Taxes is shown for the Fund's IS class to illustrate the effect of federal taxes on Fund returns. After-tax returns are shown only for IS class, and after-tax returns for the A and C classes will differ from those shown below for the IS class. Actual after-tax returns depend on each investor's personal tax situation, and are likely to differ from those shown. After-tax returns are calculated using a standard set of assumptions. The stated returns assume the highest historical federal income and capital gains tax rates. These after-tax returns do not reflect the effect of any applicable state and local taxes. After-tax returns are not relevant to investors holding shares through a 401(k) plan, an Individual Retirement Account or other tax-advantaged investment plans.
+4
+Table of Contents
+(For the Period Ended December 31, 2017)
+Share Class	1 Year	5 Years	10 Years
+A:	 	 	 
+Return Before Taxes	8.96%	16.28%	7.01%
+C:	 	 	 
+Return Before Taxes	13.45%	16.76%	6.82%
+IS:	 	 	 
+Return Before Taxes	15.58%	17.93%	7.88%
+Return After Taxes on Distributions	13.54%	16.35%	7.15%
+Return After Taxes on Distributions and Sale of Fund Shares	8.94%	13.92%	6.12%
+R6:	 	 	 
+Return Before Taxes	15.64%	17.71%	5.86%
+Russell 2000® Index1
+(reflects no deduction for fees, expenses or taxes)	14.65%	14.12%	8.71%
+Morningstar Small Blend Funds Average2	12.28%	12.99%	8.13%
+1	The Russell 2000® Index measures the performance of the 2,000 smallest companies in the Russell 3000® Index, which represents approximately 10% of the total market capitalization of the Russell 3000® Index.
+2	Morningstar figures represent the average of the total returns reported by all the mutual funds designated by Morningstar as falling into the respective category indicated. They do not reflect sales charges.
+FUND MANAGEMENT
+The Fund's Investment Adviser is Federated MDTA LLC.
+Daniel J. Mahr, Managing Director of Research, has been the Fund's portfolio manager since August 2008.
+Frederick L. Konopka, Portfolio and Trading Manager, has been the Fund's portfolio manager since August 2008.
+John Paul Lewicke, Research Manager, has been the Fund's portfolio manager since September 2014.
+Damien Zhang, Research Manager, has been the Fund's portfolio manager since August 2018.
+PURCHASE AND SALE OF FUND SHARES
+You may purchase, redeem or exchange Shares of the Fund on any day the New York Stock Exchange is open. Shares may be purchased through a financial intermediary firm that has entered into a Fund selling and/or servicing agreement with the Distributor or an affiliate (“Financial Intermediary”) or directly from the Fund, by wire or by check. Please note that certain purchase restrictions may apply. Redeem or exchange Shares through a financial intermediary or directly from the Fund by telephone at 1-800-341-7400 or by mail.
+A & C Classes
+The minimum investment amount for the Fund's A and C classes is generally $1,500 for initial investments and $100 for subsequent investments. The minimum initial and subsequent investment amounts for Individual Retirement Accounts are generally $250 and $100, respectively. There is no minimum initial or subsequent investment amount required for employer-sponsored retirement plans. Certain types of accounts are eligible for lower minimum investments. The minimum investment for Systematic Investment Programs is $50.
+IS Class
+The minimum initial investment amount for the Fund's IS class is generally $1,000,000 and there is no minimum subsequent investment amount. Certain types of accounts are eligible for lower minimum investments. The minimum investment amount for Systematic Investment Programs is $50.
+R6 Class
+There are no minimum initial or subsequent investment amounts required. The minimum investment amount for Systematic Investment Programs is $50.
+TAX INFORMATION
+A, C & IS Classes
+The Fund's distributions are taxable as ordinary income or capital gains except when your investment is through a 401(k) plan, an Individual Retirement Account or other tax-advantaged investment plan.
+5
+Table of Contents
+R6 Class
+The Fund's distributions are taxable as ordinary income or capital gains except when your investment is through a tax-advantaged investment plan.
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+A Class, C Class and IS Class
+If you purchase the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and/or its related companies may pay the intermediary for the sale of Fund Shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary's website for more information.
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+R6 Class
+Class R6 Shares do not make any payments to financial intermediaries, either from Fund assets or from the investment adviser and its affiliates.

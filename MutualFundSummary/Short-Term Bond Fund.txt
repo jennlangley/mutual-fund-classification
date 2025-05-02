@@ -1,0 +1,129 @@
+Short-Term Bond Fund
+<head_breaker>
+
+INVESTMENT OBJECTIVE
+The USAA Short-Term Bond Fund (the Fund) seeks high current income consistent with preservation of principal.
+FEES AND EXPENSES
+The tables below describe the fees and expenses that you may pay, directly and indirectly, to invest in the Fund. The annual fund operating expenses for the Fund Shares, Institutional Shares, Adviser Shares, and R6 Shares are based on expenses incurred during the Fund’s most recently completed fiscal year.
+Shareholder Fees
+(fees paid directly from your investment)
+ 	Fund Shares	Inst. Shares	Adviser Shares	R6
+Shares
+ 	None	None	None	None
+Annual Fund Operating Expenses
+(expenses that you pay each year as a percentage of the value of your investment)
+ 	Fund Shares	Inst. Shares	Adviser Shares	R6 Shares
+Management Fee (fluctuates based on the Fund's performance relative to a securities market index)	0.25%	0.24%	0.20%	0.22%
+Distribution and/or Service (12b-1) Fees	None	None	0.25%	None
+Other Expenses	0.33%	0.23%	0.28%	0.44%
+Total Annual Fund Operating Expenses	0.58%(a)	0.47%(a)	0.73%(a)	0.66%(a)
+Reimbursement from Adviser	N/A	N/A	N/A	(0.27%)(b)
+Total Annual Fund Operating Expenses after Reimbursement	0.58%	0.47%	0.73%	0.39%
+(a)	The expense information in the table has been restated to reflect current fees.
+(b)	The Investment Adviser has agreed, through November 30, 2019, to make payments or waive management, administration, and other fees to limit the expenses of the R6 Shares so that the total annual operating expenses (exclusive of expense offset arrangements, acquired fund fees and expenses, and extraordinary expenses) do not exceed an annual rate of 0.39% of the R6 Shares’ average daily net assets. This reimbursement arrangement may not be changed or terminated during this time period without approval of the Fund’s Board of Trustees and may be changed or terminated by the Investment Adviser at any time after November 30, 2019.
+Prospectus  |  1
+ 
+
+Table of Contents
+Example
+This example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. Although your actual costs may be higher or lower, you would pay the following expenses on a $10,000 investment, assuming (1) a 5% annual return, (2) the Fund’s operating expenses remain the same, (3) you redeem all of your shares at the end of the periods shown, and (4) the expense reimbursement arrangement for the R6 Shares is not continued beyond one year.
+ 	1 Year	3 Years	5 Years	10 Years
+Fund Shares	$59	$186	$324	$726
+Inst. Shares	$48	$151	$263	$591
+Adviser Shares	$75	$233	$406	$906
+R6 Shares	$40	$184	$341	$797
+Portfolio Turnover
+The Fund pays transaction costs, including commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when shares of the Fund are held in a taxable account. These costs, which are not reflected in the Annual Fund Operating Expenses or in the Example, affect the Fund’s performance.
+For the most recent fiscal year, the Fund’s portfolio turnover rate was 39% of the average value of its whole portfolio.
+PRINCIPAL INVESTMENT STRATEGY
+The Fund normally invests at least 80% of its assets in a broad range of investment-grade debt securities that have a dollar-weighted average portfolio maturity of three years or less. The debt securities in which the Fund may invest include, among others, obligations of U.S., state, and local governments, their agencies and instrumentalities; mortgage- and asset-backed securities; corporate debt securities; repurchase agreements; and other securities believed to have debt-like characteristics. Although the Fund will invest primarily in investment-grade securities, the Fund also may invest up to 10% of its net assets in below-investment-grade securities, which are sometimes referred to as high-yield or “junk” bonds. The Fund’s 80% policy may be changed upon at least 60 days’ written notice to shareholders.
+2  |  USAA Short-Term Bond Fund
+ 
+
+Table of Contents
+PRINCIPAL RISKS
+Any investment involves risk, and there is no assurance that the Fund’s objective will be achieved. The Fund is actively managed and the investment techniques and risk analyses used by the Fund’s manager(s) may not produce the desired results. As you consider an investment in the Fund, you also should take into account your tolerance for the daily fluctuations of the financial markets and whether you can afford to leave your money in the Fund for long periods of time to ride out down periods. As with other mutual funds, losing money is a risk of investing in the Fund.
+The fixed-income securities in the Fund's portfolio are subject to credit risk, which is the possibility that an issuer of a fixed-income security will fail to make timely interest and/or principal payments on its securities or that negative market perceptions of the issuer’s ability to make such payments will cause the price of that security to decline. The Fund accepts some credit risk as a recognized means to enhance an investor’s return. All fixed-income securities, varying from the highest quality to the very speculative, have some degree of credit risk. Fixed-income securities rated below investment grade, also known as “junk” or high-yield bonds, generally entail greater economic, credit, and liquidity risk than investment-grade securities. Their prices may be more volatile, especially during economic downturns, financial setbacks, or liquidity events.
+The Fund is subject to U.S. Government Sponsored Enterprises (GSEs) Risk. While mortgage-backed securities, the value of which may be impacted by factors affecting the housing market, and other securities issued by certain GSEs, such as the Government National Mortgage Association (Ginnie Mae), are supported by the full faith and credit of the U.S. government, securities issued by other GSEs are supported only by the right of the GSE (including the Federal Home Loan Mortgage Corporation (Freddie Mac) and the Federal National Mortgage Association (Fannie Mae)) to borrow from the U.S. Treasury, the discretionary authority of the U.S. government to purchase the GSEs’ obligations, or by the credit of the issuing agency, instrumentality, or corporation, and are neither issued nor guaranteed by the U.S. Treasury. If such a GSE were to default on its obligations, the Fund might not be able to recover its investment.
+The Fund is subject to the risk that the market value of the bonds in its portfolio will fluctuate because of changes in interest rates, changes in the supply of and demand for debt securities, and other market factors. Bond prices generally are linked to the prevailing market interest rates. In general, when interest rates rise, bond prices fall; conversely, when interest rates fall, bond prices rise. The price volatility of a bond also depends on its duration. Generally, the longer the duration of a bond, the greater its sensitivity to interest rates. To compensate investors for this higher interest rate risk, bonds with longer durations generally offer higher yields than bonds with shorter
+Prospectus  |  3
+ 
+
+Table of Contents
+durations. Because the Federal Reserve has begun to raise interest rates, the Fund may face a heightened level of interest rate risk.
+The Fund is subject to legislative risk, which is the risk that changes in government policies may affect the value of the investments held by the Fund in ways we cannot anticipate, and that such policies could have an adverse impact on the value of the Fund’s investments and the Fund’s net asset value (NAV).
+The Fund is subject to liquidity risk, which is the risk that the Fund’s investment generally cannot expect to be sold or disposed of in the ordinary course of business within seven days at approximately the value ascribed to such securities.
+The Fund is subject to prepayment and extension risk. The Fund can invest in mortgage-backed securities. These securities make regularly scheduled payments of principal along with interest payments. In addition, mortgagors generally have the option of paying off their mortgages without penalty at any time. For example, when a mortgaged property is sold, the old mortgage is usually prepaid. Also, when interest rates fall, the mortgagor may refinance the mortgage and prepay the old mortgage. A homeowner’s default on the mortgage also may cause a prepayment of the mortgage. This unpredictability of the mortgage’s cash flow is called prepayment risk. For the investor, prepayment risk usually means that principal is received at the least opportune time. For example, when interest rates fall, homeowners may find it advantageous to refinance their mortgages and prepay principal. In this case, the investor is forced to reinvest the principal at the current lower rate. On the other hand, when interest rates rise, homeowners generally will not refinance their mortgages and prepayments will fall. This causes the average life of the mortgage to extend and be more sensitive to interest rates, which sometimes is called extension risk. In addition, the amount of principal the investor has to invest in these higher interest rates is reduced.
+An investment in the Fund is not a deposit in USAA Federal Savings Bank, or any other bank, and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+PERFORMANCE
+The following bar chart and table are intended to help you understand the risks of investing in the Fund. The Fund has four classes of shares: Fund Shares, Institutional Shares, Adviser Shares, and R6 Shares. The bar chart provides some indication of the risks of investing in the Fund and illustrates the Fund Shares class's volatility and performance from year to year for each full calendar year over the past 10 years. The table shows how the average annual total returns of the share classes for the periods indicated compared to
+4  |  USAA Short-Term Bond Fund
+ 
+
+Table of Contents
+those of the Fund's benchmark index and an additional index of funds with similar investment objectives. Performance reflects any expense limitations in effect during the periods shown.
+Remember, historical performance (before and after taxes) does not necessarily indicate what will happen in the future. For the Fund’s most current performance information, log on to usaa.com or call (800) 531-USAA (8722) or (210) 531-8722.
+RISK/RETURN BAR CHART
+Annual Returns for Periods Ended December 31
+
+During the periods shown in the chart:	Returns	Quarter ended
+Highest Quarter Return	5.12%	June 30, 2009
+Lowest Quarter Return	-2.83%	December 31, 2008
+Year-to-Date Return	0.76%	September 30, 2018
+After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. In certain situations, the return after taxes on distributions and sale of fund shares may be higher than the other return amounts. A higher after-tax return may result when a capital loss occurs upon redemption and translates into an assumed tax deduction that benefits the shareholder. The actual after-tax returns depend on your tax situation and may differ from those shown. If you hold your shares through a tax-deferred arrangement, such as an individual retirement account (IRA) or 401(k) plan, the after-tax returns shown in the table are not relevant to you. Please note that after-tax returns are only shown for the Fund Shares and may differ for each share class.
+Prospectus  |  5
+ 
+
+Table of Contents
+AVERAGE ANNUAL TOTAL RETURNS
+For Periods Ended December 31, 2017
+ 	Past
+1 Year	Past
+5 Years	Past
+10 Years	Since
+Inception	Inception
+Date
+Fund Shares	 	 	 	 	 
+Return Before Taxes	2.29%	1.59%	3.00%	 	 
+Return After Taxes on Distributions	1.44%	0.79%	1.94%	 	 
+Return After Taxes on Distributions and Sale of Fund Shares	1.29%	0.85%	1.89%	 	 
+Institutional Shares	 	 	 	 	 
+Return Before Taxes	2.52%	1.71%	–	3.24%	8/1/2008
+Adviser Shares	 	 	 	 	 
+Return Before Taxes	2.13%	1.37%	–	1.83%	8/1/2010
+R6 Shares	 	 	 	 	 
+Return Before Taxes	2.53%	–	–	2.61%	12/1/2016
+Indexes
+Bloomberg Barclays 1-3 Year Credit Index (reflects no deduction for fees, expenses, or taxes)	1.66%	1.44%	2.82%	2.78%	8/1/2008*
+Lipper Short Investment Grade Debt Funds Index (reflects no deduction for taxes)	1.77%	1.19%	2.11%	2.32%	8/1/2008*
+* The performance of the Bloomberg Barclays 1-3 Year Credit Index and the Lipper Short Investment Grade Debt Funds Index is calculated from the end of the month, July 31, 2008, while the inception date of the Institutional Shares is August 1, 2008. The performance of the Bloomberg Barclays 1-3 Year Credit Index and Lipper Short Investment Grade Debt Funds Index is calculated from the end of the month, July 31, 2010, while the inception date of the Adviser Shares is August 1, 2010. There may be a slight variation in performance because of the difference. The average annual total returns for the Bloomberg Barclays 1-3 Year Credit Index and Lipper Short Investment Grade Debt Funds Index from July 31, 2010, through December 31, 2017, were 1.84% and 1.66%, respectively. The average annual total returns for the Bloomberg Barclays 1-3 Year Credit Index and Lipper Short Investment Grade Debt Funds Index from December 1, 2016, through December 31, 2017, were 1.85% and 1.93%, respectively.
+INVESTMENT ADVISER
+USAA Asset Management Company (“AMCO” or “Adviser”)
+6  |  USAA Short-Term Bond Fund
+ 
+
+Table of Contents
+PORTFOLIO MANAGERS
+Brian W. Smith, CFA, CPA, Assistant Vice President of Mutual Funds Portfolios, has co-managed the Fund since December 2013.
+Julianne Bass, CFA, Vice President of Mutual Fund Portfolios, has co-managed the Fund since January 2007.
+John Spear, CFA, Senior Vice President, Chief Investment Officer of USAA Investments, has co-managed the Fund since November 2016.
+Kurt Daum, J.D., Executive Director of Mutual Funds Portfolios, has co-managed the Fund since November 2016.
+PURCHASE AND SALE OF SHARES
+Fund Shares:
+You may purchase or sell Fund Shares through a USAA investment account on any business day through our website at usaa.com or mobile.usaa.com, or by telephone at (800) 531-USAA (8722) or (210) 531-8722. You also may purchase or sell Fund Shares through certain other financial intermediaries. If you have opened an account directly with the Fund, you also may purchase and sell Fund Shares by mail at P.O. Box 659453, San Antonio, Texas 78265-9825.
+■	Minimum initial purchase: $3,000
+■	Minimum subsequent investment: $50
+Institutional Shares:
+The Institutional Shares are not offered for sale directly to the general public. The minimum initial purchase is $1 million; however, the Fund reserves the right to waive or lower purchase minimums in certain circumstances.
+Adviser Shares:
+Adviser Shares are available for investment through financial intermediaries. Your ability to purchase, exchange, sell, and transfer shares will be affected by the policies of the financial intermediary through which you do business. The minimum initial purchase is $3,000; however, financial intermediaries may set different investment minimums in certain circumstances.
+R6 Shares:
+R6 Shares generally are available only through employer-sponsored retirement plans where a financial intermediary provides retirement recordkeeping services to plan participants. R6 Shares also are available to endowment funds and foundations. There is no minimum initial investment amount or minimum subsequent investment for R6 Shares. Please contact your plan administrator or recordkeeper to purchase or sell (redeem) shares from your retirement plan.
+Prospectus  |  7
+ 
+
+Table of Contents
+TAX INFORMATION
+The Fund intends to make distributions that generally will be taxed to you as ordinary income or long-term capital gains, unless you are a tax-exempt investor or you invest through an IRA, 401(k) plan, or other tax-deferred account (in which case you may be taxed later, upon withdrawal of your investment from such account).
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+If you purchase shares of the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies may pay the intermediary for the sale of such shares and certain servicing and administrative functions for investments in all share classes except the R6 Shares. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

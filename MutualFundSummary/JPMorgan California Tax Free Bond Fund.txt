@@ -1,0 +1,132 @@
+JPMorgan California Tax Free Bond Fund
+<head_breaker>
+
+JPMorgan California Tax Free Bond Fund
+Class/Ticker: R6/JCBSX
+What is the goal of the Fund?
+The Fund seeks to provide high after-tax total return for California residents consistent with moderate risk of capital.
+Fees and Expenses of the Fund
+The following tables describe the fees and expenses that you may pay if you buy and hold shares of the Fund.
+ANNUAL FUND OPERATING EXPENSES
+(Expenses that you pay each year as a percentage of the value
+of your investment)
+ 	Class R6
+Management Fees	0.30%
+Distribution (Rule 12b-1) Fees	NONE
+Other Expenses	0.17
+Service Fees	NONE
+Remainder of Other Expenses1	0.17
+Total Annual Fund Operating Expenses	0.47
+Fee Waivers and/or Expense Reimbursements2	(0.07)
+Total Annual Fund Operating Expenses after Fee Waivers and/or Expense Reimbursements2	0.40
+1	"Remainder of Other Expenses" is based on estimated amounts for the current fiscal year.
+2	The Fund’s adviser and/or its affiliates have contractually agreed to waive fees and/or reimburse expenses to the extent Total Annual Fund Operating Expenses (excluding acquired fund fees and expenses other than certain money market fund fees as described below, dividend and interest expenses related to short sales, interest, taxes, expenses related to litigation and potential litigation, and extraordinary expenses) exceed 0.40% of the average daily net assets of the Class R6 Shares. The Fund may invest in one or more money market funds advised by the adviser or its affiliates (affiliated money market funds). The Fund’s adviser, shareholder servicing agent and/or administrator have contractually agreed to waive fees and/or reimburse expenses in an amount sufficient to offset the respective net fees each collects from the affiliated money market funds on the Fund’s investment in such money market funds. These waivers are in effect through 9/30/19, at which time the adviser and/or its affiliates will determine whether to renew or revise them.
+Example
+This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. The Example assumes that you invest $10,000 in the Fund for the time periods indicated. The Example also assumes that your investment has a 5% return each year and that the Fund’s operating expenses are equal to the total annual fund operating expenses after fee waivers and expense reimbursements shown in the fee table through 9/30/19 and total annual fund operating expenses thereafter. Your actual costs may be higher or lower.
+WHETHER OR NOT YOU SELL YOUR SHARES, YOUR COST WOULD BE:
+ 	1 Year	 	3 Years	 	5 Years	 	10 Years
+CLASS R6 SHARES ($)	41	 	144	 	256	 	585
+Portfolio Turnover
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the Example, affect the Fund’s performance. During the Fund’s most recent fiscal year, the Fund’s portfolio turnover rate was 8% of the average value of its portfolio.
+What are the Fund’s main investment strategies?
+As a fundamental policy, the Fund normally invests at least 80% of the value of its Assets in municipal securities, the income from which is exempt from federal and state personal income taxes for California residents and not subject to the federal alternative minimum tax on individuals. “Assets” means net assets, plus the amount of borrowings for investment purposes. The Fund seeks investments that also provide high current income. Municipal securities in which the Fund can invest include those issued by the State of California, its political subdivisions, as well as Puerto Rico, other U.S. territories and their political subdivisions. Because the Fund’s objective is high after-tax total return rather than high tax-exempt income, the Fund may invest to a limited extent in securities of other states or territories. To the extent that the Fund invests in municipal securities of other states, the income from such securities would be free from federal personal income taxes for California residents but would be subject to California taxes. For non-California residents, the income from California municipal securities may also be subject to state and local taxes in their jurisdiction of residence.
+Under normal circumstances, the Fund reserves the right to invest up to 20% of its Assets in securities that pay interest subject to federal income tax, the federal alternative minimum tax on individuals or California personal income taxes. To defend the value of its assets during unusual market conditions, the Fund may temporarily exceed this limit.
+The Fund’s securities may be of any maturity, but under normal circumstances the Fund’s duration will generally range between three and seven years. Duration is a measure of the price sensitivity of a debt security or a portfolio of debt securities to relative changes in interest rates. For instance, a duration of “three” means that a security’s or portfolio’s price would be expected to decrease by approximately 3% with a 1% increase in interest rates (assuming a parallel shift in yield curve). As of
+10  |   J.P. MORGAN MUNICIPAL BOND FUNDS
+ 
+
+Table of Contents
+May 31, 2016, the duration of the Bloomberg Barclays LB California 1-17 Year Muni Index was 4.60 years, although the duration will likely vary in the future.
+There may be times when there are not enough municipal securities available to meet the Fund’s needs. On these occasions, the Fund may invest in securities that may be subject to federal income tax.
+The Fund may invest in debt securities issued by governmental entities, certain issuers identified with the U.S. government and private issuers. The Fund may invest in municipal mortgage-backed and asset-backed securities. The Fund may invest a significant portion or all of its assets in municipal mortgage-backed securities at the adviser’s discretion.
+The Fund may also invest in high-quality, short-term money market instruments and repurchase agreements.
+The Fund may also invest in zero-coupon securities.
+Investment Process: The adviser buys and sells securities and investments for the Fund based on its view of individual securities and market sectors. Taking a long-term approach, the adviser looks for individual fixed income investments that it believes will perform well over market cycles. The adviser is value oriented and makes decisions to purchase and sell individual securities and instruments after performing a risk/ reward analysis that includes an evaluation of interest rate risk, credit risk, duration, liquidity and the complex legal and technical structure of the transaction.
+The Fund’s Main Investment Risks
+The Fund is subject to management risk and may not achieve its objective if the adviser’s expectations regarding particular instruments or markets are not met.
+    
+An investment in this Fund or any other fund may not provide a complete investment program. The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons. You may want to consult with a financial advisor to determine if this Fund is suitable for you.
+The Fund is subject to the main risks noted below, any of which may adversely affect the Fund’s performance and ability to meet its investment objective.
+Interest Rate Risk. The Fund mainly invests in bonds and other debt securities. These securities will increase or decrease in value based on changes in interest rates. If rates increase, the value of the Fund’s investments generally declines. Securities with greater interest rate sensitivity and longer maturities generally are subject to greater fluctuations in value. Given that the Federal Reserve has begun to raise interest rates, the Fund may face a heightened level of interest rate risk.
+Geographic Concentration Risk. Because the Fund primarily invests in issuers in the State of California, its performance will be affected by the fiscal and economic health of that state and its municipalities. Provisions of the California Constitution and state statutes that limit the taxing and spending authority of California’s governmental entities may impair the ability of California issuers to pay principal and/or interest on their obligations. While California’s economy is broad, it does have major concentrations in high technology, manufacturing, entertainment, agriculture, tourism, construction and services, and may be sensitive to economic problems affecting those industries.
+Municipal Obligations Risk. The risk of a municipal obligation generally depends on the financial and credit status of the issuer. Changes in a municipality’s financial health may make it difficult for the municipality to make interest and principal payments when due. This could decrease the Fund’s income or hurt the ability to preserve capital and liquidity.
+Under some circumstances, municipal obligations might not pay interest unless the state legislature or municipality authorizes money for that purpose.
+Municipal obligations may be more susceptible to downgrades or defaults during recessions or similar periods of economic stress. In addition, since some municipal obligations may be secured or guaranteed by banks and other institutions, the risk to the Fund could increase if the banking or financial sector suffers an economic downturn and/or if the credit ratings of the institutions issuing the guarantee are downgraded or at risk of being downgraded by a national rating organization. Such a downward revision or risk of being downgraded may have an adverse effect on the market prices of the bonds and thus the value of the Fund’s investments.
+In addition to being downgraded, an insolvent municipality may file for bankruptcy. The reorganization of a municipality’s debts may significantly affect the rights of creditors and the value of the securities issued by the municipality and the value of the Fund’s investments.
+Credit Risk. The Fund’s investments are subject to the risk that issuers and/or counterparties will fail to make payments when due or default completely. If an issuer’s or a counterparty’s financial condition worsens, the credit quality of the issuer or counterparty may deteriorate. Credit spreads may increase, which may reduce the market values of the Fund’s securities. Credit spread risk is the risk that economic and market conditions or any actual or perceived credit deterioration may lead to an increase in the credit spreads (i.e., the difference in yield between two securities of similar maturity but different credit quality) and a decline in price of the issuer’s securities.
+Government Securities Risk. The Fund invests in securities issued or guaranteed by the U.S. government or its agencies and instrumentalities (such as securities issued by the Government National Mortgage Association (Ginnie Mae), the Federal National Mortgage Association (Fannie Mae), or the Federal
+SEPTEMBER 29, 2018  |  11
+ 
+
+Table of Contents
+JPMorgan California Tax Free Bond Fund (continued)
+Home Loan Mortgage Corporation (Freddie Mac)). U.S. government securities are subject to market risk, interest rate risk and credit risk. Securities, such as those issued or guaranteed by Ginnie Mae or the U.S. Treasury, that are backed by the full faith and credit of the United States are guaranteed only as to the timely payment of interest and principal when held to maturity and the market prices for such securities will fluctuate. Notwithstanding that these securities are backed by the full faith and credit of the United States, circumstances could arise that would prevent the payment of interest or principal. This would result in losses to the Fund. Securities issued or guaranteed by U.S. government related organizations, such as Fannie Mae and Freddie Mac, are not backed by the full faith and credit of the U.S. government and no assurance can be given that the U.S. government will provide financial support. Therefore, U.S. government related organizations may not have the funds to meet their payment obligations in the future. U.S. government securities include zero coupon securities, which tend to be subject to greater market risk than interest-paying securities of similar maturities.
+Alternative Minimum Tax Risk. The Fund may invest in securities, the interest on which may be subject to the federal alternative minimum tax.
+Mortgage-Related and Other Asset-Backed Securities Risk. Mortgage-related and asset-backed securities, including certain municipal housing authority obligations, are subject to certain other risks. The value of these securities will be influenced by the factors affecting the housing market and the assets underlying such securities. As a result, during periods of declining asset values, difficult or frozen credit markets, significant changes in interest rates, or deteriorating economic conditions, mortgage-related and asset-backed securities may decline in value, face valuation difficulties, become more volatile and/or become illiquid. These securities are also subject to prepayment and call risk. In periods of declining interest rates, the Fund may be subject to contraction risk which is the risk that borrowers will increase the rate at which they prepay the maturity value of mortgages and other obligations. When mortgages and other obligations are prepaid and when securities are called, the Fund may have to reinvest in securities with a lower yield or fail to recover additional amounts (i.e., premiums) paid for securities with higher interest rates, resulting in an unexpected capital loss and/or a decrease in the amount of dividends and yield. In periods of rising interest rates, the Fund may be subject to extension risk which is the risk that the expected maturity of an obligation will lengthen in duration due to a decrease in prepayments. As a result, in certain interest rate environments, the Fund may exhibit additional volatility.
+Debt Securities and Other Callable Securities Risk. As part of its main investment strategy, the Fund invests in debt securities. The issuers of these securities and other callable securities may be able to repay principal in advance, especially when interest rates fall. Changes in prepayment rates can affect the return on investment and yield of these securities. When debt obligations
+are prepaid and when securities are called, the Fund may have to reinvest in securities with a lower yield. The Fund also may fail to recover additional amounts (i.e., premiums) paid for securities with higher interest rates, resulting in an unexpected capital loss.
+Taxability Risk. The Fund’s investments in municipal securities rely on the opinion of the issuer’s bond counsel that the interest paid on those securities will not be subject to federal income tax. Tax opinions are generally provided at the time the municipal security is initially issued. However, after the Fund buys a security, the Internal Revenue Service may determine that a bond issued as tax-exempt should in fact be taxable and the Fund’s dividends with respect to that bond might be subject to federal income tax.
+Zero-Coupon Bond Risk. The market value of a zero-coupon bond is generally more volatile than the market value of other fixed income securities with similar maturities that pay interest periodically. In addition, federal income tax law requires that the holder of a zero-coupon bond accrue a portion of the discount at which the bond was purchased as taxable income each year. The Fund may consequently have to dispose of portfolio securities under disadvantageous circumstances to generate cash to satisfy its requirement as a regulated investment company to distribute all of its net income (including non-cash income attributable to zero-coupon securities). These actions may reduce the assets to which the Fund’s expenses could otherwise be allocated and may reduce the Fund’s rate of return.
+Transactions Risk. The Fund could experience a loss and its liquidity may be negatively impacted when selling securities to meet redemption requests by shareholders. The risk of loss increases if the redemption requests are unusually large or frequent or occur in times of overall market turmoil or declining prices. Similarly, large purchases of Fund shares may adversely affect the Fund’s performance to the extent that the Fund is delayed in investing new cash and is required to maintain a larger cash position than it ordinarily would.
+General Market Risk. Economies and financial markets throughout the world are becoming increasingly interconnected, which increases the likelihood that events or conditions in one country or region will adversely impact markets or issuers in other countries or regions. Securities in the Fund’s portfolio may underperform in comparison to securities in the general financial markets, a particular financial market or other asset classes, due to a number of factors, including inflation (or expectations for inflation), interest rates, global demand for particular products or resources, natural disasters or events, terrorism, regulatory events and government controls.
+Industry and Sector Focus Risk. At times the Fund may increase the relative emphasis of its investments in a particular industry or sector. The prices of securities of issuers in a particular industry or sector may be more susceptible to fluctuations due to changes in economic or business conditions, government regulations, availability of basic resources or supplies, or other
+ 
+ 
+12  |   J.P. MORGAN MUNICIPAL BOND FUNDS
+ 
+
+Table of Contents
+events that affect that industry or sector more than securities of issuers in other industries and sectors. To the extent that the Fund increases the relative emphasis of its investments in a particular industry or sector, its shares’ values may fluctuate in response to events affecting that industry or sector.
+    
+Investments in the Fund are not deposits or obligations of, or guaranteed or endorsed by, any bank and are not insured or guaranteed by the FDIC, the Federal Reserve Board or any other government agency.
+You could lose money investing in the Fund.
+The Fund’s Past Performance
+This section provides some indication of the risks of investing in the Fund. Since the Class R6 Shares have not commenced operations as of the date of this prospectus, the bar chart shows how the performance of the Fund’s Class I Shares (which are not offered in this prospectus) has varied from year to year for the past ten calendar years. The table shows the average annual total returns over the past one year, five years and ten years. The table compares that performance to the Bloomberg Barclays LB California 1-17 Year Muni Index and the Lipper California Intermediate Municipal Debt Funds Index, an index based on the total returns of certain mutual funds within the Fund’s designated category as determined by Lipper. Unlike the other index, the Lipper index includes the fees and expenses of the mutual funds included in the index. The actual returns of the Class R6 Shares would be substantially similar to the performance of Class I Shares because the Fund is invested in the same group of securities and the annual returns would differ only to the extent that the Classes do not have the same expenses. Past performance (before and after taxes) is not necessarily an indication of how the Fund will perform in the future. Updated performance information is available by visiting www.jpmorganfunds.com or by calling 1-800-480-4111.
+YEAR-BY-YEAR RETURNS — CLASS I SHARES
+
+Best Quarter	3rd quarter, 2009	6.18%
+Worst Quarter	4th quarter, 2010	-3.67%
+The Fund’s year-to-date total return through 6/30/18 was -0.03%.
+AVERAGE ANNUAL TOTAL RETURNS
+(For periods ended December 31, 2017)
+ 	Past
+1 Year	 	Past
+5 Years	 	Past
+10 Years
+CLASS I SHARES	 	 	 	 	 
+Return Before Taxes	3.64%	 	2.15%	 	3.66%
+Return After Taxes on Distributions	3.61	 	2.06	 	3.62
+Return After Taxes on Distributions and Sale of Fund Shares	3.24	 	2.29	 	3.55
+Bloomberg Barclays LB California 1-17 Year Muni Index	 	 	 	 	 
+(Reflects No Deduction for Fees, Expenses, or Taxes)	4.17	 	2.65	 	4.16
+Lipper California Intermediate Municipal Debt Funds Index	 	 	 	 	 
+(Reflects No Deduction for Taxes)	4.33	 	2.35	 	3.69
+After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. Actual after-tax returns depend on the investor’s tax situation and may differ from those shown, and the after-tax returns shown are not relevant to investors who hold their shares through tax-deferred arrangements such as 401(k) plans or individual retirement accounts.
+Management
+J.P. Morgan Investment Management Inc.
+SEPTEMBER 29, 2018  |  13
+ 
+
+Table of Contents
+JPMorgan California Tax Free Bond Fund (continued)
+Portfolio Manager	Managed the
+Fund Since	Primary Title with
+Investment Adviser
+David Sivinski	2005	Executive Director
+Michelle Hallam	2004	Executive Director
+Purchase and Sale of Fund Shares
+Purchase minimums
+For Class R6 Shares
+To establish an account
+For Direct investors	$15,000,000
+For Discretionary Accounts	$5,000,000
+To add to an account	No minimum levels
+There is no minimum investment for other eligible Class R6 investors.
+In general, you may purchase or redeem shares on any business day:
+•	Through your Financial Intermediary or the eligible retirement plan or college savings plan through which you invest in the Fund
+•	By writing to J.P. Morgan Funds Services, P.O. Box 8528, Boston, MA 02266-8528
+•	After you open an account, by calling J.P. Morgan Funds Services at 1-800-480-4111
+Tax Information
+The Fund’s distributions of interest on municipal bonds generally are not subject to federal income tax; however the Fund may distribute taxable dividends, including distributions of short-term capital gains, and long-term capital gains. In addition, interest on certain bonds may be subject to the federal alternative minimum tax. To the extent that the Fund’s distributions are derived from interest on bonds that are not exempt from applicable state and local taxes, such distributions will be subject to such state and local taxes. When your investment is in an IRA, 401(k) plan or other tax-advantaged investment plan, you may be subject to federal income tax on ordinary income or capital gains upon withdrawal from the tax-advantaged investment plan.
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you purchase shares of the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies may pay the financial intermediary for the sale of Fund shares and related services. These payments may create a conflict of interest by influencing the broker dealer or financial intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

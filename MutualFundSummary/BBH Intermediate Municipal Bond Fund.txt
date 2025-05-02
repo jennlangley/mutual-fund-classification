@@ -1,0 +1,266 @@
+BBH Intermediate Municipal Bond Fund
+<head_breaker>
+
+BBH INTERMEDIATE MUNICIPAL BOND FUND SUMMARY
+INVESTMENT OBJECTIVE
+The investment objective of the BBH Intermediate Municipal Bond Fund (the “Fund”) is to protect investor’s capital and generate attractive risk-adjusted returns.
+FEES AND EXPENSES OF THE FUND
+The table below describes the fees and expenses that you may pay if you buy and hold the Fund’s Class N and Class I shares.
+
+Shareholder Fees
+(Fees paid directly from your investment)
+ 	 	    	Class N
+    	Class I
+Maximum Sales Charge (Load) Imposed on Purchases
+    	    	    	None	    	None
+Maximum Deferred Sales Charge (Load)
+    	    	    	None	    	None
+Maximum Sales Charge (Load) Imposed on Reinvested Dividends
+    	    	    	None	    	None
+Redemption Fee on shares held less than 30 days after purchase (as a percentage of amount redeemed, if applicable)
+    	    	    	      		1.00%	    	      		1.00%
+Exchange Fee
+    	    	    	None	    	None
+ 
+
+3
+ 
+ 
+
+
+
+Annual Fund Operating Expenses
+(Expenses that you pay each year as a percentage of the value of your investment)
+ 	 	    	Class N
+    	Class I
+Management Fees
+    	    	    	      	0.40	%    	    	      	0.40	%    
+Distribution (12b-1) Fees
+    	    	    	None        	    	None        
+Other Expenses
+    	    	    	      	0.65	%    	    	      	0.29	%    
+Total Annual Fund Operating Expenses
+    	    	    	      	1.05	%    	    	      	0.69	%    
+Less Fee Waiver/Expense Reimbursement*
+    	    	    	      	(0.40	)%    	    	      	(0.19	)%    
+Total Annual Fund Operating Expenses After Fee Waiver/Expense Reimbursement
+    	    	    	      	0.65	%    	    	      	0.50	%    
+ 
+*  
+ 	Brown Brothers Harriman & Co., through a separately identifiable department (the “Investment Adviser”), has contractually agreed to limit the Total Annual Fund Operating Expenses to 0.65% for Class N shares and 0.50% for Class I shares through March 1, 2019 (excluding interest, taxes, brokerage commissions, other expenditures that are capitalized in accordance with generally accepted accounting principles, and other extraordinary expenses not incurred in the ordinary course of the Fund’s business) (the “Expense Limitation Agreement”). The Expense Limitation Agreement may only be terminated during its term with approval of the Fund’s Board of Trustees (the “Board”).
+
+EXAMPLE
+This example is intended to help you compare the cost of investing in the Fund’s Class N and Class I shares to the cost of investing in other mutual funds. This example gives effect to the Expense Limitation Agreement for 1 year and the first year of the 3, 5 and 10 year calculations. The example assumes that you invest $10,000 in the Fund’s Class N and Class I shares for the time periods indicated and then redeem all of your shares at the end of those periods. The example also assumes that your investment has a 5% return each year and that the operating expenses of the Fund’s Class N and Class I shares remain the same. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+ 	 	    	1 Year
+    	3 Years
+    	5 Years
+    	10 Years
+Class N Shares
+    	    	    	
+$66
+    	
+$294
+    	
+$541
+    	
+$1,247
+Class I Shares
+    	    	    	
+$51
+    	
+$202
+    	
+$366
+    	
+  $841
+ 
+
+4
+ 
+ 
+
+
+Portfolio Turnover
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example above, affect the Fund’s performance. During the most recent fiscal year, the Fund’s portfolio turnover rate was 125% of the average value of its portfolio. Excluding variable rate demand notes, during the Fund’s most recent fiscal year, the Fund’s portfolio turnover rate was 64% of the average value or its portfolio.
+PRINCIPAL INVESTMENT STRATEGIES
+The Fund seeks to achieve its investment objective by applying bottom-up fundamental analysis and investing in a long-term, tax-aware manner. The Fund aims to implement the strategy by investing primarily in a diversified portfolio of investment grade municipal bonds rated in the four highest credit ratings categories (AAA to BBB, or equivalent) at the time of purchase by at least one nationally recognized credit rating agency, or, if unrated, deemed to be of comparable quality by the investment adviser. Under normal circumstances, the Fund will invest at least 80% of its net assets, plus any borrowings for investment purposes, in municipal bonds that pay interest that is generally excludable from gross income for federal income tax purposes (except that the interest paid by certain municipal securities may be includable in taxable income for purposes of the federal alternative minimum tax). There can be no assurance that the Fund will achieve its investment objective.
+The Fund may invest in fixed-, variable- or floating-rate municipal securities issued by states, territories and possessions of the United States and the District of Columbia and their political subdivisions, agencies, and instrumentalities, authorities thereof, and multi-state agencies, issued to obtain funds for various public purposes. These may include general obligation bonds, which typically are backed by the issuer’s ability to levy taxes, and revenue bonds, which typically are backed by a stream of revenue from a particular facility or class of facilities or, in some cases, from the proceeds of a special excise or other specific revenue source. Municipal securities also include auction rate municipal securities.
+
+5
+ 
+ 
+
+The Fund may also invest up to 20% of its total assets in securities that are not municipal securities, if, in the opinion of the investment adviser, these securities will enhance after-tax returns for Fund investors. Non-municipal securities investments may include notes and bonds issued by domestic and foreign corporations and financial institutions and the U.S. Government, U.S. Government agencies and U.S. Government-guaranteed issuers. In addition, the Fund may purchase asset-backed securities, mortgage backed securities, auction rate securities and other sovereign debt when the investment adviser believes that the additional returns from these securities justify the risk of allocations to these asset classes. Under normal circumstances, the Fund expects the portfolio’s dollar weighted average maturity to be between 3 and 10 years.
+The Fund may invest in money market instruments, repurchase agreements and derivative instruments, including futures, swaps and options, to hedge its investments or to seek to enhance returns.
+The Fund will not invest 25% or more of total assets in municipal obligations relating to similar types of projects or with other similar economic, business, or political characteristics (such as bonds of airport facilities or healthcare providers). For purposes of this policy, securities of the U.S. Government, its agencies, or instrumentalities and municipal obligations backed by the credit of governmental entities are not subject to this 25% limit. The Fund may invest more than 25% of its total assets in municipal securities whose issuers are located in any one state.
+
+6
+ 
+ 
+
+PRINCIPAL RISKS OF THE FUND
+The principal risks of investing in the Fund and the circumstances reasonably likely to adversely affect an investment are listed in alphabetical order and described below. The share price of the Fund changes daily, based on market conditions and other factors. A shareholder may lose money by investing in the Fund.
+
+Auction Rate Securities Risk:
+The auction rate municipal securities the Fund will purchase will typically have a long-term nominal maturity for which the interest rate is regularly reset through a “Dutch” auction. The interest rate set by the auction is the lowest interest rate that covers all securities offered for sale. While this process is designed to permit auction rate securities to be traded at par value, there is a risk that an auction will fail due to insufficient demand for the securities which may adversely affect the liquidity and price of auction rate securities. Moreover, between auctions, there may be no secondary market for these securities, and sales conducted on a secondary market may not be on terms favorable to the seller. Thus, with respect to liquidity and price stability, auction rate securities may differ substantially from cash equivalents, notwithstanding the frequency of auctions and the credit quality of the security.
+
+Call Risk:
+If the securities in which the Fund invests are redeemed by the issuer before maturity the Fund may have to reinvest the proceeds in securities that pay a lower interest rate, which may decrease the Fund’s yield. This will most likely happen when interest rates are declining.
+
+Credit Risk:
+Credit risk refers to the likelihood that an issuer, guarantor, or the counterparty to a derivative contract or repurchase agreement, will default on interest or principal payments.
+
+7
+ 
+ 
+
+
+Derivatives Risk:
+Derivatives are financial contracts whose value depends on, or is derived from, the value of an underlying asset or index. Risks are different from, or possibly greater than, the risks associated with investing directly in securities and other traditional investments. Risks include liquidity risk, interest rate risk, market risk, credit risk, risk of mis-pricing or improper valuation and the risk of miscorrelation. The Fund could lose more than the principal amount invested.
+
+Interest Rate Risk:
+Interest rate risk refers to the price fluctuation of a bond in response to changes in interest rates. The Fund’s investments in bonds and other fixed income securities will change in value in response to fluctuations in interest rates. In general, bonds with shorter maturities are less sensitive to interest rate movements than those with longer maturities (i.e., when interest rates increase, bond prices fall). Rising interest rates tend to cause the prices of debt securities (especially those with longer maturities) to fall which could result in a decrease of the NAV of the Fund. The Fund may invest in variable and floating rate securities. Although these instruments are generally less sensitive to interest rate changes than fixed rate instruments, the value of variable and floating rate securities may decline if their interest rates do not rise as quickly, or as much, as general interest rates. The Fund’s fixed income investments may be subject to heightened risk associated with rising interest rates given the current historically low interest rate environment.
+A potential increase in interest rates may also result in periods of volatility and increased redemptions. As a result of increased redemptions, the Fund may have to liquidate
+
+8
+ 
+ 
+
+
+fixed income securities at disadvantageous prices and times, or at a loss, which could adversely affect the performance of the Fund. While the Fund may use futures contracts, swaps and futures options to hedge against anticipated changes in interest rates, there can be no guarantee that the Fund will be able to successfully hedge interest rate exposures.
+
+Investment Risk:
+Investors in the Fund could lose money, including the possible loss of the entire principal amount of an investment, over short or even long periods of time.
+
+Liquidity Risk:
+Liquidity risk exists when a particular instrument is difficult to purchase or sell. Size of a transaction or illiquid markets may be factors.
+
+Management Risk:
+The Fund is actively managed and its success depends upon the investment skills and analytical abilities of the investment adviser to develop and effectively implement strategies that achieve the Fund’s investment objective. Subjective decisions made by the investment adviser may cause the Fund to incur losses or to miss profit opportunities on which it may otherwise have capitalized.
+
+Market Risk:
+The price of a security may fall due to changing economic, political, regulatory or market conditions, or due to a company’s or issuer’s individual situation.
+
+9
+ 
+ 
+
+
+Maturity Risk:
+Interest rate risk, as discussed above, will generally affect the price of a fixed income security more if the security has a longer maturity.
+
+Municipal Revenue Sector Risk:
+The Fund will not invest 25% or more of its total assets in any one municipal revenue sector relating to bonds backed by revenues from similar types of projects (such as those relating to higher education, healthcare, housing, airports or utilities) or with other similar economic, business, or political characteristics. However, as the Fund’s exposure to such similar projects increases, the Fund will also become more sensitive to adverse economic, business or political developments relevant to these projects.
+
+Municipal Issuer Risk:
+The Fund invests principally in municipal securities. The value of municipal securities may be affected by uncertainties in the municipal market related to legislation or litigation involving the taxation of municipal securities or the rights of municipal securities holders in the event of a default or bankruptcy. If a security’s structure fails to function as intended, the security could become taxable or decline in value. Additionally, issuers of municipal obligations may not be able to make timely payments because of general economic downturns or increased governmental costs.
+
+Shareholder Concentration Risk:
+Asset allocation decisions, particularly large redemptions, made by an investment adviser whose discretionary clients make up a large percentage of the Fund’s shareholders may adversely impact remaining Fund shareholders.
+
+10
+ 
+ 
+
+
+State-Specific Risk:
+From time to time the Fund may have a significant position in municipal securities whose issuers are located in a particular state. Under these circumstances, changes in the economic conditions in that state are likely to affect the Fund’s investments and performance.
+
+Taxation Risk:
+The Internal Revenue Service (IRS) has announced that holders of tax-exempt bonds such as the Fund have certain risks if the bonds were issued in connection with abusive transactions, refinancing irregularities, or the misuse of proceeds from the bond offering. While the Fund endeavors to purchase only bona fide tax-exempt bonds, there is a risk that a bond may be reclassified by the IRS as a taxable bond creating taxable income for the Fund and its shareholders. In this case, the Fund might be required to send to you and file with the IRS information returns for prior calendar years reclassifying some of its exempt-interest dividends as taxable dividends.
+To qualify to pay exempt-interest dividends, which are treated as items of interest excludable from gross income for federal income tax purposes, at least 50% of the value of the total assets of the Fund must consist of obligations exempt from regular income tax as of the close of each quarter of the Fund’s taxable year. If the proportion of taxable investments held by the Fund exceeds 50% of the Fund’s total assets as of the close of any quarter of any Fund taxable year, the Fund will not for that taxable year satisfy the general eligibility test that otherwise permits it to pay exempt-interest dividends. Additionally, the Fund is generally not a suitable investment for individual retirement accounts, for other tax-exempt or tax-deferred accounts or for investors who are not sensitive to the federal income tax consequences of their investments.
+
+11
+ 
+ 
+
+FUND PERFORMANCE
+The following bar chart and table are designed to give an indication of the risks involved with an investment in the Fund. The bar chart shows changes in the performance of the Fund’s Class N shares from year to year. The table shows how the average annual returns of the Fund’s Class N and Class I shares for the periods indicated compared to a broad-based market index. One cannot invest directly in an index.
+When you consider this information, please remember that the Fund’s performance (before and after taxes) in past years is not necessarily an indication of how the Fund will perform in the future. Updated information on the Fund’s performance can be obtained by visiting www.bbhfunds.com or can be obtained by phone at 1-800-575-1265.
+
+Total Return for Class N Shares (% Per Calendar Year)
+
+
+    
+Highest Performing Quarter:
+    	    	    	
+2.23%% in 2nd quarter of 2017
+Lowest Performing Quarter:
+    	    	    	
+(2.91)% in 4th quarter of 2016
+ 
+
+12
+ 
+ 
+
+
+Average Annual Total Returns (Through December 31, 2017)
+The Fund’s performance figures assume that all distributions were reinvested in the Fund. After-tax returns are calculated using the historical highest individual federal marginal income tax rates and do not reflect the impact of state and local taxes. Actual after-tax returns depend on an investor’s tax situation and may differ from those shown. After-tax returns shown are not relevant to investors who hold their Fund shares through tax-deferred arrangements, such as 401(k) plans or individual retirement accounts. After-tax returns are shown for only one class and after-tax returns for other classes will vary.
+ 	 	    	1 Year
+    	Since
+Inception
+(4/1/2014)
+Class N Shares
+    	    	    	    	    	    	    	    	    	    
+Return Before Taxes
+    	    	    	      	 	6.09%	    	      	3.80	%
+Return After Taxes on Distributions
+    	    	    	      	 	5.73%	    	      	3.36	%
+Return After Taxes on Distributions and
+Sale of Fund Shares
+    	    	    	      		4.66%	    	      	3.14	%
+Class I Shares
+    	    	    	    	    	    	    	    	    	    
+Return Before Taxes
+    	    	    	      		6.15%	    	      	3.90	%
+Barclays Capital Municipal Bond 1-15 Year Blend Index
+(reflects no deduction of fees, expenses or taxes)
+    	    	    	      		4.33%	    	      	2.98	%
+ 
+INVESTMENT ADVISER
+Brown Brothers Harriman & Co. (“BBH&Co.”), through a separately identifiable department.
+
+Portfolio Manager
+Name
+   
+BBH&Co. Title
+   
+Portfolio Manager of the Fund Since
+Gregory S. Steier
+    	    	    	
+Managing Director
+    	
+2014
+ 
+
+13
+ 
+ 
+
+
+PURCHASE AND SALE OF FUND SHARES
+Shares of the Fund may be purchased or sold (redeemed) on any business day (normally any day when the New York Stock Exchange (“NYSE”) is open). Shareholders may redeem shares held directly in the name of a shareholder on the books of the Fund by submitting a redemption request to the Fund’s transfer agent, ALPS Fund Services, Inc. (“Transfer Agent”). If shares are held by a bank, broker or other financial intermediary with which the Fund or its shareholder servicing agent has contracted (“Financial Intermediary”) on behalf of such shareholder, then shareholders must redeem shares through such Financial Intermediary.
+
+Investment Minimums*
+Minimum initial and subsequent purchase amounts vary depending on the class of shares you buy.
+ 	 	    	Class N
+    	Class I**
+Initial Purchases
+    	    	    	    $	5,000	    	    	    $	5,000,000	    
+Subsequent Purchases
+    	    	    	    $	500	     	    	    $	25,000	    
+ 
+*
+ 	The Fund may change these investment minimums from time to time. A Financial Intermediary may also establish and amend, from time to time, minimum initial and/or subsequent purchase requirements for its customers. The Fund may waive the initial and subsequent investment minimums for purchases by financial intermediaries.
+**
+ 	The Fund has waived the investment minimums for all BBH&Co. Partners, employees, Fund Trustees and their respective family members, who wish to invest in the Fund’s Class I Shares.
+TAX INFORMATION
+The Fund intends to make distributions that are exempt from regular federal income tax. All or a portion of these distributions, however, may be subject to the federal alternative minimum tax and state and local taxes. The Fund may also make distributions that are taxable to you as ordinary income, capital gains, or a combination of the two.
+
+14
+ 
+ 
+
+PAYMENTS TO FINANCIAL INTERMEDIARIES
+If you purchase shares of the Fund through a Financial Intermediary, the Fund, a distributor and/or BBH&Co., as applicable, may pay the Financial Intermediary for the sale of Fund shares and related services. These payments may create a conflict of interest by influencing the Financial Intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your Financial Intermediary’s website for more information.

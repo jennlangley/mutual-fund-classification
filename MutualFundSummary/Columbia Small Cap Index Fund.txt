@@ -1,0 +1,176 @@
+Columbia Small Cap Index Fund
+<head_breaker>
+
+SUMMARY OF THE FUND
+Investment Objective
+Columbia Small Cap Index Fund (the Fund) seeks total return before fees and expenses that corresponds to the total return of the Standard & Poor’s (S&P) SmallCap 600® Index.
+Fees and Expenses of the Fund
+This table describes the fees and expenses that you may pay if you buy and hold shares of the Fund. The front-end sales charge applicable to Class T shares is a per-transaction charge, meaning that separate orders will not be aggregated for purposes of calculating the rate of the sales charge payable. An investor transacting in a class of Fund shares without any front-end sales charge, contingent deferred sales charge, or other asset-based fee for sales or distribution may be required to pay a commission to the financial intermediary for effecting such transactions. Such commission rates are set by the financial intermediary and are not reflected in the tables or the example below. You may qualify for sales charge waivers. More information is available about these sales charge waivers from your financial intermediary, and can be found in the Choosing a Share Class section beginning on page 21 of the Fund’s prospectus, in Appendix A to the prospectus beginning on page A-1 and in Appendix S to the Statement of Additional Information (SAI) under Sales Charge Waivers beginning on page S-1.
+    
+Shareholder Fees (fees paid directly from your investment)
+ 	Classes A, Inst,
+Inst2 and Inst3	Class T
+Maximum sales charge (load) imposed on purchases (as a % of offering price)	None	2.50%
+Maximum deferred sales charge (load) imposed on redemptions (as a % of the lower of the original purchase price or current net asset value)	None	None
+    
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+ 	Class A	Class Inst	Class Inst2	Class Inst3	Class T
+Management fees	0.20%	0.20%	0.20%	0.20%	0.20%
+Distribution and/or service (12b-1) fees	0.25%	0.00%	0.00%	0.00%	0.25%
+Other expenses	0.00%	0.00%	0.00%	0.00%	0.00%
+Total annual Fund operating expenses	0.45%	0.20%	0.20%	0.20%	0.45%
+Example
+The following example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. The example illustrates the hypothetical expenses that you would incur over the time periods indicated, and assumes that:
+■	you invest $10,000 in the applicable class of Fund shares for the periods indicated,
+■	your investment has a 5% return each year, and
+■	the Fund’s total annual operating expenses remain the same as shown in the Annual Fund Operating Expenses table above.
+Although your actual costs may be higher or lower, based on the assumptions listed above, your costs would be:
+    
+ 	1 year	3 years	5 years	10 years
+Class A (whether or not shares are redeemed)	$ 46	$144	$252	$567
+Class Inst (whether or not shares are redeemed)	$ 20	$ 64	$113	$255
+Class Inst2 (whether or not shares are redeemed)	$ 20	$ 64	$113	$255
+Class Inst3 (whether or not shares are redeemed)	$ 20	$ 64	$113	$255
+Class T (whether or not shares are redeemed)	$295	$391	$496	$803
+PROSPECTUS 2018	3
+ 
+
+Table of Contents
+COLUMBIA SMALL CAP INDEX FUND
+SUMMARY OF THE FUND (continued)
+Portfolio Turnover
+The Fund may pay transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the Fund’s performance. During the most recent fiscal year, the Fund’s portfolio turnover rate was 16% of the average value of its portfolio.
+Principal Investment Strategies
+Under normal circumstances, the Fund invests at least 80% of its net assets (including the amount of any borrowings for investment purposes) in common stocks that comprise the S&P SmallCap 600 Index (the Index).
+The Fund may invest in derivatives, such as futures (including equity index futures), for cash equitization purposes.
+Different common stocks have different weightings in the Index, depending on the amount of stock outstanding and the stock’s current price. In seeking to match the performance of the Index, Columbia Management Investment Advisers, LLC (the Investment Manager) attempts to allocate the Fund’s assets among common stocks in approximately the same weightings as the Index. This is referred to as a passive or indexing approach to investing.
+As a result of the Fund’s indexing approach to investing, the Fund will typically emphasize within the portfolio those economic sectors emphasized by the Index, such as the financial services sector.
+The Fund attempts to achieve at least a 95% correlation between the performance of the Index and the Fund’s investment results, before fees and expenses.
+Principal Risks
+An investment in the Fund involves risks, including those described below. There is no assurance that the Fund will achieve its investment objective and you may lose money. The value of the Fund’s holdings may decline, and the Fund’s net asset value (NAV) and share price may go down. An investment in the Fund is not a bank deposit and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+Correlation/Tracking Error Risk. The Fund’s value will generally decline when the performance of the Index declines. A number of factors may affect the Fund’s ability to achieve a high degree of correlation with the Index, and there is no guarantee that the Fund will achieve a high degree of correlation. Failure to achieve a high degree of correlation may prevent the Fund from achieving its investment objective. The factors that may adversely affect the Fund’s correlation with the Index include, among others, the size of the Fund’s portfolio, fees, expenses, transaction costs, income items, valuation methodology, accounting standards, the effectiveness of sampling techniques (if applicable), changes in the Index and disruptions or illiquidity in the markets for the securities or other instruments in which the Fund invests. While the Fund typically seeks to track the performance of the Index by investing all, or substantially all, of its assets in the components of the Index in approximately the same proportion as their weighting in the Index, at times, the Fund may not have investment exposure to all components of the Index, or its weighting of investment exposure to such components may be different from that of the Index. In addition, the Fund may invest in securities or other instruments not included in the Index. The Fund may take or refrain from taking investment positions for various reasons, such as tax efficiency purposes, or to comply with regulatory restrictions, which may negatively affect the Fund’s correlation with the Index. The Fund may also be subject to large movements of assets into and out of the Fund, potentially resulting in the Fund being over- or under-exposed to certain components of the Index and may be impacted by Index reconstitutions and Index rebalancing events. Holding cash balances may detract from the Fund’s ability to track the Index. In addition, the Fund’s NAV may deviate from the Index if the Fund fair values a portfolio security at a price other than the price used by the Index for that security. The Fund also bears management and other expenses and transaction costs in trading securities or other instruments, which the Index does not bear. Accordingly, the Fund’s performance will likely fail to match the performance of the Index, after taking expenses into account. Any of these factors could decrease correlation between the performance of the Fund and the Index and may hinder the Fund’s ability to meet its investment objective. It is not possible to invest directly in an index.
+4	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA SMALL CAP INDEX FUND
+SUMMARY OF THE FUND (continued)
+Derivatives Risk. Derivatives may involve significant risks. Derivatives are financial instruments with a value in relation to, or derived from, the value of an underlying asset(s) or other reference, such as an index, rate or other economic indicator (each an underlying reference). Derivatives may include those that are privately placed or otherwise exempt from SEC registration, including certain Rule 144A eligible securities. Derivatives could result in Fund losses if the underlying reference does not perform as anticipated. Use of derivatives is a highly specialized activity that can involve investment techniques, risks, and tax planning different from those associated with more traditional investment instruments. The Fund’s derivatives strategy may not be successful and use of certain derivatives could result in substantial, potentially unlimited, losses to the Fund regardless of the Fund’s actual investment. A relatively small movement in the price, rate or other economic indicator associated with the underlying reference may result in substantial loss for the Fund. Derivatives may be more volatile than other types of investments. The value of derivatives may be influenced by a variety of factors, including national and international political and economic developments. Potential changes to the regulation of the derivatives markets may make derivatives more costly, may limit the market for derivatives, or may otherwise adversely affect the value or performance of derivatives. Derivatives can increase the Fund’s risk exposure to underlying references and their attendant risks, such as credit risk, market risk, foreign currency risk and interest rate risk, while exposing the Fund to correlation risk, counterparty risk, hedging risk, leverage risk, liquidity risk, pricing risk and volatility risk.
+Derivatives Risk – Futures Contracts Risk. A futures contract is an exchange-traded derivative transaction between two parties in which a buyer (holding the “long” position) agrees to pay a fixed price (or rate) at a specified future date for delivery of an underlying reference from a seller (holding the “short” position). The seller hopes that the market price on the delivery date is less than the agreed upon price, while the buyer hopes for the contrary. Certain futures contract markets are highly volatile, and futures contracts may be illiquid. Futures exchanges may limit fluctuations in futures contract prices by imposing a maximum permissible daily price movement. The Fund may be disadvantaged if it is prohibited from executing a trade outside the daily permissible price movement. At or prior to maturity of a futures contract, the Fund may enter into an offsetting contract and may incur a loss to the extent there has been adverse movement in futures contract prices. The liquidity of the futures markets depends on participants entering into offsetting transactions rather than making or taking delivery. To the extent participants make or take delivery, liquidity in the futures market could be reduced. Because of the low margin deposits normally required in futures trading, it is possible that the Fund may employ a high degree of leverage in the portfolio. As a result, a relatively small price movement in a futures contract may result in substantial losses to the Fund, exceeding the amount of the margin paid. For certain types of futures contracts, losses are potentially unlimited. Futures markets are highly volatile and the use of futures may increase the volatility of the Fund’s NAV. Futures contracts executed (if any) on foreign exchanges may not provide the same protection as U.S. exchanges. Futures contracts can increase the Fund’s risk exposure to underlying references and their attendant risks, such as credit risk, market risk, foreign currency risk and interest rate risk, while also exposing the Fund to correlation risk, counterparty risk, hedging risk, leverage risk, liquidity risk, pricing risk and volatility risk.
+Issuer Risk. An issuer in which the Fund invests or to which it has exposure may perform poorly, and the value of its securities may therefore decline, which would negatively affect the Fund’s performance. Poor performance may be caused by poor management decisions, competitive pressures, breakthroughs in technology, reliance on suppliers, labor problems or shortages, corporate restructurings, fraudulent disclosures, natural disasters or other events, conditions or factors.
+Market Risk. Market risk refers to the possibility that the market values of securities or other investments that the Fund holds will fall, sometimes rapidly or unpredictably, or fail to rise. An investment in the Fund could lose money over short or long periods.
+Passive Investment Risk. The Fund is not “actively” managed and may be affected by a general decline in market segments related to its underlying index. The Fund invests in securities or instruments included in, or representative of, its underlying index, regardless of their investment merits. The Fund does not seek temporary defensive positions when markets decline or appear overvalued.
+Sector Risk. At times, the Fund may have a significant portion of its assets invested in securities of companies conducting business in a related group of industries within a sector, including the financial services sector. Companies in the same sector may be similarly affected by economic, regulatory, political or market events or
+PROSPECTUS 2018	5
+ 
+
+Table of Contents
+COLUMBIA SMALL CAP INDEX FUND
+SUMMARY OF THE FUND (continued)
+conditions, which may make the Fund more vulnerable to unfavorable developments in that sector than funds that invest more broadly. Generally, the more broadly the Fund invests, the more it spreads risk and potentially reduces the risks of loss and volatility.
+Financial Services Sector. The Fund may be more susceptible to the particular risks that may affect companies in the financial services sector than if it were invested in a wider variety of companies in unrelated sectors. Companies in the financial services sector are subject to certain risks, including the risk of regulatory change, decreased liquidity in credit markets and unstable interest rates. Such companies may have concentrated portfolios, such as a high level of loans to real estate developers, which makes them vulnerable to economic conditions that affect that industry. Performance of such companies may be affected by competitive pressures and exposure to investments or agreements that, under certain circumstances, may lead to losses (e.g., subprime loans). Companies in the financial services sector are subject to extensive governmental regulation that may limit the amount and types of loans and other financial commitments they can make, and interest rates and fees that they may charge. In addition, profitability of such companies is largely dependent upon the availability and the cost of capital.
+Small Company Securities Risk. Investments in small-capitalization companies (small-cap companies) often involve greater risks than investments in larger, more established companies (larger companies) because small-cap companies tend to have less predictable earnings and may lack the management experience, financial resources, product diversification and competitive strengths of larger companies, and securities of small-cap companies may be less liquid and more volatile than the securities of larger companies.
+6	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA SMALL CAP INDEX FUND
+SUMMARY OF THE FUND (continued)
+Performance Information
+The following bar chart and table show you how the Fund has performed in the past, and can help you understand the risks of investing in the Fund. The bar chart shows how the Fund’s Class A share performance has varied for each full calendar year shown. The table below the bar chart compares the Fund’s returns for the periods shown with a broad measure of market performance.
+The performance of one or more share classes shown in the table below begins before the indicated inception date for such share class. The returns shown for each such share class include the returns of the Fund’s Class A shares (adjusted to reflect the higher class-related operating expenses of such classes, where applicable) for periods prior to its inception date. Any share class that does not have available performance would have annual returns substantially similar to those of Class A shares. Except for differences in annual returns resulting from differences in expenses and sales charges (where applicable), the share classes of the Fund would have substantially similar annual returns because all share classes of the Fund invest in the same portfolio of securities.
+The after-tax returns shown in the Average Annual Total Returns table below are calculated using the highest historical individual U.S. federal marginal income tax rates in effect during the period indicated in the table and do not reflect the impact of state, local or foreign taxes. Your actual after-tax returns will depend on your personal tax situation and may differ from those shown in the table. In addition, the after-tax returns shown in the table do not apply to shares held in tax-advantaged accounts such as 401(k) plans or Individual Retirement Accounts (IRAs). The after-tax returns are shown only for Class A shares and will vary for other share classes.
+The Fund’s past performance (before and after taxes) is no guarantee of how the Fund will perform in the future. Updated performance information can be obtained by calling toll-free 800.345.6611 or visiting columbiathreadneedleus.com.
+    
+Year by Year Total Return (%)
+as of December 31 Each Year*	Best and Worst Quarterly Returns
+During the Period Shown in the Bar Chart
+
+Best	2nd Quarter 2009	21.02%
+Worst
+4th Quarter 2008	-25.03%
+*	Year to Date return as of March 31, 2018: 0.45%
+PROSPECTUS 2018	7
+ 
+
+Table of Contents
+COLUMBIA SMALL CAP INDEX FUND
+SUMMARY OF THE FUND (continued)
+Average Annual Total Returns After Applicable Sales Charges (for periods ended December 31, 2017)
+ 	Share Class
+Inception Date	1 Year	5 Years	10 Years
+Class A	10/15/1996	 	 	 
+returns before taxes	 	12.81%	15.43%	10.01%
+returns after taxes on distributions	 	10.76%	13.28%	8.44%
+returns after taxes on distributions and sale of Fund shares	 	8.61%	12.00%	7.84%
+Class Inst returns before taxes	10/15/1996	13.10%	15.72%	10.27%
+Class Inst2 returns before taxes	11/08/2012	13.09%	15.73%	10.15%
+Class Inst3 returns before taxes	03/01/2017	13.08%	15.49%	10.03%
+Class T returns before taxes	06/25/2014	9.97%	14.85%	9.73%
+S&P SmallCap 600 Index (reflects no deductions for fees, expenses or taxes)	 	13.23%	15.99%	10.43%
+  
+Fund Management
+Investment Manager: Columbia Management Investment Advisers, LLC
+    
+Portfolio Manager	 	Title	 	Role with Fund	 	Managed Fund Since
+Christopher Lo, Ph.D., CFA	 	Senior Portfolio Manager	 	Lead Portfolio Manager	 	2014
+Vadim Shteyn	 	Associate Portfolio Manager	 	Portfolio Manager	 	2011
+Purchase and Sale of Fund Shares
+You may purchase or redeem shares of the Fund on any business day by contacting the Fund in the ways described below:
+NOTE: The Fund’s mailing addresses are changing as follows*:
+    
+Online	 	Regular Mail	 	Express Mail	 	By Telephone
+ 	 	Through October 31, 2018	 	Through October 31, 2018	 	 
+columbiathreadneedleus.com/investor/	 	Columbia Management
+Investment Services Corp.
+P.O. Box 8081
+Boston, MA 02266-8081	 	Columbia Management
+Investment Services Corp.
+c/o DST Asset Manager
+Solutions, Inc.
+30 Dan Road, Suite 8081
+Canton, MA 02021-2809	 	800.422.3737
+ 	 	Regular Mail	 	Express Mail	 	 
+ 	 	Effective November 1, 2018	 	Effective November 1, 2018	 	 
+ 	 	Columbia Management
+Investment Services Corp.
+P.O. Box 219104
+Kansas City, MO 64121-9104	 	Columbia Management
+Investment Services Corp.
+c/o DST Asset Manager
+Solutions, Inc.
+430 W 7th Street, Suite 219104
+Kansas City, MO 64105-1407	 	 
+*	Based on the dates noted above, mail received at an incorrect address will be forwarded to the correct address, and will not be processed until received, in “good form,” at the correct address. This may affect the trade date you receive for transaction requests, which may negatively impact the value of your purchase or sale.
+You may purchase shares and receive redemption proceeds by electronic funds transfer, by check or by wire. If you maintain your account with a broker-dealer or other financial intermediary, you must contact that financial intermediary to buy, sell or exchange shares of the Fund through your account with the intermediary.
+8	PROSPECTUS 2018
+ 
+
+Table of Contents
+COLUMBIA SMALL CAP INDEX FUND
+SUMMARY OF THE FUND (continued)
+The minimum initial investment amounts for the share classes offered by the Fund are shown below:
+Minimum Initial Investment
+    
+Class	Category of eligible account	For accounts other than
+systematic investment
+plan accounts	For systematic investment
+plan accounts
+Classes A & T(a)	All accounts other than IRAs	$2,000	$100
+IRAs	$1,000	$100
+Class Inst	All eligible accounts	$0, $1,000 or $2,000
+depending upon the category
+of eligible investor	$100
+Classes Inst2	All eligible accounts	None	N/A
+Class Inst3	All eligible accounts	$0, $1,000, $2,000
+or $1 million depending
+upon the category of
+eligible investor	$100 (for certain
+eligible investors)
+  
+(a)	Class T shares must be purchased through financial intermediaries that, by written agreement with Columbia Management Investment Distributors, Inc., are specifically authorized to sell Class T shares.
+More information about these minimums can be found in the Buying, Selling and Exchanging Shares - Buying Shares section of the prospectus. There is no minimum additional investment for any share class.
+Tax Information
+The Fund normally distributes net investment income and net realized capital gains, if any, to shareholders. These distributions are generally taxable to you as ordinary income, qualified dividend income or capital gains, unless you are investing through a tax-advantaged account, such as a 401(k) plan or an IRA. If you are investing through a tax-advantaged account, you may be taxed upon withdrawals from that account.
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you purchase the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and its related companies — including Columbia Management Investment Advisers, LLC (the Investment Manager), Columbia Management Investment Distributors, Inc. (the Distributor) and Columbia Management Investment Services Corp. (the Transfer Agent) — may pay the intermediary for the sale of Fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your financial advisor to recommend the Fund over another investment. Ask your financial advisor or visit your financial intermediary’s website for more information.

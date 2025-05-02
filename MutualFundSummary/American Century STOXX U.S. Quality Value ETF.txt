@@ -1,0 +1,97 @@
+American Century STOXX U.S. Quality Value ETF
+<head_breaker>
+
+Fund Summary
+Investment Objective
+The fund seeks to provide investment results that closely correspond, before fees and expenses, to the performance of the iSTOXX® American Century USA Quality Value Index (the underlying index).
+Fees and Expenses
+The following table describes the fees and expenses you may pay if you buy and hold shares of the fund. You may also incur usual and customary brokerage commissions when buying or selling shares of the fund, which are not reflected in the example that follows.
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+Management Fee
+0.29%
+Other Expenses
+0.00%
+Total Annual Fund Operating Expenses
+0.29%
+Example
+The example below is intended to help you compare the costs of investing in the fund with the costs of investing in other funds. The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods (unless otherwise indicated), that you earn a 5% return each year, and that the fund’s operating expenses remain the same. You may be required to pay brokerage commissions on your purchases of shares of the fund, which are not reflected in the example. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+1 year
+3 years
+5 years
+10 years
+$30
+$93
+$163
+$369
+Portfolio Turnover
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s performance. For the period from January 11, 2018, the fund’s inception, to the fiscal year ended August 31, 2018, the fund’s portfolio turnover rate was 77% of the average value of its portfolio.
+Principal Investment Strategies
+Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the underlying index. The underlying index is a rules-based index maintained and calculated by STOXX® Ltd. (the index provider). The underlying index is designed to select securities of large- and mid-capitalization companies that are undervalued or have sustainable income.
+The underlying index universe is defined by the STOXX® USA 900 Index, which consists of the 900 largest publicly traded U.S. equity securities. The underlying index is constructed using a rules-based methodology that screens and weights stocks based on fundamental measures of quality, value and income. A quality screen seeks to eliminate the bottom of the universe of stocks based on measures of profitability, earnings quality, management quality and earnings estimate revisions. A valuation score is computed for the remaining stocks, determined by the attractiveness of each stock relative to its peers in the same industry group based on value, earnings yield and cash flow yield metrics. An income sustainability screen based on dividend growth and dividend coverage metrics is applied to eliminate the bottom of the universe of dividend-paying stocks, and an income score based on dividend-yield is computed for the remaining stocks. The underlying index is constructed by combining the value stocks and income stocks using the valuation and income scores and portfolio optimization. Portfolio optimization uses quantitative models to build a portfolio of stocks from the scores described above that are expected to provide the optimal balance between risk and expected return. Though component securities of the underlying index may change from time to time, the index typically consists of 200-300 securities and, as of September 30, 2018 the market capitalization range was approximately $ 2.7 billion to $ 1.1 trillion .
+The fund may use a “representative sampling” strategy with respect to its underlying index when a replication strategy might be detrimental to shareholders. For example, the fund may use such strategy when there are practical difficulties or substantial costs involved in compiling a portfolio of securities to follow the underlying index or, in certain instances, when a component security becomes temporarily illiquid, unavailable or less liquid. To the extent the fund uses representative sampling, the advisor invests in what it believes to be a representative sample of the component securities in the underlying index using quantitative analytical procedures to give the fund’s portfolio an investment profile similar to that of its underlying index. The fund also may realize savings in transaction costs or other efficiencies by investing up to 20% of its assets in securities or instruments not included in the underlying index but which the advisor believes will help the fund track the underlying index.
+
+2
+
+
+In addition, the fund may use futures contracts to invest cash balances , simulate investments in the underlying index, facilitate trading or minimize transaction costs. The portfolio managers may also use futures contracts to seek to reduce the fund’s tracking error relative to the underlying index.
+The underlying index and fund ar e rebalanced monthly and reconstituted quarterly.
+The fund will concentrate its investments (i.e., hold 25% or more of its net assets) in a particular industry or group of industries to approximately the same extent that the underlying index is concentrated.
+Principal Risks
+•
+Market Risk  - The value of the fund’s shares will go up and down, sometimes rapidly or unpredictably, based on the performance of the companies whose securities it owns and other factors generally affecting the securities market.
+•
+Equity Securities Risk - The value of equity securities, may fluctuate due to changes in investor perception of a specific issuer, changes in the general condition of the stock market, or occurrences of political or economic events that affect equity issuers and the market. Common stock prices may be particularly sensitive to rising interest rates, as the cost of capital rises and borrowing costs increase.
+•
+Market Trading Risk  - The fund faces numerous market trading risks, including the potential lack of an active market for fund shares, losses from trading in secondary markets, periods of high volatility and disruption in the creation and/or redemption process of the fund. Any of these factors, among others, may lead to the fund’s shares trading at a premium or discount to NAV. Thus, you may pay more (or less) than NAV when you buy shares of the fund in the secondary market, and you may receive less (or more) than NAV when you sell those shares in the secondary market. The portfolio managers cannot predict whether shares will trade above (premium), below (discount) or at NAV.
+•
+Index-Related Risk  - Unlike many investment companies, the fund is not actively managed and the portfolio managers do not attempt to take defensive positions under any market conditions, including declining markets. Therefore, the portfolio managers generally will not buy or sell a security unless that security is added or removed, respectively, from the underlying index, even if that security generally is underperforming. There is no assurance that the underlying index will be determined, composed or calculated accurately. While the index provider provides descriptions of what the underlying index is designed to achieve, the index provider does not guarantee the quality, accuracy or completeness of data in respect of its indices, and does not guarantee that the underlying index will be in line with the described index methodology. Gains, losses or costs to the fund caused by errors in the underlying index may therefore be borne by the fund and its shareholders.
+•
+Calculation Methodology Risk  - The underlying index relies on various sources of information to assess the criteria of issuers included in the underlying index, including information that may be based on assumptions and estimates. Neither the fund nor American Century Investment Management, Inc. (the advisor) can offer assurances that the underlying index’s calculation methodology or sources of information will provide an accurate assessment of included issuers.
+•
+Style Risk  - There can be no assurance that the investment factor stock selection process and screens of the underlying index will enhance performance. Exposure to certain investment factors and use of screens may detract from performance in some market environments, perhaps for extended periods.
+•
+Mid-Capitalization Company Risk - Investments in medium-size companies may involve greater risk and price volatility than investments in larger, more mature companies.
+•
+Tracking Error Risk  - Tracking error is the divergence of the fund’s performance from that of the underlying index. Tracking error may occur because of differences between the securities held in the fund’s portfolio and those included in the underlying index, pricing differences, transaction costs, the fund’s holding of cash, differences in timing of the accrual of dividends or interest, changes to the underlying index or the need to meet various new or existing regulatory requirements. This risk may be heightened during times of increased market volatility or other unusual market conditions. Tracking error also may result because the fund incurs fees and expenses, while the underlying index does not.
+•
+Sampling   Risk - To the extent the fund uses a representative sampling strategy, it may hold a smaller number of securities than are in the underlying index or it may hold securities that are not included in the underlying index. As a result, an adverse development respecting an issuer of securities held by the fund could result in a greater decline in the fund’s NAV than would be the case if all of the securities in the underlying index were held. The fund’s use of a representative sampling strategy may also include the risk that it may not track the return of the underlying index with the same degree of accuracy as would an investment vehicle that invested in every component security of the underlying index with the same weightings as the underlying index.
+•
+Management Risk - To the extent the fund uses representative sampling, the strategy may fail to produce the intended results.
+•
+Non-Correlation Risk  - There is no guarantee that the fund will achieve a high degree of correlation to the underlying index and therefore achieve its investment objective. Market disruptions and regulatory restrictions could have an adverse effect on the fund’s ability to adjust its exposure to the required levels in order to track the underlying index. In addition, the fund’s NAV may deviate from the underlying index if the fund fair values a portfolio security at a price other than the price used by the underlying index for that security.
+
+3
+
+
+•
+Authorized Participant Concentration Risk  - Only an authorized participant may engage in creation or redemption transactions directly with the fund. The fund may have a limited number of institutions that act as authorized participants. To the extent that these institutions exit the business or are unable to proceed with creation and/or redemption orders with respect to the fund and no other authorized participant is able to step forward to process creation and/or redemption orders, fund shares may trade at a discount to net asset value (NAV) and possibly face trading halts and/or delisting. This risk may be more pronounced in volatile markets, potentially where there are significant redemptions in exchange-traded funds (ETFs) generally.
+•
+Concentration Risk  - To the extent the fund concentrates in a specific industry or a group of industries, it may be subject to greater risks and market fluctuations than a portfolio investing in a broader range of industries.
+•
+New Fund Risk - As a new fund, there can be no assurance that it will grow to or maintain an economically viable size. The fund may experience greater tracking error than it otherwise would at higher asset levels.
+•
+Large Shareholder Risk - Certain shareholders, including other funds advised by the advisor, may from time to time own a substantial amount of the shares of the fund. In addition, a third party investor, the advisor or an affiliate of the advisor, an authorized participant, a market maker, or another entity may invest in the fund and hold its investment for a limited period of time solely to facilitate commencement of the fund or to facilitate the fund’s achieving a specified size or scale. There can be no assurance that any large shareholder would not redeem its investment, that the size of the fund would be maintained at such levels or that the fund would continue to meet applicable listing requirements. Redemptions by large shareholders could have a significant negative impact on the fund. In addition, transactions by large shareholders may account for a large percentage of the trading volume on the NYSE Arca, Inc. and may, therefore, have a material upward or downward effect on the market price of the shares.
+•
+Derivatives Risk  - The use of derivative instruments such as futures contracts involves risks different from, or possibly greater than, the risks associated with investing directly in securities and other traditional instruments. Derivatives are subject to a number of risks, including liquidity, interest rate, market, credit and correlation risk. In addition, derivatives can create economic leverage in the fund’s portfolio, which may result in significant volatility and cause the fund to participate in losses (as well as gains) in an amount that exceeds the fund’s initial investment. Certain derivatives have the potential for unlimited loss, regardless of the size of the initial investment.
+•
+Principal Loss Risk  - At any given time your shares may be worth less than the price you paid for them. In other words, it is possible to lose money by investing in the fund.
+An investment in the fund is not a bank deposit, and it is not insured or guaranteed by the Federal Deposit Insurance Corporation (FDIC) or any other government agency.
+Fund Performance
+The fund’s performance history is not available as of the date of this prospectus. When the fund has investment results for a full calendar year, this section will feature charts that show annual total returns, highest and lowest quarterly returns and average annual total returns for the fund. This information indicates the volatility of the fund’s historical returns from year to year. For current performance information, please visit americancenturyetfs.com.
+Performance information is designed to help you see how fund returns can vary. Keep in mind that past performance (before and after taxes) does not predict how the fund will perform in the future.
+Portfolio Management
+Investment Advisor
+American Century Investment Management, Inc.
+Portfolio Managers
+Peruvemba Satish, Ph.D, CFA, Senior Vice President, Portfolio Manager and Director, Global Analytics, has been a member of the team that manages the fund since 2018.
+Rene P. Casis, Portfolio Manager, has been a member of the team that manages the fund since 2018.
+Purchase and Sale of Fund Shares
+The fund is an ETF. Fund shares may only be purchased and sold on a national securities exchange through a broker-dealer. The price of fund shares is based on market price, and because ETF shares trade at market prices rather than NAV, shares may trade at a price greater than NAV (a premium) or less than NAV (a discount). The fund issues and redeems shares that have been aggregated into blocks of 25,000 shares or multiples thereof (Creation Units) to authorized participants who have entered into agreements with the fund’s distributor. The fund will generally issue and redeem Creation Units in return for a basket of securities (and an amount of cash) that the fund specifies each day.
+
+4
+
+
+Tax Information
+Fund distributions are generally taxable as ordinary income or capital gains, unless you are investing through a tax-deferred account such as a 401(k) or individual retirement account (in which case you may be taxed upon withdrawal of your investment from such account).
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you purchase the fund through a broker-dealer or other financial intermediary (such as a bank), the advisor and its related companies may pay the intermediary for the sale of fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

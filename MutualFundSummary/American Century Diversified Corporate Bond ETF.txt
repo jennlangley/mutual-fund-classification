@@ -1,0 +1,84 @@
+American Century Diversified Corporate Bond ETF
+<head_breaker>
+
+Fund Summary
+Investment Objective
+The fund seeks to provide current income.
+Fees and Expenses
+The following table describes the fees and expenses you may pay if you buy and hold shares of the fund. You may also incur usual and customary brokerage commissions when buying or selling shares of the fund, which are not reflected in the example that follows.
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+Management Fee
+0.45%
+Other Expenses
+0.00%
+Total Annual Fund Operating Expenses
+0.45%
+Example
+The example below is intended to help you compare the costs of investing in the fund with the costs of investing in other funds. The example assumes that you invest $10,000 in the fund for the time periods indicated and then redeem all of your shares at the end of those periods, that you earn a 5% return each year, and that the fund’s operating expenses remain the same. You may be required to pay brokerage commissions on your purchases of shares of the fund which are not reflected in the example. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+1 year
+3 years
+5 years
+10 years
+$46
+$145
+$252
+$567
+Portfolio Turnover
+The fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account. These costs, which are not reflected in annual fund operating expenses or in the example, affect the fund’s performance. For the period from January 11, 2018, the fund’s inception, to the fiscal year ended August 31, 2018, the fund’s portfolio turnover rate was 38% of the average value of its portfolio.
+Principal Investment Strategies
+Under normal market conditions, the portfolio managers will invest at least 80% of the fund’s net assets, plus any borrowings for investment purposes, in corporate debt securities and corporate debt investments. Corporate debt investments are derivatives whose reference securities are corporate debt securities.
+The fund invests primarily in U.S. dollar denominated corporate debt securities issued by U.S. and foreign entities, but may also invest in securities issued by supranational entities. Although the fund invests primarily in investment-grade debt securities, up to 35% of the fund’s net assets may be invested in high-yield securities (also referred to as “junk bonds”).
+The fund also may invest in derivative instruments such as futures contracts, and swap agreements (including, but not limited to, interest rate swaps and credit default swap indexes). The fund may use derivative instruments to earn income, enhance returns, increase liquidity, manage target duration, gain exposure to certain instruments or markets, and/or hedge its exposure to particular investments.
+Under normal market conditions, the weighted average duration of the fund’s portfolio is expected to be between three and seven years.
+The fund is an actively managed exchange-traded fund (ETF) that does not seek to replicate the performance of a specified index. To determine whether to buy or sell a security, the portfolio managers consider, among other things, various fund requirements and standards, along with economic conditions, alternative investments, interest rates and various credit metrics.
+Principal Risks
+•
+Interest Rate Risk  - Investments in debt securities are also sensitive to interest rate changes. Generally, the value of debt securities and the funds that hold them decline as interest rates rise. The fund is more susceptible to interest rate changes than funds that have shorter-weighted average maturities, such as money market and short-term bond funds. A period of rising interest rates may negatively affect the fund’s performance.
+•
+Credit Risk  - The inability or perceived inability of a security’s issuer to make interest and principal payments may cause the value of the security to decrease. As a result, the fund’s share price could also decrease. Changes in the credit rating of a debt security held by the fund could have a similar effect.
+
+2
+
+
+•
+High-Yield Risk  - Issuers of high-yield securities are more vulnerable to real or perceived economic changes (such as an economic down turn or a prolonged period of rising interest rates), political changes or adverse developments specific to an issuer. These factors may be more likely to cause an issuer of low quality bonds to default on its obligations. Investment in high-yield securities is inherently speculative.
+•
+Foreign Securities Risk  - Foreign securities have certain unique risks, such as currency risk, social, political and economic risk, and foreign market and trading risk. Securities of foreign issuers may be less liquid, more volatile and harder to value than U.S. securities.
+•
+Derivatives Risk  - The use of derivative instruments involves risks different from, or possibly greater than, the risks associated with investing directly in securities and other traditional instruments. Derivatives are subject to a number of risks, including liquidity, interest rate, market, credit and correlation risk. In addition, derivatives can create economic leverage in the fund’s portfolio, which may result in significant volatility and cause the fund to participate in losses (as well as gains) in an amount that exceeds the fund’s initial investment. Certain derivatives have the potential for unlimited loss, regardless of the size of the initial investment.
+•
+Cash Transactions Risk - The fund may effect its creations and redemptions for cash, rather than for in-kind securities. Therefore, it may be required to sell portfolio securities and subsequently recognize gains on such sales that the fund might not have recognized if it were to distribute portfolio securities in-kind. As such, investments in fund shares may be less tax-efficient than an investment in an ETF that distributes portfolio securities entirely in-kind.
+•
+Liquidity Risk - During periods of market turbulence or unusually low trading activity, it may be necessary for the fund to sell securities at prices that could have an adverse effect on the fund. The market for lower-quality debt securities is generally less liquid than the market for higher-quality securities. Changing regulatory and market conditions, including increases in interest rates and credit spreads may adversely affect the liquidity of the fund’s investments.
+•
+Market Trading Risk - The fund faces numerous market trading risks, including the potential lack of an active market for fund shares, losses from trading in secondary markets, periods of high volatility and disruption in the creation and/or redemption process of the fund. Any of these factors, among others, may lead to the fund’s shares trading at a premium or discount to NAV. Thus, you may pay more (or less) than NAV when you buy shares of the fund in the secondary market, and you may receive less (or more) than NAV when you sell those shares in the secondary market. The portfolio managers cannot predict whether shares will trade above (premium), below (discount) or at NAV.
+•
+Market Risk  - The value of the fund’s shares will go up and down, sometimes rapidly or unpredictably, based on the performance of the issuers whose securities it owns and other factors generally affecting the securities market.
+•
+Authorized Participant Concentration Risk  - Only an authorized participant may engage in creation or redemption transactions directly with the fund. The fund may have a limited number of institutions that act as authorized participants. To the extent that these institutions exit the business or are unable to proceed with creation and/or redemption orders with respect to the fund and no other authorized participant is able to step forward to process creation and/or redemption orders, fund shares may trade at a discount to net asset value (NAV) and possibly face trading halts and/or delisting. This risk may be more pronounced in volatile markets, potentially where there are significant redemptions in ETFs generally.
+•
+Large Shareholder Risk - Certain shareholders, including other funds advised by the advisor, may from time to time own a substantial amount of the shares of the fund. In addition, a third party investor, the advisor or an affiliate of the advisor, an authorized participant, a market maker, or another entity may invest in the fund and hold its investment for a limited period of time solely to facilitate commencement of the fund or to facilitate the fund’s achieving a specified size or scale. There can be no assurance that any large shareholder would not redeem its investment, that the size of the fund would be maintained at such levels or that the fund would continue to meet applicable listing requirements. Redemptions by large shareholders could have a significant negative impact on the fund. In addition, transactions by large shareholders may account for a large percentage of the trading volume on the NYSE Arca, Inc. and may, therefore, have a material upward or downward effect on the market price of the shares.
+•
+Principal Loss Risk  - At any given time your shares may be worth less than the price you paid for them. In other words, it is possible to lose money by investing in the fund.
+An investment in the fund is not a bank deposit, and it is not insured or guaranteed by the Federal Deposit Insurance Corporation (FDIC) or any other government agency.
+Fund Performance
+The fund’s performance history is not available as of the date of this prospectus. When the fund has investment results for a full calendar year, this section will feature charts that show annual total returns, highest and lowest quarterly returns and average annual total returns for the fund. This information indicates the volatility of the fund’s historical returns from year to year. For current performance information, please visit americancenturyetfs.com.
+Performance information is designed to help you see how fund returns can vary. Keep in mind that past performance (before and after taxes) does not predict how the fund will perform in the future.
+
+3
+
+
+Portfolio Management
+Investment Advisor
+American Century Investment Management, Inc.
+Portfolio Managers
+Kevin Akioka, CFA, Vice President and Senior Portfolio Manager, has served on teams managing fixed-income investments for American Century since joining the advisor in 2010.
+Jeffrey L. Houston, CFA, Vice President and Senior Portfolio Manager, has served on teams managing fixed-income investments since joining the advisor in 1990.
+Gavin Fleischman, Vice President and Portfolio Manager, has served on teams managing fixed-income investments for American Century since joining the advisor in 2008.
+Le Tran, Portfolio Manager, has served on teams managing fixed-income investments for American Century since joining the advisor in 2004.
+Purchase and Sale of Fund Shares
+The fund is an ETF. Fund shares may only be purchased and sold on a national securities exchange through a broker-dealer. The price of fund shares is based on market price, and because ETF shares trade at market prices rather than NAV, shares may trade at a price greater than NAV (a premium) or less than NAV (a discount). The fund issues and redeems shares that have been aggregated into blocks of 50,000 shares or multiples thereof (Creation Units) to authorized participants who have entered into agreements with the fund’s distributor. The fund will generally issue and redeem Creation Units in return for a basket of cash and/or securities that the fund specifies each day.
+Tax Information
+Fund distributions are generally taxable as ordinary income or capital gains, unless you are investing through a tax-deferred account such as a 401(k) or individual retirement account (in which case you may be taxed upon withdrawal of your investment from such account).
+Payments to Broker-Dealers and Other Financial Intermediaries
+If you purchase the fund through a broker-dealer or other financial intermediary (such as a bank), the advisor and its related companies may pay the intermediary for the sale of fund shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

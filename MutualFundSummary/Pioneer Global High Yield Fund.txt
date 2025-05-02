@@ -1,0 +1,835 @@
+Pioneer Global High Yield Fund
+<head_breaker>
+
+Fund summary
+
+INVESTMENT OBJECTIVE
+Maximize total return through a combination of income and capital appreciation.
+
+
+FEES AND EXPENSES OF THE FUND
+This table describes the fees and expenses that you may pay if you buy and hold
+shares of the fund.
+
+
+You may qualify for sales charge discounts if you or your family invest, or
+agree to invest in the future, at least $100,000 in Class A shares of the
+Pioneer funds. More information about these and other discounts is available
+from your investment professional and in the "Sales charges" section of the
+prospectus beginning on page 59, the "Intermediary defined sales charge waiver
+policies" section of the prospectus beginning on page 97, and the "Sales
+charges" section of the statement of additional information beginning on page
+65.
+
+
+
+
+<TABLE>
+<CAPTION>
+SHAREOWNER FEES
+(fees paid directly from your investment)           CLASS A   CLASS C   CLASS K   CLASS T   CLASS Y
+--------------------------------------------------  --------- --------- --------- --------- --------
+<S>                                                 <C>       <C>       <C>       <C>       <C>
+Maximum sales charge (load) when you buy
+shares (as a percentage of offering price)            4.50%      None        None   2.50%       None
+--------------------------------------------------   ------   --------- ---------    ----   --------
+Maximum deferred sales charge (load) (as a
+percentage of offering price or the amount you
+receive when you sell shares, whichever is less)    None/1/        1%        None    None       None
+--------------------------------------------------  ------    --------- ---------    ----   --------
+</TABLE>
+
+
+
+
+
+<TABLE>
+<CAPTION>
+ANNUAL FUND OPERATING EXPENSES
+(expenses that you pay each year as a
+percentage of the value of your investment)    CLASS A   CLASS C   CLASS K   CLASS T   CLASS Y
+---------------------------------------------  --------- --------- --------- --------- --------
+<S>                                            <C>       <C>       <C>       <C>       <C>
+Management Fees                                  0.69%     0.69%     0.69%     0.69%     0.69%
+---------------------------------------------     ----      ----      ----      ----      ----
+Distribution and Service (12b-1) Fees            0.25%     1.00%     0.00%     0.25%     0.00%
+---------------------------------------------     ----      ----      ----      ----      ----
+Other Expenses/2/                                0.24%     0.20%     0.10%     0.24%     0.22%
+---------------------------------------------     ----      ----      ----      ----      ----
+Total Annual Fund Operating Expenses             1.18%     1.89%     0.79%     1.18%     0.91%
+---------------------------------------------     ----      ----      ----      ----      ----
+</TABLE>
+
+
+1   Class A purchases of $500,000 or more that are not subject to an initial
+    sales charge may be subject to a contingent deferred sales charge of 1%.
+    See "Sales charges."
+
+
+2   Other Expenses for Class K and Class T shares are based on estimated
+    amounts for the current fiscal year.
+
+
+                                       1
+<PAGE>
+
+Fund summary
+
+EXAMPLE
+This example is intended to help you compare the cost of investing in the fund
+with the cost of investing in other mutual funds. The example assumes that you
+invest $10,000 in the fund for the time periods shown and then, except as
+indicated, redeem all of your shares at the end of those periods. It also
+assumes that (a) your investment has a 5% return each year and (b) the fund's
+total annual operating expenses remain the same. Although your actual costs may
+be higher or lower, based on these assumptions your costs would be:
+
+
+
+<TABLE>
+<CAPTION>
+                 IF YOU REDEEM YOUR SHARES            IF YOU DO NOT REDEEM YOUR SHARES
+           --------------------------------------  --------------------------------------
+                                NUMBER OF YEARS YOU OWN YOUR SHARES
+           ------------------------------------------------------------------------------
+                 1        3          5         10        1        3          5         10
+           -------  -------  ---------  ---------  -------  -------  ---------  ---------
+<S>        <C>      <C>      <C>        <C>        <C>      <C>      <C>        <C>
+Class A    $565     $808     $1,070     $1,817     $565     $808     $1,070     $1,817
+---------  ----     ----     ------     ------     ----     ----     ------     ------
+Class C     292      594      1,021      2,212      192      594      1,021      2,212
+---------  ----     ----     ------     ------     ----     ----     ------     ------
+Class K      81      252        439        978       81      252        439        978
+---------  ----     ----     ------     ------     ----     ----     ------     ------
+Class T     367      615        883      1,646      367      615        883      1,646
+---------  ----     ----     ------     ------     ----     ----     ------     ------
+Class Y      93      290        504      1,120       93      290        504      1,120
+---------  ----     ----     ------     ------     ----     ----     ------     ------
+</TABLE>
+
+
+PORTFOLIO TURNOVER
+
+The fund pays transaction costs, such as commissions, when it buys and sells
+securities (or "turns over" its portfolio). A higher portfolio turnover rate
+may indicate higher transaction costs and may result in higher taxes when fund
+shares are held in a taxable account. These costs, which are not reflected in
+annual fund operating expenses or in the example, affect the fund's
+performance. During the most recent fiscal year, the fund's portfolio turnover
+rate was 53% of the average value of its portfolio.
+
+
+
+PRINCIPAL INVESTMENT STRATEGIES
+Normally, the fund invests at least 80% of its total assets in below investment
+grade (high yield) debt securities and preferred stocks of U.S. and non-U.S.
+issuers, including governmental and corporate issuers in emerging markets.
+Derivative instruments that provide exposure to such high yield debt securities
+and preferred stocks or have similar economic characteristics may be used to
+satisfy the fund's 80% policy. Debt securities rated below investment grade are
+commonly referred to as "junk bonds" and are considered speculative. The fund
+may invest in high yield securities of any rating, including securities where
+the issuer is in default at the time of purchase.
+
+
+                                       2
+<PAGE>
+
+The fund's portfolio consists of securities of corporate or government issuers
+located in at least three countries, one of which may be the United States. The
+fund may purchase and sell forward currency exchange contracts in non-U.S.
+currencies. The fund's currency and currency-related investments may be used to
+adjust overall currency exposures, including as a means of seeking incremental
+return, which may be considered a speculative technique.
+
+The fund may invest in securities with a broad range of maturities. The fund's
+investments may have fixed or variable principal payments and all types of
+interest rate and dividend payment and reset terms, including fixed rate,
+adjustable rate, floating rate, zero coupon, contingent, deferred, payment in
+kind and auction rate features. The fund's investments may include instruments
+that allow for balloon payments or negative amortization payments.
+
+The fund may invest in investment grade and below investment grade convertible
+bonds and preferred stocks that are convertible into the equity securities of
+the issuer.
+
+The fund may invest up to 20% of its net assets in inverse floating rate
+obligations (a type of derivative instrument).
+
+
+The fund may invest up to 10% of its total assets in equity securities,
+including common stocks, funds that invest primarily in equity securities,
+depositary receipts, warrants, rights and equity interests in real estate
+investment trusts (REITs).
+
+The fund may invest a portion of its assets in mortgage-related securities,
+including "sub-prime" mortgages, and asset-backed securities. The fund also may
+invest a portion of its assets in floating rate loans, subordinated debt
+securities, event-linked bonds and other insurance-linked securities.
+
+
+The fund may, but is not required to, use derivatives. The fund may use
+derivatives, such as credit default swaps, forward foreign currency exchange
+contracts and bond and interest rate futures, for a variety of purposes,
+including: in an attempt to hedge against adverse changes in the market price
+of securities, interest rates or currency exchange rates; as a substitute for
+purchasing or selling securities; to attempt to increase the fund's return as a
+non-hedging strategy that may be considered speculative; to manage portfolio
+characteristics; and as a cash flow management technique. The fund may choose
+not to make use of derivatives for a variety of reasons, and any use may be
+limited by applicable law and regulations. The fund also may hold cash or other
+short-term investments.
+
+
+                                       3
+<PAGE>
+
+Fund summary
+
+The fund's investment adviser uses a value approach to select investments to
+buy and sell. The adviser seeks to identify securities that are selling at
+reasonable prices or substantial discounts to their underlying values and then
+holds these securities for their incremental yields or until the market values
+reflect their intrinsic values. The adviser evaluates a security's potential
+value, including the attractiveness of its market valuation, based on the
+company's assets and prospects for earnings growth or the government's fiscal
+policies and outlook for economic growth, inflation, unemployment and other
+macroeconomic indicators. In making that assessment, the adviser employs
+fundamental research and an evaluation of the issuer based on its financial
+statements and operations, in the case of a corporate issuer, and the factors
+referred to above in the case of a governmental issuer. The adviser also
+considers a security's potential to provide income.
+
+
+PRINCIPAL RISKS OF INVESTING IN THE FUND
+You could lose money on your investment in the fund. As with any mutual fund,
+there is no guarantee that the fund will achieve its objective.
+
+
+MARKET RISK. The value of securities held by the fund may go up or down,
+sometimes rapidly or unpredictably, due to general market conditions, such as
+real or perceived adverse economic, political, or regulatory conditions,
+inflation, changes in interest or currency rates, lack of liquidity in the bond
+markets or adverse investor sentiment. In the past decade, financial markets
+throughout the world have experienced increased volatility, depressed
+valuations, decreased liquidity and heightened uncertainty. Governmental and
+non-governmental issuers have defaulted on, or been forced to restructure,
+their debts. These conditions may continue, recur, worsen or spread. Events
+that have contributed to these market conditions include, but are not limited
+to, major cybersecurity events; geopolitical events (including wars and terror
+attacks); measures to address budget deficits; downgrading of sovereign debt;
+declines in oil and commodity prices; dramatic changes in currency exchange
+rates; and public sentiment. The U.S. government and the Federal Reserve, as
+well as certain foreign governments and their central banks, have taken steps
+to support financial markets, including by keeping interest rates at
+historically low levels. This and other government intervention may not work as
+intended, particularly if the efforts are perceived by investors as being
+unlikely to achieve the desired results. The Federal Reserve has reduced its
+market support activities and has begun raising interest rates. Certain foreign
+governments and central banks are implementing or discussing so-called negative
+interest rates (e.g., charging depositors who keep their
+
+
+
+                                       4
+<PAGE>
+
+cash at a bank) to spur economic growth. Further Federal Reserve or other U.S.
+or non-U.S. governmental or central bank actions, including interest rate
+increases or contrary actions by different governments, could negatively affect
+financial markets generally, increase market volatility and reduce the value
+and liquidity of securities in which the fund invests. Policy and legislative
+changes in the U.S. and in other countries are affecting many aspects of
+financial regulation, and may in some instances contribute to decreased
+liquidity and increased volatility in the financial markets. The impact of
+these changes on the markets, and the practical implications for market
+participants, may not be fully known for some time. Economies and financial
+markets throughout the world are increasingly interconnected. Economic,
+financial or political events, trading and tariff arrangements, terrorism,
+natural disasters and other circumstances in one country or region could have
+profound impacts on global economies or markets. As a result, whether or not
+the fund invests in securities of issuers located in or with significant
+exposure to the countries directly affected, the value and liquidity of the
+fund's investments may be negatively affected. The fund may experience a
+substantial or complete loss on any individual security or derivative position.
+
+HIGH YIELD OR "JUNK" BOND RISK. Debt securities that are below investment
+grade, called "junk bonds," are speculative, have a higher risk of default or
+are already in default, tend to be less liquid and are more difficult to value
+than higher grade securities. Junk bonds tend to be volatile and more
+susceptible to adverse events and negative sentiments. These risks are more
+pronounced for securities that are already in default.
+
+RISKS OF NON-U.S. INVESTMENTS. Investing in non-U.S. issuers, or in U.S.
+issuers that have significant exposure to foreign markets, may involve unique
+risks compared to investing in securities of U.S. issuers. These risks are more
+pronounced for issuers in emerging markets or to the extent that the fund
+invests significantly in one region or country. These risks may include
+different financial reporting practices and regulatory standards, less liquid
+trading markets, extreme price volatility, currency risks, changes in economic,
+political, regulatory and social conditions, terrorism, sustained economic
+downturns, financial instability, tax burdens, and investment and repatriation
+restrictions. Lack of information and less market regulation also may affect
+the value of these securities. Withholding and other non-U.S. taxes may
+decrease the fund's return. Non-U.S. issuers may be located in parts of the
+world that have historically been prone to natural disasters. Investing in
+depositary receipts is subject to many of the same risks as investing directly
+in non-U.S. issuers. Depositary receipts may involve higher
+
+
+                                       5
+<PAGE>
+
+Fund summary
+
+expenses and may trade at a discount (or premium) to the underlying security. A
+number of countries in the European Union (EU) have experienced, and may
+continue to experience, severe economic and financial difficulties. In
+addition, voters in the United Kingdom have approved withdrawal from the EU.
+Other countries may seek to withdraw from the EU and/or abandon the euro, the
+common currency of the EU. If one or more stockholders of a supranational
+entity such as the World Bank fail to make necessary additional capital
+contributions, the entity may be unable to pay interest or repay principal on
+its debt securities. Current and any future sanctions or other government
+actions against Russia could negatively impact the fund's investments in
+securities issued by Russian issuers or economically tied to Russian markets.
+
+CURRENCY RISK. The fund could experience losses based on changes in the
+exchange rate between non-U.S. currencies and the U.S. dollar or as a result of
+currency conversion costs. Currency exchange rates can be volatile, and are
+affected by factors such as general economic conditions, the actions of the
+U.S. and foreign governments or central banks, the imposition of currency
+controls and speculation.
+
+SOVEREIGN DEBT RISK. A governmental entity may delay, refuse or be unable to
+pay interest or principal on its sovereign debt due to cash flow problems,
+insufficient foreign currency reserves, political considerations, the relative
+size of the governmental entity's debt position in relation to the economy or
+the failure to put in place economic reforms. There may be no legal or
+bankruptcy process for collecting sovereign debt. Emerging markets countries
+tend to have economic, political and legal systems that are less fully
+developed and are less stable than those of more advanced countries.
+
+
+INTEREST RATE RISK. Interest rates may go up, causing the value of the fund's
+investments to decline (this risk generally will be greater for securities with
+longer maturities or durations). For example, if interest rates increase by 1%,
+the value of a fund's portfolio with a portfolio duration of ten years would be
+expected to decrease by 10%, all other things being equal. Interest rates in
+the U.S. recently have been historically low, so the fund faces a heightened
+risk that interest rates may continue to rise. A general rise in interest rates
+could adversely affect the price and liquidity of fixed income securities and
+could also result in increased redemptions from the fund. The maturity of a
+security may be significantly longer than its effective duration. A security's
+maturity and other features may be more relevant than its effective duration in
+determining the security's sensitivity to other
+
+
+
+                                       6
+<PAGE>
+
+
+factors affecting the issuer or markets generally such as changes in credit
+quality or in the yield premium that the market may establish for certain types
+of securities.
+
+
+Rising interest rates can lead to increased default rates, as issuers of
+floating rate securities find themselves faced with higher payments. Unlike
+fixed rate securities, floating rate securities generally will not increase in
+value if interest rates decline. Changes in interest rates also will affect the
+amount of interest income the fund earns on its floating rate investments.
+
+CREDIT RISK. If an issuer or guarantor of a security held by the fund or a
+counterparty to a financial contract with the fund defaults on its obligation
+to pay principal and/or interest, has its credit rating downgraded or is
+perceived to be less creditworthy, or the credit quality or value of any
+underlying assets declines, the value of your investment will typically
+decline.
+
+PREPAYMENT OR CALL RISK. Many issuers have a right to prepay their securities.
+If interest rates fall, an issuer may exercise this right. If this happens, the
+fund will not benefit from the rise in market price that normally accompanies a
+decline in interest rates, and will be forced to reinvest prepayment proceeds
+at a time when yields on securities available in the market are lower than the
+yield on the prepaid security. The fund also may lose any premium it paid on
+the security.
+
+EXTENSION RISK. During periods of rising interest rates, the average life of
+certain types of securities may be extended because of slower than expected
+principal payments. This may lock in a below market interest rate, increase the
+security's duration and reduce the value of the security.
+
+
+LIQUIDITY RISK. Some securities and derivatives held by the fund may be
+impossible or difficult to purchase, sell or unwind, particularly during times
+of market turmoil. An instrument's liquidity may be affected by reduced trading
+volume, a relative lack of market makers or legal restrictions, and illiquid
+securities and derivatives also may be difficult to value. Liquidity risk may
+be magnified in a rising interest rate environment. If the fund is forced to
+sell an illiquid asset or unwind a derivative position to meet redemption
+requests or other cash needs, the fund may be forced to sell at a loss. The
+fund may not receive its proceeds from the sale of certain securities for an
+extended period (for example, several weeks or even longer). In extreme cases,
+this may constrain the fund's ability to meet its obligations (including
+obligations to redeeming shareholders).
+
+
+
+                                       7
+<PAGE>
+
+Fund summary
+
+PORTFOLIO SELECTION RISK. The adviser's judgment about the quality, relative
+yield, relative value or market trends affecting a particular sector or region,
+market segment, security or about interest rates generally may prove to be
+incorrect.
+
+MORTGAGE-RELATED AND ASSET-BACKED SECURITIES RISK. The value of
+mortgage-related and asset-backed securities will be influenced by factors
+affecting the housing market and the assets underlying such securities. As a
+result, during periods of declining asset value, difficult or frozen credit
+markets, swings in interest rates, or deteriorating economic conditions,
+mortgage-related and asset-backed securities may decline in value, face
+valuation difficulties, become more volatile and/or become illiquid.
+Mortgage-backed securities tend to be more sensitive to changes in interest
+rate than other types of debt securities. These securities are also subject to
+prepayment and extension risks. Some of these securities may receive little or
+no collateral protection from the underlying assets and are thus subject to the
+risk of default. The risk of such defaults is generally higher in the case of
+mortgage-backed investments that include so-called "sub-prime" mortgages. The
+structure of some of these securities may be complex and there may be less
+available information than for other types of debt securities. Upon the
+occurrence of certain triggering events or defaults, the fund may become the
+holder of underlying assets at a time when those assets may be difficult to
+sell or may be sold only at a loss.
+
+RISKS OF INSTRUMENTS THAT ALLOW FOR BALLOON PAYMENTS OR NEGATIVE AMORTIZATION
+PAYMENTS. Certain debt instruments allow for balloon payments or negative
+amortization payments. Such instruments permit the borrower to avoid paying
+currently a portion of the interest accruing on the instrument. While these
+features make the debt instrument more affordable to the borrower in the near
+term, they increase the risk that the borrower will be unable to make the
+resulting higher payment or payments that become due at the maturity of the
+loan.
+
+RISKS OF INVESTING IN FLOATING RATE LOANS. Floating rate loans and similar
+investments may be illiquid or less liquid than other investments and difficult
+to value. The value of collateral, if any, securing a floating rate loan can
+decline or may be insufficient to meet the issuer's obligations or may be
+difficult to liquidate. Market quotations for these securities may be volatile
+and/or subject to large spreads between bid and ask prices. No active trading
+market may exist for many floating rate loans, and many loans are subject to
+restrictions on resale. Any secondary market may be subject to
+
+
+                                       8
+<PAGE>
+
+irregular trading activity and extended trade settlement periods. In
+particular, loans may take longer than seven days to settle, potentially
+leading to the sale proceeds of loans not being available to meet redemptions
+for a substantial period of time after the sale of the loans. To the extent
+that sale proceeds of loans are not available, the fund may sell securities
+that have shorter settlement periods or may access other sources of liquidity
+to meet redemption requests. Loans may not be considered "securities," and
+purchasers, such as the fund, therefore may not be entitled to rely on the
+anti-fraud protections afforded by federal securities laws.
+
+RISKS OF INVESTING IN INSURANCE-LINKED SECURITIES. The return of principal and
+the payment of interest on "event-linked" bonds and other insurance-linked
+securities are contingent on the non-occurrence of a pre-defined "trigger"
+event, such as a hurricane or an earthquake of a specific magnitude or other
+event that leads to physical or economic loss. If a trigger event, as defined
+within the terms of an event-linked bond, involves losses or other metrics
+exceeding a specific magnitude in the geographic region and time period
+specified, the fund may lose a portion or all of its accrued interest and/or
+principal invested in the event-linked bond. In addition to the specified
+trigger events, event-linked bonds may expose the fund to other risks,
+including but not limited to issuer (credit) default, adverse regulatory or
+jurisdictional interpretations and adverse tax consequences. Certain
+insurance-linked securities may have limited liquidity, or may be illiquid. The
+fund has limited transparency into the individual contracts underlying certain
+insurance-linked securities, which may make the risk assessment of such
+securities more difficult. Certain insurance-linked securities may be difficult
+to value.
+
+RISKS OF SUBORDINATED SECURITIES. A holder of securities that are subordinated
+or "junior" to more senior securities of an issuer is entitled to payment after
+holders of more senior securities of the issuer. Subordinated securities are
+more likely to suffer a credit loss than non-subordinated securities of the
+same issuer, any loss incurred by the subordinated securities is likely to be
+proportionately greater, and any recovery of interest or principal may take
+more time. As a result, even a perceived decline in creditworthiness of the
+issuer is likely to have a greater impact on subordinated securities.
+
+MUNICIPAL SECURITIES RISK. The municipal bond market can be susceptible to
+unusual volatility, particularly for lower-rated and unrated securities.
+Liquidity can be reduced unpredictably in response to overall economic
+conditions or credit tightening. Municipal issuers may be adversely affected
+
+
+                                       9
+<PAGE>
+
+Fund summary
+
+by rising health care costs, increasing unfunded pension liabilities, and by
+the phasing out of federal programs providing financial support. Unfavorable
+conditions and developments relating to projects financed with municipal
+securities can result in lower revenues to issuers of municipal securities,
+potentially resulting in defaults. Issuers often depend on revenues from these
+projects to make principal and interest payments. The value of municipal
+securities can also be adversely affected by changes in the financial condition
+of one or more individual municipal issuers or insurers of municipal issuers,
+regulatory and political developments, tax law changes or other legislative
+actions, and by uncertainties and public perceptions concerning these and other
+factors. Municipal issuers may be more susceptible to downgrades or defaults
+during recessions or similar periods of economic stress. In recent periods, an
+increasing number of municipal issuers in the United States have defaulted on
+obligations and commenced insolvency proceedings. Financial difficulties of
+municipal issuers may continue or get worse. To the extent the fund invests
+significantly in a single state or in securities the payments on which are
+dependent upon a single project or source of revenues, or that relate to a
+sector or industry, the fund will be more susceptible to associated risks and
+developments.
+
+RISKS OF ZERO COUPON BONDS, PAYMENT IN KIND, DEFERRED AND CONTINGENT PAYMENT
+SECURITIES. These securities may be more speculative and may fluctuate more in
+value than securities which pay income periodically and in cash. In addition,
+although the fund receives no periodic cash payments on such securities, the
+fund is deemed for tax purposes to receive income from such securities, which
+applicable tax rules require the fund to distribute to shareholders. Such
+distributions may be taxable when distributed to shareholders.
+
+EQUITY SECURITIES RISK. Equity securities represent an ownership interest in an
+issuer, rank junior in a company's capital structure to debt securities and
+consequently may entail greater risk of loss than debt securities. Equity
+securities are subject to the risk that stock prices may rise and fall in
+periodic cycles and may perform poorly relative to other investments. This risk
+may be greater in the short term.
+
+RISKS OF CONVERTIBLE SECURITIES. The market values of convertible securities
+tend to decline as interest rates increase and, conversely, to increase as
+interest rates decline. A downturn in equity markets may cause the price of
+convertible securities to decrease relative to other fixed income securities.
+
+
+                                       10
+<PAGE>
+
+PREFERRED STOCKS RISK. Preferred stocks may pay fixed or adjustable rates of
+return. Preferred stocks are subject to issuer-specific and market risks
+applicable generally to equity securities. In addition, a company's preferred
+stocks generally pay dividends only after the company makes required payments
+to holders of its bonds and other debt. Thus, the value of preferred stocks
+will usually react more strongly than bonds and other debt to actual or
+perceived changes in the company's financial condition or prospects. The market
+value of preferred stocks generally decreases when interest rates rise.
+Preferred stocks of smaller companies may be more vulnerable to adverse
+developments than preferred stocks of larger companies.
+
+RISKS OF WARRANTS AND RIGHTS. If the price of the underlying stock does not
+rise above the exercise price before the warrant expires, the warrant generally
+expires without any value and the fund loses any amount it paid for the
+warrant. The failure to exercise subscription rights to purchase common shares
+would result in the dilution of the fund's interest in the issuing company.
+
+RISKS OF INVESTMENT IN OTHER FUNDS. Investing in other investment companies,
+including exchange-traded funds (ETFs), subjects the fund to the risks of
+investing in the underlying securities or assets held by those funds. When
+investing in another fund, the fund will bear a pro rata portion of the
+underlying fund's expenses, in addition to its own expenses.
+
+DERIVATIVES RISK. Using swaps, futures and other derivatives can increase fund
+losses and reduce opportunities for gains when market prices, interest rates or
+the derivative instruments themselves behave in a way not anticipated by the
+fund. Using derivatives may increase the volatility of the fund's net asset
+value and may not provide the result intended. Derivatives may have a
+leveraging effect on the fund. Some derivatives have the potential for
+unlimited loss, regardless of the size of the fund's initial investment.
+Changes in a derivative's value may not correlate well with the referenced
+asset or metric. The fund also may have to sell assets at inopportune times to
+satisfy its obligations. Derivatives may be difficult to sell, unwind or value,
+and the counterparty may default on its obligations to the fund. Use of
+derivatives may have different tax consequences for the fund than an investment
+in the underlying security, and such differences may affect the amount, timing
+and character of income distributed to shareholders. The U.S. government and
+foreign governments are in the process of adopting and implementing regulations
+governing derivatives markets, including mandatory clearing of certain
+derivatives, margin and reporting requirements. The ultimate impact
+
+
+                                       11
+<PAGE>
+
+Fund summary
+
+
+of the regulations remains unclear. Additional regulation of derivatives may
+make them more costly, limit their availability or utility, otherwise adversely
+affect their performance or disrupt markets.
+
+
+CREDIT DEFAULT SWAP RISK. Credit default swap contracts, a type of derivative
+instrument, involve special risks and may result in losses to the fund. Credit
+default swaps may in some cases be illiquid, and they increase credit risk
+since the fund has exposure to the issuer of the referenced obligation and
+either the counterparty to the credit default swap or, if it is a cleared
+transaction, the brokerage firm through which the trade was cleared and the
+clearing organization that is the counterparty to that trade.
+
+RISKS OF INVESTING IN INVERSE FLOATING RATE OBLIGATIONS. The interest rate on
+inverse floating rate obligations will generally decrease as short-term
+interest rates increase, and increase as short-term rates decrease. Due to
+their leveraged structure, the sensitivity of the market value of an inverse
+floating rate obligation to changes in interest rates is generally greater than
+a comparable long-term bond issued by the same issuer and with similar credit
+quality, redemption and maturity provisions. Inverse floating rate obligations
+may be volatile and involve leverage risk.
+
+FORWARD FOREIGN CURRENCY TRANSACTIONS RISK. The fund may not fully benefit from
+or may lose money on forward foreign currency transactions if changes in
+currency rates do not occur as anticipated or do not correspond accurately to
+changes in the value of the fund's holdings, or if the counterparty defaults.
+Such transactions may also prevent the fund from realizing profits on favorable
+movements in exchange rates. Risk of counterparty default is greater for
+counterparties located in emerging markets.
+
+LEVERAGING RISK. The value of your investment may be more volatile and other
+risks tend to be compounded if the fund borrows or uses derivatives or other
+investments, such as ETFs, that have embedded leverage. Leverage generally
+magnifies the effect of any increase or decrease in the value of the fund's
+underlying assets and creates a risk of loss of value on a larger pool of
+assets than the fund would otherwise have, potentially resulting in the loss of
+all assets. Engaging in such transactions may cause the fund to liquidate
+positions when it may not be advantageous to do so to satisfy its obligations
+or meet segregation requirements.
+
+REPURCHASE AGREEMENT RISK. In the event that the other party to a repurchase
+agreement defaults on its obligations, the fund may encounter delay and incur
+costs before being able to sell the security. Such a delay may involve
+
+
+                                       12
+<PAGE>
+
+loss of interest or a decline in price of the security. In addition, if the
+fund is characterized by a court as an unsecured creditor, it would be at risk
+of losing some or all of the principal and interest involved in the
+transaction.
+
+MARKET SEGMENT RISK. To the extent the fund emphasizes, from time to time,
+investments in a market segment, the fund will be subject to a greater degree
+to the risks particular to that segment, and may experience greater market
+fluctuation than a fund without the same focus.
+
+
+Industries in the financial segment, such as banks, insurance companies,
+broker-dealers and real estate investment trusts (REITs), may be sensitive to
+changes in interest rates and general economic activity and are generally
+subject to extensive government regulation.
+
+VALUATION RISK. The sales price the fund could receive for any particular
+portfolio investment may differ from the fund's valuation of the investment,
+particularly for illiquid securities and securities that trade in thin or
+volatile markets or that are valued using a fair value methodology. Investors
+who purchase or redeem fund shares on days when the fund is holding fair-valued
+securities may receive fewer or more shares or lower or higher redemption
+proceeds than they would have received if the fund had not fair-valued the
+securities or had used a different valuation methodology. The fund's ability to
+value its investments may also be impacted by technological issues and/or
+errors by pricing services or other third party service providers.
+
+
+REDEMPTION RISK. The fund may experience heavy redemptions that could cause the
+fund to liquidate its assets at inopportune times or at a loss or depressed
+value, which could cause the value of your investment to decline.
+
+EXPENSE RISK. Your actual costs of investing in the fund may be higher than the
+expenses shown in "Annual fund operating expenses" for a variety of reasons.
+For example, expense ratios may be higher than those shown if overall net
+assets decrease. Net assets are more likely to decrease and fund expense ratios
+are more likely to increase when markets are volatile.
+
+Please note that there are many other factors that could adversely affect your
+investment and that could prevent the fund from achieving its goals.
+
+An investment in the fund is not a bank deposit and is not insured or
+guaranteed by the Federal Deposit Insurance Corporation or any other government
+agency.
+
+
+                                       13
+<PAGE>
+
+Fund summary
+
+THE FUND'S PAST PERFORMANCE
+The bar chart and table indicate the risks and volatility of an investment in
+the fund by showing how the fund has performed in the past. The bar chart shows
+changes in the performance of the fund's Class A shares from calendar year to
+calendar year. The table shows the average annual total returns for each class
+of the fund over time and compares these returns to the returns of the
+Bloomberg Barclays Global High Yield Index and Bank of America (BofA) Merrill
+Lynch U.S. High Yield Index , each a broad-based measure of market performance
+that has characteristics relevant to the fund's investment strategies. You can
+obtain updated performance information by visiting
+https://us.pioneerinvestments.com/performance or by calling 1-800-225-6292.
+
+The fund's past performance (before and after taxes) does not necessarily
+indicate how it will perform in the future.
+
+The bar chart does not reflect any sales charge you may pay when you buy fund
+shares. If this amount was reflected, returns would be less than those shown.
+
+                                       14
+<PAGE>
+
+ANNUAL RETURN CLASS A SHARES (%)
+(Year ended December 31)
+[GRAPHIC APPEARS HERE]
+
+
+
+
+
+
+
+
+
+<TABLE>
+<CAPTION>
+'08        '09     '10     '11     '12     '13    '14     '15     '16     '17
+<S>        <C>     <C>     <C>     <C>     <C>    <C>     <C>     <C>     <C>
+  -36.18   63.84   18.23   -2.38   16.26   4.69   -1.97   -6.24   13.26   9.96
+</TABLE>
+
+
+
+
+
+
+For the period covered by the bar chart:
+THE HIGHEST CALENDAR QUARTERLY RETURN WAS 28.55% (04/01/2009 TO 06/30/2009).
+THE LOWEST CALENDAR QUARTERLY RETURN WAS -29.07% (10/01/2008 TO 12/31/2008).
+
+
+
+No performance information is presented for Class K and Class T shares in the
+table below because Class K and Class T shares do not have annual returns for
+at least one calendar year. The returns for Class K and Class T shares would
+differ from those of other classes of shares because they have different
+expenses.
+
+
+                                       15
+<PAGE>
+
+Fund summary
+
+AVERAGE ANNUAL TOTAL RETURN (%)
+
+(for periods ended December 31, 2017)
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                SINCE   INCEPTION
+                                           1 YEAR    5 YEARS    10 YEARS    INCEPTION        DATE
+                                         --------  ---------  ----------  -----------  ----------
+<S>                                      <C>       <C>        <C>         <C>          <C>
+Class A                                                                                 8/27/01
+---------------------------------------  -----     ----       ----        ----          -------
+Return before taxes                        5.00       2.74        4.85         7.67
+---------------------------------------  ------       ----        ----         ----     -------
+Return after taxes on distributions        2.71       0.24        1.87         4.50
+---------------------------------------  ------       ----        ----         ----     -------
+Return after taxes on distributions
+and sale of shares                         2.79       0.90        2.37         4.66
+---------------------------------------  ------       ----        ----         ----     -------
+Class C+                                   9.20       2.98        4.61         5.75    11/21/03
+---------------------------------------  ------       ----        ----         ----    --------
+Class Y                                   10.21       3.99        5.66         5.92    12/28/05
+---------------------------------------  ------       ----        ----         ----    --------
+Bloomberg Barclays Global High Yield
+Index (reflects no deduction for fees,
+expenses or taxes)                        10.43       5.67        8.08         8.91     8/27/01
+---------------------------------------  ------       ----        ----         ----    --------
+BofA Merrill Lynch U.S. High Yield
+Index (reflects no deduction for fees,
+expenses or taxes)                         7.48       5.80        7.89         7.88     8/27/01
+---------------------------------------  ------       ----        ----         ----    --------
+</TABLE>
+
+
++     The performance of Class C shares does not reflect the 1% front-end sales
+      charge in effect prior to February 1, 2004. If you paid a 1% sales
+      charge, your returns would be lower than those shown above.
+
+
+After-tax returns are calculated using the historical highest individual
+federal marginal income tax rates and do not reflect the impact of state and
+local taxes. Actual after-tax returns depend on the investor's tax situation
+and may differ from those shown. The after-tax returns shown are not relevant
+to investors who hold fund shares through tax-deferred arrangements such as
+401(k) plans or individual retirement accounts.
+
+
+After-tax returns are shown only for Class A shares. After-tax returns for
+Class C, Class K, Class T and Class Y shares shares will vary.
+
+
+                                       16
+<PAGE>
+
+MANAGEMENT
+
+
+
+<TABLE>
+<S>                    <C>
+INVESTMENT ADVISER     Amundi Pioneer Asset Management, Inc.
+PORTFOLIO MANAGEMENT   Andrew Feltus, Managing Director and
+                       Co-Director of High Yield of Amundi Pioneer
+                       (portfolio manager of the fund since 2001); and
+                       Kenneth Monaghan, Managing Director and
+                       Co-Director of High Yield of Amundi Pioneer
+                       (portfolio manager of the fund since 2017)
+</TABLE>
+
+
+PURCHASE AND SALE OF FUND SHARES
+You may purchase, exchange or sell (redeem) shares each day the New York Stock
+Exchange is open through your financial intermediary or, for accounts held
+directly with the fund, by contacting the fund in writing or by telephone:
+Pioneer Funds, P.O. Box 55014, Boston, MA 02205-5014, tel. 1-800-225-6292.
+
+
+Your initial investment for Class A, Class C or Class T shares must be at least
+$1,000. Additional investments must be at least $100 for Class A and Class T
+shares and $500 for Class C shares. The initial investment for Class K shares
+and Class Y shares must be at least $5 million. This amount may be invested in
+one or more of the Pioneer mutual funds that currently offer Class K shares or
+Class Y shares, as applicable. There is no minimum additional investment amount
+for Class K or Class Y shares.
+
+
+
+TAX INFORMATION
+The fund intends to make distributions that may be taxed as ordinary income,
+qualified dividend income, or capital gains.
+
+
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+If you purchase the fund through a broker-dealer or other financial
+intermediary (such as a bank), the fund and its related companies may pay the
+intermediary for the sale of fund shares and related services. These payments
+create a conflict of interest by influencing the broker-dealer or other
+intermediary and your salesperson or investment professional to recommend the
+fund over another investment. Ask your salesperson or investment professional
+or visit your financial intermediary's website for more information.

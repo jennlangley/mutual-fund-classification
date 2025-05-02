@@ -1,0 +1,165 @@
+Federated MDT Balanced Fund
+<head_breaker>
+
+Fund Summary Information
+Federated MDT Balanced Fund (the “Fund”)
+RISK/RETURN SUMMARY: INVESTMENT OBJECTIVE
+The Fund's investment objective is the possibility of long-term growth of capital and income.
+RISK/RETURN SUMMARY: FEES AND EXPENSES
+This table describes the fees and expenses that you may pay if you buy and hold the Fund's Class A Shares (A), Class C Shares (C), Institutional Shares (IS) and Class R6 Shares (R6). You may qualify for certain sales charge discounts if you and your family invest, or agree to invest in the future, at least $50,000 in certain classes (e.g., A class) of Federated Funds. More information about these and other discounts is available from your financial professional in the “What Do Shares Cost?” section of the Prospectus on page 22 and in “Appendix B” to this Prospectus. If you purchase the Fund's IS or R6 Shares through a broker acting as an agent on behalf of its customers, you may be required to pay a commission to such broker; such commissions, if any, are not reflected in the Example below.
+Shareholder Fees (fees paid directly from your investment)
+A	C	IS	R6
+Maximum Sales Charge (Load) Imposed on Purchases (as a percentage of offering price)
+5.50%	None	None	None
+Maximum Deferred Sales Charge (Load) (as a percentage of original purchase price or redemption proceeds, as applicable)
+0.00%	1.00%	None	None
+Maximum Sales Charge (Load) Imposed on Reinvested Dividends (and other Distributions) (as a percentage of offering price)
+None	None	None	None
+Redemption Fee (as a percentage of amount redeemed, if applicable)
+None	None	None	None
+Exchange Fee
+None	None	None	None
+Annual Fund Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+ 	 	 	 
+Management Fee
+0.75%	0.75%	0.75%	0.75%
+Distribution (12b-1) Fee
+0.00%1	0.75%	None	None
+Other Expenses
+0.65%	0.61%	0.33%	0.32%
+Acquired Fund Fees and Expenses
+0.04%	0.04%	0.04%	0.04%
+Total Annual Fund Operating Expenses
+1.44%	2.15%	1.12%	1.11%
+Fee Waivers and/or Expense Reimbursements2
+(0.09)%	(0.05)%	(0.02)%	(0.02)%
+Total Annual Fund Operating Expenses After Fee Waivers and/or Expense Reimbursements
+1.35%	2.10%	1.10%	1.09%
+1	The Fund has adopted a Distribution (12b-1) Plan for its Class A Shares pursuant to which the A class of the Fund may incur or charge a Distribution (12b-1) Fee of up to a maximum of 0.05%. No such fee is currently incurred or charged by the A class of the Fund. The A class of the Fund will not incur or charge such a Distribution (12b-1) Fee until such time as approved by the Fund's Board of Trustees (the “Trustees”).
+2	The Adviser and certain of its affiliates on their own initiative have agreed to waive certain amounts of their respective fees and/or reimburse expenses. Effective October 1, 2018, total annual fund operating expenses (excluding Acquired Fund Fees and Expenses, interest expense, extraordinary expenses and proxy-related expenses paid by the Fund, if any) paid by the Fund's A, C, IS and R6 classes (after the voluntary waivers and/or reimbursements) will not exceed 1.31%, 2.06%, 1.06% and 1.05% (the “Fee Limit”), respectively, up to but not including the later of (the “Termination Date”): (a) October 1, 2019; or (b) the date of the Fund's next effective Prospectus. While the Adviser and its affiliates currently do not anticipate terminating or increasing these arrangements prior to the Termination Date, these arrangements may only be terminated or the Fee Limit increased prior to the Termination Date with the agreement of the Trustees.
+Example
+This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds.
+The Example assumes that you invest $10,000 for the time periods indicated and then redeem all of your Shares at the end of those periods. Expenses assuming no redemption are also shown. The Example also assumes that your investment has a 5% return each year and that operating expenses are as shown in the table above and remain the same. Although your actual costs and returns may be higher or lower, based on these assumptions your costs would be:
+Share Class	1 Year	3 Years	5 Years	10 Years
+A:	 	 	 	 
+Expenses assuming redemption	$689	$980	$1,294	$2,179
+Expenses assuming no redemption	$689	$980	$1,294	$2,179
+C:	 	 	 	 
+Expenses assuming redemption	$318	$673	$1,154	$2,483
+Expenses assuming no redemption	$218	$673	$1,154	$2,483
+1
+Table of Contents
+Share Class	1 Year	3 Years	5 Years	10 Years
+IS:	 	 	 	 
+Expenses assuming redemption	$114	$356	$617	$1,363
+Expenses assuming no redemption	$114	$356	$617	$1,363
+R6:	 	 	 	 
+Expenses assuming redemption	$113	$353	$612	$1,352
+Expenses assuming no redemption	$113	$353	$612	$1,352
+Portfolio Turnover
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” its portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund Shares are held in a taxable account. These costs, which are not reflected in Annual Fund Operating Expenses or in the Example, affect the Fund's performance. During the most recent fiscal year, the Fund's portfolio turnover rate was 89% of the average value of its portfolio.
+RISK/RETURN SUMMARY: INVESTMENTS, RISKS AND PERFORMANCE
+What are the Fund's Main Investment Strategies?
+In seeking to achieve its investment objective, the Fund may invest in a wide variety of investments such as equity securities, fixed-income securities, foreign securities, exchange-traded funds (ETFs) and derivative and hybrid instruments. Under normal conditions, the Fund's investment adviser (“Adviser”) anticipates investing approximately 60% of the Fund's assets in equity securities and 40% of the Fund's assets in fixed-income securities and other investments. The Adviser may vary this allocation +/-20% depending upon its economic and market outlook as well as a result of the identification of favorable investment opportunities.
+The Adviser's investment strategy for the domestic equity portion of the Fund's portfolio (other than real estate investment trusts (REITs)) utilizes a whole market, all-cap/all-style approach by selecting most of its investments from companies listed in the Russell 3000® Index, an index that measures the performance of the 3,000 largest U.S. companies by market capitalization representing approximately 98% of the investable domestic equity market. As of July 31, 2018, companies in the Russell 3000® Index ranged in market capitalization from $36.0 million to $935.3 billion.
+For the domestic equity portion of the Fund, other than investments in REITs, the Adviser implements its strategy using a quantitative model driven by fundamental and technical stock selection variables, including relative value, profit trends, capital structure and price history. This process seeks to impose strict discipline over stock selection, unimpeded by market or manager psychology. It seeks to maximize compound annual return while controlling risk. The process also takes into account trading costs in an effort to ensure that trades are generated only to the extent they are expected to be profitable on an after-trading-cost basis. Additionally, risk is controlled through diversification constraints which limit exposure to individual companies as well as groups of correlated companies.
+In managing the Fund's allocation to foreign equities, the Adviser attempts to diversify the portfolio across countries, in companies of all sizes with both growth and value characteristics.
+The Fund's equity allocation may include investments in REITs. The Fund may obtain exposure to commodities by investing in instruments (including ETFs) whose performance is linked to the price of an underlying commodity or commodity index.
+With respect to the fixed-income securities allocation, the Fund invests primarily in domestic investment-grade debt securities, including corporate debt securities, U.S. government obligations and mortgage-backed securities. The Adviser selects fixed-income securities by using fundamental credit research to identify relative value in the market. The Adviser seeks to enhance the performance of the Fund's fixed-income portfolio by allocating more assets to the security type that the Adviser expects to offer the best balance between total return and risk. Mortgage-backed securities tend to amortize principal on a somewhat irregular schedule over time, since the borrower can usually prepay all or part of the loan without penalty. These securities generally offer higher yields versus U.S. Treasury securities and non-mortgage-backed agency securities to compensate for this prepayment risk as well as any credit risk which might also be present in the security. Similarly, corporate debt securities, which tend to pay off on a predetermined schedule, generally offer higher yields than U.S. government securities to compensate for credit risk.
+The Fund intends to invest in government securities which are issued or guaranteed by a federal agency or instrumentality acting under federal authority, including government securities that are not backed by the full faith and credit of the U.S. government.
+2
+Table of Contents
+The Fund may also invest a portion of its portfolio in noninvestment-grade, fixed-income securities, when the Adviser considers the risk return prospects of those sectors to be attractive. The Fund may also invest a portion of its portfolio in non-U.S. dollar and emerging market fixed-income securities issued by entities such as foreign governments or foreign corporations when the Adviser considers the risk return prospects of those sectors to be attractive. The Fund may buy or sell foreign currencies in lieu of or in addition to non-dollar denominated fixed-income securities in order to increase or decrease its exposure to foreign interest and/or currency markets. The Fund may invest in American Depositary Receipts (ADRs) and other domestically traded securities of foreign companies. The Adviser selects securities with longer or shorter durations based on its interest rate outlook, but does not target any specific duration for the fixed-income portion of the Fund.
+The Fund may invest in exchange-traded and over-the-counter derivatives, such as options or futures and hybrid instruments, for any purpose consistent with its investment strategy. The Adviser also may attempt to reach its goals by investing in ETFs and shares of other investment companies.
+The Fund may use derivative contracts and/or hybrid instruments to implement elements of its investment strategy. For example, the Fund may use derivative contracts or hybrid instruments to increase or decrease the portfolio's exposure to the investment(s) underlying the derivative or hybrid instruments in an attempt to benefit from changes in the value of the underlying investment(s), to gain exposure to the municipal bond sector, to increase or decrease the effective duration of the Fund's portfolio or to hedge against potential losses.
+The Fund actively trades its portfolio securities in an attempt to achieve its investment objective. Active trading will cause the Fund to have an increased portfolio turnover rate and increase the Fund's trading costs, which may have an adverse impact on the Fund's performance. An active trading strategy will likely result in the Fund generating more short-term capital gains or losses. Short-term gains are generally taxed at a higher rate than long-term gains. Any short-term losses are used first to offset short-term gains.
+What are the Main Risks of Investing in the Fund?
+All mutual funds take investment risks. Therefore, it is possible to lose money by investing in the Fund. The primary factors that may reduce the Fund's returns include:
+■ 	Stock Market Risk. The value of equity securities in the Fund's portfolio will fluctuate and, as a result, the Fund's Share price may decline suddenly or over a sustained period of time. Information publicly available about a company, whether from the company's financial statements or other disclosures or from third parties, or information available to some but not all market participants, can affect the price of a company's shares in the market. Among other factors, equity securities may decline in value because of an increase in interest rates or changes in the stock market. Recent and potential future changes in industry and/or economic trends, as well as changes in monetary policy made by central banks and/or their governments, also can affect the level of interest rates and contribute to the development of or increase in volatility, illiquidity, shareholder redemptions and other adverse effects (such as a decline in a company's stock price), which could negatively impact the Fund's performance.
+■ 	Risk Related to Company Capitalization. The Fund may invest in companies with market capitalizations of any size, including small-capitalization and mid-capitalization (or “small-cap” and “mid-cap”) companies. The additional risks posed by small-cap and mid-cap companies could increase the volatility of the Fund's portfolio and performance. Shareholders should expect that the value of the Fund's Shares will be more volatile than a fund that invests exclusively in large-cap companies.
+■ 	Risk Related to Investing for Growth. Due to their relatively high valuations, growth stocks are typically more volatile than value stocks. Additionally, growth stocks may not pay dividends or may pay lower dividends than value stocks.
+■ 	Risk Related to Investing for Value. Due to their relatively low valuations, value stocks are typically less volatile than growth stocks. Additionally, value stocks tend to have higher dividends than growth stocks. This means they depend less on price changes for returns and may lag behind growth stocks in an up market.
+■ 	Risk of Foreign Investing. Because the Fund may invest in securities issued by foreign companies, the Fund's Share price may be more affected by foreign economic and political conditions, taxation policies and accounting and auditing standards than would otherwise be the case.
+■ 	Risk of Investing in American Depositary Receipts and Domestically Traded Securities of Foreign Issuers. Because the Fund may invest in American Depositary Receipts (ADRs) and other domestically traded securities of foreign companies, the Fund's Share price may be more affected by risks of foreign investing than would otherwise be the case.
+3
+Table of Contents
+■ 	Risk of Investing in Emerging Market Countries. Securities issued or traded in emerging markets generally entail greater risks than securities issued or traded in developed markets. Emerging market countries may have relatively unstable governments and may present the risk of nationalization of businesses, expropriation, confiscatory taxation or, in certain instances, reversion to closed market, centrally planned economies.
+■ 	Currency Risk. Exchange rates for currencies fluctuate daily. The Fund may use both spot trades and currency derivatives to increase or decrease its exposure to foreign interest rate and/or currency markets.
+■ 	Eurozone Related Risk. A number of countries in the European Union (EU) have experienced, and may continue to experience, severe economic and financial difficulties. Additional EU member countries may also fall subject to such difficulties. These events could negatively affect the value and liquidity of the Fund's investments in euro-denominated securities and derivatives contracts, securities of issuers located in the EU or with significant exposure to EU issuers or countries.
+■ 	Interest Rate Risk. Prices of fixed-income securities generally fall when interest rates rise. The longer the duration of a fixed-income security, the more susceptible it is to interest rate risk. Recent and potential future changes in monetary policy made by central banks and/or their governments are likely to affect the level of interest rates.
+■ 	Credit Risk. Credit risk is the possibility that an issuer will default on a security by failing to pay interest or principal when due. If an issuer defaults, the Fund will lose money. Credit risk includes the possibility that a party to a transaction (such as a derivative transaction) involving the Fund will fail to meet its obligations. This could cause the Fund to lose the benefit of the transaction or prevent the Fund from selling or buying other securities to implement its investment strategy.
+■ 	Call Risk. There is a possibility that an issuer of fixed-income securities in which the Fund may invest may redeem a security before maturity (a call) at a price below its current market price. An increase in the likelihood of a call may reduce the security's price.
+■ 	Prepayment and Extension Risk. When homeowners prepay their mortgages in response to lower interest rates, the Fund will be required to reinvest the proceeds at the lower interest rates then available. Also, when interest rates fall, the price of mortgage-backed securities may not rise to as great an extent as that of other fixed-income securities. When interest rates rise, homeowners are less likely to prepay their mortgages. A decreased rate of prepayments lengthens the expected maturity of a mortgage-backed security, and the price of mortgage-backed securities may decrease more than the price of other fixed income securities when interest rates rise.
+■ 	Risk Associated with Noninvestment-Grade Securities. Securities rated below investment grade may be subject to greater interest rate, credit and liquidity risks than investment-grade securities. These securities are considered speculative with respect to the issuer's ability to pay interest and repay principal.
+■ 	Exchange-Traded Funds Risk. An investment in an exchange-traded fund (ETF) generally presents the same primary risks as an investment in a conventional fund (i.e., one that is not exchange-traded). As with traditional mutual funds, ETFs charge asset-based fees. The change in value of the ETFs are due to the change in price of the securities in which the ETFs invest. Therefore, the Fund's net asset value will be indirectly effected by the change in value of the securities in which the ETF invests.
+■ 	Asset-Backed Securities (ABS) Risk. The value of asset-backed securities (ABS) may be affected by certain factors such as interest rate risk, credit risk, prepayment risk and the availability of information concerning the pool of underlying assets and its structure. Under certain market conditions, ABS may be less liquid and may be difficult to value. Movements in interest rates (both increases and decreases) may quickly and significantly reduce the value of certain types of ABS. ABS can also be subject to the risk of default on the underlying assets.
+■ 	Real Estate Investment Trust Risk. Real estate investment trusts (REITs), pooled investment vehicles that typically invest in real estate directly or in loans collateralized by real estate, carry risks associated with owning real estate, including the potential for a decline in value due to economic or market conditions.
+■ 	Risk of Investing in Derivative Contracts and Hybrid Instruments. Derivative contracts and hybrid instruments involve risks different from, or possibly greater than, risks associated with investing directly in securities and other traditional investments. Specific risk issues related to the use of such contracts and instruments include valuation and tax issues, increased potential for losses and/or costs to the Fund, and a potential reduction in gains to the Fund. Each of these issues is described in greater detail in this Prospectus. Derivative contracts and hybrid instruments may also involve other risks described in this Prospectus, such as stock market, interest rate, credit, currency and liquidity risks.
+■ 	Risk Related to the Economy. The value of the Fund's portfolio may decline in tandem with a drop in the overall value of the markets in which the Fund invests and/or other markets. Economic, political and financial conditions, or industry or economic trends and developments may, from time to time, and for varying periods of time, cause the Fund to experience volatility, illiquidity, shareholder redemptions or other potentially adverse effects.
+4
+Table of Contents
+■ 	Liquidity Risk. Trading opportunities are more limited for equity and fixed-income securities that are not widely held, and for fixed income securities that have not received any credit ratings or have received ratings below investment grade. Liquidity risk also refers to the possibility that the Fund may not be able to sell a security or close out a derivative contract when it wants to.
+■ 	Quantitative Modeling Risk. The Fund employs quantitative models as a management technique. These models examine multiple economic factors using various proprietary and third-party data. The results generated by quantitative analysis may perform differently than expected and may negatively affect Fund performance for various reasons (for example, human judgment, data imprecision, software or other technology malfunctions, or programming inaccuracies).
+The Shares offered by this Prospectus are not deposits or obligations of any bank, are not endorsed or guaranteed by any bank and are not insured or guaranteed by the U.S. government, the Federal Deposit Insurance Corporation, the Federal Reserve Board or any other government agency.
+PERFORMANCE: BAR CHART AND TABLE
+Risk/Return Bar Chart
+The bar chart and performance table below reflect historical performance data for the Fund and are intended to help you analyze the Fund's investment risks in light of its historical returns. The bar chart shows the variability of the Fund's IS class total returns on a calendar year-by-year basis. The Average Annual Total Return Table shows returns averaged over the stated periods, and includes comparative performance information. The Fund's performance will fluctuate, and past performance (before and after taxes) is not necessarily an indication of future results. Updated performance information for the Fund is available under the “Products” section at FederatedInvestors.com or by calling 1-800-341-7400.
+
+  
+The Fund's IS class total return for the six-month period from January 1, 2018 to June 30, 2018, was 3.11%.
+Within the periods shown in the bar chart, the Fund's IS class highest quarterly return was 11.41% (quarter ended September 30, 2009). Its lowest quarterly return was (16.26)% (quarter ended December 31, 2008).
+Average Annual Total Return Table
+Prior to September 1, 2016, R6 class shares were known as R class shares and included 12b-1 fees and certain other expenses. As of September 1, 2016, the R6 class does not include such 12b-1 fees and certain other expenses, and the performance shown below for the R6 class prior to September 1, 2016 reflects the higher R class expenses.
+In addition to Return Before Taxes, Return After Taxes is shown for the Fund's IS class to illustrate the effect of federal taxes on Fund returns. After-tax returns are shown only for IS class, and after-tax returns for the A, C and R6 classes will differ from those shown for the IS class. Actual after-tax returns depend on each investor's personal tax situation, and are likely to differ from those shown. After-tax returns are calculated using a standard set of assumptions. The stated returns assume the highest historical federal income and capital gains tax rates. These after-tax returns do not reflect the effect of any applicable state and local taxes. After-tax returns are not relevant to investors holding shares through a 401(k) plan, an Individual Retirement Account or other tax-advantaged investment plan.
+5
+Table of Contents
+(For the Period Ended December 31, 2017)
+Share Class	1 Year	5 Years	10 Years
+A:	 	 	 
+Return Before Taxes	7.58%	8.15%	4.07%
+C:	 	 	 
+Return Before Taxes	11.98%	8.55%	3.87%
+IS:	 	 	 
+Return Before Taxes	14.12%	9.65%	4.91%
+Return After Taxes on Distributions	13.34%	9.16%	4.47%
+Return After Taxes on Distributions and Sale of Fund Shares	7.99%	7.51%	3.80%
+R6:	 	 	 
+Return Before Taxes	14.15%	9.25%	4.34%
+S&P 500 Index1
+(reflects no deduction for fees, expenses or taxes)	21.83%	15.79%	8.50%
+Bloomberg Barclays U.S. Aggregate Bond Index2
+(reflects no deduction for fees, expenses or taxes)	3.54%	2.10%	4.01%
+Blended Index3
+(reflects no deduction for fees, expenses or taxes)	14.21%	10.25%	6.98%
+Morningstar Allocation-50% to 70% Equity Funds Average4
+(reflects no deduction for fees, expenses or taxes)	13.22%	7.92%	4.96%
+1	The S&P 500 Index is an unmanaged, capitalization-weighted index of 500 stocks designed to measure performance of the broad domestic economy through changes in the aggregate market value of 500 stocks representing all major industries.
+2	The Bloomberg Barclays U.S. Aggregate Bond Index is a broad-based benchmark that measures the investment-grade, U.S. dollar-denominated, fixed-rate taxable bond market.
+3	The Fund's Blended Index, which reflects 60% of the S&P 500 Index and 40% of the Bloomberg Barclays U.S. Aggregate Bond Index, is being used for comparison purposes because, although it is not the Fund's broad-based securities market index, the Fund's Adviser believes it is more reflective of the Fund's balanced investment style.
+4	Morningstar figures represent the average of the total returns reported by all the mutual funds designated by Morningstar as falling into the respective category indicated.
+FUND MANAGEMENT
+The Fund's Investment Adviser is Federated MDTA LLC. The Fund's Sub-Adviser is Federated Investment Management Company.
+John F. Sherman, Senior Portfolio Manager, has been the Fund's portfolio manager responsible for asset allocation and the selection of REIT securities since October 2002.
+Daniel J. Mahr, Managing Director, Research, has been the Fund's portfolio manager for the equity portion of the Fund since August 2008.
+Frederick L. Konopka, Portfolio and Trading Manager, has been the Fund's portfolio manager for the equity portion of the Fund since August 2008.
+Chengjun (Chris) Wu, Portfolio Manager, has been the Fund's portfolio manager for the fixed-income portion of the Fund since April 2014.
+John Paul Lewicke, Research Manager, has been the Fund's portfolio manager for the equity portion of the Fund since September 2014.
+Damien Zhang, Research Manager, has been the Fund's portfolio manager for the equity portion of the Fund since August 2018.
+PURCHASE AND SALE OF FUND SHARES
+You may purchase, redeem or exchange Shares of the Fund on any day the New York Stock Exchange is open. Shares may be purchased through a financial intermediary firm that has entered into a Fund selling and/or servicing agreement with the Distributor or an affiliate (“Financial Intermediary”) or directly from the Fund, by wire or by check. Please note that certain purchase restrictions may apply. Redeem or exchange Shares through a financial intermediary or directly from the Fund by telephone at 1-800-341-7400 or by mail.
+6
+Table of Contents
+A & C Classes
+The minimum investment amount for the Fund's A and C classes is generally $1,500 for initial investments and $100 for subsequent investments. The minimum initial and subsequent investment amounts for Individual Retirement Accounts are generally $250 and $100, respectively. There is no minimum initial or subsequent investment amount for employer-sponsored retirement plans. Certain types of accounts are eligible for lower minimum investments. The minimum investment for Systematic Investment Programs is $50.
+R6 Class
+There are no minimum initial or subsequent investment amounts required. The minimum investment amount for Systematic Investment Programs is $50.
+IS Class
+The minimum initial investment amount for the Fund's IS class is generally $1,000,000 and there is no minimum subsequent investment amount. Certain types of accounts are eligible for lower minimum investments. The minimum investment amount for Systematic Investment Programs is $50.
+TAX INFORMATION
+The Fund's distributions are taxable as ordinary income or capital gains except when your investment is through a 401(k) plan, an Individual Retirement Account or other tax-advantaged investment plan.
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+A Class, C Class, IS Class
+If you purchase the Fund through a broker-dealer or other financial intermediary (such as a bank), the Fund and/or its related companies may pay the intermediary for the sale of Fund Shares and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary's website for more information.
+PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES
+R6 Class
+Class R6 Shares do not make any payments to financial intermediaries, either from Fund assets or from the investment adviser and its affiliates.

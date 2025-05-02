@@ -1,0 +1,539 @@
+MainStay VP Growth Allocation Portfolio
+<head_breaker>
+
+MainStay VP Growth Allocation Portfolio
+
+Investment Objective
+The Portfolio seeks long-term growth of capital.
+
+Fees and Expenses of the Portfolio
+The table below describes the fees and expenses that you may pay if you buy and hold shares of the Portfolio. The table does not include any separate account or policy fees or charges imposed under the variable annuity policies and variable universal life insurance policies for which the Portfolio is an investment option. If they were included, your costs would be higher. Investors should consult the applicable variable annuity policy or variable universal life insurance policy prospectus for more information.
+
+ 	 	 	 	 	 	 	 	 	 
+ 
+
+ 
+
+Initial
+
+ 
+
+Service
+
+ 
+
+ 
+
+ 
+
+Class
+
+ 
+
+Class
+
+Annual Portfolio Operating Expenses
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(fees paid directly from your investment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Management Fees (as an annual percentage of the Portfolio's average daily net assets)
+
+ 
+
+None
+
+ 
+
+ 
+
+ 
+
+None
+
+ 
+
+ 
+
+Distribution and Service (12b-1) Fees
+
+ 
+
+None
+
+ 
+
+ 
+
+ 
+
+0.25
+
+%
+
+ 
+
+Other Expenses
+
+ 
+
+0.02
+
+%
+
+ 
+
+ 
+
+0.02
+
+%
+
+Acquired (Underlying) Portfolio/Fund Fees and Expenses
+
+ 
+
+1.07
+
+%
+
+ 
+
+1.07
+
+%
+
+Total Annual Portfolio Operating Expenses
+
+ 
+
+1.09
+
+%
+
+ 
+
+1.34
+
+%
+
+Example
+The Example is intended to help you compare the cost of investing in the Portfolio with the cost of investing in other mutual funds. The Example does not include any separate account or policy fees or charges imposed under the variable annuity policies and variable universal life insurance policies for which the Portfolio is an investment option. If they were included, your costs would be higher. The Example assumes that you invest $10,000 in the Portfolio for the time periods indicated whether or not you redeem all of your shares at the end of those periods. The Example also assumes that your investment has a 5% return each year and that the Portfolio's operating expenses remain the same. The Example reflects the contractual fee waiver and/or expense reimbursement arrangement, if applicable, for the current duration of the arrangement only. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 	 	 	 	 	 	 	 	 	 
+ 
+
+ 
+
+1 Year
+
+ 
+
+3 Years
+
+ 
+
+5 Years
+
+ 
+
+10 Years
+
+ 
+
+ Initial Class
+
+ 
+
+$      111
+
+ 
+
+$      347
+
+ 
+
+$      601
+
+ 
+
+$   1,329
+
+ 
+
+ Service Class
+
+ 
+
+$      136
+
+ 
+
+$      425
+
+ 
+
+$      734
+
+ 
+
+$   1,613
+
+ 
+
+Portfolio Turnover
+The Portfolio pays transaction costs, such as commissions, when it buys and sells securities (or "turns over" its portfolio). A higher portfolio turnover rate may indicate higher transaction costs. These costs, which are not reflected in annual Portfolio operating expenses or in the Example, affect the Portfolio's performance. During the most recent fiscal year, the Portfolio's portfolio turnover rate was 26% of the average value of its portfolio.
+
+Principal Investment Strategies
+The Portfolio is a "fund of funds," meaning that it seeks to achieve its investment objective by investing primarily in mutual funds and exchange-traded funds managed by New York Life Investment Management LLC (“New York Life Investments”) or its affiliates (the "Underlying Portfolios/Funds"). The Underlying Portfolios/Funds are described and offered in this Prospectus and in separate prospectuses. The Portfolio is designed for investors with a particular risk profile as represented by the asset class allocations described below, and invests in a distinct mix of Underlying Portfolios/Funds.
+
+The Portfolio seeks to achieve its investment objective by normally investing substantially all of its assets in Underlying Equity Portfolios/Funds (normally within a range of 90% to 100%). The Portfolio may invest approximately 25% (within a range of 15% to 35%) of its assets in international equity funds. The Portfolio may invest up to 10% of its assets in Underlying Fixed-Income Portfolios/Funds. New York Life Investments may change the asset class allocations, the Underlying Portfolios/Funds in which the Portfolio invests, or the target weighting without prior approval from shareholders. With respect to investments in Underlying Portfolios/Funds that invest significantly in both U.S. and non-U.S. equity securities, New York Life Investments will generally allocate such investments equally between U.S. equity funds and international equity funds.
+
+New York Life Investments will determine each Underlying Portfolio/Fund’s asset class, and for Underlying Portfolios/Funds that may potentially fall into multiple asset classes, New York Life Investments will classify them based on certain factors, including, but not limited to, the Underlying Portfolio/Fund's investment strategy and portfolio characteristics. The Underlying Portfolios/Funds may engage in strategies involving non-traditional asset classes (e.g., master limited partnerships), non-traditional investment strategies (e.g., non-correlated returns or short sales) or illiquid assets.
+
+171
+
+MainStay VP Growth Allocation Portfolio
+
+New York Life Investments uses a two-step asset allocation process to create the Portfolio's investments. The first step includes a strategic review of the target allocations to the equity and fixed-income asset classes and a determination of any tactical allocation adjustments to establish the portion of the Portfolio's investable portfolio (meaning the Portfolio's assets available for investment, other than working cash balances) to be invested in each asset class.
+
+The following table illustrates the Portfolio's target allocations among asset classes (the target allocations and/or actual holdings will vary from time to time as a result of the tactical allocation process, although these variations will remain within the ranges described above):
+
+ 	 	 	 	 
+ 	
+U.S. Equity
+
+International Equity
+
+Total Equity
+
+Fixed-Income
+
+MainStay VP Growth Allocation Portfolio*
+
+75%
+
+25%
+
+100%
+
+0%
+
+*Percentages represent target allocations, actual allocation percentages may vary up to +/-10% under normal conditions.
+
+The second step in the Portfolio's construction process involves the actual selection of Underlying Portfolios/Funds to represent the asset classes indicated above and determination of target weightings among the Underlying Portfolios/Funds for the Portfolio's investments. The Portfolio may invest in any or all of the Underlying Portfolios/Funds within an asset class, but will not normally invest in every Underlying Portfolio/Fund at one time. Selection of individual Underlying Portfolios/Funds is based on several factors, including, but not limited to, past performance and total portfolio characteristics (e.g., size, style, credit quality and duration). For cash management purposes, the Portfolio may hold a portion of its assets in U.S. government securities, cash or cash equivalents. The Portfolio also may invest in Underlying Portfolios/Funds that are money market funds.
+
+New York Life Investments monitors the Portfolio's investments daily to ensure that the Portfolio's actual asset class allocations among the Underlying Portfolios/Funds continue to conform to the Portfolio's target allocations over time and may periodically adjust target asset class allocations based on various quantitative and qualitative data relating to the U.S. and international economies, securities markets, and various segments within those markets. In response to adverse market or other conditions, the Portfolio may, regardless of its normal asset class allocations, temporarily hold all or a portion of its assets in U.S. government securities, money market funds, cash, or cash equivalents. In connection with the asset allocation process, the Portfolio may from time to time invest more than 25% of its assets in one Underlying Portfolio/Fund.
+
+Principal Risks of the Portfolio
+You can lose money by investing in the Portfolio. An investment in the Portfolio is not a bank deposit and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency. The investments selected by New York Life Investments may underperform the market or other investments. The Portfolio may receive large purchase or redemption orders, which may have adverse effects on performance if the Portfolio were required to sell securities, invest cash or hold a relatively large amount of cash at times when it would not otherwise do so.
+
+The principal risks of investing in the Portfolio are summarized below.
+
+Asset Allocation Risk: Although allocation among different asset classes generally limits the Portfolio's exposure to the risks of any one class, the risk remains that New York Life Investments may favor an asset class that performs poorly relative to the other asset classes. For example, deteriorating economic conditions might cause an overall weakness in corporate earnings that reduces the absolute level of stock prices in that market. Under these circumstances, if the Portfolio, through its holdings of Underlying Portfolios/Funds, were invested primarily in stocks, it would perform poorly relative to a portfolio invested primarily in bonds. The Underlying Portfolios/Funds selected by New York Life Investments may underperform the market or other investments. Similarly, the portfolio managers of the Underlying Portfolios/Funds could be incorrect in their analysis of economic trends, countries, industries, companies, the relative attractiveness of asset classes or other matters. Moreover, because the Portfolio has set limitations on the amount of assets that normally may be allocated to each asset class, the Portfolio has less flexibility in its investment strategy than mutual funds that are not subject to such limitations. In addition, the asset allocations made by the Portfolio may not be ideal for all investors and may not effectively increase returns or decrease risk for investors.
+
+Concentration Risk: To the extent that the Portfolio invests a significant portion of its assets in a single Underlying Portfolio/Fund, it will be particularly sensitive to the risks associated with that Underlying Portfolio/Fund and changes in the value of that Underlying Portfolio/Fund may have a significant effect on the net asset value of the Portfolio. Similarly, the extent to which an Underlying Portfolio/Fund invests a significant portion of its assets in a single industry or economic sector will impact the Portfolio’s sensitivity to adverse developments affecting such industry or sector.
+
+Conflicts of Interest: Potential conflicts of interest situations could arise. For example, New York Life Investments may be subject to potential conflicts of interest in selecting or allocating assets among the Underlying Portfolios/Funds because the fees paid to it and its affiliates by some Underlying Portfolios/Funds are higher than the fees paid by other Underlying Portfolios/Funds. In addition, the Portfolio’s portfolio managers may also serve as portfolio managers to one or more Underlying Portfolios/Funds and may have an incentive to select certain Underlying Portfolios/Funds due to compensation considerations or to support new investment strategies or cash flow needs of Underlying Portfolios/Funds. Moreover, a situation could occur where the best interests of the Portfolio could be adverse to the best interests of an Underlying Portfolio/Fund or vice versa. New York Life Investments will analyze any such situation and take all steps it believes to be necessary to minimize and, where possible, eliminate potential conflicts in light of the fiduciary duty New York Life Investments has to the Portfolio, which requires it to act in the best interests of the Portfolio when selecting Underlying Portfolios/Funds.
+
+172
+
+MainStay VP Growth Allocation Portfolio
+
+Exchange-Traded Fund ("ETF") Risk: The risks of owning an ETF generally reflect the risks of owning the underlying securities they are designed to track, although lack of liquidity in an ETF could result in it being more volatile than the underlying portfolio of securities. Disruptions in the markets for the securities underlying ETFs purchased or sold by the Portfolio could result in losses on the Portfolio's investments in ETFs. ETFs also have management fees that increase their costs versus the costs of owning the underlying securities directly.
+
+Large Transaction Risks: To minimize disruptions to the operations of the Portfolio and the Underlying Portfolios/Funds, New York Life Investments seeks to maintain existing target allocations and to implement small changes to target allocations through the netting of purchases and redemptions of Portfolio shares. These practices may temporarily affect New York Life Investments' ability to fully implement the Portfolio's investment strategies.
+
+Portfolio Management Risk: The investment strategies, practices and risk analysis used by New York Life Investments may not produce the desired results. In addition, the Portfolio may not achieve its investment objective, including during a period in which New York Life Investments takes temporary positions in response to unusual or adverse market, economic or political conditions, or other unusual or abnormal circumstances.
+
+Principal Risks of the Underlying Portfolios/Funds
+The principal risks of the Underlying Portfolios/Funds, which could adversely affect the performance of the Portfolio, may include the risks summarized below:
+
+Market Risk: The value of an Underlying Portfolio/Fund's investments may fluctuate because of changes in the markets in which the Underlying Portfolio/Fund invests, which could cause the Underlying Portfolio/Fund to underperform other funds with similar investment objectives and strategies. Changes in these markets may be rapid and unpredictable. From time to time, markets may experience periods of stress for potentially prolonged periods that may result in: (i) increased market volatility; (ii) reduced market liquidity; and (iii) increased redemptions of Underlying Portfolio/Fund shares. Such conditions may add significantly to the risk of volatility in the net asset value of the Underlying Portfolio/Fund's shares.
+
+Portfolio Management Risk: The investment strategies, practices and risk analysis used by an Underlying Portfolio/Fund's manager or subadvisor may not produce the desired results. In addition, an Underlying Portfolio/Fund may not achieve its investment objective, including during a period in which an Underlying Portfolio/Fund's manager or subadvisor takes temporary positions in response to unusual or adverse market, economic or political conditions, or other unusual or abnormal circumstances.
+
+Derivatives Risk: Derivatives are investments whose value depends on (or is derived from) the value of an underlying instrument, such as a security, asset, reference rate or index. Derivative strategies may expose an Underlying Portfolio/Fund to greater risk than if it had invested directly in the underlying instrument and often involve leverage, which may exaggerate a loss, potentially causing an Underlying Portfolio/Fund to lose more money than it originally invested and would have lost had it invested directly in the underlying instrument. For example, if the Underlying Portfolio/Fund is the seller of credit protection in a credit default swap, the Underlying Portfolio/Fund effectively adds leverage to its portfolio and is subject to the credit exposure on the full notional value of the swap. Derivatives may be difficult to sell, unwind or value. Derivatives may also be subject to counterparty risk, which is the risk that the counterparty (the party on the other side of the transaction) on a derivative transaction will be unable to honor its contractual obligations to an Underlying Portfolio/Fund. Futures may be more volatile than direct investments in the instrument underlying the contract, and may not correlate perfectly to the underlying instrument. Futures and other derivatives also may involve a small initial investment relative to the risk assumed, which could result in losses greater than if they had not been used. Due to fluctuations in the price of the underlying asset, an Underlying Portfolio/Fund may not be able to profitably exercise an option and may lose its entire investment in an option. Forward commitments entail the risk that the instrument may be worth less when it is issued or received than the price an Underlying Portfolio/Fund agreed to pay when it made the commitment. The use of foreign currency forwards may result in currency exchange losses due to fluctuations in currency exchange rates or an imperfect correlation between portfolio holdings denominated in a particular currency and the forward contracts entered into by an Underlying Portfolio/Fund. Uncleared swaps are particularly subject to counterparty credit, correlation, valuation, liquidity and leveraging risks. Additionally, applicable regulators have adopted rules imposing certain margin requirements, including minimums on uncleared swaps, which may result in an Underlying Portfolio/Fund and its counterparties posting higher margin amounts for uncleared swaps. Certain standardized swaps are subject to mandatory central clearing and exchange trading. Central clearing, which interposes a central clearinghouse to each participant’s swap, and exchange trading are intended to reduce counterparty credit risk and increase liquidity but neither makes swap transactions risk-free. Derivatives may also increase the expenses of an Underlying Portfolio/Fund.
+
+Equity Securities Risk: Investments in common stocks and other equity securities are particularly subject to the risk of changing economic, stock market, industry and company conditions and the risks inherent in the portfolio managers' ability to anticipate such changes that can adversely affect the value of an Underlying Portfolio/Fund's holdings. Opportunity for greater gain often comes with greater risk of loss.
+
+Debt Securities Risk: The risks of investing in debt or fixed-income securities include (without limitation): (i) credit risk, e.g., the issuer or guarantor of a debt security may be unable or unwilling (or be perceived as unable or unwilling) to make timely principal and/or interest payments or otherwise honor its obligations; (ii) maturity risk, e.g., a debt security with a longer maturity may fluctuate in value more than one with a shorter maturity; (iii) market risk, e.g., low demand for debt securities may negatively impact their price; (iv) interest rate risk, e.g., when interest rates go up, the value of a debt security generally goes down, and when interest rates go down, the value of a debt security generally goes up (long-term debt securities are generally more susceptible to interest rate risk than short-term debt securities); and (v) call risk, e.g., during a period of falling
+
+173
+
+MainStay VP Growth Allocation Portfolio
+
+interest rates, the issuer may redeem a security by repaying it early, which may reduce an Underlying Portfolio/Fund’s income if the proceeds are reinvested at lower interest rates.
+
+Interest rates in the United States are near historic lows, and Underlying Fixed-Income Portfolios/Funds may currently face a heightened level of interest rate risk. To the extent the Board of Governors of the Federal Reserve System (“Federal Reserve Board”) continues to raise the federal funds rate, there is a risk that interest rates across the financial system may rise, possibly significantly and/or rapidly. Rising interest rates or lack of market participants may lead to decreased liquidity and increased volatility in the fixed-income or debt markets, making it more difficult for an Underlying Portfolio/Fund to sell its fixed-income or debt holdings at a time when its manager or subadvisor might wish to sell. Decreased liquidity in the fixed-income or debt markets also may make it more difficult to value some or all of an Underlying Portfolio/Fund’s fixed-income or debt holdings.
+
+Foreign Securities Risk: Investments in foreign securities may be riskier than investments in U.S. securities. Differences between U.S. and foreign regulatory regimes and securities markets, including less stringent investor protections and disclosure standards of some foreign markets, less liquid trading markets and political and economic developments in foreign countries, may affect the value of an Underlying Portfolio/Fund's investments in foreign securities. Foreign securities may also subject an Underlying Portfolio/Fund's investments to changes in currency rates. Changes in the value of foreign currencies may make the return on an investment go up or down, unrelated to the quality or performance of the investment itself. These risks may be greater with respect to securities of companies that conduct their business activities in emerging markets or whose securities are traded principally in emerging markets.
+
+Growth Stock Risk: If growth companies do not increase their earnings at a rate expected by investors, the market price of the stock may decline significantly, even if earnings show an absolute increase. Growth company stocks also typically lack the dividend yield that can cushion stock prices in market downturns.
+
+High-Yield Securities Risk: Investments in high-yield securities or non-investment grade securities (commonly referred to as "junk bonds") are considered speculative because they present a greater risk of loss than higher quality securities. Such securities may, under certain circumstances, be less liquid than higher rated securities. These securities pay investors a premium (a high interest rate or yield) because of the potential illiquidity and increased risk of loss. These securities can also be subject to greater price volatility. In times of unusual or adverse market, economic or political conditions, these securities may experience higher than normal default rates.
+
+Liquidity and Valuation Risk: Securities purchased by an Underlying Portfolio/Fund may be illiquid at the time of purchase or liquid at the time of purchase and subsequently become illiquid due to, among other things, events relating to the issuer of the securities, market events, operational issues, economic conditions, investor perceptions or lack of market participants. The lack of an active trading market may make it difficult to sell or obtain an accurate price for a security. If market conditions or issuer specific developments make it difficult to value securities, the Underlying Portfolio/Fund may value these securities using more subjective methods, such as fair value pricing. In such cases, the value determined for a security could be different than the value realized upon such security's sale. As a result, the Portfolio could pay more than the market value when buying Underlying Portfolio/Fund shares or receive less than the market value when selling Underlying Portfolio/Fund shares. This could affect the proceeds of any redemption or the number of shares the Portfolio receives upon purchase. Liquidity risk may also refer to the risk that an Underlying Portfolio/Fund may not be able to pay redemption proceeds within the allowable time period because of unusual market conditions, unusually high volume of redemptions, or other reasons. To meet redemption requests or to raise cash to pursue other investment opportunities, an Underlying Portfolio/Fund may be forced to sell securities at an unfavorable time and/or under unfavorable conditions, which may adversely affect the Underlying Portfolio/Fund.
+
+Market Capitalization Risk: To the extent an Underlying Portfolio/Fund invests in securities issued by small-, mid-, or large-cap companies, an Underlying Portfolio/Fund will be subject to the risks associated with securities issued by companies of the applicable market capitalization.  Securities of small-cap and mid-cap companies may be subject to greater price volatility, significantly lower trading volumes, cyclical, static or moderate growth prospects and greater spreads between their bid and ask prices than securities of larger companies. Smaller capitalization companies frequently rely on narrower product lines and niche markets and may be more vulnerable to adverse business or market developments.  Securities issued by larger companies may have less growth potential and may not be able to attain the high growth rates of successful smaller companies, especially during strong economic periods.  In addition, larger companies may be less capable of responding quickly to competitive challenges and industry changes, including those resulting from improvements in technology, and may suffer sharper price declines as a result of earnings disappointments.  There is a risk that the securities issued by companies of a certain market capitalization may underperform the broader market at any given time.
+
+Mortgage-Related and Other Asset-Backed Securities Risk: Investments in mortgage-related securities (such as mortgage-backed securities) and other asset-backed securities generally involve a stream of payments based on the underlying obligations. These payments, which are often part interest and part return of principal, vary based on the rate at which the underlying borrowers repay their loans or other obligations. Asset-backed securities are subject to the risk that borrowers may default on the underlying obligations and that, during periods of falling interest rates, these obligations may be called or prepaid and, during periods of rising interest rates, obligations may be paid more slowly than expected. Impairment of the underlying obligations or collateral, such as by non-payment, will reduce the security's value. Enforcing rights against such collateral in events of default may be difficult or insufficient. The value of these securities may be significantly affected by changes in interest rates, the market's perception of issuers, and the creditworthiness of the parties involved. The ability of an Underlying Portfolio/Fund to successfully utilize
+
+174
+
+MainStay VP Growth Allocation Portfolio
+
+these instruments may depend on the ability of the Underlying Portfolio/Fund's manager or subadvisor to forecast interest rates and other economic factors correctly. These securities may have a structure that makes their reaction to interest rate changes and other factors difficult to predict, making their value highly volatile.
+
+Real Estate Investment Trust ("REIT") Risk: Investments in REITs involve risks associated with direct ownership of real estate, including decline in property values, extended vacancies, increases in property taxes and changes in interest rates. Additionally, the appreciation of securities issued by a REIT depends, in part, on the skills of the REIT’s manager. REITs may not be diversified, may experience substantial cost in the event of borrower or lessee defaults and are subject to heavy cash flow dependency.
+
+Short Sales Risk: If a security sold short increases in price, an Underlying Portfolio/Fund may have to cover its short position at a higher price than the short sale price, resulting in a loss, which could be theoretically unlimited. An Underlying Portfolio/Fund may have substantial short positions and must borrow those securities to make delivery to the buyer. An Underlying Portfolio/Fund may not be able to borrow a security that it needs to deliver or it may not be able to close out a short position at an acceptable price and may have to sell related long positions before it had intended to do so. Thus, an Underlying Portfolio/Fund may not be able to successfully implement its short sale strategy due to limited availability of desired securities or for other reasons. By investing the proceeds received from selling securities short, an Underlying Portfolio/Fund is employing a form of leverage which creates special risks.
+
+An Underlying Portfolio/Fund may also be required to pay a premium and other transaction costs, which would increase the cost of the security sold short. The amount of any gain will be decreased, and the amount of any loss increased, by the amount of the premium, dividends, interest or expenses an Underlying Portfolio/Fund may be required to pay in connection with the short sale.
+
+Until an Underlying Portfolio/Fund replaces a borrowed security, it is required to maintain a segregated account of cash or liquid assets with a broker or custodian to cover an Underlying Portfolio/Fund's short position. Generally, securities held in a segregated account cannot be sold unless they are replaced with other liquid assets. An Underlying Portfolio/Fund's ability to access the pledged collateral may also be impaired in the event the broker fails to comply with the terms of the contract. In such instances an Underlying Portfolio/Fund may not be able to substitute or sell the pledged collateral. Additionally, an Underlying Portfolio/Fund must maintain sufficient liquid assets (less any additional collateral pledged to or held by the broker), marked-to-market daily, to cover the short sale obligation. This may limit an Underlying Portfolio/Fund's investment flexibility, as well as its ability to meet redemption requests or other current obligations.
+
+Because losses on short sales arise from increases in the value of the security sold short, such losses are theoretically unlimited. By contrast, a loss on a long position arises from decreases in the value of the security and is limited by the fact that a security’s value cannot go below zero.
+
+Regulatory Risk: An Underlying Portfolio/Fund as well as the issuers of the securities and other instruments in which the Underlying Portfolio/Fund invests are subject to considerable regulation and the risks associated with adverse changes in laws and regulations governing their operations. For example, regulatory authorities in the United States or other countries may prohibit or restrict the ability of an Underlying Portfolio/Fund to fully implement its short-selling strategy, either generally or with respect to certain industries or countries, which may impact the Underlying Portfolio/Fund's ability to fully implement its investment strategies. In addition, regulatory authorities are in the process of adopting and implementing regulations governing derivatives markets, and although the ultimate impact of the regulations remains unclear, the regulations may adversely affect, among other things, the availability, value or performance of derivatives.
+
+Value Stock Risk: Value stocks may never reach what an Underlying Portfolio/Fund's portfolio manager believes is their full value or they may go down in value. In addition, different types of stocks tend to shift in and out of favor depending on market and economic conditions, and therefore the performance of Underlying Portfolios/Funds that invest in value stocks may be lower or higher than that of funds that invest in other types of equity securities.
+
+Master Limited Partnerships ("MLPs") and Other Natural Resources Sector Companies Risks: Natural resources sector companies, including energy companies and MLPs, are subject to risks, including, but not limited to, fluctuations in the prices of commodities, a significant decrease in the production of or a sustained decline in demand for commodities, and construction risk, development risk, acquisition risk or other risks arising from their specific business strategies. Energy companies are affected by worldwide energy prices and may suffer losses as a result of adverse changes in these prices and market volatility. Additionally, energy companies may be at risk for increased government regulation and intervention and litigation. In addition, investing in MLPs involves certain risks related to investing in the underlying assets of the MLPs and risks associated with pooled investment vehicles. MLPs are subject to certain risks inherent in the structure of MLPs, including (i) tax risks; (ii) the limited ability to elect or remove management or the general partner or managing member; (iii) limited voting rights; and (iv) conflicts of interest between the general partner or managing member and its affiliates, on the one hand, and the limited partners or members, on the other hand, including those arising from incentive distribution payments or corporate opportunities. Securities issued by MLPs may experience limited trading volumes and, thus, may be relatively illiquid.
+
+Past Performance
+The following bar chart and table indicate some of the risks of investing in the Portfolio. The bar chart shows you how the Portfolio's calendar year performance has varied over the last ten years. The average annual total returns table shows how the Portfolio’s average annual total returns for the one-, five- and ten-year periods compare to those of two broad-based securities market indices, as well as a composite index. Separate variable annuity and variable universal life insurance account and policy fees and charges are not reflected in the bar chart and table. If they were,
+
+175
+
+MainStay VP Growth Allocation Portfolio
+
+returns would be less than those shown. The Portfolio has selected the Standard & Poor’s 500® Index (“S&P 500® Index”) as its primary benchmark. The S&P 500® Index is widely regarded as the standard index for measuring large-cap U.S. stock market performance. The Portfolio has selected the MSCI EAFE® Index as its secondary benchmark. The MSCI EAFE® Index consists of international stocks representing the developed world outside of North America. The Portfolio has selected the Growth Allocation Composite Index as an additional benchmark. The Growth Allocation Composite Index consists of the S&P 500® Index and the MSCI EAFE® Index weighted 75% and 25%, respectively.
+
+Performance data for the classes varies based on differences in their fee and expense structures. Past performance is not necessarily an indication of how the Portfolio will perform in the future.
+
+Annual Returns, Initial Class Shares
+(by calendar year 2008-2017)
+
+
+
+ 	 	 
+Best Quarter
+
+ 
+3Q/09
+
+16.14
+
+%
+
+Worst Quarter
+
+ 
+4Q/08
+
+-20.77
+
+%
+
+Average Annual Total Returns (for the periods ended December 31, 2017)
+
+ 	 	 	 	 	 	 	 	 	 
+ 
+
+ 
+
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+Inception
+
+ 
+
+1 Year
+
+5 Years
+
+10 Years
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 	 	 	
+ 
+
+Initial Class
+
+2/13/2006
+
+ 
+
+22.67
+
+%
+
+11.90
+
+%
+
+6.13
+
+%
+
+ 
+
+Service Class
+
+2/13/2006
+
+ 
+
+22.36
+
+%
+
+11.62
+
+%
+
+5.87
+
+%
+
+ 
+
+S&P 500® Index (reflects no deductions for fees, expenses, or taxes)
+
+21.83
+
+%
+
+15.79
+
+%
+
+8.50
+
+%
+
+ 
+
+MSCI EAFE® Index (reflects no deductions for fees, expenses, or taxes)
+
+25.03
+
+%
+
+7.90
+
+%
+
+1.94
+
+%
+
+ 
+
+Growth Allocation Composite Index (reflects no deductions for fees, expenses, or taxes)
+
+22.66
+
+%
+
+13.90
+
+%
+
+7.07
+
+%
+
+ 
+
+Management
+New York Life Investment Management LLC serves as the Portfolio’s Manager and is responsible for the day-to-day portfolio management of the Portfolio.
+
+ 	 	 
+Manager
+
+Portfolio Managers
+
+Portfolio Service Date
+
+New York Life Investment Management LLC
+
+Jae S. Yoon, Senior Managing Director
+
+Since 2011
+
+ 	
+Jonathan Swaney, Managing Director
+
+Since 2008
+
+ 	
+Poul Kristensen, Managing Director
+
+Since 2013
+
+ 	
+Amit Soni, Director
+
+Since 2016
+
+How to Purchase and Sell Shares
+Shares of the Portfolio are currently offered to certain separate accounts to fund variable annuity policies and variable universal life insurance policies issued by New York Life Insurance and Annuity Corporation ("NYLIAC”).
+
+Individual investors do not transact directly with the Portfolio to purchase and redeem shares. Rather, investors select underlying investment options offered by the applicable policy. Please refer to the prospectus for the variable annuity policy or variable universal life insurance policy that offers the Portfolio as an underlying investment option for information on the allocation of premium payments and on transfers among the investment divisions of the separate account that invests in the Portfolio.
+
+176
+
+MainStay VP Growth Allocation Portfolio
+
+Tax Information
+Because the Portfolio's shareholders are the separate accounts of NYLIAC through which you purchased your variable annuity policy or variable life insurance policy, no discussion is included herein as to the federal income tax consequences at the shareholder level. For information concerning the federal income tax consequences to purchasers of variable annuity policies or variable life insurance policies, you should consult the prospectus of the appropriate separate account and read the discussion of the federal income tax consequences to variable annuity policy and variable life insurance policy owners.
+
+Compensation to Broker/Dealers and Other Financial Intermediaries
+The Portfolio and/or its related companies may pay NYLIAC or other participating insurance companies, broker/dealers, or other financial intermediaries for the sale of Portfolio shares and related services. These payments may create a conflict of interest by influencing the broker/dealer or other financial intermediary or your sales person to recommend a policy that offers this Portfolio over another investment. Ask your individual salesperson or visit your broker/dealer’s or other financial intermediary firm’s website for more information. For additional information about these payments, please see the section entitled "The Fund and its Management" in the Prospectus.

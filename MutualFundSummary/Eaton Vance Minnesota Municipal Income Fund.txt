@@ -1,0 +1,136 @@
+Eaton Vance Minnesota Municipal Income Fund
+<head_breaker>
+
+Minnesota Municipal Income Fund
+
+Investment Objective
+
+The Fund’s investment objective is to provide current income exempt from regular federal income tax and regular Minnesota state personal income tax.
+
+Fees and Expenses of the Fund
+
+This table describes the fees and expenses that you may pay if you buy and hold shares of the Fund. Investors may also pay commissions or other fees to their financial intermediary when they buy and hold shares of the Fund, which are not reflected below. You may qualify for a reduced sales charge if you invest, or agree to invest over a 13-month period, at least $50,000 in Eaton Vance Funds. Certain financial intermediaries also may offer variations in Fund sales charges to their customers as described in Appendix A – Financial Intermediary Sales Charge Variations in this Prospectus. More information about these and other discounts is available from your financial intermediary and in Sales Charges beginning on page 42 of this Prospectus and page 21 of the Fund’s Statement of Additional Information.
+
+Shareholder Fees (fees paid directly from your investment)	Class A	Class B	Class C	Class I
+Maximum Sales Charge (Load) Imposed on Purchases (as a percentage of offering price)	4.75%	None	None	None
+Maximum Deferred Sales Charge (Load) (as a percentage of the lower of net asset value at purchase or redemption)	None	5.00%	1.00%	None
+ 
+
+Annual Fund Operating Expenses (expenses you pay each year as a percentage of the value of your investment)	Class A	Class B	Class C	Class I
+Management Fees	0.35%	0.35%	0.35%	0.35%
+Distribution and Service (12b-1) Fees	0.20%	0.95%	0.95%	Non e
+Other Expenses	0.15%	0.16%	0.15%	0.15%
+Total Annual Fund Operating Expenses	0.70%	1.46%	1.45%	0.50%
+Example. This Example is intended to help you compare the cost of investing in the Fund with the cost of investing in other mutual funds. The Example assumes that you invest $10,000 in the Fund for the time periods indicated and then redeem all of your shares at the end of those periods. The Example also assumes that your investment has a 5% return each year and that the operating expenses remain the same. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 	Expenses with Redemption	Expenses without Redemption
+ 	1 Year	3 Years	5 Years	10 Years	1 Year	3 Years	5 Years	10 Years
+Class A shares	$543	$688	$846	$1,304	$543	$688	$846	$1,304
+Class B shares	$649	$862	$997	$1,540	$149	$462	$797	$1,540
+Class C shares	$248	$459	$792	$1,735	$148	$459	$792	$1,735
+Class I shares	$51	$160	$280	$628	$51	$160	$280	$628
+Portfolio Turnover
+
+The Fund pays transaction costs, such as commissions, when it buys and sells securities (or “turns over” the portfolio). A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when Fund shares are held in a taxable account. These costs, which are not reflected in Annual Fund Operating Expenses or in the Example, affect the Fund’s performance. During the most recent fiscal year, the Fund's portfolio turnover rate was 23% of the average value of its portfolio.
+
+Principal Investment Strategies
+
+Under normal market circumstances, the Fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in municipal obligations that are exempt from regular federal income tax and the state taxes specified in the Fund’s investment objective (the “80% Policy”). The Fund may invest without limit in obligations the income from which is subject to the federal alternative minimum tax. At least 75% of net assets normally will be invested in municipal obligations rated at least investment grade at the time of investment (which are those rated Baa or higher by Moody’s Investors Service, Inc. (“Moody’s”), or BBB or higher by either Standard & Poor’s Ratings Services (“S&P”) or Fitch Ratings (“Fitch”)) or, if unrated, determined by the investment adviser to be of at least investment grade quality. The
+
+Eaton Vance Municipal Income Funds	15	Prospectus dated December 1, 2017
+ 
+balance of net assets may be invested in municipal obligations rated below investment grade and in unrated municipal obligations considered to be of comparable quality by the investment adviser (“junk bonds”). The Fund will not invest more than 10% of its net assets in obligations rated below B or in unrated obligations considered to be of comparable quality by the investment adviser. For purposes of rating restrictions, if securities are rated differently by two or more rating agencies, the highest rating is used. Under normal market conditions, the Fund invests at least 65% of its total assets in obligations issued by its state or its political subdivisions, agencies, authorities and instrumentalities. If consistent with relevant state tax requirements, the Fund may invest up to 35% of its net assets in municipal obligations issued by the governments of Puerto Rico, the U.S. Virgin Islands and Guam. The Fund is “non-diversified” and may invest, with respect to 50% of its total assets, more than 5% (but not more than 25%) of its total assets in securities of any one issuer (such limitations do not apply to U.S. Government securities). The Fund may invest up to 20% of its net assets in other debt obligations, including (but not limited to) taxable municipal obligations, U.S. Treasury securities and obligations of the U.S. Government, its agencies and instrumentalities. The Fund may purchase or sell derivative instruments (such as residual interest bonds, futures contracts and options thereon, interest rate swaps, and forward rate contracts) for hedging purposes, to seek total return or as a substitute for the purchase or sale of securities. There is no stated limit on the Fund’s use of derivatives.
+
+In pursuing its investment objective, the Fund normally acquires municipal obligations with maturities of ten years or more. The Fund’s portfolio often has a longer average maturity than is typical of many other funds that invest primarily in municipal obligations. As a result, the interest rate risk described below may be more significant for the Fund. The Fund may invest 25% or more of its total assets in certain types of municipal obligations (such as general obligations, municipal leases, principal only municipal investments, revenue bonds and industrial development bonds) and in one or more economic sectors (such as housing, hospitals, healthcare facilities or utilities). The Fund may invest in pooled investment vehicles, including exchange-traded funds (“ETFs”), in order to seek exposure to the municipal markets or municipal market sectors.
+
+The investment adviser’s process for selecting obligations for purchase and sale emphasizes the creditworthiness of the issuer or other person obligated to repay the obligation and the relative value of the obligation in the market. In evaluating creditworthiness, the investment adviser considers ratings assigned by rating agencies and generally performs additional credit and investment analysis. The portfolio manager also may trade securities to minimize taxable capital gains to shareholders. A portion of the Fund’s distributions generally will be subject to the federal alternative minimum tax. The Fund may not be suitable for investors subject to the federal alternative minimum tax.
+
+Principal Risks
+
+Municipal Obligation Risk. The amount of public information available about municipal obligations is generally less than for corporate equities or bonds, meaning that the investment performance of municipal obligations may be more dependent on the analytical abilities of the investment adviser than stock or corporate bond investments. The secondary market for municipal obligations also tends to be less well-developed and less liquid than many other securities markets, which may limit an owner’s ability to sell its municipal obligations at attractive prices. The spread between the price at which an obligation can be purchased and the price at which it can be sold may widen during periods of market distress. Less liquid obligations can become more difficult to value and be subject to erratic price movements. The increased presence of non-traditional participants (such as proprietary trading desks of investment banks and hedge funds) or the absence of traditional participants (such as individuals, insurance companies, banks and life insurance companies) in the municipal markets may lead to greater volatility in the markets because non-traditional participants may trade more frequently or in greater volume.
+
+Debt Market Risk. Economic and other events (whether real, expected or perceived) can reduce the demand for investments held by the Fund, which may reduce their market prices and cause the value of Fund shares to fall. The frequency and magnitude of such changes cannot be predicted. Certain securities and other investments held by the Fund can experience downturns in trading activity and, at such times, the supply of such instruments in the market may exceed the demand. At other times, the demand for such instruments may exceed the supply in the market. An imbalance in supply and demand in the market may result in greater price volatility, less liquidity, wider trading spreads and a lack of price transparency in the market. No active trading market may exist for certain investments, which may impair the ability of the Fund to sell or to realize the current valuation of such investments in the event of the need to liquidate such assets. Adverse market conditions may impair the liquidity of some actively traded investments. Fixed-income markets may experience periods of relatively high volatility due to rising U.S. Treasury yields which, in part, reflect the market’s expectations for higher U.S. economic growth and inflation. As a result of the Federal Reserve’s recent decision to (i) raise the target fed funds rate over the last two years and (ii) slowly unwind its quantitative easing program, and the possibility that it may continue with either or both policies going forward, among other factors, markets could experience increased volatility, which could negatively impact the Fund’s performance.
+
+Eaton Vance Municipal Income Funds	16	Prospectus dated December 1, 2017
+ 
+ 
+
+Interest Rate Risk. In general, the value of income securities will fluctuate based on changes in interest rates. The value of these securities is likely to increase when interest rates fall and decline when interest rates rise. Generally, securities with longer durations are more sensitive to changes in interest rates than shorter duration securities. Because the Fund is managed toward an income objective, it may hold more longer duration obligations and thereby be more exposed to interest rate risk than municipal income funds that are managed with a greater emphasis on total return. In a rising interest rate environment, the duration of income securities that have the ability to be prepaid or called by the issuer may be extended. In a declining interest rate environment, the proceeds from prepaid or maturing instruments may have to be reinvested at a lower interest rate.
+
+Maturity Risk. Interest rate risk will generally affect the price of a fixed income security more if the security has a longer maturity. Fixed income securities with longer maturities will therefore be more volatile than other fixed income securities with shorter maturities. Conversely, fixed income securities with shorter maturities will be less volatile but generally provide lower returns than fixed income securities with longer maturities. The average maturity of the Fund’s investments will affect the volatility of the Fund’s share price.
+
+Credit Risk. Changes in economic conditions or other circumstances may reduce the capacity of issuers of municipal obligations to make principal and interest payments and may lead to defaults. Such defaults may reduce the value of Fund shares and income distributions. The value of a municipal obligation also may decline because of real or perceived concerns about the issuer’s ability to make principal and interest payments. In addition, the credit rating of securities held by the Fund may be lowered if an issuer’s financial condition changes. Municipal obligations may be insured as to principal and interest payments. If the claims-paying ability or other rating of the insurer is downgraded by a rating agency, the value of such obligations may be negatively affected. In the case of an insured municipal obligation, the municipal obligation’s rating will be deemed to be the highest of the rating assigned to the municipal obligation’s issuer or the insurer.
+
+Risk of Lower Rated Investments. Investments rated below investment grade and comparable unrated securities (“junk bonds”) have speculative characteristics because of the credit risk associated with their issuers. Changes in economic conditions or other circumstances typically have a greater effect on the ability of issuers of lower rated investments to make principal and interest payments than they do on issuers of higher rated investments. An economic downturn generally leads to a higher non-payment rate, and a lower rated investment may lose significant value before a default occurs. Lower rated investments typically are subject to greater price volatility and illiquidity than higher rated investments.
+
+Derivatives Risk. The use of derivatives can lead to losses because of adverse movements in the price or value of the asset, index, rate or instrument underlying a derivative, due to failure of a counterparty or due to tax or regulatory constraints. Derivatives may create economic leverage, which represents a non-cash exposure to the underlying asset, index, rate or instrument. Leverage can increase both the risk and return potential of the Fund. Derivatives risk may be more significant when derivatives are used to enhance return or as a substitute for a cash investment position, rather than solely to hedge the risk of a position held by the Fund.  A decision as to whether, when and how to use derivatives involves the exercise of specialized skill and judgment, and a transaction may be unsuccessful in whole or in part because of market behavior or unexpected events. Changes in the value of a derivative may not correlate perfectly with the underlying asset, rate or index. Derivative instruments traded in over-the-counter markets may be difficult to value, may be illiquid, and may be subject to wide swings in valuation caused by changes in the value of the underlying instrument. If a derivative’s counterparty is unable to honor its commitments, the value of Fund shares may decline and the Fund could experience delays in the return of collateral or other assets held by the counterparty. The loss on derivative transactions may substantially exceed the initial investment, particularly when there is no stated limit on the Fund’s use of derivatives.
+
+Risk of Leveraged Transactions. Certain Fund transactions may give rise to leverage. Such transactions may include, among others, the use of when-issued, delayed delivery or forward commitment transactions, residual interest bonds, short sales and certain derivative transactions. Generally, leverage involves the use of borrowed funds or various financial instruments (such as the foregoing transactions) to seek to increase a fund’s potential return. The Fund is required to segregate liquid assets or otherwise cover the Fund’s obligation created by a transaction that may give rise to leverage. The use of leverage may cause the Fund to liquidate portfolio positions when it may not be advantageous to do so to satisfy its obligations or to meet segregation requirements. Leverage may cause the Fund’s share price to be more volatile than if it had not been leveraged, as certain types of leverage may exaggerate the effect of any increase or decrease in the value of the Fund’s portfolio securities. The loss on leveraged investments may substantially exceed the initial investment.
+
+Eaton Vance Municipal Income Funds	17	Prospectus dated December 1, 2017
+ 
+ 
+
+Risk of Residual Interest Bonds. The Fund may enter into residual interest bond transactions, which expose the Fund to leverage and greater risk than an investment in a fixed-rate municipal bond. The interest payments that the Fund receives on the residual interest bonds acquired in such transactions vary inversely with short-term interest rates, normally decreasing when short-term rates increase. The value and market for residual interest bonds are volatile and such bonds may have limited liquidity. As required by applicable accounting standards, the Fund records interest expense on its liability with respect to floating-rate notes and also records offsetting interest income in an amount equal to this expense.
+
+Sector and Geographic Risk. Because the Fund will invest a significant portion of its assets in obligations issued in a particular state and/or U.S. territory and may invest a significant portion of its assets in certain sectors or types of obligations, the value of Fund shares may be affected by events that adversely affect that state, U.S. territory, sector or type of obligation and may fluctuate more than that of a fund that invests more broadly. General obligation bonds issued by municipalities are adversely affected by economic downturns and the resulting decline in tax revenues. The Commonwealth of Puerto Rico and its related issuers continue to experience financial difficulties and rating agency downgrades, and numerous issuers have entered Title III of the Puerto Rico Oversight, Management and Economic Stability Act, which is similar to bankruptcy protection, through which the Commonwealth of Puerto Rico can restructure its debt. Puerto Rico's short-term financial difficulties have been accelerated by a recent hurricane. See “Credit Risk” and “Risk of Lower Rated Investments” above. Please refer to the Fund's Statement of Additional Information for state-specific economic information as well as information about Puerto Rico, the U.S. Virgin Islands and Guam.
+
+Risks of Principal Only Investments. Principal only investments are municipal obligations which entitle the holder to receive par value of such investment if held to maturity. The values of principal only investments are subject to greater fluctuation in response to changes in market interest rates than bonds which pay interest currently. The Fund will accrue income on these investments and is required to distribute that income each year. The Fund may be required to sell securities to obtain cash needed for such income distributions.
+
+ETF Risk. ETFs are subject to the risks of investing in the underlying securities. ETF shares may trade at a premium or discount to net asset value and are subject to secondary market trading risks. In addition, the Fund will bear a pro rata portion of the operating expenses of an ETF in which it invests.
+
+Issuer Diversification Risk. The Fund is “non-diversified,” which means it may invest a greater percentage of its assets in the securities of a single issuer than funds that are “diversified.” Non-diversified funds face the risk of focusing investments in a small number of issuers, making them more susceptible to risks affecting such issuers than a more diversified fund might be.
+
+Tax Risk. Income from tax-exempt municipal obligations could be declared taxable because of unfavorable changes in tax laws, adverse interpretations by the Internal Revenue Service or state tax authorities, or the non-compliant conduct of a bond issuer. A portion of the Fund’s income may be taxable to shareholders subject to the federal alternative minimum tax.
+
+Risks Associated with Active Management. The success of the Fund’s investment program depends on portfolio management’s successful application of analytical skills and investment judgment. Active management involves subjective decisions.
+
+General Fund Investing Risks. The Fund is not a complete investment program and there is no guarantee that the Fund will achieve its investment objective. It is possible to lose money by investing in the Fund. The Fund is designed to be a long-term investment vehicle and is not suited for short-term trading. Investors in the Fund should have a long-term investment perspective and be able to tolerate potentially sharp declines in value. Purchase and redemption activities by Fund shareholders may impact the management of the Fund and its ability to achieve its investment objective. In addition, the redemption by one or more large shareholders or groups of shareholders of their holdings in the Fund could have an adverse impact on the remaining shareholders in the Fund. An investment in the Fund is not a deposit in a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency.
+
+Eaton Vance Municipal Income Funds	18	Prospectus dated December 1, 2017
+ 
+ 
+
+Performance
+
+The following bar chart and table provide some indication of the risks of investing in the Fund by showing changes in the Fund’s performance from year to year and how the Fund’s average annual returns over time compare with those of two broad-based securities market indices. The returns in the bar chart are for Class A shares and do not reflect a sales charge. If the sales charge was reflected, the returns would be lower. Past performance (both before and after taxes) is not necessarily an indication of how the Fund will perform in the future. Updated Fund performance information can be obtained by visiting www.eatonvance.com.
+
+
+
+For the ten years ended December 31, 2016, the highest quarterly total return for Class A was 8.23% for the quarter ended March 31, 2009, and the lowest quarterly return was -6.19% for the quarter ended September 30, 2008. The year-to-date total return through the end of the most recent calendar quarter (December 31, 2016 to September 30, 2017) was 3.45%. For the 30 days ended July 31, 2017, the SEC yield and SEC tax-equivalent yield (assuming a combined state and federal income tax rate of 48.98%) for Class A shares were 1.36% and 2.66%, respectively, for Class B shares were 0.64% and 1.26%, respectively, for Class C shares were 0.68% and 1.34%, respectively, and for Class I shares were 1.62% and 3.18%, respectively. A lower tax rate would result in lower tax-equivalent yields. For current yield information call 1-800-262-1122.
+
+
+Average Annual Total Return as of December 31, 2016	One Year	Five Years	Ten Years
+Class A Return Before Taxes	-4.94%	2.02%	3.11%
+Class A Return After Taxes on Distributions	-4.94%	2.02%	3.11%
+Class A Return After Taxes on Distributions and the Sale of Class A Shares	-1.59%	2.29%	3.21%
+Class B Return Before Taxes	-5.86%	1.88%	2.84%
+Class C Return Before Taxes	-1.89%	2.27%	2.84%
+Class I Return Before Taxes	 -0.10%	3.23%	3.75%
+Bloomberg Barclays Municipal Bond Index (reflects no deduction for fees, expenses or taxes)	0.25%	3.28%	4.24%
+Bloomberg Barclays 20 Year Municipal Bond Index (reflects no deduction for fees, expenses or taxes)	0.49%	4.41%	4.84%
+These returns reflect the maximum sales charge for Class A (4.75%) and any applicable contingent deferred sales charge (“CDSC”) for Class B and Class C. Class I performance shown above for the period prior to August 3, 2010 (commencement of operations) is the performance of Class A shares at net asset value without adjustment for any differences in the expenses of the two classes. If adjusted for such differences, returns would be different. Investors cannot invest directly in an Index.
+
+After-tax returns are calculated using the highest historical individual federal income tax rate and do not reflect the impact of state and local taxes. Actual after-tax returns depend on a shareholder’s tax situation and the actual characterization of distributions, and may differ from those shown. After-tax returns are not relevant for shareholders who hold Fund shares in tax-deferred accounts or to shares held by non-taxable entities. After-tax returns for other Classes of shares will vary from the after-tax returns presented for Class A shares. Return After Taxes on Distributions for a period may be the same as Return Before Taxes for that period because no taxable distributions were made during that period. Also, Return After Taxes on Distributions and Sale of Fund Shares for a period may be greater than or equal to Return After Taxes on Distributions for the same period because of losses realized on the sale of Fund shares.
+
+Management
+
+Investment Adviser. Boston Management and Research (“BMR”).
+
+Portfolio Manager. The Fund is managed by Craig R. Brandon, Vice President of BMR, who has managed the Fund since September 2004.
+
+Eaton Vance Municipal Income Funds	19	Prospectus dated December 1, 2017
+ 
+ 
+
+Purchase and Sale of Fund Shares
+
+You may purchase, redeem or exchange Fund shares on any business day, which is any day the New York Stock Exchange is open for business. Class B shares are only available for purchase upon exchange from another Eaton Vance fund or through reinvestment of distributions. Class C shares are only available for purchase through a financial intermediary. You may purchase, redeem or exchange Fund shares either through your financial intermediary or directly from the Fund either by writing to the Fund, P.O. Box 9653, Providence, RI 02940-9653, or by calling 1-800-262-1122. The minimum initial purchase or exchange into the Fund is $1,000 for each Class (with the exception of Class I) and $250,000 for Class I (waived in certain circumstances). There is no minimum for subsequent investments.
+
+Tax Information
+
+The Fund’s distributions are expected to be exempt from regular federal income tax and the state taxes specified in the Fund’s objective. However, the Fund may also distribute taxable income to the extent that it invests in taxable municipal obligations or other obligations which generate taxable income. Distributions of any net realized gains are expected to be taxable.
+
+Payments to Broker-Dealers and Other Financial Intermediaries
+
+If you purchase the Fund’s shares through a broker-dealer or other financial intermediary (such as a bank) (collectively, “financial intermediaries”), the Fund, its principal underwriter and its affiliates may pay the financial intermediary for the sale of Fund shares and related services. These payments may create a conflict of interest by influencing the financial intermediary and your salesperson to recommend the Fund over another investment. Ask your salesperson or visit your financial intermediary’s website for more information.

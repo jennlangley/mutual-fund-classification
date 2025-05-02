@@ -1,0 +1,515 @@
+MainStay VP Balanced Portfolio
+<head_breaker>
+
+MainStay VP Balanced Portfolio
+
+Investment Objective
+The Portfolio seeks total return.
+
+Fees and Expenses of the Portfolio
+The table below describes the fees and expenses that you may pay if you buy and hold shares of the Portfolio. The table does not include any separate account or policy fees or charges imposed under the variable annuity policies and variable universal life insurance policies for which the Portfolio is an investment option. If they were included, your costs would be higher. Investors should consult the applicable variable annuity policy or variable universal life insurance policy prospectus for more information.
+
+ 	 	 	 	 	 	 	 	 	 
+ 
+
+ 
+
+Initial
+
+ 
+
+Service
+
+ 
+
+ 
+
+ 
+
+Class
+
+ 
+
+Class
+
+Annual Portfolio Operating Expenses
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(fees paid directly from your investment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Management Fees (as an annual percentage of the Portfolio's average daily net assets)1
+
+ 
+
+0.70
+
+%
+
+ 
+
+0.70
+
+%
+
+Distribution and Service (12b-1) Fees
+
+ 
+
+None
+
+ 
+
+ 
+
+ 
+
+0.25
+
+%
+
+ 
+
+Other Expenses
+
+ 
+
+0.04
+
+%
+
+ 
+
+ 
+
+0.04
+
+%
+
+Acquired (Underlying) Portfolio/Fund Fees and Expenses
+
+ 
+
+0.02
+
+%
+
+ 
+
+0.02
+
+%
+
+Total Annual Portfolio Operating Expenses
+
+ 
+
+0.76
+
+%
+
+ 
+
+1.01
+
+%
+
+1. The management fee is as follows: 0.70% on assets up to $1 billion; 0.65% on assets from $1 billion to $2 billion; and 0.60% on assets over $2 billion.
+
+Example
+The Example is intended to help you compare the cost of investing in the Portfolio with the cost of investing in other mutual funds. The Example does not include any separate account or policy fees or charges imposed under the variable annuity policies and variable universal life insurance policies for which the Portfolio is an investment option. If they were included, your costs would be higher. The Example assumes that you invest $10,000 in the Portfolio for the time periods indicated whether or not you redeem all of your shares at the end of those periods. The Example also assumes that your investment has a 5% return each year and that the Portfolio's operating expenses remain the same. The Example reflects the contractual fee waiver and/or expense reimbursement arrangement, if applicable, for the current duration of the arrangement only. Although your actual costs may be higher or lower, based on these assumptions your costs would be:
+
+ 	 	 	 	 	 	 	 	 	 
+ 
+
+ 
+
+1 Year
+
+ 
+
+3 Years
+
+ 
+
+5 Years
+
+ 
+
+10 Years
+
+ 
+
+ Initial Class
+
+ 
+
+$        78
+
+ 
+
+$      243
+
+ 
+
+$      422
+
+ 
+
+$      942
+
+ 
+
+ Service Class
+
+ 
+
+$      103
+
+ 
+
+$      322
+
+ 
+
+$      558
+
+ 
+
+$   1,236
+
+ 
+
+Portfolio Turnover
+The Portfolio pays transaction costs, such as commissions, when it buys and sells securities (or "turns over" its portfolio). A higher portfolio turnover rate may indicate higher transaction costs. These costs, which are not reflected in annual Portfolio operating expenses or in the Example, affect the Portfolio's performance. During the most recent fiscal year, the Portfolio's portfolio turnover rate was 174% of the average value of its portfolio.
+
+Principal Investment Strategies
+The Portfolio invests approximately 60% of its assets (net assets plus any borrowings for investment purposes) in stocks and 40% of its assets in fixed-income securities (such as bonds) and cash equivalents. Although this 60/40 ratio may vary, under normal market conditions, the Portfolio will invest at least 25% of its assets in fixed-income securities. Asset allocation decisions are made by New York Life Investment Management LLC, the Portfolio’s Manager, based on its tactical view of the market. The Portfolio may invest in exchange-traded funds (“ETFs”), including ETFs advised by affiliates of the Manager and ETFs advised by unaffiliated advisers, to rebalance the Portfolio’s allocation between equity and fixed-income securities.
+
+The Portfolio may invest up to 20% of its net assets in foreign securities, but only in countries the Subadvisors consider stable, and only in securities considered to be of high quality. The Portfolio may also invest in derivatives, such as futures and options, to try to enhance returns or reduce the risk of loss by hedging certain of its holdings.
+
+Under normal market conditions, NYL Investors LLC (“NYL Investors”), the Subadvisor for the fixed-income portion of the Portfolio, and MacKay Shields LLC (“MacKay Shields”), the Subadvisor for the equity portion of the Portfolio, will seek to keep the portfolio fully invested rather than taking temporary cash positions with respect to their portions of the Portfolio's assets. The Subadvisors will sell a security if it becomes relatively overvalued, if better opportunities are identified, or if they determine that the initial investment expectations are not being met.
+
+Equity Investment Process: MacKay Shields generally invests in mid-capitalization, value oriented stocks, but may also invest in large-capitalization, value-oriented stocks. MacKay Shields considers mid-capitalization stocks to be those with a market capitalization that, at the time of
+
+66
+
+MainStay VP Balanced Portfolio
+
+investment, are similar to the companies in the Russell Midcap® Index (which ranged from $496.3 million to $57.1 billion as of February 28, 2018), the S&P MidCap 400® Index (which ranged from $790 million to $13.2 billion as of February 28, 2018), or a universe selected from the smallest 800 companies of the largest 1,000 companies, ranked by market capitalization. Mid-capitalization stocks are common stocks of mid-size U.S. companies that tend to be well known, and tend to have a large amount of stock outstanding compared to small-capitalization stocks.
+
+"Value" stocks are stocks that MacKay Shields determines (1) have strong or improving fundamental characteristics and (2) have been overlooked by the marketplace so that they are undervalued or "underpriced" relative to the rest of the Portfolio's universe.
+
+The Portfolio seeks to construct a broadly diversified portfolio across countries, sectors and industries using quantitative analysis to identify undervalued and overvalued securities. MacKay Shields uses a quantitative model that is designed to evaluate individual issuers and securities across valuation, momentum and market sentiment criteria. MacKay Shields also conducts a qualitative review of the results of the quantitative analysis. In certain cases, MacKay Shields may deviate from positions or weightings suggested by the quantitative analysis to account for events and conditions that may not be quantifiable by the analysis, such as company-specific and market events. MacKay Shields regularly evaluates the quantitative model and, from time to time, may adjust the metrics and data underlying its quantitative analysis for a variety of reasons, including, without limitation, to account for changing market, financial or economic conditions. Investments are recommended using an objective, disciplined and broadly-applied process, while seeking to limit exposure to risk.
+
+Fixed-Income Investment Process: NYL Investors generally invests in U.S. government securities, mortgage-backed securities, asset-backed securities and investment grade corporate bonds. It selects fixed-income securities based on their credit quality, duration and price. The fixed-income portion of the portfolio normally has an intermediate term duration that ranges from three to five years.
+
+The Portfolio's investments may include variable rate notes, floaters and mortgage-related securities (including mortgage-backed) securities, which are debt securities whose values are based on underlying pools of mortgages, and asset-backed securities, which are debt securities whose values are based on underlying pools of credit receivables.
+
+Principal Risks
+You can lose money by investing in the Portfolio. An investment in the Portfolio is not a bank deposit and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency. The investments selected by the Portfolio’s Subadvisors may underperform the market or other investments. The Portfolio may receive large purchase or redemption orders which may have adverse effects on performance if the Portfolio were required to sell securities, invest cash or hold a relatively large amount of cash at times when it would not otherwise do so.
+
+The principal risks of investing in the Portfolio are summarized below.
+
+Market Risk: The value of the Portfolio's investments may fluctuate because of changes in the markets in which the Portfolio invests, which could cause the Portfolio to underperform other funds with similar investment objectives and strategies. Changes in these markets may be rapid and unpredictable. From time to time, markets may experience periods of stress for potentially prolonged periods that may result in: (i) increased market volatility; (ii) reduced market liquidity; and (iii) increased redemptions of Portfolio shares. Such conditions may add significantly to the risk of volatility in the net asset value of the Portfolio's shares.
+
+Multi-Manager Risk: The Portfolio’s performance relies on the selection and monitoring of the Subadvisors as well as how the Portfolio’s assets are allocated among those Subadvisors. Performance will also depend on the Subadvisors’ skill in implementing their respective strategy or strategies. The Subadvisors’ investment strategies may not always be complementary to one another and, as a result, the Subadvisors may make decisions that conflict with one another, which may adversely affect the Portfolio’s performance. For example, a Subadvisor may purchase an investment for the Portfolio at the same time that another Subadvisor sells the investment, resulting in higher expenses without accomplishing any net investment result. Alternatively, several Subadvisors could purchase the same investment at the same time, causing the Portfolio to pay higher expenses because they did not aggregate their transactions. The multi-manager approach may also cause the Portfolio to invest a substantial percentage of its assets in certain types of securities, which could expose the Portfolio to greater risks as associated with those types of securities and lead to large beneficial or detrimental effects on the Portfolio’s performance. The Manager may influence a Subadvisor in terms of its management of a portion of the Portfolio’s assets, including hedging practices, investment exposure and risk management.
+
+A Subadvisor may underperform the market generally and may underperform other subadvisors that the Manager could have selected. One or more Subadvisors may have limited or no experience in managing assets of a registered investment company, which is subject to daily inflows and outflows of investor cash and certain legal and tax-related restrictions on its investments and operations.
+
+Investments selected using quantitative methods or based on models that analyze information and data may perform differently from the market as a whole. The quantitative model used by the Subadvisor, and the investments selected based on the model, may not perform as expected. The quantitative model may contain certain assumptions in construction and implementation that may adversely affect the Portfolio’s performance. In addition, the Portfolio’s performance will reflect, in part, the Subadvisor’s ability to make active qualitative decisions and timely adjust the quantitative model, including the model’s underlying metrics and data.
+
+67
+
+MainStay VP Balanced Portfolio
+
+Portfolio Management Risk: The investment strategies, practices and risk analysis used by a Subadvisor may not produce the desired results. In addition, the Portfolio may not achieve its investment objective, including during a period in which a Subadvisor takes temporary positions in response to unusual or adverse market, economic or political conditions, or other unusual or abnormal circumstances.
+
+Equity Securities Risk: Investments in common stocks and other equity securities are particularly subject to the risk of changing economic, stock market, industry and company conditions and the risks inherent in the portfolio managers' ability to anticipate such changes that can adversely affect the value of the Portfolio's holdings. Opportunity for greater gain often comes with greater risk of loss.
+
+Value Stock Risk: Value stocks may never reach what the Subadvisor believes is their full value or they may go down in value. In addition, different types of stocks tend to shift in and out of favor depending on market and economic conditions, and therefore the Portfolio's performance may be lower or higher than that of funds that invest in other types of equity securities.
+
+Market Capitalization Risk: To the extent the Portfolio invests in securities issued by small-, mid-, or large-cap companies, the Portfolio will be subject to the risks associated with securities issued by companies of the applicable market capitalization.  Securities of small-cap and mid-cap companies may be subject to greater price volatility, significantly lower trading volumes, cyclical, static or moderate growth prospects and greater spreads between their bid and ask prices than securities of larger companies. Smaller capitalization companies frequently rely on narrower product lines and niche markets and may be more vulnerable to adverse business or market developments.  Securities issued by larger companies may have less growth potential and may not be able to attain the high growth rates of successful smaller companies, especially during strong economic periods.  In addition, larger companies may be less capable of responding quickly to competitive challenges and industry changes, including those resulting from improvements in technology, and may suffer sharper price declines as a result of earnings disappointments.  There is a risk that the securities issued by companies of a certain market capitalization may underperform the broader market at any given time.
+
+Debt Securities Risk: The risks of investing in debt or fixed-income securities include (without limitation): (i) credit risk, e.g., the issuer or guarantor of a debt security may be unable or unwilling (or be perceived as unable or unwilling) to make timely principal and/or interest payments or otherwise honor its obligations; (ii) maturity risk, e.g., a debt security with a longer maturity may fluctuate in value more than one with a shorter maturity; (iii) market risk, e.g., low demand for debt securities may negatively impact their price; (iv) interest rate risk, e.g., when interest rates go up, the value of a debt security generally goes down, and when interest rates go down, the value of a debt security generally goes up (long-term debt securities are generally more susceptible to interest rate risk than short-term debt securities); and (v) call risk, e.g., during a period of falling interest rates, the issuer may redeem a security by repaying it early, which may reduce the Portfolio’s income if the proceeds are reinvested at lower interest rates.
+
+Interest rates in the United States are near historic lows, and the Portfolio currently faces a heightened level of interest rate risk. To the extent the Board of Governors of the Federal Reserve System (“Federal Reserve Board”) continues to raise the federal funds rate, there is a risk that interest rates across the financial system may rise, possibly significantly and/or rapidly. Rising interest rates or lack of market participants may lead to decreased liquidity and increased volatility in the fixed-income or debt markets, making it more difficult for the Portfolio to sell its fixed-income or debt holdings at a time when the Subadvisor might wish to sell. Decreased liquidity in the fixed-income or debt markets also may make it more difficult to value some or all of the Portfolio’s fixed-income or debt holdings.
+
+Not all U.S. government debt securities are guaranteed by the U.S. government—some are backed only by the issuing agency, which must rely on its own resources to repay the debt. The Portfolio's yield will fluctuate with changes in short-term interest rates.
+
+Exchange-Traded Fund Risk: The risks of owning an ETF generally reflect the risks of owning the securities in which the ETF invests or is designed to track, although lack of liquidity in an ETF could result in it being more volatile than its underlying portfolio securities. Disruptions in the markets for the securities underlying ETFs purchased or sold by the Portfolio could result in losses on the Portfolio's investment in ETFs. ETFs also have management fees and transaction costs that may make them more expensive than owning the underlying securities directly.
+
+Derivatives Risk: Derivatives are investments whose value depends on (or is derived from) the value of an underlying instrument, such as a security, asset, reference rate or index. Derivative strategies may expose the Portfolio to greater risk than if it had invested directly in the underlying instrument and often involve leverage, which may exaggerate a loss, potentially causing the Portfolio to lose more money than it originally invested and would have lost had it invested directly in the underlying instrument. Derivatives may be difficult to sell, unwind or value. Derivatives may also be subject to counterparty risk, which is the risk that the counterparty (the party on the other side of the transaction) on a derivative transaction will be unable to honor its contractual obligations to the Portfolio. Futures may be more volatile than direct investments in the instrument underlying the contract, and may not correlate perfectly to the underlying instrument. Futures and other derivatives also may involve a small initial investment relative to the risk assumed, which could result in losses greater than if they had not been used. Due to fluctuations in the price of the underlying asset, the Portfolio may not be able to profitably exercise an option and may lose its entire investment in an option. Derivatives may also increase the expenses of the Portfolio.
+
+Floaters and Variable Rate Notes Risk: Floaters and variable rate notes provide for a periodic adjustment in the interest rate paid on the securities. The rate adjustment intervals may be regular and range from daily up to annually, or may be based on an event, such as a change in the prime rate. Floating and variable rate notes may be subject to greater liquidity risk than other debt securities, meaning that there may be limitations on the Portfolio's ability to sell the securities at any given time. Securities with floating interest rates generally are less sensitive to interest rate
+
+68
+
+MainStay VP Balanced Portfolio
+
+changes, but may decline in value if their interest rates do not rise as much or as fast as interest rates in general. Such securities also may lose value.
+
+Mortgage-Related and Other Asset-Backed Securities Risk: Investments in mortgage-related securities (such as mortgage-backed securities) and other asset-backed securities generally involve a stream of payments based on the underlying obligations. These payments, which are often part interest and part return of principal, vary based on the rate at which the underlying borrowers repay their loans or other obligations. Asset-backed securities are subject to the risk that borrowers may default on the underlying obligations and that, during periods of falling interest rates, these obligations may be called or prepaid and, during periods of rising interest rates, obligations may be paid more slowly than expected. Impairment of the underlying obligations or collateral, such as by non-payment, will reduce the security's value. Enforcing rights against such collateral in events of default may be difficult or insufficient. The value of these securities may be significantly affected by changes in interest rates, the market's perception of issuers, and the creditworthiness of the parties involved. The ability of the Portfolio to successfully utilize these instruments may depend on the ability of the Subadvisor to forecast interest rates and other economic factors correctly. These securities may have a structure that makes their reaction to interest rate changes and other factors difficult to predict, making their value highly volatile.
+
+Foreign Securities Risk: Investments in foreign securities may be riskier than investments in U.S. securities. Differences between U.S. and foreign regulatory regimes and securities markets, including less stringent investor protections and disclosure standards of some foreign markets, less liquid trading markets and political and economic developments in foreign countries, may affect the value of the Portfolio's investments in foreign securities. Foreign securities may also subject the Portfolio's investments to changes in currency rates. Changes in the value of foreign currencies may make the return on an investment go up or down, unrelated to the quality or performance of the investment itself. These risks may be greater with respect to securities of companies that conduct their business activities in emerging markets or whose securities are traded principally in emerging markets.
+
+Liquidity and Valuation Risk: Securities purchased by the Portfolio may be illiquid at the time of purchase or liquid at the time of purchase and subsequently become illiquid due to, among other things, events relating to the issuer of the securities, market events, operational issues, economic conditions, investor perceptions or lack of market participants. The lack of an active trading market may make it difficult to sell or obtain an accurate price for a security. If market conditions or issuer specific developments make it difficult to value securities, the Portfolio may value these securities using more subjective methods, such as fair value pricing. In such cases, the value determined for a security could be different than the value realized upon such security's sale. As a result, an investor could pay more than the market value when buying Portfolio shares or receive less than the market value when selling Portfolio shares. This could affect the proceeds of any redemption or the number of shares an investor receives upon purchase. Liquidity risk may also refer to the risk that the Portfolio may not be able to pay redemption proceeds within the allowable time period because of unusual market conditions, unusually high volume of redemptions, or other reasons. To meet redemption requests or to raise cash to pursue other investment opportunities, the Portfolio may be forced to sell securities at an unfavorable time and/or under unfavorable conditions, which may adversely affect the Portfolio.
+
+Money Market/Short-Term Securities Risk: To the extent the Portfolio holds cash or invests in money market or short-term securities, the Portfolio may be less likely to achieve its investment objective. In addition, it is possible that the Portfolio's investments in these instruments could lose money.
+
+Past Performance
+The following bar chart and table indicate some of the risks of investing in the Portfolio. The bar chart shows you how the Portfolio's calendar year performance has varied over the last ten years. The average annual total returns table shows how the Portfolio’s average annual total returns for the one-, five- and ten-year periods compare to those of two broad-based securities market indices, as well as a composite index. Separate variable annuity and variable universal life insurance account and policy fees and charges are not reflected in the bar chart and table. If they were, returns would be less than those shown. The Portfolio has selected the Russell Midcap® Value Index as its primary benchmark. The Russell Midcap® Value Index measures the performance of the mid-cap value segment of the U.S. equity universe. It includes those Russell Midcap® Index companies with lower price-to-book ratios and lower forecasted growth values. The Portfolio has selected the Bloomberg Barclays U.S. Intermediate Government/Credit Bond Index as its secondary benchmark. The Bloomberg Barclays U.S. Intermediate Government/Credit Bond Index measures the performance of U.S. dollar denominated U.S. treasuries, government-related and investment grade U.S. corporate securities that have a remaining maturity of greater than one year and less than ten years. The Portfolio has selected the Balanced Composite Index as an additional benchmark. The Balanced Composite Index consists of the Russell Midcap® Value Index and the Bloomberg Barclays U.S. Intermediate Government/Credit Bond Index weighted 60%/40%, respectively.
+
+Performance data for the classes varies based on differences in their fee and expense structures. Past performance is not necessarily an indication of how the Portfolio will perform in the future.
+
+The Portfolio’s equity subadvisor changed effective January 1, 2018 due to an organizational restructuring whereby all investment personnel of Cornerstone Capital Management Holdings LLC, the former subadvisor, transitioned to MacKay Shields LLC.
+
+69
+
+MainStay VP Balanced Portfolio
+
+Annual Returns, Initial Class Shares
+(by calendar year 2008-2017)
+
+
+
+ 	 	 
+Best Quarter
+
+ 
+2Q/09
+
+13.54
+
+%
+
+Worst Quarter
+
+ 
+4Q/08
+
+-12.95
+
+%
+
+Average Annual Total Returns (for the periods ended December 31, 2017)
+
+ 	 	 	 	 	 	 	 	 	 
+ 
+
+ 
+
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+Inception
+
+ 
+
+1 Year
+
+5 Years
+
+10 Years
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 	 	
+ 
+
+Initial Class
+
+5/2/2005
+
+ 
+
+10.02
+
+%
+
+9.81
+
+%
+
+6.84
+
+%
+
+ 
+
+Service Class
+
+5/2/2005
+
+ 
+
+9.75
+
+%
+
+9.54
+
+%
+
+6.57
+
+%
+
+ 
+
+Russell Midcap® Value Index (reflects no deductions for fees, expenses, or taxes)
+
+13.34
+
+%
+
+14.68
+
+%
+
+9.10
+
+%
+
+ 
+
+Bloomberg Barclays U.S. Intermediate Government/Credit Bond Index (reflects no deductions for fees, expenses, or taxes)
+
+2.14
+
+%
+
+1.50
+
+%
+
+3.32
+
+%
+
+ 
+
+Balanced Composite Index (reflects no deductions for fees, expenses, or taxes)
+
+8.78
+
+%
+
+9.37
+
+%
+
+7.18
+
+%
+
+ 
+
+Management
+New York Life Investment Management LLC serves as the Portfolio's Manager and oversees the investment portfolio of the Portfolio. NYL Investors LLC serves as the Portfolio’s Subadvisor and is responsible for the day-to-day portfolio management of the fixed-income portion of the Portfolio. MacKay Shields LLC serves as the Portfolio's Subadvisor and is responsible for the day-to-day portfolio management of the equity portion of the Portfolio.
+
+ 	 	 
+Subadvisors
+
+Portfolio Managers
+
+Portfolio Service Date
+
+New York Life Investment Management LLC
+
+Jae S. Yoon, Senior Managing Director
+
+Since 2011
+
+ 	
+Jonathan Swaney, Managing Director
+
+Since 2017
+
+NYL Investors LLC
+
+Thomas J. Girard, Senior Managing Director*
+
+Since 2008
+
+ 	
+Donald F. Serek, Managing Director
+
+Since 2012
+
+ 	
+Kenneth Sommer, Senior Director
+
+Since 2017
+
+MacKay Shields LLC
+
+Andrew Ver Planck, Managing Director
+
+Since 2013
+
+ 	
+Migene Kim, Director
+
+Since 2014
+
+* Thomas J. Girard will serve as portfolio manager for the Portfolio until June 2018.
+
+How to Purchase and Sell Shares
+Shares of the Portfolio are currently offered to certain separate accounts to fund variable annuity policies and variable universal life insurance policies issued by New York Life Insurance and Annuity Corporation ("NYLIAC") and may also be offered to fund variable annuity policies and variable universal life insurance policies issued by other insurance companies. Shares of the Portfolio are also offered as underlying investments of the MainStay VP Asset Allocation Portfolios ("Asset Allocation Portfolios").
+
+Individual investors do not transact directly with the Portfolio to purchase and redeem shares. Rather, investors select underlying investment options offered by the applicable policy. Please refer to the prospectus for the variable annuity policy or variable universal life insurance policy that offers the Portfolio as an underlying investment option for information on the allocation of premium payments and on transfers among the investment divisions of the separate account.
+
+70
+
+MainStay VP Balanced Portfolio
+
+Tax Information
+Because the Portfolio's shareholders are the separate accounts of NYLIAC or other insurance companies through which you purchased your variable annuity policy or variable universal life insurance policy and the Asset Allocation Portfolios, no discussion is included here as to the federal income tax consequences at the shareholder level. For information concerning the federal income tax consequences to variable annuity and variable universal life insurance policy owners, consult the prospectus relating to the appropriate policy.
+
+Compensation to Broker/Dealers and Other Financial Intermediaries
+The Portfolio and/or its related companies may pay NYLIAC or other participating insurance companies, broker/dealers, or other financial intermediaries for the sale of Portfolio shares and related services. These payments may create a conflict of interest by influencing the broker/dealer or other financial intermediary or your sales person to recommend a policy that offers this Portfolio over another investment. Ask your individual salesperson or visit your broker/dealer’s or other financial intermediary firm’s website for more information. For additional information about these payments, please see the section entitled "The Fund and its Management" in the Prospectus.
