@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 id,fund_name,Performance fee?,Investment Strategy,Leverage?,Portfolio composition, Concentration
+=======
+id,fund_name,Performance fee?,Ivestment Strategy,Leverage?,Portfolio composition, Concentration
+>>>>>>> d6517f6b64d43e9965c57ddd1e1d222c1ed6daf8
 0000051931-18-000151,American Funds College 2018 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
 0000051931-18-000151,American Funds College 2021 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
 0000051931-18-000151,American Funds College 2024 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
