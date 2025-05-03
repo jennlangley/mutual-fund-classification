@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Packages
+nltk_data
+word2vec_perso.txt
